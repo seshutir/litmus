@@ -7,12 +7,6 @@ import json
 import gravis as gv
 import json
 
-os.environ["FACT_REASONER"] = "/Users/seshu/Documents/2026/risks_benchmark_v2/FactReasoner/"
-os.environ["MERLIN_PATH"] = "/Users/seshu/Documents/2025/risks_benchmark/risk_scrapping/src/FactReasoner/merlin/build/merlin"
-fr_parent_dir = os.getenv("FACT_REASONER")
-
-sys.path.insert(0, fr_parent_dir)
-
 
 from fact_reasoner import FactReasoner
 from fact_reasoner.core.atomizer import Atomizer
