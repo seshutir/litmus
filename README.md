@@ -225,14 +225,3 @@ A typical output structure:
 }
 ```
 
-## License
-
-[Add appropriate license information]
-
-## Contributing
-
-[Add contribution guidelines]
-
-## Contact
-
-For questions or issues, please refer to the project's issue tracker.
