@@ -7,6 +7,10 @@ import json
 import gravis as gv
 import json
 
+os.environ["FACT_REASONER"] = "./FactReasoner/"
+os.environ["MERLIN_PATH"] = "./merlin/build/merlin"
+fr_parent_dir = os.getenv("FACT_REASONER")
+sys.path.insert(0, fr_parent_dir)
 
 from fact_reasoner import FactReasoner
 from fact_reasoner.core.atomizer import Atomizer
@@ -199,10 +203,9 @@ def fr_check(INPUT, OUTPUT, file_path, usecase_index, RISK, USECASE):
         json.dump(output, fp, indent=4)
 
 
-RISK_TAXONOMY_INDEX = "1.1"
 
 risks_dict = {
-    # "1.1": "Unfair discrimination and misrepresentation",
+    "1.1": "Unfair discrimination and misrepresentation",
     # "1.2": "Exposure to toxic content",
     # "1.3": "Unequal performance across groups",
 
@@ -230,12 +233,12 @@ risks_dict = {
     # "7.2": "AI possessing dangerous capabilities",
     # "7.3": "Lack of capability or robustness",
     # "7.4": "Lack of transparency or interpretability",
-    "7.5": "AI welfare and rights",
-    "7.6": "Multi-agent risks"
+    # "7.5": "AI welfare and rights",
+    # "7.6": "Multi-agent risks"
 }
 
 label_indices_dict = {
-    # "1.1": "Unfair discrimination and misrepresentation",
+    "1.1": [0,1],
     # "1.2": [2, 17, 21],
     # "1.3": [3,11,27],
 
@@ -263,8 +266,8 @@ label_indices_dict = {
     # "7.2": [6,11,27],
     # "7.3": [7,13,25],
     # "7.4": [0,1,7],
-    "7.5": [18,21],
-    "7.6": [6,9,18]
+    # "7.5": [18,21],
+    # "7.6": [6,9,18]
 }
 
 
@@ -273,23 +276,11 @@ with open("./ai_use_cases/rephrased_google_use_cases.json") as f:
 
 for risk in risks_dict.keys():
     file_path = "output/fr_" + risk + "_sources_rephrased_google_use_cases.json"
-    RESTART_INDEX = 30
-    for usecase_index in label_indices_dict[risk]: # enumerate(use_cases[RESTART_INDEX:RESTART_INDEX+3]):
-        usecase_index1 = usecase_index #+ RESTART_INDEX
+    for usecase_index in label_indices_dict[risk]: 
+        usecase_index1 = usecase_index 
         USECASE = use_cases[usecase_index] 
         RISK = risks_dict[risk]
         INPUT = RISK + " is a risk associated with " +  USECASE
         OUTPUT = RISK + " is a risk associated with " +  USECASE
         print(risk, usecase_index1)
         fr_check(INPUT, OUTPUT, file_path, usecase_index1, RISK, USECASE)
-
-
-# RESTART_INDEX = 100
-# for usecase_index, use_case in enumerate(use_cases[RESTART_INDEX:RESTART_INDEX+1]):
-#     usecase_index1 = usecase_index + RESTART_INDEX
-#     print(usecase_index1)
-#     USECASE = "Machine learning to integrate renewable energy sources like solar and wind power into the grid by forecasting variable weather patterns and optimizing energy storage systems, ensuring grid stability and maximizing renewable energy utilization." 
-#     RISK = "Hallucination"
-#     INPUT = RISK + " is a risk associated with " +  USECASE
-#     OUTPUT = RISK + " is a risk associated with " +  USECASE
-#     fr_check(INPUT, OUTPUT, file_path, usecase_index1, RISK, USECASE)
