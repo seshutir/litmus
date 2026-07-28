@@ -1,0 +1,220 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the distribution algorithm for medical resources",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with prioritizing individuals based on their risk of exposure and need for protection using the distribution algorithm",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Diversity and Discrimination in Health Care - StatPearls - NCBI Bookshelf",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK568721/",
+            "snippet": "by BM Togioka \u00b7 2024 \u00b7 Cited by 160 \u2014 Discrimination against individuals and groups belonging to minority identities persists, leading to negative outcomes for patients and healthcare professionals.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Reconsidering the use of race, sex, and age in clinical algorithms to ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666142X25000864",
+            "snippet": "by R Panagides \u00b7 2025 \u00b7 Cited by 6 \u2014 Since sex and age have the potential to be discriminated against when distributing healthcare services based on historical discrimination and social constructs",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 When developing and using algorithms, many discrimination risks result from the use of data that describe previous unequal treatment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Artificial Intelligence and Discrimination in Health Care ...",
+            "text": "",
+            "link": "https://case.edu/law/sites/default/files/2021-01/Sharona%20CLE%202-2021_0.pdf",
+            "snippet": "This Article argues that algorithmic discrimination in medicine can violate civil rights laws such as Title VI and Section 1557 of the Affordable Care Act",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The shared ethical framework to allocate scarce medical resources",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10168660/",
+            "snippet": "by EJ Emanuel \u00b7 2023 \u00b7 Cited by 75 \u2014 Unfair disadvantage can result from various background injustices, including discrimination on the basis of race, religion, sex, or other categories.33,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithm Bias and Racial and Ethnic Disparities in Health and Health Care",
+            "text": "",
+            "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812958",
+            "snippet": "by MH Chin \u00b7 2023 \u00b7 Cited by 320 \u2014 To provide a conceptual framework and guiding principles for mitigating and preventing bias in health care algorithms to promote health and health care equity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "1557 Final Rule Protects Against Bias in Health Care Algorithms",
+            "text": "",
+            "link": "https://healthlaw.org/1557-final-rule-protects-against-bias-in-health-care-algorithms/",
+            "snippet": "The proposed rule rightfully recognized that covered health programs and activities cannot discriminate through the use of clinical algorithms ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 Chapter 4 provides examples of cases of unequal treatment and risks of discrimination. When it comes to working life, algorithms and data- simplicity",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The shared ethical framework to allocate scarce medical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10168660/",
+            "snippet": "by EJ Emanuel \u00b7 2023 \u00b7 Cited by 75 \u2014 The ethical allocation of scarce medical resources entails a three-step process: (1) elucidating the fundamental ethical values for allocation, (2) using the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Rooting Out AI's Biases | Hopkins Bloomberg Public Health ...",
+            "text": "",
+            "link": "https://magazine.publichealth.jhu.edu/2023/rooting-out-ais-biases",
+            "snippet": "In its assessments of risk, the algorithm was perpetuating bias. Because Black people spent less on health care, the algorithm had learned to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Prioritizing Patients: How algorithms can promote just ...",
+            "text": "",
+            "link": "https://bioethics.hms.harvard.edu/journal/AI-resource-allocation",
+            "snippet": "Rationing is the allocation of a good in the face of scarcity, meaning that some who want and could benefit from a good will not get it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "WHO Concept for fair access and equitable allocation of ...",
+            "text": "",
+            "link": "https://www.who.int/docs/default-source/coronaviruse/who-covid19-vaccine-allocation-final-working-version-9sept.pdf",
+            "snippet": "An allocation framework is a vital piece of the broader agenda of work to ensure equitable access to. COVID-19 health products, control the pandemic and fulfil ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Ethics of COVID-19 Vaccine Distribution",
+            "text": "",
+            "link": "https://universitypolicy.unc.edu/news/2021/03/24/the-ethics-of-covid-19-vaccine-distribution/",
+            "snippet": "Most ethicists agree that the number one goal in COVID vaccine distribution should be to minimize deaths by protecting those most at risk of severe illness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 3.8e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00040057663769100404,
+        "norm_entropy": 0.0006341739929271109,
+        "avg_entropy": 0.00020028831884550202,
+        "avg_norm_entropy": 0.00031708699646355545,
+        "avg_prob": 1.95e-05,
+        "avg_logprob": -11.99671747810108,
+        "avg_explogprob": 6.164414002968979e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999962,
+                    3.8e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 7.220000000000001e-10,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+        "elapsed_time": 729.3117464159732
+    }
+}

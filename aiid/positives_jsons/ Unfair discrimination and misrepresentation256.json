@@ -1,0 +1,383 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A robotic system is designed to autonomously patrol a designated area, utilizing its sensors and navigation capabilities to monitor and respond to its environment. The robot aims to provide a visible presence and deter unwanted activity, while also gathering data to inform its operations. Its primary function is to enhance safety and security in the areas where it is deployed.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A robotic system is designed to autonomously patrol a designated area, utilizing its sensors and navigation capabilities to monitor and respond to its environment. The robot aims to provide a visible presence and deter unwanted activity, while also gathering data to inform its operations. Its primary function is to enhance safety and security in the areas where it is deployed.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in robotic security systems",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in utilizing a robotic system's sensors and navigation capabilities to monitor and respond to its environment",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in gathering data to inform the robotic system's operations",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing a visible presence to deter unwanted activity with a robotic system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in enhancing safety and security through the robotic system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2406.08824v2",
+            "snippet": "Concretely, we show that LLMs produce directly discriminatory outcomes\u2014e.g., 'gypsy' and 'mute' people are labeled untrustworthy, but not 'european' or 'able- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "[PDF] Unfair and Deceptive Robots",
+            "text": "",
+            "link": "https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=4038&context=faculty_scholarship",
+            "snippet": "These robots raise common consumer protection issues, such as fraud, privacy, data security, and risks to health, physical safety and finances. Robots also ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI System Harms & Case Studies in Bias, Misinformation ... - Medium",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/ai-system-harms-case-studies-in-bias-misinformation-and-accountability-319bde873e57",
+            "snippet": "Security vulnerabilities unique to AI have emerged: adversaries can craft inputs (\u201cprompts\u201d or images) to make models behave badly or leak ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Unintended Consequences of Biased Robotic and Artificial ...",
+            "text": "",
+            "link": "https://ieeexplore.ieee.org/iel7/100/8825926/08825881.pdf",
+            "snippet": "Commercial computer-vision systems are prime examples of systems that unfairly discriminate or contribute to reinforcing stereotypes due to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ethical perspective on AI hazards to humans: A review - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10695628/",
+            "snippet": "In summary, the potential hazards of AI in financial data privacy include sensitive data leakage, algorithmic discrimination and unfairness, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2406.08824v2",
+            "snippet": "However, recent research has raised concerns about the potential for LLMs to produce discriminatory outcomes and unsafe behaviors in real-world robot ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Ethical perspective on AI hazards to humans: A review - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10695628/",
+            "snippet": "This article explores the potential ethical hazards of artificial intelligence (AI) on society from an ethical perspective.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Ethics of Artificial Intelligence and Robotics (Stanford Encyclopedia ...",
+            "text": "",
+            "link": "https://plato.stanford.edu/entries/ethics-ai/",
+            "snippet": "Some robots use AI, and some do not: Typical industrial robots still blindly follow completely defined scripts with minimal sensory input and no ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robots powered by popular AI models risk ... - King's College London",
+            "text": "",
+            "link": "https://www.kcl.ac.uk/news/robots-powered-by-popular-ai-models-risk-encouraging-discrimination-and-violence",
+            "snippet": "The research showed that every tested model was prone to discrimination, failed critical safety checks and approved at least one command that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "(PDF) Fairness and Bias in Robot Learning - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/380992472_Fairness_and_Bias_in_Robot_Learning",
+            "snippet": "In this work, we present the first survey on fairness in robot learning from an interdisciplinary perspective spanning technical, ethical, and legal challenges.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "AI Bias: Mitigating Your Risk - Artificial Intelligence and Robotics Law",
+            "text": "",
+            "link": "https://www.airoboticslaw.com/blog/artificial-intelligence-bias-mitigating-risk",
+            "snippet": "Human bias can creep into artificial intelligence systems intended to make objectively fair decisions. Learn how to minimize its prevalence and mitigate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Yet another obvious ethical challenge following from AI bias is discrimination, unfairness, and stigma. Biases in terms of race, sex, gender, age ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Ethical Considerations of Artificial Intelligence",
+            "text": "",
+            "link": "https://www.captechu.edu/blog/ethical-considerations-of-artificial-intelligence",
+            "snippet": "Bias and Discrimination. AI systems are trained on massive amounts of data, and embedded in that data are societal biases. Consequently, these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Ethical concerns mount as AI takes bigger decision-making role",
+            "text": "",
+            "link": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
+            "snippet": "Harvard experts examine the promise and potential pitfalls as AI takes a bigger decision-making role in more industries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "AI Chatbots: How to Address Five Key Legal Risks - Wiley Rein",
+            "text": "",
+            "link": "https://www.wiley.law/alert-AI-Chatbots-How-to-Address-Five-Key-Legal-Risks",
+            "snippet": "The law requires companies deploying bots in certain circumstances to inform individuals with whom they communicate or interact with that they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "(PDF) Fairness and Bias in Robot Learning - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/380992472_Fairness_and_Bias_in_Robot_Learning",
+            "snippet": "not protect the output against bias related to these attributes. Unwanted discrimination can result in high relations between. features and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "(PDF) Risks and Challenges for Inclusive and Equitable Immersive ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/354812439_Risks_and_Challenges_for_Inclusive_and_Equitable_Immersive_Experiences",
+            "snippet": "or using AR/VR devices and applications. \u25ab Bias and discrimination risks in critical areas such as employment, education, and. government services.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence, and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12369-025-01301-x",
+            "snippet": "In this paper we investigate functionality failures, discrimination, bias, and stereotypes in greater depth by analyzing actual outputs of LLMs ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "I asked AI to write its own laws, akin to Asimovs 3 rules of robotics ...",
+            "text": "",
+            "link": "https://www.facebook.com/groups/698593531630485/posts/832343621588808/",
+            "snippet": "Here are some key ethical considerations in AI: 1. **Fairness and Bias**: AI systems can inherit biases from their training data, leading to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12369-025-01301-x",
+            "snippet": "by A Hundt \u00b7 2025 \u00b7 Cited by 8 \u2014 However, recent research has raised concerns about the potential for LLMs to produce discriminatory outcomes and unsafe behaviors in real-world ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Security Aspects of Social Robots in Public Spaces - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575183/",
+            "snippet": "by SO Oruma \u00b7 2023 \u00b7 Cited by 28 \u2014 Social robots (SRs) are autonomous, physically embodied agents that interact and communicate with humans or other autonomous agents based on social behaviours ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Navigating Liability In Autonomous Robots: Legal And ...",
+            "text": "",
+            "link": "https://yris.yira.org/column/navigating-liability-in-autonomous-robots-legal-and-ethical-challenges-in-manufacturing-and-military-applications/",
+            "snippet": "The increasing integration of autonomous robots into manufacturing and military operations has redefined human and machine interaction.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/396540772_LLM-Driven_Robots_Risk_Enacting_Discrimination_Violence_and_Unlawful_Actions",
+            "snippet": "We find various such examples of direct discrimination on HRI tasks such as facial expression, proxemics, security, rescue, and task assignment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Dawn of Robot Surveillance",
+            "text": "",
+            "link": "https://www.aclu.org/publications/dawn-robot-surveillance",
+            "snippet": "Imagine a surveillance camera in a typical convenience store in the 1980s. That camera was big and expensive, and connected by a wire ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 24,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A robotic system is designed to autonomously patrol a designated area, utilizing its sensors and navigation capabilities to monitor and respond to its environment. The robot aims to provide a visible presence and deter unwanted activity, while also gathering data to inform its operations. Its primary function is to enhance safety and security in the areas where it is deployed.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A robotic system is designed to autonomously patrol a designated area, utilizing its sensors and navigation capabilities to monitor and respond to its environment. The robot aims to provide a visible presence and deter unwanted activity, while also gathering data to inform its operations. Its primary function is to enhance safety and security in the areas where it is deployed.",
+        "elapsed_time": 50.47427912499916
+    }
+}

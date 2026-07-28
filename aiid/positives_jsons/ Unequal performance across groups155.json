@@ -1,0 +1,334 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A facial recognition system is designed to verify user identities during online assessments, aiming to ensure academic integrity and security. The system uses artificial intelligence to authenticate users and monitor their activities during exams. It is intended to provide a seamless and secure experience for users, while also preventing potential cheating or impersonation.",
+    "output": " Unequal performance across groups is a risk associated with A facial recognition system is designed to verify user identities during online assessments, aiming to ensure academic integrity and security. The system uses artificial intelligence to authenticate users and monitor their activities during exams. It is intended to provide a seamless and secure experience for users, while also preventing potential cheating or impersonation.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in verifying user identities in a facial recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in authenticating users with a facial recognition system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in monitoring user activities during exams using a facial recognition system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Racial Bias within Face Recognition: A Survey - ACM Digital Library",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3705295",
+            "snippet": "... unfair treatment of demographic groups. The authors introduce multiple ... unequal performance degradation among subgroups. Consequently, Yucer [209] ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What is AI Bias? - Understanding Its Impact, Risks, and Mitigation ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/what-is-ai-bias-risks-mitigation-strategies",
+            "snippet": "AI bias occurs when artificial intelligence systems produce unfair or prejudiced outcomes due to issues with the data, algorithms, or objectives they're ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Is AI Bias? Causes, Types, & Real-World Impacts - Palo Alto ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias",
+            "snippet": "A single global threshold can create unequal error rates across groups. Threshold policy is an algorithmic choice that shapes bias in practice. Interaction bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Surveying Racial Bias in Facial Recognition: Balancing Datasets ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/12/2317",
+            "snippet": "This paper analyzes facial recognition datasets, categorizing them as racially balanced or unbalanced while limiting racially balanced datasets ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Understanding Algorithmic Discrimination: How Bias Persists in AI ...",
+            "text": "",
+            "link": "https://www.workplacefairness.org/understanding-algorithmic-discrimination-how-bias-persists-in-ai-systems/",
+            "snippet": "Algorithmic discrimination occurs when AI systems or machine learning algorithms produce biased or unequal outcomes for specific groups of people.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How Biometric Tech Addresses Bias in Identity Verification | Mitek",
+            "text": "",
+            "link": "https://www.miteksystems.com/blog/how-biometric-tech-addresses-bias",
+            "snippet": "Rather, one of the most common causes of bias is a lack of training in a specific area due to an unbalanced training data set. When the data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The real problem with face recognition technology is not what you ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/real-problem-face-recognition-technology-what-you-sirotin-phd",
+            "snippet": "Indeed, face recognition systems can have unequal performance across demographic groups. Further, unchecked hoarding of annotated face ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Why Racial Bias is Prevalent in Facial Recognition Technology",
+            "text": "",
+            "link": "https://jolt.law.harvard.edu/digest/why-racial-bias-is-prevalent-in-facial-recognition-technology",
+            "snippet": "Many of these algorithms were found to be between 10 and 100 times more likely to misidentify a Black or East Asian face than a white face.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Risks of Bias in Biometrics: Business Impact and How to Prevent It",
+            "text": "",
+            "link": "https://www.aware.com/bias-in-biometrics-understanding-risks-blog/",
+            "snippet": "When a company's biometric tools are seen as unfair or inaccurate, it doesn't just lead to frustration\u2014it can damage the company's reputation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "NIST Study Evaluates Effects of Race, Age, Sex on Face ...",
+            "text": "",
+            "link": "https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software",
+            "snippet": "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Influence of racial bias in the use of facial recognition applied to ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/388965745_Influence_of_racial_bias_in_the_use_of_facial_recognition_applied_to_access_control_A_critical_analysis",
+            "snippet": "This research identifies critical gaps and proposes 14 targeted recommendations aimed at mitigating racial bias in facial recognition systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Study outlines what creates racial bias in facial recognition technology",
+            "text": "",
+            "link": "https://techxplore.com/news/2020-12-outlines-racial-bias-facial-recognition.html",
+            "snippet": "As facial recognition technology comes into wider use worldwide, more attention has fallen on the imbalance in the technology's performance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Problem of Bias in Facial Recognition - CSIS",
+            "text": "",
+            "link": "https://www.csis.org/blogs/strategic-technologies-blog/problem-bias-facial-recognition",
+            "snippet": "Researchers have found that leading facial recognition algorithms have different accuracy rates for different demographic groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Online exams raise concerns of racial bias in facial recognition",
+            "text": "",
+            "link": "https://www.csmonitor.com/Technology/2020/1117/Online-exams-raise-concerns-of-racial-bias-in-facial-recognition",
+            "snippet": "Facial recognition systems \u2013 which some proctoring platforms use to confirm the identity of the test taker \u2013 are less accurate with dark-skinned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The ethics of facial recognition technologies, surveillance ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320316/",
+            "snippet": "This article contains a discursive discussion considering the complexity of the ethical and regulatory dimensions at play in these spaces.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The Bias in the Machine: Facial Recognition Technology and Racial ...",
+            "text": "",
+            "link": "https://mit-serc.pubpub.org/pub/bias-in-machine",
+            "snippet": "Facial recognition technology (FRT) appears in uses from providing secure access to smartphones, to identifying criminal suspects from surveillance images as a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Influence of racial bias in the use of facial recognition applied to ...",
+            "text": "",
+            "link": "https://rsdjournal.org/rsd/article/download/48186/37900/495069",
+            "snippet": "Abstract. Racial bias has been a persistent issue in facial recognition technologies, particularly within access control applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Software that monitors students during tests perpetuates inequality ...",
+            "text": "",
+            "link": "https://www.technologyreview.com/2020/08/07/1006132/software-algorithms-proctoring-online-tests-ai-ethics/",
+            "snippet": "Software that monitors students during tests perpetuates inequality and violates their privacy. The coronavirus pandemic created a surge in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI Proctoring Software | Ensuring Exam Integrity in 2025",
+            "text": "",
+            "link": "https://thinkexam.com/blog/the-role-of-ai-proctoring-software-in-ensuring-exam-integrity/",
+            "snippet": "AI Proctoring Software is a big deal in this case by helping in upholding the trust in the system, addressing any inequality and practicing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Software that monitors students during tests perpetuates inequality ...",
+            "text": "",
+            "link": "https://www.technologyreview.com/2020/08/07/1006132/software-algorithms-proctoring-online-tests-ai-ethics/",
+            "snippet": "Software that monitors students during tests perpetuates inequality and violates their privacy \u00b7 This is your first complimentary story.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Remote testing monitored by AI is failing the students forced to ...",
+            "text": "",
+            "link": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+            "snippet": "... inequitable because it fails to meet accessibility standards and creates unequal hardship for students. And it gets worse. Related. Opinion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 21,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A facial recognition system is designed to verify user identities during online assessments, aiming to ensure academic integrity and security. The system uses artificial intelligence to authenticate users and monitor their activities during exams. It is intended to provide a seamless and secure experience for users, while also preventing potential cheating or impersonation.",
+        "response": " Unequal performance across groups is a risk associated with A facial recognition system is designed to verify user identities during online assessments, aiming to ensure academic integrity and security. The system uses artificial intelligence to authenticate users and monitor their activities during exams. It is intended to provide a seamless and secure experience for users, while also preventing potential cheating or impersonation.",
+        "elapsed_time": 49.872013542000786
+    }
+}

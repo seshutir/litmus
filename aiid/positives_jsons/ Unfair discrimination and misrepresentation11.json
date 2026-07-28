@@ -1,0 +1,291 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A natural language processing system is designed to analyze and understand human language, using techniques to represent words in a way that captures their meaning and context. The system aims to process and generate text that is fair and unbiased, regardless of the language or terminology used. It seeks to improve the accuracy and reliability of language understanding tasks, such as text classification and language translation.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A natural language processing system is designed to analyze and understand human language, using techniques to represent words in a way that captures their meaning and context. The system aims to process and generate text that is fair and unbiased, regardless of the language or terminology used. It seeks to improve the accuracy and reliability of language understanding tasks, such as text classification and language translation.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a natural language processing system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in text classification tasks, such as text classification",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in natural language processing, specifically in language translation",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Ethical and social risks from large Language Models | by ... - Medium",
+            "text": "",
+            "link": "https://medium.com/nlplanet/two-minutes-nlp-ethical-and-social-risks-from-large-language-models-e6f8e8373870",
+            "snippet": "The risks covered in the report are: Discrimination, Exclusion, and Toxicity: arise from the language model communicating unjust, toxic, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Opinion: Hidden Biases, Discrimination in AI Decision-Making",
+            "text": "",
+            "link": "https://redlineproject.news/2025/03/20/opinion-the-hidden-biases-and-discrimination-in-ai-decision-making/",
+            "snippet": "According to MIT's AI Risk Repository, one of the current main risks associated with AI is unfair discrimination and misrepresentation driven by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Bias in Natural Language Generation systems - AI Risk",
+            "text": "",
+            "link": "https://donets.org/risks/bias-in-natural-language-generation-systems",
+            "snippet": "Analysis of 'Bias in Natural Language Generation systems' - an AI risk in Discrimination ... Unfair discrimination and misrepresentation. Entity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Yet another obvious ethical challenge following from AI bias is discrimination, unfairness, and stigma. Biases in terms of race, sex, gender, age ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The fact that AI and algorithmic systems often lack transparency complicates the detection of discrimination, as previously noted by FRA.34 For ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Assessing the risk of discriminatory bias in classification datasets",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10994-025-06843-9",
+            "snippet": "In this paper, we extend the notion of discriminatory bias beyond categorical attributes. While the literature on fair machine learning focuses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A new and unorthodox approach to deal with discriminatory bias in Artificial Intelligence is needed. As it is explored in detail, the current literature is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "This can lead to misclassification and discriminatory practices, such as wrongful arrests in law enforcement. Mitigating Bias in AI. Addressing bias in AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias and discrimination in AI-generated text - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/bias-and-discrimination-in-ai-generated-text",
+            "snippet": "Analysis of 'Bias and discrimination in AI-generated text' - an AI risk in Discrimination and toxicity identified through peer-reviewed research",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "[PDF] Racial Bias in Natural Language Processing | Oxford Insights",
+            "text": "",
+            "link": "https://oxfordinsights.com/wp-content/uploads/2024/07/SHARED_-Racial-Bias-in-Natural-Language-Processing.pdf",
+            "snippet": "Although this will affect a wide variety of social groups that speak in ways not represented in these training sets, potentially compounding discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Identifying Gender Stereotypes and Biases in Automated Translation ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.11611v1",
+            "snippet": "Stereotyping as Discrimination: Why Thoughts Can Be Discriminatory. Social Epistemology, 35(6):547\u2013563, 2021. https://doi.org/10.1080/ ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Dialect Discrimination: How Language Models Perpetuate Linguistic ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/dialect-discrimination-how-language-models-perpetuate-nick-parmar-cshuc",
+            "snippet": "Dialect Discrimination: How Language Models Perpetuate Linguistic Bias ... translation, especially when traveling to foreign countries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "How to identify bias in Natural Language Processing",
+            "text": "",
+            "link": "https://www.hiig.de/en/bias-in-natural-language-processing/",
+            "snippet": "Why do discriminatory tendencies towards gender or race become bias in natural language processing ... unfair discrimination against certain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Detecting and mitigating bias in natural language processing",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/",
+            "snippet": "A series that explores ways to mitigate possible biases and create a pathway toward greater fairness in AI and emerging technologies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Bias and Fairness in Large Language Models: A Survey",
+            "text": "",
+            "link": "https://direct.mit.edu/coli/article/50/3/1097/121961/Bias-and-Fairness-in-Large-Language-Models-A",
+            "snippet": "We present a comprehensive survey of bias evaluation and mitigation techniques for LLMs. We first consolidate, formalize, and expand notions of social bias and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Bias and Fairness in Natural Language Processing - Medium",
+            "text": "",
+            "link": "https://medium.com/tr-labs-ml-engineering-blog/bias-and-fairness-in-natural-language-processing-7663a6d33932",
+            "snippet": "I first provide a brief background on bias and fairness in NLP applications and explain the root causes and potential consequences of biases on models' ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Bias in Large Language Models: Origin, Evaluation, and Mitigation",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.10915v1",
+            "snippet": "This method employs advanced NLP techniques to examine the context in which potentially biased language appears, allowing for the identification ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "Offensive and hate speech detection algorithms, which are currently used in practice, are based on advanced machine learning methodologies and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 19,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A natural language processing system is designed to analyze and understand human language, using techniques to represent words in a way that captures their meaning and context. The system aims to process and generate text that is fair and unbiased, regardless of the language or terminology used. It seeks to improve the accuracy and reliability of language understanding tasks, such as text classification and language translation.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A natural language processing system is designed to analyze and understand human language, using techniques to represent words in a way that captures their meaning and context. The system aims to process and generate text that is fair and unbiased, regardless of the language or terminology used. It seeks to improve the accuracy and reliability of language understanding tasks, such as text classification and language translation.",
+        "elapsed_time": 23.707096125000135
+    }
+}

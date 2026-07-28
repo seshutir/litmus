@@ -1,0 +1,301 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in video content analysis using artificial intelligence",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in automatically labeling and categorizing video content using a video analysis system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in using machine learning algorithms to identify and assign keywords to videos",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Understanding Bias in AI-Based Video Analytics: Impacts ...",
+            "text": "",
+            "link": "https://intelexvision.com/understanding-bias-in-ai-based-video-analytics-impacts-on-precision-and-recall-introduction/",
+            "snippet": "Bias in AI refers to systematic and unfair discrimination that is often unintentional and arises due to the data or algorithms used. In the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Is artificial intelligence (AI) research biased and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X25000089",
+            "snippet": "by I Kekez \u00b7 2025 \u00b7 Cited by 35 \u2014 A review is made of research on bias and discrimination in using AI in HRM. More than half of the papers do not clearly define bias and discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Bias in AI",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Stereotyping Bias: Occurs when AI systems reinforce harmful stereotypes. For example, a translation model that consistently associates the word \"nurse\" with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "FTC Report Warns About Using Artificial Intelligence to ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems",
+            "snippet": "The report outlines significant concerns that AI tools can be inaccurate, biased, and discriminatory by design and incentivize relying on increasingly invasive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI's fairness problem: understanding wrongful discrimination ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-022-00233-w",
+            "snippet": "by H Cossette-Lefebvre \u00b7 2023 \u00b7 Cited by 65 \u2014 The use of algorithms can still be the source of wrongful discriminatory decisions based on at least three of their features.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Data Labeling: The process of labeling training data can introduce bias, as human annotators may have different interpretations of the same data. Subjective ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI System Harms & Case Studies in Bias, Misinformation ... - Medium",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/ai-system-harms-case-studies-in-bias-misinformation-and-accountability-319bde873e57",
+            "snippet": "This post provides a comprehensive review of AI failures across three major system types \u2014 (1) predictive or classical machine learning, (2) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "Selection and measurement bias arise when marginalized groups are systematically omitted or mislabeled during data collection; such bias has been detected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Bias and ethics of AI systems applied in auditing - A systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "This study aimed to investigate the sources of bias and risks posed by AI systems applied in auditing and the complex downstream interactions and effects they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Understanding Bias in AI-Based Video Analytics - Intelex Vision",
+            "text": "",
+            "link": "https://intelexvision.com/understanding-bias-in-ai-based-video-analytics-impacts-on-precision-and-recall-introduction/",
+            "snippet": "When a video analytics system is biased, it may incorrectly identify or misclassify objects or individuals more frequently. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Algorithmic Bias | Ethics Defined - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=cygpAm4ooGs",
+            "snippet": "Algorithmic bias occurs when AI algorithms reflect human prejudices due to biased data or design, leading to unfair or discriminatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A new and unorthodox approach to deal with discriminatory bias in Artificial Intelligence is needed. As it is explored in detail, the current literature is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Research shows AI is often biased. Here's how to make algorithms ...",
+            "text": "",
+            "link": "https://www.weforum.org/stories/2021/07/ai-machine-learning-bias-discrimination/",
+            "snippet": "Bias represents injustice against a person or a group. A lot of existing human bias can be transferred to machines because technologies are not neutral.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Bias in algorithms - Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/en/publication/2022/bias-algorithm",
+            "snippet": "This report looks at the use of artificial intelligence in predictive policing and offensive speech detection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Systematic literature review on bias mitigation in generative AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-025-00721-9",
+            "snippet": "The potential for biased AI outputs to perpetuate stereotypes, inequality, and discrimination is a significant concern, as it can amplify ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What is AI Bias? | Digital Marketing Institute",
+            "text": "",
+            "link": "https://digitalmarketinginstitute.com/blog/what-is-ai-bias",
+            "snippet": "What are AI biases? AI bias is the systemic discrimination that is embedded within AI systems that can reinforce existing human biases, and in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Understanding Bias in AI-Based Video Analytics - Intelex Vision",
+            "text": "",
+            "link": "https://intelexvision.com/understanding-bias-in-ai-based-video-analytics-impacts-on-precision-and-recall-introduction/",
+            "snippet": "What is Bias in AI? Bias in AI refers to systematic and unfair discrimination that is often unintentional and arises due to the data or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What Happens When Generative AI Exhibits Bias, and What Can Be ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/382271280_Generative_Discrimination_What_Happens_When_Generative_AI_Exhibits_Bias_and_What_Can_Be_Done_About_It",
+            "snippet": "discrimination law. First, discriminatory content captures output that leads to disadvantageous decisions, i.e., ac ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial Intelligence (AI) has created new opportunities ... - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/defenddefenders/posts/artificial-intelligence-ai-has-created-new-opportunities-for-protection-and-empo/1382944013877825/",
+            "snippet": "... using data from previous hires that may have ... AI systems can inherit biases from their training data, leading to unfair or discriminatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 20,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+        "elapsed_time": 45.49480483299885
+    }
+}

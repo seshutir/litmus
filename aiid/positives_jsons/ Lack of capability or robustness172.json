@@ -1,0 +1,427 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An autonomous vehicle is designed to operate independently, navigating through roads and interacting with its environment. It aims to safely respond to external stimuli, such as law enforcement interactions, and adapt to changing situations. The vehicle's autonomous technology enables it to make decisions and take actions to ensure a safe and efficient journey.",
+    "output": " Lack of capability or robustness is a risk associated with An autonomous vehicle is designed to operate independently, navigating through roads and interacting with its environment. It aims to safely respond to external stimuli, such as law enforcement interactions, and adapt to changing situations. The vehicle's autonomous technology enables it to make decisions and take actions to ensure a safe and efficient journey.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in an autonomous vehicle",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an autonomous vehicle is a risk in navigating through roads",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in an autonomous vehicle is a risk in interacting with its environment",
+            "contexts": [
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in an autonomous vehicle is a risk in responding to external stimuli",
+            "contexts": [
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in an autonomous vehicle is a risk in adapting to changing situations",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of capability or robustness in an autonomous vehicle's decision-making is a risk in making decisions",
+            "contexts": [
+                "c_a5_1",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        },
+        {
+            "id": "a6",
+            "text": "Lack of capability or robustness in an autonomous vehicle is a risk in taking actions to ensure a safe and efficient journey",
+            "contexts": [
+                "c_a6_2"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Concerns About Autonomous Vehicle Risks - Verisk",
+            "text": "",
+            "link": "https://core.verisk.com/Insights/Emerging-Issues/Articles/2025/February/Week-1/Concerns-About-Autonomous-Vehicle-Risks",
+            "snippet": "Difficulty in determining crash liability is the greatest potential risk of AVs, according to respondents. For instance, a Level 3 autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://sustainability.ncsu.edu/blog/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "With increasing automation, drivers may become disengaged, which can manifest as drivers take their hands off the wheel, eyes off the road, or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Self-driving cars are poorly prepared for high-risk road situations",
+            "text": "",
+            "link": "https://theconversation.com/self-driving-cars-are-poorly-prepared-for-high-risk-road-situations-heres-how-ai-can-improve-them-275841",
+            "snippet": "A virtual proving ground can help improve the ability of self driving cars to handle rare events on the road.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Are Self-Driving Cars Safe? (Pros & Cons) | The Wolf Pack\u00ae",
+            "text": "",
+            "link": "https://wolfpacklawyers.com/are-self-driving-cars-safe/",
+            "snippet": "A hacked self-driving car could pose a serious safety risk to both passengers and other drivers on the road. 3. Complex Legal and Liability ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "System and Sensor Failures. An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "A qualitative AI security risk assessment of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0968090X24003188",
+            "snippet": "This paper systematically analyzes the security risks associated with artificial intelligence (AI) components in autonomous vehicles (AVs).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "The compromise of these sensor systems could result in a distorted understanding of the environment, which could, in turn, elevate the risk of accidents and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "A Survey of Robust Autonomous Driving - TechRxiv",
+            "text": "",
+            "link": "https://www.techrxiv.org/doi/10.36227/techrxiv.177205001.16989017",
+            "snippet": "This survey reviews research aimed at increasing the robustness of autonomous driving, with a particular focus on motion planning approaches that explicitly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Road to Robust and Resilient Autonomous Vehicles at Scale",
+            "text": "",
+            "link": "https://arxiv.org/abs/2210.10876",
+            "snippet": "This paper presents the current state-of-the-art simulation frameworks and methodologies used in the development of autonomous driving systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Assessing the barriers and implications of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666188825001340",
+            "snippet": "This paper explores recent AV developments, highlights key challenges, and discusses their broader implications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Autonomous Vehicles Can Be Imperfect \u2014 As Long as They're ...",
+            "text": "",
+            "link": "https://engineering.virginia.edu/news-events/news/autonomous-vehicles-can-be-imperfect-long-theyre-resilient",
+            "snippet": "The University of Virginia's Homa Alemzadeh aim to take the risk out of self-driving vehicles by overcoming inevitable computer failures with good engineering.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "[PDF] Issues in Autonomous Vehicle Testing and Deployment",
+            "text": "",
+            "link": "https://www.congress.gov/crs_external_products/R/PDF/R45985/R45985.12.pdf",
+            "snippet": "Autonomous vehicles have the potential to bring major improvements in highway safety. Motor vehicle crashes caused an estimated 36,096 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Autonomous Vehicles That Include Risk in Their Decision Making",
+            "text": "",
+            "link": "https://www.volpe.dot.gov/news/autonomous-vehicles-include-risk-their-decision-making",
+            "snippet": "His work includes allowing the AI system to consider a certain level of risk, which can be set based on the user, to allow for more human-like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Self-driving cars: Can AI make the 'right' decisions on the road?",
+            "text": "",
+            "link": "https://aiforgood.itu.int/self-driving-cars-can-ai-make-the-right-decisions-on-the-road/",
+            "snippet": "Self-driving cars have been put forth as a solution that can make mobility safe, secure, affordable, sustainable and accessible for everyone.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Toward Trustworthy Decision-Making for Autonomous Vehicles",
+            "text": "",
+            "link": "https://trid.trb.org/View/2298745",
+            "snippet": "The proposed technique ensures decision trustworthiness in terms of policy robustness and collision safety. Specifically, an adversary model is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_2",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "While some driver assistance technologies are designed to warn you if you're at risk of an impending crash, others are designed to take action to avoid a crash.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Vulnerable road users and the coming wave of automated vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198220302049",
+            "snippet": "Researchers provided their views on the future of AV-VRU interaction. They noted that fully autonomous vehicles will not be introduced any time soon.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] A Framework for Automated Driving System Testable Cases and ...",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13882-automateddrivingsystems_092618_v1a_tag.pdf",
+            "snippet": "To test a vehicle's ability to operate safely, ODD is considered in test development and ... communicate with external agents, such as other vehicles, the cloud ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Review on Autonomous Vehicles: Progress, Methods and ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/11/14/2162",
+            "snippet": "This paper aims to provide an overall picture of the recent advances in autonomous driving and the problems this technology can solve. Therefore ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a6": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 7,
+        "num_contexts": 24,
+        "num_true_atoms": 7,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 6.999996500200124e-06,
+        "norm_entropy": 0.00014961984022606966,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S",
+            "a6": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 7,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null,
+            "a6": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An autonomous vehicle is designed to operate independently, navigating through roads and interacting with its environment. It aims to safely respond to external stimuli, such as law enforcement interactions, and adapt to changing situations. The vehicle's autonomous technology enables it to make decisions and take actions to ensure a safe and efficient journey.",
+        "response": " Lack of capability or robustness is a risk associated with An autonomous vehicle is designed to operate independently, navigating through roads and interacting with its environment. It aims to safely respond to external stimuli, such as law enforcement interactions, and adapt to changing situations. The vehicle's autonomous technology enables it to make decisions and take actions to ensure a safe and efficient journey.",
+        "elapsed_time": 67.57071775000077
+    }
+}

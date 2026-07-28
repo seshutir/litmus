@@ -1,0 +1,362 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the email filtering system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing email content using the system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in the system's identification and blocking of suspicious emails",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in distinguishing between legitimate and spam emails",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Risk of unfair discrimination or misrepresentation - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/risk-of-unfair-discrimination-or-misrepresentation-from-information-filtering",
+            "snippet": "This risk has been identified and analyzed based on peer-reviewed research. It encompasses a range of potential harms that may arise from the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial discrimination may affect whether people respond to email ...",
+            "text": "",
+            "link": "https://www.psu.edu/news/story/racial-discrimination-may-affect-whether-people-respond-email-surveys",
+            "snippet": "Researchers found that Americans were less likely to respond to an email survey appearing to come from a person believed to be Black than a person believed to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Without Accounting for Bias and Discrimination, AI Safety Standards ...",
+            "text": "",
+            "link": "https://techpolicy.press/without-accounting-for-bias-and-discrimination-ai-safety-standards-will-fall-short",
+            "snippet": "It is increasingly clear that standard development bodies will need to act with purpose to ensure that these standards address bias and discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Incident 83: AI Spam Filters Allegedly Block Legitimate Emails ...",
+            "text": "",
+            "link": "https://incidentdatabase.ai/cite/83/",
+            "snippet": "Unfair discrimination and misrepresentation. Risk Domain. The Domain Taxonomy of AI Risks classifies risks into seven AI risk domains: (1) Discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How AI-Driven Phishing Attacks Evade Legacy Email Filters",
+            "text": "",
+            "link": "https://www.crowe.com/insights/crowe-cyber-watch/how-ai-driven-phishing-attacks-evade-legacy-email-filters",
+            "snippet": "Now, AI models used by attackers can exploit human trust more than system vulnerabilities. Recent investigation underscores this shift.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "If the system is not tested with diverse inputs or monitored for bias after deployment, it can lead to unintended discrimination or exclusion. Addressing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Understanding Generative Artificial Intelligence and The Potential ...",
+            "text": "",
+            "link": "https://www.nhbar.org/understanding-generative-artificial-intelligence-and-the-potential-for-discrimination-and-bias/",
+            "snippet": "This Ethics Corner is intended to address concerns related to bias and discrimination while using artificial intelligence tools.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Sources of bias in artificial intelligence that perpetuate healthcare ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9931338/",
+            "snippet": "Here, we describe the landscape of AI in clinical medicine to delineate population and data-source disparities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Bias and ethics of AI systems applied in auditing - A systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "This study aimed to investigate the sources of bias and risks posed by AI systems applied in auditing and the complex downstream interactions and effects they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Ethical Use of Training Data: Ensuring Fairness & Data Protection in AI",
+            "text": "",
+            "link": "https://lamarr-institute.org/blog/ai-training-data-bias/",
+            "snippet": "Bias in datasets leads to fairness issues, perpetuating societal inequalities, and discrimination against minorities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "DOD Cyber Awareness Challenge 2025 Flashcards",
+            "text": "",
+            "link": "https://quizlet.com/1088107328/dod-cyber-awareness-challenge-2025-flash-cards/",
+            "snippet": "A. Immediately notify his security POC and not handle the file. B. Verify that the document contains Top Secret information",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "EEOC ALERTS PUBLIC TO E-MAIL 'PHISHING' SCAM",
+            "text": "",
+            "link": "https://www.eeoc.gov/newsroom/eeoc-alerts-public-e-mail-phishing-scam",
+            "snippet": "Because of security concerns, the EEOC does not notify employers of the filing of a charge of discrimination via e-mail. Consequently, if a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Recognize and Report Phishing",
+            "text": "",
+            "link": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing",
+            "snippet": "Phishing occurs when criminals try to get us to open harmful links, emails or attachments that could request our personal information or infect our devices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Prevention and mitigation measures against phishing emails",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8478002/",
+            "snippet": "by YE Suzuki \u00b7 2021 \u00b7 Cited by 34 \u2014 This paper categorizes current mitigation practices in relation to a sequential schema adopted from the situational crime prevention approach.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "How To Recognize and Avoid Phishing Scams",
+            "text": "",
+            "link": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+            "snippet": "Phishing emails can often have real consequences for people who give scammers their information, including identity theft. And they might harm the reputation of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A new and unorthodox approach to deal with discriminatory bias in Artificial Intelligence is needed. As it is explored in detail, the current literature is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Can adults discriminate between fraudulent and legitimate e-mails ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/352480938_Can_adults_discriminate_between_fraudulent_and_legitimate_e-mails_Examining_the_role_of_age_and_prior_fraud_experience",
+            "snippet": "The present study assessed how accurate adults are at detecting fraudulent e-mail activity. A total of 100 younger (18\u201326 years) and 96 older adults (60\u201390 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "CAN-SPAM Act: A Compliance Guide for Business",
+            "text": "",
+            "link": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+            "snippet": "The CAN-SPAM Act, a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have you stop ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Using Machine Learning to Distinguish Between Spam and ...",
+            "text": "",
+            "link": "https://weclouddata.com/blog/sorting-your-inbox-using-machine-learning-to-distinguish-between-spam-and-legitimate-emails/",
+            "snippet": "Deep learning algorithms, with their advanced pattern recognition capabilities, can analyze the intricacies of email content more accurately than ever before.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Incident 83: AI Spam Filters Allegedly Block Legitimate Emails ...",
+            "text": "",
+            "link": "https://incidentdatabase.ai/cite/83/",
+            "snippet": "The Domain Taxonomy of AI Risks classifies risks into seven AI risk domains: (1) Discrimination & toxicity, (2) Privacy & security, (3) Misinformation, (4) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Psychological Interaction of Spam Email Features - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6629481/",
+            "snippet": "This study explored distinct perceptual and decisional contributions to spam email mental construal. Participants classified spam emails according to pairings ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What is Email Filtering? Email Sorting Processes Explained",
+            "text": "",
+            "link": "https://www.darktrace.com/cyber-ai-glossary/email-filtering",
+            "snippet": "Email filtering is a method of email security that involves identifying and sorting emails that are deemed non-productive, spam, or malicious.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Machine Learning Based Spam Detection in Digital Communication ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-8954/14/3/229",
+            "snippet": "Spam detection is the process of identifying and filtering out unwanted, irrelevant, or potentially harmful messages, such as emails, SMS texts, or social media ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "How To Recognize and Avoid Phishing Scams | Consumer Advice",
+            "text": "",
+            "link": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+            "snippet": "Scammers use email or text messages to trick you into giving them your personal and financial information. But there are several ways to protect yourself.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.999947,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.996539,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.003510002412383096,
+        "norm_entropy": 0.03414879404374772,
+        "avg_entropy": 0.000877500603095774,
+        "avg_norm_entropy": 0.00853719851093693,
+        "avg_prob": 0.9991209999999999,
+        "avg_logprob": -0.0008805011303102365,
+        "avg_explogprob": 0.9991198863970622,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    5.3e-05,
+                    0.999947
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.003461,
+                    0.996539
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.9982449953329999,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+        "elapsed_time": 45.565964375000476
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "input": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizing generative models is designed to create synthetic faces, which can be used for various applications such as digital avatars or virtual characters. The technology aims to generate highly realistic images, allowing for increased versatility and customization. This approach enables the creation of unique digital identities.",
+    "output": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizing generative models is designed to create synthetic faces, which can be used for various applications such as digital avatars or virtual characters. The technology aims to generate highly realistic images, allowing for increased versatility and customization. This approach enables the creation of unique digital identities.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Fraud, scams, and targeted manipulation is a risk associated with digital identity creation using a system that utilizes generative models.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Fraud, scams, and targeted manipulation is a risk associated with generating synthetic faces for digital avatars or virtual characters",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Generative AI Security Risks and How to Protect Yourself",
+            "text": "",
+            "link": "https://www.apu.apus.edu/area-of-study/information-technology/resources/generative-ai-security-risks/",
+            "snippet": "Deepfakes and synthetic identities are no longer fringe security threats. They are practical tools for impersonation, fraud, and social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Criminals Use Generative Artificial Intelligence to Facilitate Financial ...",
+            "text": "",
+            "link": "https://www.ic3.gov/PSA/2024/PSA241203",
+            "snippet": "Criminals generate content for fraudulent websites for cryptocurrency investment fraud ... identity fraud and impersonation schemes. Criminals use ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The dark side: How threat actors are using AI | ConnectWise",
+            "text": "",
+            "link": "https://www.connectwise.com/blog/the-dark-side-how-threat-actors-are-using-ai",
+            "snippet": "Threat actors are using AI to automate the creation of convincing phishing emails. ... fraud, and identity-based scams. The ability to pretend to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/",
+            "snippet": "AI systems are already capable of deceiving humans. AI's increasing capabilities at deception pose both short-term risks (such as fraud and election tampering) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Deepfake Deception in Digital Identity - Identity Management Institute\u00ae",
+            "text": "",
+            "link": "https://identitymanagementinstitute.org/deepfake-deception-in-digital-identity/",
+            "snippet": "... fraudulent images, videos, and voices, making it easier for cybercriminals to commit identity theft, fraud, and misinformation. Deepfake ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "[PDF] Cyber Risks Associated with Deepfakes",
+            "text": "",
+            "link": "https://www.mas.gov.sg/-/media/mas-media-library/regulation/circulars/trpd/cyber-risks-associated-with-deepfakes.pdf",
+            "snippet": "Fraud. Deepfakes can be used by criminals to create falsified documents, and carry out impersonation scams, enabling unauthorised transactions, financial fraud, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Risks and benefits of artificial intelligence deepfakes",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25001271",
+            "snippet": "In a commercial sense, deepfake-related fraud undercuts consumer trust, potentially leading to significant economic ramifications. These multifaceted threats ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI-enabled Fraud: How Scammers Are Exploiting Generative AI",
+            "text": "",
+            "link": "https://www.trmlabs.com/resources/blog/ai-enabled-fraud-how-scammers-are-exploiting-generative-ai",
+            "snippet": "In this post, we take look at the most common ways in which scammers are deploying AI, using examples from Chainabuse and our own investigations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Fraud has many faces, even those you thought you could trust ...",
+            "text": "",
+            "link": "https://www.facebook.com/rcmpgrc/posts/fraud-has-many-faces-even-those-you-thought-you-could-trustfraudsters-use-genera/1405550811612232/",
+            "snippet": "Fraud has many faces, even those you thought you could trust. Fraudsters use generative AI technology to make their attacks more convincing and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI scams in 2026: how they work and how to detect them - Vectra AI",
+            "text": "",
+            "link": "https://www.vectra.ai/topics/ai-scams",
+            "snippet": "AI scams surged 1,210% in 2025, far outpacing the 195% growth in traditional fraud, and projected losses could reach $40 billion by 2027.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Generative AI Explained: Understanding The Technology's Impact ...",
+            "text": "",
+            "link": "https://knowledgeflow.org/resource/a-practical-guide-to-generative-ai/",
+            "snippet": "A practical guide to what generative AI is, how it can cause harm, how to spot AI-generated content, and tips for navigating its risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Fake Faces, Real Damage: The Corporate Risk of AI-Powered ...",
+            "text": "",
+            "link": "https://www.asisonline.org/security-management-magazine/articles/2025/09/AI-powered-manipulation/",
+            "snippet": "... generative AI to create synthetic voices and video avatars to pass remote employment interviews. These deepfakes frequently passed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Deepfake technology puts consumers at risk of new scams",
+            "text": "",
+            "link": "https://www.fox10tv.com/2025/10/27/deepfake-technology-puts-consumers-risk-new-scams/",
+            "snippet": "Fraudsters are using AI to clone voices and faces and banks are the new target. Consumer Investigator Rachel DePompa shares the simple trick ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Not every thing is as it seems Evolving #GenerativeAI enables ...",
+            "text": "",
+            "link": "https://www.facebook.com/InterpolHQ/posts/not-every-thing-is-as-it-seems-evolving-generativeai-enables-scammers-to-create-/995711435930220/",
+            "snippet": "Evolving #GenerativeAI enables scammers to create ultra-realistic human avatars. This technology is becoming increasingly accessible and is deceiving thousands ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Understanding Deepfakes: Technology, Use Cases, and Ethical Risks",
+            "text": "",
+            "link": "https://www.pass4sure.com/blog/understanding-deepfakes-technology-use-cases-and-ethical-risks/",
+            "snippet": "... generator and the discriminator. The generator creates synthetic images, starting from random noise and gradually learning to produce more realistic results.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizing generative models is designed to create synthetic faces, which can be used for various applications such as digital avatars or virtual characters. The technology aims to generate highly realistic images, allowing for increased versatility and customization. This approach enables the creation of unique digital identities.",
+        "response": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizing generative models is designed to create synthetic faces, which can be used for various applications such as digital avatars or virtual characters. The technology aims to generate highly realistic images, allowing for increased versatility and customization. This approach enables the creation of unique digital identities.",
+        "elapsed_time": 35.125187708999874
+    }
+}

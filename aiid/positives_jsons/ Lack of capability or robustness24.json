@@ -1,0 +1,414 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to navigate through lanes safely by detecting and responding to surrounding traffic. It aims to make decisions about changing lanes based on the actions of other vehicles, prioritizing collision avoidance. The vehicle's autonomous system seeks to ensure a smooth and safe journey by adapting to various driving scenarios.",
+    "output": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to navigate through lanes safely by detecting and responding to surrounding traffic. It aims to make decisions about changing lanes based on the actions of other vehicles, prioritizing collision avoidance. The vehicle's autonomous system seeks to ensure a smooth and safe journey by adapting to various driving scenarios.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a self-driving vehicle",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a self-driving vehicle's autonomous system is a risk in detecting and responding to surrounding traffic",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a self-driving vehicle's autonomous system is a risk in making decisions about changing lanes based on the actions of other vehicles",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in prioritizing collision avoidance in a self-driving vehicle",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in a self-driving vehicle's autonomous system is a risk in adapting to various driving scenarios",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Pros and Cons of Driverless Cars - Colburn Law",
+            "text": "",
+            "link": "https://www.colburnlaw.com/pros-and-cons-of-self-driving-cars/",
+            "snippet": "Self-driving cars, like any connected technology, are vulnerable to hacking and other cyber threats. Malicious activities could compromise the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robustness of autonomous driving systems: extending the function ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212827124007650/pdf",
+            "snippet": "This increases the importance of assuring the robustness of these systems during their operations where possible hazards can arise from both the malfunctioning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Exploring the Failures of Self-Driving Cars: What You Need to Know",
+            "text": "",
+            "link": "https://www.autosafety.org/driverless-is-not-here/",
+            "snippet": "Self driving cars are tech-bro playthings, not a safe alternative. Autonomous vehicles are currently not the answer to traffic fatalities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Limitations of Self-Driving Cars | Call 24/7 | Staver Law",
+            "text": "",
+            "link": "https://www.chicagolawyer.com/blog/limitations-of-self-driving-cars/",
+            "snippet": "These articles describe the limitations of self-driving cars and while the unpredictable behavior of human drivers, has already been covered in a previous blog ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "For instance, these systems may struggle to interpret pedestrians' gestures or human drivers' nuanced behavior, such as yielding or negotiating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Automated driving regulations \u2013 where are we now? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "This paper analyses the legal frameworks of selected states, aside from those frameworks at international and EU level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Study finds self-driving cars are safer than human-driven vehicles",
+            "text": "",
+            "link": "https://english.elpais.com/technology/2024-06-18/study-finds-self-driving-cars-are-safer-than-human-driven-vehicles.html",
+            "snippet": "Research shows that autonomous vehicles are less prone to accidents, except in low-visibility conditions and when turning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Cruising Toward Self-Driving Cars: Standards and Testing Will Help ...",
+            "text": "",
+            "link": "https://www.nist.gov/blogs/taking-measure/cruising-toward-self-driving-cars-standards-and-testing-will-help-keep",
+            "snippet": "Driverless vehicles can be tested more thoroughly and less expensively before they hit the road because the driver is not a person; it's software.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Autonomous vehicle lane-changing dynamics and impact on the ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2213665725000193",
+            "snippet": "The results suggest that the risk of a collision increases substantially when the lane-changer is an autonomous vehicle. This elevated risk may be associated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Autonomous Vehicle Lane-Changing Decision-Making via Social ...",
+            "text": "",
+            "link": "https://asmedigitalcollection.asme.org/autonomousvehicles/article/6/1/011003/1229227/Autonomous-Vehicle-Lane-Changing-Decision-Making",
+            "snippet": "In this study, the \u201cleast bad\u201d decision refers to selecting the maneuver with the lowest cost between lane-changing and lane-keeping behaviors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Making driverless cars change lanes more like human drivers do",
+            "text": "",
+            "link": "https://robotics.mit.edu/making-driverless-cars-change-lanes-more-human-drivers-do/",
+            "snippet": "The problem is that if traffic is fast enough and dense enough, precomputed buffer zones may be too restrictive. An autonomous vehicle will fail to change lanes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Solving the Single-Vehicle Self-Driving Car Trolley Problem Using ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6978432/",
+            "snippet": "Here it is again useful to emphasise the risk of startling other road users that attends on sudden swerving and lane changes. Any sudden lane change breaks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Autonomous vehicles can be tricked into dangerous driving behavior",
+            "text": "",
+            "link": "https://www.universityofcalifornia.edu/news/autonomous-vehicles-can-be-tricked-dangerous-driving-behavior",
+            "snippet": "Autonomous vehicles can be tricked into an abrupt halt or other undesired driving behavior by the placement of an ordinary object on the side of the road.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Survey of Autonomous Vehicles' Collision Avoidance Algorithms",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11769269/",
+            "snippet": "The primary collision avoidance algorithms currently employed by self-driving cars are examined in this thorough survey.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Collision Risk in Autonomous Vehicles: Classification, Challenges ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-8921/6/1/7",
+            "snippet": "This research examines systems and solutions developed in this field to determine collision times and uses various alarms in self-driving cars that prevent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Self-driving vehicles could struggle to eliminate most crashes - IIHS",
+            "text": "",
+            "link": "https://www.iihs.org/news/detail/self-driving-vehicles-could-struggle-to-eliminate-most-crashes",
+            "snippet": "Autonomous vehicles might prevent only around a third of all crashes if automated systems drive too much like people, according to a new study.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Thomas G. Dietterich explains for 20 minutes why self-driving is hard ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/SelfDrivingCars/comments/1gcgdog/thomas_g_dietterich_explains_for_20_minutes_why/",
+            "snippet": "Even with sensor fusion, you can get some bad input, like bad radar returns or missing points in the lidar point cloud. So making a bigger ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Self-driving cars are poorly prepared for high-risk road situations ...",
+            "text": "",
+            "link": "https://techxplore.com/news/2026-02-cars-poorly-high-road-situations.html",
+            "snippet": "Overall, this adaptive approach led to safer, smoother driving compared with fixed or overly conservative control strategies. It also allows ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Why People Blame Self-Driving Cars More Than Human Drivers",
+            "text": "",
+            "link": "https://www.library.hbs.edu/working-knowledge/why-people-blame-self-driving-cars-more-than-human-drivers",
+            "snippet": "Research by Julian De Freitas examines the psychology driving the debate about autonomous vehicles. Truck with crushed front against gradient ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "2 main challenges in autonomous driving according to Waymo's ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/SelfDrivingCars/comments/1ggkpsd/2_main_challenges_in_autonomous_driving_according/",
+            "snippet": "There are two main challenges in autonomous driving - one is to build a system that can handle real world complexity and edge case complexity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Obstacle Detection and Safely Navigate the Autonomous Vehicle ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7506726/",
+            "snippet": "In this paper, we first introduced small and medium-sized obstacles that were intentionally or unintentionally left on the road, which can pose hazards.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The 14 Critical Hurdles for Autonomous Vehicle Systems - 7ITS News",
+            "text": "",
+            "link": "https://www.7itsnews.com/index.php?m=home&c=View&a=index&aid=22449",
+            "snippet": "Such limitations can lead to navigation errors, confusion, and an inability to safely respond to unexpected alterations in the road environment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2412.13238v2",
+            "snippet": "Autonomous vehicles (AVs) have advanced significantly in recent years, achieving the ability to operate safely in most traffic scenarios [1] .",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Making driverless cars change lanes more like human drivers do",
+            "text": "",
+            "link": "https://robotics.mit.edu/making-driverless-cars-change-lanes-more-human-drivers-do/",
+            "snippet": "An autonomous vehicle will fail to change lanes at all, whereas a human driver would cheerfully zip around the roadway. With the MIT researchers' system, if the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to navigate through lanes safely by detecting and responding to surrounding traffic. It aims to make decisions about changing lanes based on the actions of other vehicles, prioritizing collision avoidance. The vehicle's autonomous system seeks to ensure a smooth and safe journey by adapting to various driving scenarios.",
+        "response": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to navigate through lanes safely by detecting and responding to surrounding traffic. It aims to make decisions about changing lanes based on the actions of other vehicles, prioritizing collision avoidance. The vehicle's autonomous system seeks to ensure a smooth and safe journey by adapting to various driving scenarios.",
+        "elapsed_time": 37.061876792000476
+    }
+}

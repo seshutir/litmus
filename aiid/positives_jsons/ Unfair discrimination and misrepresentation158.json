@@ -1,0 +1,211 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An ad delivery system is designed to match users with relevant ads based on their interests and behaviors. The system aims to optimize ad exposure, ensuring that the right users see the right ads at the right time. It also seeks to provide a fair and unbiased ad experience for all users, regardless of their background or characteristics.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An ad delivery system is designed to match users with relevant ads based on their interests and behaviors. The system aims to optimize ad exposure, ensuring that the right users see the right ads at the right time. It also seeks to provide a fair and unbiased ad experience for all users, regardless of their background or characteristics.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in an ad delivery system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in an ad delivery system's matching of users with relevant ads based on their interests and behaviors",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Fairness in Online Ad Delivery - ACM Digital Library",
+            "text": "",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3630106.3658980",
+            "snippet": "In this paper, we simulate an ad distribution system to model the effects that enforcing popularly proposed fairness approaches would have on the utility of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Facebook's Ad Delivery Algorithm Discriminates Based on Photos",
+            "text": "",
+            "link": "https://news.northeastern.edu/2022/10/25/facebook-algorithm-discrimination/",
+            "snippet": "Facebook's ad delivery algorithm is discriminating based on race, gender and age in photos, Northeastern researchers find.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding And Mitigating AI Bias In Advertising - Forbes",
+            "text": "",
+            "link": "https://www.forbes.com/councils/forbestechcouncil/2024/06/04/understanding-and-mitigating-ai-bias-in-advertising/",
+            "snippet": "The application of AI and bias prevention architecture and frameworks is critical to ensuring ethical practices and enhancing consumer trust.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Promoting Fairness, Accountability, and Transparency Around Ad ...",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/special-delivery/promoting-fairness-accountability-and-transparency-around-ad-targeting-and-delivery-practices/",
+            "snippet": "These audits should particularly evaluate how automated ad delivery systems can inappropriately prevent certain categories of users from viewing ads due to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Factsheet: Surveillance Advertising: What About Discrimination?",
+            "text": "",
+            "link": "https://consumerfed.org/consumer_info/factsheet-surveillance-advertising-discrimination/",
+            "snippet": "The benefits of surveillance advertising do not justify the inherent risks of unfair treatment and illegal discrimination. Download ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "How Facebook's Ad Delivery Can Lead to Biased Outcomes",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3359301",
+            "snippet": "Our results demonstrate previously unknown mechanisms that can lead to potentially discriminatory ad delivery, even when advertisers set their targeting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Increasing fairness in targeted advertising - Graphite",
+            "text": "",
+            "link": "https://graphite.page/fair-targeted-ads/",
+            "snippet": "Optimizing job ads for relevance also carries risks \u2013 from problematic gender stereotyping to potential algorithmic discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] How Facebook's ad delivery can lead to biased outcomes",
+            "text": "",
+            "link": "https://ccs.neu.edu/~mali/papers/facebook-delivery-cscw.pdf",
+            "snippet": "However, there are several potential reasons why the ad delivery algorithms used by a platform may open the door to discrimination. First, consider that most ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Toward fairness in personalized ads - About Meta",
+            "text": "",
+            "link": "https://about.fb.com/wp-content/uploads/2023/01/Toward_fairness_in_personalized_ads.pdf",
+            "snippet": "Fairness in personalized ads has emerged as an area of significant focus for policymakers, regulators, civil rights groups, industry and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Facebook's Ad System Might Be Hard-Coded for Discrimination",
+            "text": "",
+            "link": "https://www.wired.com/story/facebooks-ad-system-discrimination/",
+            "snippet": "The social network says it shows users the most \u201crelevant\u201d ads, but a new study suggests the system perpetuates bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Adaptive Targeting: Bias in AI Models - AdAmigo.ai Blog",
+            "text": "",
+            "link": "https://www.adamigo.ai/blog/adaptive-targeting-bias-in-ai-models",
+            "snippet": "Ad-delivery algorithms can create demographic bias; learn causes, detection methods, and fixes like audits, data checks, and fairness steps.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "How Facebook's Ad Delivery Can Lead to Biased Outcomes",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/337135215_Discrimination_through_Optimization_How_Facebook's_Ad_Delivery_Can_Lead_to_Biased_Outcomes",
+            "snippet": "Research shows that platform optimization and delivery algorithms can bias which demographic groups actually see ads, and that ad delivery can produce skewed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Automated discrimination: Facebook uses gross stereotypes to ...",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/automated-discrimination-facebook-google/",
+            "snippet": "An experiment by AlgorithmWatch shows that online platforms optimize ad delivery in discriminatory ways. Advertisers who use them could be breaking the law.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An ad delivery system is designed to match users with relevant ads based on their interests and behaviors. The system aims to optimize ad exposure, ensuring that the right users see the right ads at the right time. It also seeks to provide a fair and unbiased ad experience for all users, regardless of their background or characteristics.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An ad delivery system is designed to match users with relevant ads based on their interests and behaviors. The system aims to optimize ad exposure, ensuring that the right users see the right ads at the right time. It also seeks to provide a fair and unbiased ad experience for all users, regardless of their background or characteristics.",
+        "elapsed_time": 29.05706087500039
+    }
+}

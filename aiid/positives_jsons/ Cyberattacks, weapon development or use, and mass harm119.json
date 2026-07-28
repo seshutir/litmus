@@ -1,0 +1,230 @@
+{
+    "input": " Cyberattacks, weapon development or use, and mass harm is a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+    "output": " Cyberattacks, weapon development or use, and mass harm is a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Cyberattacks, weapon development or use, and mass harm is a risk associated with computer vision in aerial drones",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Cyberattacks, weapon development or use, and mass harm is a risk associated with processing images to detect and recognize objects in aerial drones",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Cybersecurity and Artificial Intelligence in Unmanned Aerial ...",
+            "text": "",
+            "link": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2/2046868",
+            "snippet": "To mitigate the risks associated with GPS-based cyberattacks ... Secure UAV transactions, reduced cyberattack risks, High, Moderate, Moderate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Cybersecurity Risks Threatening Drones: Innovative Solutions ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387867253_The_Cybersecurity_Risks_Threatening_Drones_Innovative_Solutions_in_the_Digital_Age",
+            "snippet": "Cyberattacks targeting UAV systems primarily focus on three categories of data: confidentiality,. integrity, and availability (Benkraouda, H., et al., 2018, pp.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Cybersecurity Risks Threatening Drones: Innovative Solutions ...",
+            "text": "",
+            "link": "https://www.preprints.org/manuscript/202501.0694/v1",
+            "snippet": "Drones are increasingly vulnerable to sophisticated cyber threats, including hacking, unauthorized communication, and cyberattacks that could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] How to Analyze the Cyber Threat from Drones - RAND",
+            "text": "",
+            "link": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR2900/RR2972/RAND_RR2972.pdf",
+            "snippet": "Secondly, UAS in the hands of adversaries could present novel avenues for cyberattacks, with UAS themselves serving as \u201ccyber weap- ons\u201d ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI drones - the unknown risk that's already here",
+            "text": "",
+            "link": "https://www.crawco.com/blog/ai-drones-the-unknown-risk-thats-already-here",
+            "snippet": "Drones can serve as entry points for cyberattacks by exploiting vulnerabilities in their control systems. Hackers could seize control of drones ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Cybersecurity and Artificial Intelligence in Unmanned Aerial ...",
+            "text": "",
+            "link": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2/2046868",
+            "snippet": "Cyber threats are among the most severe challenges facing AI-powered UAVs, as attackers can exploit vulnerabilities in communication networks, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Security analysis of drones systems: Attacks, limitations, and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7206421/",
+            "snippet": "Being easy to control, drones can be used to perform different attacks. On the other hand, drones expose security vulnerabilities that make them prone to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Risks of Artificial Intelligence in Weapons Design",
+            "text": "",
+            "link": "https://hms.harvard.edu/news/risks-artificial-intelligence-weapons-design",
+            "snippet": "AI-powered weapons, which often involve drones or robots, are actively being developed and deployed, Rajan said. She expects that they will only ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Cyber threat in drone systems: bridging real-time security, legal ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/communications-and-networks/articles/10.3389/frcmn.2025.1661928/full",
+            "snippet": "UAV systems, which rely heavily on wireless communication, GPS navigation, and embedded software, are often exposed to cyber-attacks that can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Rise of Cyber Espionage: UAV and C-UAV Technologies as ...",
+            "text": "",
+            "link": "https://www.resecurity.com/blog/article/the-rise-of-cyber-espionage-uav-and-c-uav-technologies-as-targets",
+            "snippet": "Cyber Vulnerabilities: UAVs are susceptible to cyberattacks that can compromise their control systems. Hackers can hijack drones, manipulate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Cybersecurity and Artificial Intelligence in Unmanned Aerial ...",
+            "text": "",
+            "link": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2/2046868",
+            "snippet": "To mitigate the risks associated with GPS-based cyberattacks ... Self-adaptive AI models will allow UAVs to learn from cyberattacks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Security analysis of drones systems: Attacks, limitations, and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7206421/",
+            "snippet": "The aim of this survey is to investigate the emerging threats of using drones in cyber-attacks, along the countermeasures to thwart these attacks. The different ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Cybersecurity Risks Threatening Drones: Innovative Solutions ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387867253_The_Cybersecurity_Risks_Threatening_Drones_Innovative_Solutions_in_the_Digital_Age",
+            "snippet": "Cyberattacks targeting UAV systems primarily focus on three categories of data: confidentiality, ... used to protect UAVs from cyberattacks, e.g. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Drone Cyber Attack Detection through Machine Learning",
+            "text": "",
+            "link": "https://encyclopedia.pub/entry/25738",
+            "snippet": "... cyberattacks on drones. SORA includes two types ... Drone cyber-attack: An intrusion detection technique based on RSSI and trilateration.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Visual drone detection moves into critical infrastructure playbooks",
+            "text": "",
+            "link": "https://www.therobotreport.com/visual-drone-detection-moves-into-critical-infrastructure-playbooks/",
+            "snippet": "Amidst a 30% rise in cyber-attacks, many of which are designed to impact or disable physical Operational Technology (OT) systems, government ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 1,
+        "entropy": 0.3465745902794727,
+        "norm_entropy": 1.0000213742628894,
+        "avg_entropy": 0.17328729513973634,
+        "avg_norm_entropy": 0.5000106871314447,
+        "avg_prob": 0.7499994999999999,
+        "avg_logprob": -0.3465740902802227,
+        "avg_explogprob": 0.7071064276330685,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.625,
+        "topic": "",
+        "query": " Cyberattacks, weapon development or use, and mass harm is a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+        "response": " Cyberattacks, weapon development or use, and mass harm is a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+        "elapsed_time": 35.03457754200099
+    }
+}

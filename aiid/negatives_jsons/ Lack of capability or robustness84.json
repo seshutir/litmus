@@ -1,0 +1,344 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+    "output": " Lack of capability or robustness is a not a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a text generation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a text generation system generating text based on given prompts",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with simulating human writing styles in a text generation system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with assisting with content creation using a text generation system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Advancing adversarial and LLM robustness in trustworthy AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-026-11558-x",
+            "snippet": "by Q Tang \u00b7 2026 \u00b7 Cited by 1 \u2014 Robustness against adversarial attacks refers to the model's ability to maintain its performance in the face of potential adversarial attacks or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "Currently, most AI systems are far from robust. They often fail when exposed to new environments and can easily be exploited by adversaries. These weaknesses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v1",
+            "snippet": "The chapter delves into the factors that impede robustness, such as data bias, model complexity, and the pitfalls of underspecified ML pipelines ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 this study identifies the risk that despite high performances, the system does not provide a real benefit for the users, or lead to a blind trust in a AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Assessing, Exploiting, and Mitigating Syntactic Robustness ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3793655.3793727",
+            "snippet": "by L Sarker \u00b7 2026 \u00b7 Cited by 3 \u2014 LLMs are not syntactically robust for code generation prompts with formulas, especially for the ones that require mathematical reasoning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "It's Time to Act on the Risk of Efficient Personalized Text ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.06560v1",
+            "snippet": "Given known vulnerabilities of generated text detectors, it is not clear whether we will ever able to successfully combat malicious ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Rethinking Text Generation Metrics: From BLEU to ...",
+            "text": "",
+            "link": "https://medium.com/ai-enthusiast/rethinking-text-generation-metrics-from-bleu-to-adversarial-evaluations-5de09200b8ca",
+            "snippet": "This article delves into the nuanced evaluation of text generation models, starting with foundational metrics and expanding into advanced considerations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Adversarial Prompting in LLMs",
+            "text": "",
+            "link": "https://www.promptingguide.ai/risks/adversarial",
+            "snippet": "Adversarial prompting is an important topic in prompt engineering as it could help to understand the risks and safety issues involved with LLMs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Assessing, Exploiting, and Mitigating Syntactic Robustness ...",
+            "text": "",
+            "link": "https://par.nsf.gov/biblio/10662290-assessing-exploiting-mitigating-syntactic-robustness-failures-llm-based-code-generation",
+            "snippet": "by L Sarker \u00b7 2026 \u00b7 Cited by 3 \u2014 This paper explores two competing hypotheses about the cause of student-LLM miscommunication: (1) students simply lack the technical vocabulary ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "From human writing to artificial intelligence generated text - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10108763/",
+            "snippet": "by I Dergaa \u00b7 2023 \u00b7 Cited by 1309 \u2014 This manuscript aims at (i) exploring the potential benefits and threats of ChatGPT and other NLP technologies in academic writing and research publications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Human heuristics for AI-generated language are flawed",
+            "text": "",
+            "link": "https://www.pnas.org/doi/10.1073/pnas.2208839120",
+            "snippet": "by M Jakesch \u00b7 2023 \u00b7 Cited by 572 \u2014 Many AI applications could use language that is clearly not written by humans without loss of functionality. AI language systems could reduce the risks of false ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Limitations and accuracy of ai text generators and calculators",
+            "text": "",
+            "link": "https://www.facebook.com/groups/703007927897194/posts/787830222748297/",
+            "snippet": "One of the major limitations is that AI- generated text can lack human creativity and emotions, which can make it appear robotic and lacking in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Artificial Intelligence vs. Human Writing: Why AI Cannot ...",
+            "text": "",
+            "link": "https://tutoring.hsa.net/blogs/students-published-works/artificial-intelligence-vs-human-writing-why-ai-cannot-fully-replace-human-creativity?srsltid=AfmBOoq_EcoJNlcLjFZnkeXSujQMOfEnv25K4LKEDsr2XiIIIPDatTfO",
+            "snippet": "AI can not only generate high-quality text but also mimic human writing styles, AI-generated text excels in logic and consistency but often lacks emotional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Survey on Harmful Content Generation and Safety ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05775v1",
+            "snippet": "Meanwhile, they also pose serious risks by inadvertently or intentionally producing toxic, offensive, or biased content. This dual role of LLMs, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Ethical and regulatory challenges of AI technologies in ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879008/",
+            "snippet": "by C Mennella \u00b7 2024 \u00b7 Cited by 1212 \u2014 This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Ethical Concerns about AI",
+            "text": "",
+            "link": "https://www.computer.org/publications/tech-news/trends/ethical-concerns-on-ai-content-creation",
+            "snippet": "AI-driven content generators raise several ethical concerns related to bias, plagiarism, intellectual property, misuse, and the potential to generate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 GAI systems used for content creation may require robust watermarking techniques",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "International AI Safety Report 2026",
+            "text": "",
+            "link": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+            "snippet": "Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Is Human-Like Text Liked by Humans? Multilingual ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.11614v1",
+            "snippet": "Our extensive case study shows that expert annotators achieve detection accuracy of 87.6% on average over similar-to \\sim 9K examples.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Evaluating AI-generated vs. human-written reading ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40536-025-00255-w",
+            "snippet": "by LM Ripoll Y Schmitz \u00b7 2025 \u00b7 Cited by 17 \u2014 This study evaluates the potential of such models in generating German reading comprehension texts for educational large-scale assessments, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI-Generated Text as a Tool of Media Misinformation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/339436060_All_the_News_that's_Fit_to_Fabricate_AI-Generated_Text_as_a_Tool_of_Media_Misinformation",
+            "snippet": "People viewing information would need to rely on the generated text without these warnings to help them discern authorship.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+        "response": " Lack of capability or robustness is a not a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+        "elapsed_time": 188.3212501249509
+    }
+}

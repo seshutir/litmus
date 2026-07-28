@@ -1,0 +1,353 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with An e-commerce platform's recommendation system is designed to suggest products to users based on their browsing and purchasing history. It aims to provide personalized shopping experiences by identifying frequently bought-together items and promoting relevant products. The system's goal is to help users discover new products and streamline their shopping process.",
+    "output": " Overreliance and unsafe use is a risk associated with An e-commerce platform's recommendation system is designed to suggest products to users based on their browsing and purchasing history. It aims to provide personalized shopping experiences by identifying frequently bought-together items and promoting relevant products. The system's goal is to help users discover new products and streamline their shopping process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is a risk associated with an e-commerce platform's recommendation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is a risk associated with an e-commerce platform's recommendation system suggesting products to users based on their browsing and purchasing history",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Overreliance and unsafe use is a risk associated with an e-commerce platform's identification of frequently bought-together items",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Overreliance and unsafe use is a risk associated with promoting relevant products by an e-commerce platform's recommendation system",
+            "contexts": [
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Overreliance and unsafe use is a risk associated with an e-commerce platform's recommendation system helping users discover new products",
+            "contexts": [
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Risks of e-commerce Recommender Systems: A Scoping Review",
+            "text": "",
+            "link": "https://ajis.aaisnet.org/index.php/ajis/article/view/4869",
+            "snippet": "This paper presents a scoping review aimed at addressing this gap by synthesising different risk-generating events involved with the use of e-commerce RS.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Overcoming Hazards of E-commerce Recommender Systems for ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3785355",
+            "snippet": "The risk perspective focuses mainly on the potential harmful effects of inferior recommendations. For example, poor product choices made by a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Risks of e-commerce Recommender Systems: A Scoping Review",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/386072093_Risks_of_e-commerce_Recommender_Systems_A_Scoping_Review",
+            "snippet": "This paper presents a scoping review aimed at addressing this gap by synthesising different risk-generating events involved with the use of e- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Hidden Risks of E-Commerce Recommendation Systems",
+            "text": "",
+            "link": "https://agentiveaiq.com/blog/the-hidden-drawbacks-of-e-commerce-recommendation-systems",
+            "snippet": "70% of e-commerce recommendations are dominated by just 10% of bestsellers due to popularity bias \u00b7 Shilling attacks can distort recommendation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ethical Considerations In Recommendation Systems - Meegle",
+            "text": "",
+            "link": "https://www.meegle.com/en_us/topics/recommendation-algorithms/ethical-considerations-in-recommendation-systems",
+            "snippet": "Recommendation systems have become an integral part of our digital lives, shaping the way we consume content, shop online, and interact with technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The impact of different recommendation algorithms on consumer ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1059056025001066",
+            "snippet": "We explore how these two algorithms affect consumer's search behaviors and merchant's competition behaviors based on a consumer search model.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Consumers make decisions based on how and why products are ...",
+            "text": "",
+            "link": "https://www.psu.edu/news/research/story/consumers-make-decisions-based-how-and-why-products-are-recommended-online",
+            "snippet": "The first system generated recommendations based on the user's earlier purchases \u2014 often referred to as content-based recommendation systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Ethical Considerations In Recommendation Systems - Meegle",
+            "text": "",
+            "link": "https://www.meegle.com/en_us/topics/recommendation-algorithms/ethical-considerations-in-recommendation-systems",
+            "snippet": "They analyze user data, such as browsing history, purchase behavior, and demographic information, to deliver personalized recommendations. These systems are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Handling consumer vulnerability in e-commerce product ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S240584402202031X",
+            "snippet": "by SK Chatrath \u00b7 2022 \u00b7 Cited by 15 \u2014 In this study, a handling method for reused product images based on user vulnerability in e-commerce websites has been developed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "UNSAFE AND ONLINE",
+            "text": "",
+            "link": "https://tacd.org/wp-content/uploads/TACD-Report-2025.6.16.pdf",
+            "snippet": "Counterfeit products often fail to meet safety standards and pose sig- nificant health risks to consumers. The ease with which counterfeiters ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Amazon Frequently Bought Together Strategy for U.S Sellers",
+            "text": "",
+            "link": "https://www.sellerapp.com/blog/amazon-frequently-bought-together/",
+            "snippet": "Utilizing Amazon's \u201cFrequently Bought Together\u201d can result in serious growth, but it comes with real risks if you don't handle it like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Online Marketplace Risks & How to Prevent Them - Blog",
+            "text": "",
+            "link": "https://www.unit21.ai/blog/marketplace-risk",
+            "snippet": "Online marketplace risk refers to potential threats against an online platform that facilitates exchanging money, goods, and/or services.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Growing Challenge of E-Commerce and Product Safety",
+            "text": "",
+            "link": "https://consumerfed.org/press_release/the-growing-challenge-of-e-commerce-and-product-safety-cfa-analysis-of-2024-cpsc-safety-warnings/",
+            "snippet": "\u201cAs online marketplaces have grown, so too have the risk associated with unsafe products sold directly to consumers. CFA's analysis makes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The Hidden Side Effects of Recommendation Systems",
+            "text": "",
+            "link": "https://sloanreview.mit.edu/article/the-hidden-side-effects-of-recommendation-systems/",
+            "snippet": "Recommendation systems have the potential to fuel biases and affect sales in unexpected ways. Our findings have important implications for recommendation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Effects of Recommender Systems in E-Commerce Vary by Product ...",
+            "text": "",
+            "link": "https://www.cmu.edu/tepper-news/news/stories/2020/may/e-commerce-recommenders-research-lee.html",
+            "snippet": "A new study found that e-commerce recommenders increased the number of consumer views of product pages as well as the number of products ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "The Effects of E-Commerce Recommendation System Transparency ...",
+            "text": "",
+            "link": "https://www.mdpi.com/0718-1876/19/4/126",
+            "snippet": "Recommendation systems can alleviate information overload and help consumers make purchasing decisions more easily [1,2]. However, consumers are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "3. An e-commerce company wants to provide personalized product ...",
+            "text": "",
+            "link": "https://brainly.in/question/60724406",
+            "snippet": "An e-commerce company wants to provide personalized product recommendations to its customers. based on their browsing and purchase history.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How the Use of Algorithmic Recommendation Systems Can ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/334464854_Algorithm_Overdependence_How_the_Use_of_Algorithmic_Recommendation_Systems_Can_Increase_Risks_to_Consumer_Well-Being",
+            "snippet": "However, there's a risk of \"algorithm overdependence\", where consumers might place undue trust in these algorithm-generated recommendations, even when they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI Use-Case Compass \u2014 Retail & E-Commerce: Personalization at ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/ai-use-case-compass-retail-e-commerce-personalization-at-planet-scale-711f78bc5049",
+            "snippet": "Personalization is key in specialty retail, as these products are often tied to personal taste. AI recommendation engines suggest items based on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI-powered marketing: What, where, and how? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0268401224000318",
+            "snippet": "This research investigates how AI is currently applied across different marketing functions and its potential future evolution and impact on marketing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI has made hyper-personalization at scale a reality, but ... - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/vmladvertising/posts/ai-has-made-hyper-personalization-at-scale-a-reality-but-many-brands-are-discove/1352004766974380/",
+            "snippet": "Offer Personalized Product Recommendations E-commerce platforms like Amazon have successfully used personalized recommendations to boost sales.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.999982,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 21,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.199983599910484e-05,
+        "norm_entropy": 0.0003951749127970388,
+        "avg_entropy": 4.3999671998209676e-06,
+        "avg_norm_entropy": 7.903498255940775e-05,
+        "avg_prob": 0.9999955999999999,
+        "avg_logprob": -4.400032800404574e-06,
+        "avg_explogprob": 0.9999955999768797,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.8e-05,
+                    0.999982
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.9999928000648002,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with An e-commerce platform's recommendation system is designed to suggest products to users based on their browsing and purchasing history. It aims to provide personalized shopping experiences by identifying frequently bought-together items and promoting relevant products. The system's goal is to help users discover new products and streamline their shopping process.",
+        "response": " Overreliance and unsafe use is a risk associated with An e-commerce platform's recommendation system is designed to suggest products to users based on their browsing and purchasing history. It aims to provide personalized shopping experiences by identifying frequently bought-together items and promoting relevant products. The system's goal is to help users discover new products and streamline their shopping process.",
+        "elapsed_time": 80.93391545899976
+    }
+}

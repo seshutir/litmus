@@ -1,0 +1,291 @@
+{
+    "input": " False or misleading information is a not a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+    "output": " False or misleading information is a not a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "False or misleading information is a risk in the system's search",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "False or misleading information is a risk in the system designed to predict and suggest search terms",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "False or misleading information is a risk in retrieving and displaying images related to search queries in the system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "True or false? Five ways to manage false information about ...",
+            "text": "",
+            "link": "https://www.undrr.org/news/true-or-false-here-are-five-ways-manage-false-information-about-risk",
+            "snippet": "1. Know what fuels rumors among certain groups \u00b7 2. Anticipate what could go wrong \u00b7 3. Listen out for unverified, false or misleading information.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "(Why) Is Misinformation a Problem? - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/",
+            "snippet": "by Z Adams \u00b7 2023 \u00b7 Cited by 157 \u2014 Sharing misinformation involves unintentional deception driven by interactional motivations, whereas disinformation stems from intentional deception.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Misinformation and disinformation",
+            "text": "",
+            "link": "https://www.apa.org/topics/journalism-facts/misinformation-disinformation",
+            "snippet": "Misinformation is false or inaccurate information\u2014getting the facts wrong. Disinformation is false information which is deliberately intended to mislead ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "False information a major global risk according to WEF",
+            "text": "",
+            "link": "https://www.linkedin.com/posts/linda-bauld-716389159_false-and-misleading-information-sometimes-activity-7460772921439977472-6Z0V",
+            "snippet": "False and misleading information (sometimes referred to as mis and disinformation) is one of the main Global Risks identified by the World ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "False Information - an overview | ScienceDirect Topics",
+            "text": "",
+            "link": "https://www.sciencedirect.com/topics/computer-science/false-information",
+            "snippet": "False Information refers to the dissemination of inaccurate or misleading details, often through social networking sites, with the intention to deceive or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/",
+            "snippet": "by PS Park \u00b7 2024 \u00b7 Cited by 671 \u2014 AI's increasing capabilities at deception pose serious risks, ranging from short-term risks, such as fraud and election tampering, to long-term risks,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "What is the term for ai providing false information?",
+            "text": "",
+            "link": "https://www.facebook.com/groups/698593531630485/posts/1156079535881880/",
+            "snippet": "Hallucination is the term for AI providing false information, where models make educated guesses based on patterns, not intentional lies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Google targets 'fake news,' offensive search suggestions",
+            "text": "",
+            "link": "https://federalnewsnetwork.com/business-news/2017/04/google-targets-fake-news-offensive-search-suggestions/",
+            "snippet": "If too much misleading information appears in Google's search results, the damage could go beyond harm to its reputation for reliability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What are AI hallucinations?",
+            "text": "",
+            "link": "https://cloud.google.com/discover/what-are-ai-hallucinations",
+            "snippet": "AI hallucinations are incorrect or misleading results that AI models generate. These errors can be caused by a variety of factors, including insufficient ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Never Assume That the Accuracy of Artificial Intelligence ...",
+            "text": "",
+            "link": "https://unu.edu/article/never-assume-accuracy-artificial-intelligence-information-equals-truth",
+            "snippet": "When accuracy is confused with truth, there is high risk of harm, especially in fields where human judgment and ethical considerations are critical.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "A unified approach of detecting misleading images via tracing ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9272873/",
+            "snippet": "by D Varshney \u00b7 2022 \u00b7 Cited by 10 \u2014 In this paper, we investigated machine learning-based as well as deep learning-based approaches utilized to verify misleading multimedia content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Online searches to evaluate misinformation can increase ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41586-023-06883-y",
+            "snippet": "by K Aslett \u00b7 2024 \u00b7 Cited by 187 \u2014 We present consistent evidence that online search to evaluate the truthfulness of false news articles actually increases the probability of believing them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "How Bing delivers search results",
+            "text": "",
+            "link": "https://support.microsoft.com/en-us/bing/how-bing-delivers-search-results",
+            "snippet": "For certain types of content where we identified search results may include harmful or misleading information, we might provide supplemental information,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "How Google delivers reliable information in Search",
+            "text": "",
+            "link": "https://blog.google/products-and-platforms/products/search/how-google-delivers-reliable-information-search/",
+            "snippet": "We've learned that sites that demonstrate authoritativeness and expertise on a topic are less likely to publish false or misleading information, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "WebTrust: An AI-Driven Data Scoring System for Reliable ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.12072v1",
+            "snippet": "In this paper, we introduce WebTrust, an AI-driven framework for assessing the reliability of information through a fine-tuned model.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/",
+            "snippet": "by PS Park \u00b7 2024 \u00b7 Cited by 671 \u2014 This paper argues that a range of current AI systems have learned how to deceive humans. We define deception as the systematic inducement of false beliefs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "How Bing delivers search results",
+            "text": "",
+            "link": "https://support.microsoft.com/en-us/bing/how-bing-delivers-search-results",
+            "snippet": "When there is no authoritative source, our goal is to avoid promoting bias or potentially misleading information. We respect user intent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Understanding question-answering systems: Evolution ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0952197625009972",
+            "snippet": "by A Farea \u00b7 2025 \u00b7 Cited by 20 \u2014 Question-answering (QA) systems are designed to automatically provide users with accurate, relevant, and concise answers to their questions, typically ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Safe, responsible and effective use of LLMs",
+            "text": "",
+            "link": "https://technologyinsights.dnv.com/safe-responsible-and-effective-use-of-llms/",
+            "snippet": "This article elaborates on the strengths and limitations of large language models (LLMs) based on publicly available research and our ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 19,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " False or misleading information is a not a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+        "response": " False or misleading information is a not a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+        "elapsed_time": 127.91316587501206
+    }
+}

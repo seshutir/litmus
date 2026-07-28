@@ -1,0 +1,220 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to provide autonomous transportation by utilizing advanced sensors and navigation systems. It aims to safely transport passengers between designated locations, improving traffic flow and reducing accidents. The vehicle operates independently, making decisions in real-time to ensure a smooth and efficient ride.",
+    "output": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to provide autonomous transportation by utilizing advanced sensors and navigation systems. It aims to safely transport passengers between designated locations, improving traffic flow and reducing accidents. The vehicle operates independently, making decisions in real-time to ensure a smooth and efficient ride.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in autonomous transportation provided by a self-driving vehicle",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in utilizing advanced sensors and navigation systems to make decisions in real-time in a self-driving vehicle",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Public perception of autonomous vehicle capability determines ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0965856423003075",
+            "snippet": "Road accidents involving autonomous vehicles (AVs) will not only introduce legal challenges over liability distribution but also generally diminish the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Self-Driving Cars Tell Us About AI Risks - IEEE Spectrum",
+            "text": "",
+            "link": "https://spectrum.ieee.org/self-driving-cars-2662494269",
+            "snippet": "Automotive AI in the United States has been linked to at least 25 confirmed deaths and to hundreds of injuries and instances of property damage.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Top Autonomous Vehicle Challenges and How to Solve Them",
+            "text": "",
+            "link": "https://www.taskus.com/insights/autonomous-vehicle-challenges/",
+            "snippet": "In this article, we will explore the key challenges for autonomous vehicles and discuss potential strategies that could pave the way to a fully autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11360603/",
+            "snippet": "However, these sensors have weaknesses, and are prone to failure, resulting in decision errors by vehicle controllers that pose significant ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The 14 Critical Hurdles for Autonomous Vehicle Systems - 7ITS News",
+            "text": "",
+            "link": "https://www.7itsnews.com/index.php?m=home&c=View&a=index&aid=22449",
+            "snippet": "Autonomous vehicles promise enhanced safety and efficiency, yet face significant hurdles including sensor limitations, adverse weather ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What are the limitations of current sensor technology in self-driving ...",
+            "text": "",
+            "link": "https://www.linkedin.com/advice/3/what-limitations-current-sensor-technology-qlbnc",
+            "snippet": "6 Cybersecurity Risks. With the increased reliance on sensors and connectivity in self-driving cars comes heightened cybersecurity risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation: The Growing ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "Autonomous vehicles (AVs) rely heavily on advanced AI techniques to perceive their environment, make decisions, and navigate complex driving scenarios. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Automated driving regulations \u2013 where are we now? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "Self-driving vehicles are a tool that contributes significantly to sustainable development, both nationally and globally, as their positive effects extend ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Exploring the implications of autonomous vehicles - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8885781/",
+            "snippet": "This paper provides a comprehensive review of the previous studies in the transportation field that involve AVs with the aim of exploring the implications of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Understanding AI Risks in Transportation | September 2024",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/2024-09/HASS_COE_AI_Assurance_Whitepaper_AI_Risk_Sep2024.pdf",
+            "snippet": "AI risks may cause a range of potential hazards to vehicles, drivers/passengers, pedestrians, and other stakeholders in the transportation ecosystem, which in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) AI in Autonomous Vehicles: Opportunities, Challenges, and ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/380836855_AI_in_Autonomous_Vehicles_Opportunities_Challenges_and_Regulatory_Implications",
+            "snippet": "This paper provides an overview of the key opportunities and benefits of AI-driven autonomous vehicles, discusses the major challenges and open problems",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.99998,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.0999799498715245e-05,
+        "norm_entropy": 0.0003624206846553345,
+        "avg_entropy": 1.0499899749357622e-05,
+        "avg_norm_entropy": 0.00018121034232766725,
+        "avg_prob": 0.9999895,
+        "avg_logprob": -1.05001002513579e-05,
+        "avg_explogprob": 0.9999894999548745,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    2e-05,
+                    0.99998
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999800002,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to provide autonomous transportation by utilizing advanced sensors and navigation systems. It aims to safely transport passengers between designated locations, improving traffic flow and reducing accidents. The vehicle operates independently, making decisions in real-time to ensure a smooth and efficient ride.",
+        "response": " Lack of capability or robustness is a risk associated with A self-driving vehicle is designed to provide autonomous transportation by utilizing advanced sensors and navigation systems. It aims to safely transport passengers between designated locations, improving traffic flow and reducing accidents. The vehicle operates independently, making decisions in real-time to ensure a smooth and efficient ride.",
+        "elapsed_time": 21.274230083000475
+    }
+}

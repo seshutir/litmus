@@ -1,0 +1,202 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in the admissions process using the automated system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in using algorithms to evaluate and select candidates in the admissions process",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic discrimination: examining its types and regulatory measures ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 72 \u2014 Algorithmic discrimination can manifest in various forms, such as bias by the algorithmic agents, biased feature selection, preventive controls, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Avoiding the Discriminatory Use of Artificial Intelligence",
+            "text": "",
+            "link": "https://www.ed.gov/media/document/avoiding-discriminatory-use-of-artificial-intelligence-112274.pdf",
+            "snippet": "Based on the facts, as alleged, the student may have experienced disability discrimination in the admissions process and/or not have been provided with FAPE.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "California Regulators Adopt New Discrimination Rules For Automated ...",
+            "text": "",
+            "link": "https://www.fisherphillips.com/en/insights/insights/california-regulators-adopt-new-discrimination-rules-for-automated-decision-systems",
+            "snippet": "California Regulators Adopt New Discrimination Rules For Automated-Decision Systems: 3 Steps for Employers Using AI in the Workplace.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Fairness, AI & recruitment",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924000335",
+            "snippet": "by C Rigotti \u00b7 2024 \u00b7 Cited by 209 \u2014 AI applications for recruitment and selection purposes are not flawless and can reproduce and perpetuate diversity bias, thereby discriminating against job ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "by Z Chen \u00b7 2023 \u00b7 Cited by 783 \u2014 This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI hiring tools may be filtering out the best job applicants",
+            "text": "",
+            "link": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+            "snippet": "AI screening technology, such as one-way video interviews, can leave some highly qualified candidates without the interviews they deserve.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9309597/",
+            "snippet": "by AL Hunkenschroer \u00b7 2022 \u00b7 Cited by 203 \u2014 We analyze whether AI hiring practices inherently conflict with the concepts of validity, autonomy, nondiscrimination, privacy, and transparency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Fairness, AI & recruitment",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924000335",
+            "snippet": "by C Rigotti \u00b7 2024 \u00b7 Cited by 209 \u2014 In this article, we conduct a scoping literature review on fairness in AI applications for recruitment and selection purposes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Eliminating all bias and discrimination from AI systems may not be ...",
+            "text": "",
+            "link": "https://www.facebook.com/WomensAgenda/posts/eliminating-all-bias-and-discrimination-from-ai-systems-may-not-be-achievable-bu/1063443999552852/",
+            "snippet": "Eliminating all bias and discrimination from AI systems may not be achievable. These AI applications, which help evaluate resumes and assess ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI in Hiring: Mitigating Legal Risks and Bias to Build a Fair and Effective ...",
+            "text": "",
+            "link": "https://beliganlawgroup.com/ai-in-hiring-mitigating-legal-risks-and-bias-to-build-a-fair-and-effective-recruitment-process/",
+            "snippet": "The EEOC's focus is on preventing algorithmic discrimination, ensuring that AI systems don't unfairly disadvantage protected groups based on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 12,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+        "elapsed_time": 67.98549158300739
+    }
+}

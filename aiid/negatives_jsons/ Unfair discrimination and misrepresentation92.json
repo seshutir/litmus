@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in this workforce management system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing data on shift cancellations to assess worker reliability in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Employment Discrimination - Texas Workforce Commission",
+            "text": "",
+            "link": "https://www.twc.texas.gov/programs/civil-rights/employment-discrimination",
+            "snippet": "The laws protect you from employment discrimination when it involves: Unfair treatment because of your race, color, religion, sex, national origin, disability,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What Courts Consider Valid Unfair Treatment in the Workplace",
+            "text": "",
+            "link": "https://www.myshortlister.com/insights/unfair-treatment-in-the-workplace",
+            "snippet": "Unfair treatment in the workplace can cross legal boundaries and trigger a claim. Explore when and why this happens, and how to navigate it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Workplace Discrimination: What HR Needs to Know and Do Now",
+            "text": "",
+            "link": "https://www.hrmorning.com/topic-hubs/workplace-discrimination/",
+            "snippet": "Unequal Pay and Subjective Performance Reviews. Pay disparities and biased performance evaluations tied to protected traits are discriminatory.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Know Your Rights: Workplace Discrimination is Illegal",
+            "text": "",
+            "link": "https://www.eeoc.gov/know-your-rights-workplace-discrimination-illegal",
+            "snippet": "Under the EEOC's laws, an employer may not discriminate against you, regardless of your immigration status, on the bases of: Race Color Religion",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Strengthening accountability for discrimination: Confronting ...",
+            "text": "",
+            "link": "https://www.epi.org/unequalpower/publications/strengthening-accountability-for-discrimination-confronting-fundamental-power-imbalances-in-the-employment-relationship/",
+            "snippet": "One of the greatest barriers for workers in bringing a complaint of discrimination is the risk of retaliation and harm to their career.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Strengthening accountability for discrimination: Confronting ...",
+            "text": "",
+            "link": "https://www.epi.org/unequalpower/publications/strengthening-accountability-for-discrimination-confronting-fundamental-power-imbalances-in-the-employment-relationship/",
+            "snippet": "Again, this type of discrimination is difficult for employees to identify and prove, since employees do not have access to system wide data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Predictive Health Discrimination: Cabining AI Risk Assessment to ...",
+            "text": "",
+            "link": "https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1728&context=healthmatrix",
+            "snippet": "Predictive health data monitoring is rapidly expanding in workplaces, outpacing legal protections and exposing workers to new risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Identifying Discrimination at Work: The Use of Field Experiments - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3807133/",
+            "snippet": "by D Pager \u00b7 2012 \u00b7 Cited by 220 \u2014 Antidiscrimination law offers protection to workers who have been treated unfairly on the basis of their race, gender, religion, or national origin.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "by MMAAM Sony \u00b7 2025 \u00b7 Cited by 27 \u2014 AI algorithms can perpetuate discrimination through biased data sets, opaque decision-making processes, and exclusionary employment criteria if they are not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The Data-Driven Workplace and the Case for Worker Technology Rights",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/00197939221131558",
+            "snippet": "by A Bernhardt \u00b7 2023 \u00b7 Cited by 97 \u2014 In this article, the authors analyze employers' use of data-driven systems in a diverse set of industries and identify a range of potential harms to workers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Can Employers Use AI or Algorithms to Evaluate Employee Performance?",
+            "text": "",
+            "link": "https://www.mitchellkline.com/can-employers-use-ai-or-algorithms-to-evaluate-employee-performance/",
+            "snippet": "Yes, employers can use AI tools to assess employee performance. However, these systems must comply with federal anti-discrimination laws, A primary concern is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Handling Internal Discrimination Complaints About Performance ...",
+            "text": "",
+            "link": "https://www.eeoc.gov/employers/small-business/handling-internal-discrimination-complaints-about-performance-evaluations",
+            "snippet": "employees may complain that their evaluations were unfair or inaccurate for discriminatory reasons.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "\"Data-Driven Discrimination at Work\" by Pauline T. Kim",
+            "text": "",
+            "link": "https://scholarship.law.wm.edu/wmlr/vol58/iss3/4/",
+            "snippet": "by PT Kim \u00b7 2017 \u00b7 Cited by 758 \u2014 Algorithms built on inaccurate, biased, or unrepresentative data can produce outcomes biased along lines of race, sex, or other protected characteristics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 2e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00023021107624616994,
+        "norm_entropy": 0.0003624206846545195,
+        "avg_entropy": 0.00011510553812308497,
+        "avg_norm_entropy": 0.00018121034232725975,
+        "avg_prob": 1.0500000000000001e-05,
+        "avg_logprob": -12.317644421187278,
+        "avg_explogprob": 4.47213595499958e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.99998,
+                    2e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 2.0000000000000003e-10,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+        "elapsed_time": 38.58428687497508
+    }
+}

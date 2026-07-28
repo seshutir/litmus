@@ -1,0 +1,220 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+    "output": " Unequal performance across groups is a not a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing and processing identity documents using a computer vision system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Selection and measurement bias arise when marginalized groups are systematically omitted or mislabeled during data collection; such bias has been detected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bias in Computer Vision Definition",
+            "text": "",
+            "link": "https://encord.com/glossary/bias-in-computer-vision-definition/",
+            "snippet": "Bias in computer vision can lead to unfair and discriminatory outcomes, perpetuating societal inequalities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Navigating the muddy waters of bias in artificial intelligence research",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X25003173",
+            "snippet": "by MH Jarrahi \u00b7 2025 \u00b7 Cited by 5 \u2014 These biases can lead to suboptimal decision-making, limited generalizability, and a disconnect between the RL model's performance in training versus real-world ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Managing the risks of inevitably biased visual artificial intelligence systems",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/managing-the-risks-of-inevitably-biased-visual-artificial-intelligence-systems/",
+            "snippet": "Our research shows that bias is not only reflected in the patterns of language, but also in the image datasets used to train computer vision models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Bias: Understanding and Mitigating Unfair Outcomes in Your AI Systems",
+            "text": "",
+            "link": "https://www.mymobilelyfe.com/artificial-intelligence/ai-bias-understanding-and-mitigating-unfair-outcomes-in-your-ai-systems/",
+            "snippet": "Measurement Bias: This type of bias occurs when the features used to train the AI system are inaccurate or unreliable for certain groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 Clinical use of AI systems should demonstrate equitable performance across a spectrum of demographic groups to ensure performant generalizability, including ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Historical or representational bias originates in unequal social power relations that become encoded in textual or visual corpora;",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 853 \u2014 These cases illus- trate the risks associated with using AI systems for tasks like sentiment or affect analysis, can perpetuate biases across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "When detecting bias, computer programmers normally examine the set of outputs that the algorithm produces to check for anomalous results.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What Science Really Says About Facial Recognition Accuracy and ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/2022/07/23/what-science-really-says-about-facial-recognition-accuracy-and-bias-concerns/",
+            "snippet": "Misconstruing demographic labeling technology as facial recognition has continued with false claims that the technology is \u201ceven less reliable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Facial Recognition Algorithms: A Systematic Literature Review - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11856072/",
+            "snippet": "by NEL Fadel \u00b7 2025 \u00b7 Cited by 66 \u2014 This systematic literature review aims to understand new developments and challenges in facial recognition technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Face Recognition Technology Accuracy and Performance",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/article/frt-accuracy-performance/",
+            "snippet": "Some research suggests that face recognition technology results may bias human reviewers' analysis of face similarity\u2013at least when the human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Face Recognition Vendor Test (FRVT), Part 3: Demographic Effects",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ir/2019/nist.ir.8280.pdf",
+            "snippet": "by P Grother \u00b7 2019 \u00b7 Cited by 95 \u2014 The first two reports cover, respectively, the performance of one-to-one face recognition algorithms used for ver- ification of asserted ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "D. Accuracy | Center on Privacy and Technology",
+            "text": "",
+            "link": "https://www.perpetuallineup.org/findings/accuracy",
+            "snippet": "With an identification rate above 95% as measured by US government-sponsored Face Recognition Vendor Tests, our technology is the industry's finest.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+        "response": " Unequal performance across groups is a not a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+        "elapsed_time": 83.65001970803132
+    }
+}

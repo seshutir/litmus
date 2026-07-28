@@ -1,0 +1,210 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A voice-controlled virtual assistant is designed to play music and respond to voice commands, providing users with a convenient and personalized experience. It aims to learn and adapt to users' preferences, allowing for seamless interaction and control over various smart devices. The assistant's primary function is to understand and execute voice commands, enabling users to manage their environment with ease.",
+    "output": " Lack of capability or robustness is a not a risk associated with A voice-controlled virtual assistant is designed to play music and respond to voice commands, providing users with a convenient and personalized experience. It aims to learn and adapt to users' preferences, allowing for seamless interaction and control over various smart devices. The assistant's primary function is to understand and execute voice commands, enabling users to manage their environment with ease.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a voice-controlled virtual assistant",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a voice-controlled virtual assistant playing music and responding to voice commands",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Security and privacy problems in voice assistant applications",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167404823003589",
+            "snippet": "by J Li \u00b7 2023 \u00b7 Cited by 72 \u2014 This paper concludes and assesses five kinds of security attacks and three types of privacy threats in the papers published in the top-tier conferences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "On the Security and Privacy Challenges of Virtual Assistants",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8036736/",
+            "snippet": "by T Bolton \u00b7 2021 \u00b7 Cited by 172 \u2014 voice assistants are vulnerable to malicious attacks and worries that the VA is recording without the user's knowledge or consent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Security considerations for voice-activated digital assistants",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/security-considerations-voice-activated-digital-assistants-itsap70013",
+            "snippet": "Voice commands for activities like controlling lights or changing music have a minimal risk of capturing background conversation. However, there ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Understanding and Mitigating Security Risks of Voice- ...",
+            "text": "",
+            "link": "https://cse.buffalo.edu/faculty/xmi/zh/files/voice_assistant.pdf",
+            "snippet": "by N Zhang \u00b7 Cited by 258 \u2014 Protecting such VUIs is fundamentally challenging, due to the lack of effective means to authenticate the parties involved across the open and noisy voice ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Risks of Voice Technology",
+            "text": "",
+            "link": "https://resources.aferm.org/erm_feed/the-risks-of-voice-technology/",
+            "snippet": "\u201cThe addition of voice absolutely increases the risk level for technology users,\u201d said Nathan Wenzler, chief security strategist at AsTech Consulting, a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Security considerations for voice-activated digital assistants",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/security-considerations-voice-activated-digital-assistants-itsap70013",
+            "snippet": "Voice commands for activities like controlling lights or changing music have a minimal risk of capturing background conversation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "On the Security and Privacy Challenges of Virtual Assistants",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8036736/",
+            "snippet": "by T Bolton \u00b7 2021 \u00b7 Cited by 172 \u2014 VAs have little in the way of voice authentication; they will respond to any voice that utters the wake word, meaning that one user could quite easily ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Understanding and Mitigating Security Risks of Voice- ...",
+            "text": "",
+            "link": "https://cse.buffalo.edu/faculty/xmi/zh/files/voice_assistant.pdf",
+            "snippet": "by N Zhang \u00b7 Cited by 258 \u2014 Already prior research shows that the adversary can generate obfuscated voice commands [14] or even completely inaudible ultrasound [49] to attack speech.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Voxia: A Virtual Voice Assistant",
+            "text": "",
+            "link": "https://www.scitepress.org/Papers/2025/138854/138854.pdf",
+            "snippet": "Voxia is a voice assistant powered by artificial intelligence. The project aims to tackle key issues like poor efficiency in noisy environments, privacy, like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI Assistants in the Future: Security Concerns and Risk ...",
+            "text": "",
+            "link": "https://www.trendmicro.com/vinfo/us/security/news/security-technology/looking-into-the-future-risks-and-security-considerations-to-ai-digital-assistants",
+            "snippet": "The article explores the evolving landscape of AI digital assistants, highlighting their transformative potential, associated security risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI-powered voice assistants for older adults - Springer Nature",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10209-026-01352-5",
+            "snippet": "by N Pathirana \u00b7 2026 \u2014 AI-powered Voice Assistants (VAs) are explored as tools to mitigate loneliness, social isolation, and cognitive decline. technological ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Security considerations for voice-activated digital assistants",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/security-considerations-voice-activated-digital-assistants-itsap70013",
+            "snippet": "Voice-activated digital assistants are a type of smart device that can control other devices when prompted by a human voice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Mitigating Privacy Risks in Personal Voice Assistants",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/e7d1d7ca-13b3-489b-98c1-07751102edf8-MECA.pdf?abstractid=6551262",
+            "snippet": "This paper focuses on privacy and security concerns surrounding the four major voice assistants, namely, Apple Siri, Google Assistant, Amazon Alexa, and.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 2e-06,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 2.1e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0002524354772798665,
+        "norm_entropy": 0.00039736907615466597,
+        "avg_entropy": 0.00012621773863993326,
+        "avg_norm_entropy": 0.00019868453807733299,
+        "avg_prob": 1.15e-05,
+        "avg_logprob": -11.946675748822589,
+        "avg_explogprob": 6.480740698407868e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999998,
+                    2e-06
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999979,
+                    2.1e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 2.2249999999999998e-10,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A voice-controlled virtual assistant is designed to play music and respond to voice commands, providing users with a convenient and personalized experience. It aims to learn and adapt to users' preferences, allowing for seamless interaction and control over various smart devices. The assistant's primary function is to understand and execute voice commands, enabling users to manage their environment with ease.",
+        "response": " Lack of capability or robustness is a not a risk associated with A voice-controlled virtual assistant is designed to play music and respond to voice commands, providing users with a convenient and personalized experience. It aims to learn and adapt to users' preferences, allowing for seamless interaction and control over various smart devices. The assistant's primary function is to understand and execute voice commands, enabling users to manage their environment with ease.",
+        "elapsed_time": 78.62071899999864
+    }
+}

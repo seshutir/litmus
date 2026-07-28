@@ -1,0 +1,352 @@
+{
+    "input": " Loss of human agency and autonomy is a risk associated with An automated system is designed to evaluate employee performance based on various indicators, aiming to provide a fair and efficient assessment. The system uses data-driven approaches to identify trends and patterns in performance, helping to inform decisions. It also seeks to streamline the evaluation process, minimizing the need for manual intervention.",
+    "output": " Loss of human agency and autonomy is a risk associated with An automated system is designed to evaluate employee performance based on various indicators, aiming to provide a fair and efficient assessment. The system uses data-driven approaches to identify trends and patterns in performance, helping to inform decisions. It also seeks to streamline the evaluation process, minimizing the need for manual intervention.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is a risk in an automated employee performance evaluation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in using data-driven approaches to identify trends and patterns in employee performance",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Loss of human agency and autonomy is a risk in streamlining the employee evaluation process",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Loss of human agency and autonomy is a risk in minimizing the need for manual intervention in an automated system",
+            "contexts": [
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The fading of human agency in automated systems - Diplo",
+            "text": "",
+            "link": "https://www.diplomacy.edu/blog/the-fading-of-human-agency-in-automated-systems/",
+            "snippet": "As automation grows, human agency is fading. Discover the risks of shifting from active decision-making to supervision and how to preserve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithmic Management and the Future of Human Work",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.14231v1",
+            "snippet": "This study examines the evolving impact of algorithmic management on human resource management (HRM) practices, with a focus on employee ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI and Human Autonomy in the Workplace",
+            "text": "",
+            "link": "https://www.blockchain-council.org/ai/ai-human-autonomy-workplace/",
+            "snippet": "Human autonomy at work means the ability to make choices, use judgment, and control one's own actions while performing tasks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Can Employers Use AI or Algorithms to Evaluate Employee ...",
+            "text": "",
+            "link": "https://www.mitchellkline.com/can-employers-use-ai-or-algorithms-to-evaluate-employee-performance/",
+            "snippet": "AI performance evaluations aren't necessarily fair or unbiased. The Law Office of Mitchell A. Kline helps you understand your legal rights.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Agency Decay and the Risk of AI's Asymptomatic Harms",
+            "text": "",
+            "link": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202602/agency-decay-and-the-risk-of-ais-asymptomatic-harms",
+            "snippet": "Research found that AI improved efficiency while eroding underlying expertise and agency. False mastery is an automatic outcome of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI and employee wellbeing in the workplace: An empirical study",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296325004072",
+            "snippet": "We found that AI adoption does not directly impact employee wellbeing but indirectly influences it through work-related factors of task optimization and safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Exploring Human\u2013AI Dynamics in Enhancing Workplace Health and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11855051/",
+            "snippet": "Building on these emerging trends, the present review seeks to explore how human\u2013AI interaction shapes occupational health and safety, focusing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Data and Algorithms at Work: The Case for Worker Technology Rights",
+            "text": "",
+            "link": "https://laborcenter.berkeley.edu/data-algorithms-at-work/",
+            "snippet": "Loss of autonomy and dignity. Finally, workers stand to lose their autonomy and dignity when data-driven technologies are used to micromanage ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI in the workplace: A report for 2025 - McKinsey",
+            "text": "",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work",
+            "snippet": "The book highlights how AI could enhance human agency and heighten our potential. It envisions a human-led, future-forward approach to AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The dark sides of people analytics: reviewing the perils for ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2021.1927213",
+            "snippet": "However, transferring and applying the efficiency-driven logic of analytics to manage humans carries numerous risks, challenges, and ethical implications. Based ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The Last Human Decision: AI's Quiet War on Agency in Employment",
+            "text": "",
+            "link": "https://thefutureofemployment.com/the-last-human-decision-ais-quiet-war-on-agency-in-employment/",
+            "snippet": "This, more than job loss, is the real threat of AI in the workforce\u2014the quiet war on our agency, our autonomy, and ultimately, our humanity. On the road to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "\"AI agency decay risks diminishing human cognitive autonomy.\"",
+            "text": "",
+            "link": "https://cbhealthpartners.com/blog/ai-dependence",
+            "snippet": "Research suggests that while AI can reduce certain work stressors by automating tedious tasks, over-reliance may increase cognitive load and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "When resilience backfires: the counterintuitive effect of employee ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13043328/",
+            "snippet": "Two central processes, perceived autonomy, which is the cognitive-evaluative channel that is associated with self-determination and control, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Unpacking human-AI interaction: Exploring unintended ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296325002292",
+            "snippet": "This research critically examines the negative experiences associated with AI-based HRM systems, specifically highlighting the erosion of interpersonal autonomy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Silent Erosion: How AI's Helping Hand Weakens Our Mental Grip",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/the-silent-erosion-how-ais-helping-hand-weakens-our-mental-grip/",
+            "snippet": "As AI systems become more capable and ubiquitous, they risk eroding something fundamental to human experience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Agency, Autonomy, and the Human Risk in Artificial Intelligence",
+            "text": "",
+            "link": "https://www.reddit.com/r/OpenAI/comments/1r4z7xj/pressure_without_desire_agency_autonomy_and_the/",
+            "snippet": "The real risk lies not in machines acquiring desire, but in systems acquiring de facto autonomy through pressure, persistence, and dependence\u2014 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Human control of AI systems: from supervision to teaming - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12058881/",
+            "snippet": "This article reviews two main approaches to human control of AI systems: supervisory human control and human\u2013machine teaming.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The Future of Human Agency | Imagining the Internet - Elon University",
+            "text": "",
+            "link": "https://www.elon.edu/u/imagining/surveys/xv2023/the-future-of-human-agency-2035/",
+            "snippet": "Humans need new ways to enforce principles of digital self-determination in order to reclaim agency and autonomy that have been lost in the current data era.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Knowledge and artificial intelligence on employee behaviour ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25000952",
+            "snippet": "This study investigates the influence of AI-based technologies on creating safe and respectful work atmospheres, focusing on their role in fostering safety, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethical and regulatory challenges of AI technologies in healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879008/",
+            "snippet": "This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI in the workplace: A report for 2025 - McKinsey",
+            "text": "",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work",
+            "snippet": "Almost all companies invest in AI, but just 1% believe they are at maturity. Our new report looks at how AI is being used in the workplace ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "(PDF) The impact of artificial intelligence on human resource ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392759485_The_impact_of_artificial_intelligence_on_human_resource_management_practices_An_investigation",
+            "snippet": "Research purpose: This study aims to systematically review and analyse the literature on AI's current integration into HRM practices across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "How artificial intelligence is accelerating the digital government ...",
+            "text": "",
+            "link": "https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en/full-report/how-artificial-intelligence-is-accelerating-the-digital-government-journey_d9552dc7.html",
+            "snippet": "This chapter explains how artificial intelligence (AI) can accelerate the digital government journey. It situates government as a developer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a risk associated with An automated system is designed to evaluate employee performance based on various indicators, aiming to provide a fair and efficient assessment. The system uses data-driven approaches to identify trends and patterns in performance, helping to inform decisions. It also seeks to streamline the evaluation process, minimizing the need for manual intervention.",
+        "response": " Loss of human agency and autonomy is a risk associated with An automated system is designed to evaluate employee performance based on various indicators, aiming to provide a fair and efficient assessment. The system uses data-driven approaches to identify trends and patterns in performance, helping to inform decisions. It also seeks to streamline the evaluation process, minimizing the need for manual intervention.",
+        "elapsed_time": 53.056013167000856
+    }
+}

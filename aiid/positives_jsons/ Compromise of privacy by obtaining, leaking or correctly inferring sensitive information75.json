@@ -1,0 +1,415 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A facial recognition system is designed to identify individuals by analyzing facial features, aiming to enhance security and law enforcement efforts. It intends to provide accurate matches between facial images, assisting in the detection and prevention of crimes. The system's primary goal is to support investigations and improve public safety.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A facial recognition system is designed to identify individuals by analyzing facial features, aiming to enhance security and law enforcement efforts. It intends to provide accurate matches between facial images, assisting in the detection and prevention of crimes. The system's primary goal is to support investigations and improve public safety.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in analyzing facial features to identify individuals in a facial recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Compromise of privacy is a risk in providing accurate matches between facial images in a facial recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Compromise of privacy is a risk in detecting and preventing crimes using a facial recognition system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Compromise of privacy is a risk in supporting investigations and improving public safety using a facial recognition system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Facial Recognition Technology and Privacy Concerns - ISACA",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2022/volume-51/facial-recognition-technology-and-privacy-concerns",
+            "snippet": "Data breaches involving facial recognition data increase the potential for identity theft, stalking, and harassment because, unlike passwords ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Facial Recognition: Balancing Security and Privacy Concerns",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/facial-recognition-balancing-security-and-privacy",
+            "snippet": "Many people view facial recognition as controversial, mainly because of the risks it poses to privacy and the biases built into some systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How facial-recognition app poses threat to privacy, civil liberties",
+            "text": "",
+            "link": "https://news.harvard.edu/gazette/story/2023/10/how-facial-recognition-app-poses-threat-to-privacy-civil-liberties/",
+            "snippet": "Even though facial recognition technology can be used for good purposes such as criminal investigations, the dangers it poses to privacy rights ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "When it Comes to Facial Recognition, There is No Such Thing as a ...",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/when-it-comes-to-facial-recognition-there-is-no-such-thing-as-a-magic-number",
+            "snippet": "Lawmakers should know that a facial recognition algorithm's performance on a test cannot be easily or quickly generalized to make broad claims ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Privacy, bias and the clinical use of facial recognition technology",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10578447/",
+            "snippet": "The privacy risks with facial recognition are about the same as with behavioral biometric data. ... AI systems claiming to \u201cread\u201d emotions pose discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Facial Recognition and Privacy: Concerns and Solutions in the Age ...",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/facial-recognition-and-privacy-concerns-and-solutions-in-the-age-of-ai",
+            "snippet": "Facial recognition technology raises substantial ethical, legal, and privacy issues, particularly in the era of artificial intelligence, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "The proposed Commercial Facial Recognition Privacy Act would prohibit commercial entities from using FRT to identify or track individuals ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Privacy Implications of Using Facial Recognition Systems",
+            "text": "",
+            "link": "https://identitymanagementinstitute.org/privacy-implications-of-using-facial-recognition-systems/",
+            "snippet": "According to a study that Wired published, facial recognition systems are not as effective at correctly identifying Black females as they are at ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Privacy vs. Security: The Legal Implications of Using Facial ...",
+            "text": "",
+            "link": "https://nysba.org/privacy-vs-security-the-legal-implications-of-using-facial-recognition-technology-at-entertainment-venues/?srsltid=AfmBOoo4Af5Wql_Xjc7CBQzdlBS-E7wUZ3D-w744n-nrp3mdgnBfGatG",
+            "snippet": "The central concern of the use of facial recognition technology is privacy and security. With little to no regulation in place regarding its use ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How can face recognition technology compromise privacy? - Quora",
+            "text": "",
+            "link": "https://www.quora.com/How-can-face-recognition-technology-compromise-privacy",
+            "snippet": "Exposing your facial recognition on these technology isn't a good idea, especially on mobile devices such as samsung, huawei and many more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "This paper critically examines the current rules and policies governing FRT, highlighting the tensions between state and corporate interests on one hand, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Facial Recognition in the United States: Privacy Concerns and Legal ...",
+            "text": "",
+            "link": "https://www.asisonline.org/security-management-magazine/monthly-issues/security-technology/archive/2021/december/facial-recognition-in-the-us-privacy-concerns-and-legal-developments/",
+            "snippet": "As facial recognition becomes increasingly pervasive, privacy concerns are compounded\u2014prompting reconsideration of whether current laws ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Privacy vs. Security: The Legal Implications of Using Facial ...",
+            "text": "",
+            "link": "https://nysba.org/privacy-vs-security-the-legal-implications-of-using-facial-recognition-technology-at-entertainment-venues/?srsltid=AfmBOoqSzKKPWgQkC49EMnXgaJ3jBCEKfKi7SVMl2dsFwFggumGtqeOa",
+            "snippet": "The potential uses of facial recognition technology are broad; it could be used to deny people access based on criminal history, where they work, or even their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Facial Recognition Technology: Protecting Biometric Privacy in the ...",
+            "text": "",
+            "link": "https://ascelibrary.org/doi/10.1061/JLADAH.LADR-1435",
+            "snippet": "It uses a person's facial image to reach the goals of verifying, identifying, or categorizing the extracted data, or basically the human faces ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What are the biggest privacy concerns with facial recognition systems?",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-biggest-privacy-concerns-with-facial-recognition-systems",
+            "snippet": "Facial recognition can lead to unauthorized surveillance, data breaches, and misuse by governments or corporations. There are concerns about the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "The Impact of Biometric Surveillance on Reducing Violent Crime",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12116099/",
+            "snippet": "This paper examines the current state of biometric surveillance systems, emphasizing the application of new sensor technologies and machine learning algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Face Recognition Technology: Benefits and Risks",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/article/frt-benefits-and-risks/",
+            "snippet": "The higher image and information quality in mugshot databases may improve the accuracy of the face recognition technology results. Due to this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Biometrics and Privacy \u2013 Issues and Challenges",
+            "text": "",
+            "link": "https://ovic.vic.gov.au/privacy/resources-for-organisations/biometrics-and-privacy-issues-and-challenges/",
+            "snippet": "This resource provides a high-level overview of what biometrics are, their benefits and uses in the public sector, and the information privacy implications ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Facial recognition systems: applications, benefits and challenges",
+            "text": "",
+            "link": "https://keyless.io/blog/post/facial-recognition-applications-benefits-and-challenges",
+            "snippet": "Facial recognition technology raises significant privacy concerns as it involves capturing and analyzing biometric data. Users may worry about ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Facial Recognition: Balancing Security and Privacy Concerns",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/facial-recognition-balancing-security-and-privacy",
+            "snippet": "One of the biggest challenges with facial recognition is privacy. While the technology can make life more convenient, it also opens the door to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "When it Comes to Facial Recognition, There is No Such Thing as a ...",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/when-it-comes-to-facial-recognition-there-is-no-such-thing-as-a-magic-number",
+            "snippet": "Companies and legislators are using misleading test scores to justify the expansion of facial recognition into our communities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Face Recognition Technology: Benefits and Risks",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/article/frt-benefits-and-risks/",
+            "snippet": "Improving the accuracy and speed of problematic practices or systems may cause harm to occur faster and on a larger scale. Benefits and Risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "The use of FRT for surveillance purposes also raises concerns about the erosion of privacy in public spaces and the potential for abuse by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Facial Recognition Technology: Federal Law Enforcement Agencies ...",
+            "text": "",
+            "link": "https://www.gao.gov/products/gao-21-518",
+            "snippet": "We surveyed 42 federal agencies that employ law enforcement officers about their use of facial recognition technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Privacy Implications of Using Facial Recognition Systems",
+            "text": "",
+            "link": "https://identitymanagementinstitute.org/privacy-implications-of-using-facial-recognition-systems/",
+            "snippet": "A facial recognition system captures a picture of a person's face, analyzes the person's profile, and uses algorithms to match it to other ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Facial privacy in the digital era: A comprehensive survey on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "Privacy mining methods typically exploit the characteristics of face recognition systems to analyze facial data and extract sensitive information, thereby ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Facial recognition: technology and privacy - Strategian",
+            "text": "",
+            "link": "https://www.strategian.com/2025/04/04/facial-recognition-technology-and-privacy-2/",
+            "snippet": "Facial recognition technology is increasingly used for identity verification and identification, from aiding law enforcement investigations ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A facial recognition system is designed to identify individuals by analyzing facial features, aiming to enhance security and law enforcement efforts. It intends to provide accurate matches between facial images, assisting in the detection and prevention of crimes. The system's primary goal is to support investigations and improve public safety.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A facial recognition system is designed to identify individuals by analyzing facial features, aiming to enhance security and law enforcement efforts. It intends to provide accurate matches between facial images, assisting in the detection and prevention of crimes. The system's primary goal is to support investigations and improve public safety.",
+        "elapsed_time": 46.147986707999735
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+    "output": " Lack of capability or robustness is a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the algorithm is a risk in caretaker visit allocation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the algorithm is a risk in analyzing individual needs and providing tailored recommendations for caretaker visits",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "challenges and strategies for implementing algorithmic risk scoring ...",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34522847/",
+            "snippet": "Objective: To characterize challenges and strategies related to algorithmic risk scoring for care management eligibility determinations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Decision support framework for home health caregiver allocation ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772442524000418",
+            "snippet": "Our study introduces a decision support framework that allocates caregivers through a hybrid method that considers the flexibility in visiting sequences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Decision Support Framework for Home Health Caregiver Allocation ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2311.00696v2",
+            "snippet": "The first stage involves assigning caregivers, taking into consideration the compatibility of patient preferences and time slot availability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Using the interRAI HC Caregiver Risk Evaluation (CaRE) Algorithm ...",
+            "text": "",
+            "link": "https://www.cihi.ca/sites/default/files/document/interrai-hc-care-job-aid-en.pdf",
+            "snippet": "The Caregiver Risk Evaluation (CaRE) Algorithm is a decision-support tool that can be used to assess the level of risk of caregiver burden in home care.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Regulatory Gap in Health Tech: Resource Allocation Algorithms",
+            "text": "",
+            "link": "https://petrieflom.law.harvard.edu/2021/04/12/regulatory-gap-health-tech-resource-allocation-algorithms/",
+            "snippet": "Without regulatory oversight, the risks associated with resource allocation algorithms are significant. Health systems must take particular care ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI Decides Who Gets Care: Algorithmic Bias in Post-Acute Care ...",
+            "text": "",
+            "link": "https://medcitynews.com/2025/12/ai-decides-who-gets-care-algorithmic-bias-in-post-acute-care-decisions/",
+            "snippet": "AI-driven decision tools are increasingly determining what post-acute care services patients receive, and what they don't.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Exploring caregiver challenges, digital health technologies ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179185/",
+            "snippet": "This study investigates the challenges caregivers face when using DHTs in Singapore and identifies resources needed to optimize their use in everyday ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Ethical Challenges in the Integration of Artificial Intelligence in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949916X24001117",
+            "snippet": "Ethical integration of AI in palliative care requires addressing critical issues like informed consent, data privacy, algorithmic bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithmic Bias in Health Care Exacerbates Social Inequities\u2014How ...",
+            "text": "",
+            "link": "https://hsph.harvard.edu/exec-ed/news/algorithmic-bias-in-health-care-exacerbates-social-inequities-how-to-prevent-it/",
+            "snippet": "Algorithmic bias as the application of an algorithm that compounds existing inequities in socioeconomic status, race, ethnic background, religion, gender, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Overcoming AI Bias: Understanding, Identifying and Mitigating ...",
+            "text": "",
+            "link": "https://www.accuray.com/blog/overcoming-ai-bias-understanding-identifying-and-mitigating-algorithmic-bias-in-healthcare/",
+            "snippet": "Learn how algorithms used in AI tools can affect clinical decisions in healthcare, as well as best practices for effective clinical use.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial intelligence-based approaches for advance care planning",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12548256/",
+            "snippet": "Furthermore, AI algorithms can analyze individual patient characteristics to tailor information and support, adapting to specific ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) Intelligent Social Welfare: How AI Optimizes Social Assistance ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/389217518_Intelligent_Social_Welfare_How_AI_Optimizes_Social_Assistance_Elderly_Care_and_Healthcare_Systems",
+            "snippet": "This paper examines AI applications in social assistance, elderly care, and healthcare, demonstrating how predictive analytics, automation, and data-driven ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Development and Evaluation of a Web-Based Platform for ...",
+            "text": "",
+            "link": "https://www.researchprotocols.org/2024/1/e64127/",
+            "snippet": "This study focuses on developing a web-based platform providing financial and legal planning information and education for dementia caregivers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Adapting Mobile and Wearable Technology to Provide Support and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/org/science/article/pii/S2561326X19000763",
+            "snippet": "The aim of this work was to investigate the feasibility of using smartphones and smartwatches to augment rehabilitation by providing adaptable, personalized ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999773,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999993,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00023397420905016416,
+        "norm_entropy": 0.003205262485244437,
+        "avg_entropy": 0.00011698710452508208,
+        "avg_norm_entropy": 0.0016026312426222185,
+        "avg_prob": 0.9998830000000001,
+        "avg_logprob": -0.0001170128964498812,
+        "avg_explogprob": 0.999882993949292,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.000227,
+                    0.999773
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    7e-06,
+                    0.999993
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.999766025789,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+        "response": " Lack of capability or robustness is a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+        "elapsed_time": 33.82488999999987
+    }
+}

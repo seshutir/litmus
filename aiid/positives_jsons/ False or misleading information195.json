@@ -1,0 +1,281 @@
+{
+    "input": " False or misleading information is a risk associated with A system utilizing AI technology is designed to generate synthetic video content that mimics real-life footage, raising concerns about the potential for misinformation. This technology has the capability to create convincing but false videos, which can be spread through online platforms. The goal of analyzing such technology is to understand its implications and develop methods to detect and counter its potential misuse.",
+    "output": " False or misleading information is a risk associated with A system utilizing AI technology is designed to generate synthetic video content that mimics real-life footage, raising concerns about the potential for misinformation. This technology has the capability to create convincing but false videos, which can be spread through online platforms. The goal of analyzing such technology is to understand its implications and develop methods to detect and counter its potential misuse.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "False or misleading information is a risk associated with synthetic video content generation using AI technology",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "False or misleading information is a risk in generating synthetic video content that mimics real-life footage using a system with AI technology",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "False or misleading information is a risk in detecting and counteracting the spread of false videos through online platforms.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Risks and benefits of artificial intelligence deepfakes",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25001271",
+            "snippet": "Deepfakes\u2014synthetic videos created with advanced AI\u2014threaten state stability by enabling misleading content that inflames social tensions or sways public ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Deepfake threats to companies - KPMG International",
+            "text": "",
+            "link": "https://kpmg.com/xx/en/our-insights/risk-and-regulation/deepfake-threats.html",
+            "snippet": "Many companies are also vulnerable to extortion from AI fabricated incriminating content, brand misuse, potentially leading to legal liabilities, fines, loss of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Deepfakes and the Ethics of Generative AI - Tepperspectives",
+            "text": "",
+            "link": "https://tepperspectives.cmu.edu/all-articles/deepfakes-and-the-ethics-of-generative-ai/",
+            "snippet": "Learn about the impact of AI deepfakes on media and why establishing ethical rules is crucial to protect people's identities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What the Tech? We've all heard the warnings about fake AI photos ...",
+            "text": "",
+            "link": "https://www.facebook.com/69WFMZ/posts/what-the-tech-weve-all-heard-the-warnings-about-fake-ai-photos-videos-and-even-e/1389816976521463/",
+            "snippet": "AI models have become so good at creating realistic fakes that many people won't recognize that the content is fake. \u2022 People have trouble ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI content supercharges confusion and spreads misleading ... - PBS",
+            "text": "",
+            "link": "https://www.pbs.org/newshour/show/ai-content-supercharges-confusion-and-spreads-misleading-information-critics-warn",
+            "snippet": "AI content supercharges confusion and spreads misleading information, critics warn ... In the last few years, video and other content created with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Deepfakes and the crisis of knowing - UNESCO",
+            "text": "",
+            "link": "https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing",
+            "snippet": "As deepfakes blur reality, education must go beyond detection, teaching students to navigate truth, knowledge, and AI-mediated uncertainty.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/",
+            "snippet": "This paper argues that a range of current AI systems have learned how to deceive humans. We define deception as the systematic inducement of false beliefs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How will we know what's real in the future, with AI generated videos ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/ArtificialInteligence/comments/1m6knn8/how_will_we_know_whats_real_in_the_future_with_ai/",
+            "snippet": "Creating fake media that is authentic due to block chain saying so (however it could actually reliably do that) would be the go to way for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Social media and the spread of misinformation - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/",
+            "snippet": "Social media significantly contributes to the spread of misinformation and has a global reach. Health misinformation has a range of adverse outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Understanding the Impact of False Information Online | Privacy Matters",
+            "text": "",
+            "link": "https://privacymatters.ubc.ca/news/understanding-impact-false-information-online",
+            "snippet": "False information often spreads faster than accurate information, especially when it aligns with existing beliefs or biases. Social Bots: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "False Information On The Internet | How It Spreads - Identrics",
+            "text": "",
+            "link": "https://identrics.ai/blog/how-false-information-spreads-online/",
+            "snippet": "False information on the internet and social media can be found in news, memes, videos, posts, screenshots, and more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Combatting misinformation online - World Health Organization (WHO)",
+            "text": "",
+            "link": "https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online",
+            "snippet": "WHO and partners recognize that misinformation online has the potential to travel further, faster and sometimes deeper than the truth.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Online Misinformation and Disinformation - Children and Screens",
+            "text": "",
+            "link": "https://www.childrenandscreens.org/learn-explore/research/online-misinformation-and-disinformation/",
+            "snippet": "Misinformation is false or misleading information not generally created or shared with the intention of causing harm. Disinformation is information that has ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Unmasking digital deceptions: An integrative review of deepfake ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12508882/",
+            "snippet": "These tools can be misused for impersonation, misinformation, and non-consensual synthetic media, necessitating responsible disclosure and usage controls. (c).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Deepfake technology is becoming more convincing - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/newschannel5/posts/deepfake-technology-is-becoming-more-convincing-and-more-dangerous-as-artificial/1361874019317035/",
+            "snippet": "... create realistic fake photos, news stories, and other content, which can be used to spread misinformation and disinformation. \u2022 AI-generated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] Increasing Threat of DeepFake Identities - Homeland Security",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf",
+            "snippet": "This may no longer always be the case and may allow any adversary interested in sowing misinformation or disinformation to leverage far more realistic image, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Deepfake technology puts consumers at risk of new scams",
+            "text": "",
+            "link": "https://www.fox10tv.com/2025/10/27/deepfake-technology-puts-consumers-risk-new-scams/",
+            "snippet": "Everyday people are now at risk, with AI-generated images, voices, and videos becoming nearly impossible to distinguish from the real thing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Can you spot real content versus an AI-manipulated fake? - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=ySl0BmLKUpw",
+            "snippet": "Content generated and manipulated with the assistance of Artificial Intelligence (AI) is becoming indistinguishable from reality. Could you ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 18,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " False or misleading information is a risk associated with A system utilizing AI technology is designed to generate synthetic video content that mimics real-life footage, raising concerns about the potential for misinformation. This technology has the capability to create convincing but false videos, which can be spread through online platforms. The goal of analyzing such technology is to understand its implications and develop methods to detect and counter its potential misuse.",
+        "response": " False or misleading information is a risk associated with A system utilizing AI technology is designed to generate synthetic video content that mimics real-life footage, raising concerns about the potential for misinformation. This technology has the capability to create convincing but false videos, which can be spread through online platforms. The goal of analyzing such technology is to understand its implications and develop methods to detect and counter its potential misuse.",
+        "elapsed_time": 54.38277841699892
+    }
+}

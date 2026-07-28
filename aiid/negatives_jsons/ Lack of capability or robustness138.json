@@ -1,0 +1,443 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and respond to copyrighted content in real-time, identifying and flagging potential infringement. It aims to protect intellectual property by monitoring and analyzing audio streams for copyrighted material. The system seeks to prevent unauthorized use of copyrighted content by taking appropriate actions when detected.",
+    "output": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and respond to copyrighted content in real-time, identifying and flagging potential infringement. It aims to protect intellectual property by monitoring and analyzing audio streams for copyrighted material. The system seeks to prevent unauthorized use of copyrighted content by taking appropriate actions when detected.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the automated system's copyright protection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with an automated system detecting and responding to copyrighted content in real-time",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with an automated system's process of identifying and flagging potential infringement",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with monitoring and analyzing audio streams for copyrighted material.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with preventing unauthorized use of copyrighted content.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 this study identifies the risk that despite high performances, the system does not provide a real benefit for the users, or lead to a blind trust in a AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "by M Kattnig \u00b7 2024 \u00b7 Cited by 56 \u2014 This paper investigates current state-of-the-art methods for bias mitigation and contrasts them with the legal requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Adversarial Robustness in High-Risk AI Systems",
+            "text": "",
+            "link": "https://www.scrut.io/glossary/adversarial-robustness",
+            "snippet": "A lack of robustness exposes the system to sabotage, fraud, and safety failures. Demonstrating rigorous testing for adversarial vulnerabilities",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robustness and Cybersecurity in the EU Artificial ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.16184v1",
+            "snippet": "This paper aims to fill this gap. We identify legal challenges and shortcomings in provisions related to robustness and cybersecurity for high-risk AI systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Comprehensive Survey on Safety Evaluation of LLMs",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.11094v2",
+            "snippet": "Recent studies have demonstrated that LLMs are prone to generating harmful content, such as toxicity [8] , bias [9] and false information [10] , ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Connecting the dots in trustworthy Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1566253523002129",
+            "snippet": "by N D\u00edaz-Rodr\u00edguez \u00b7 2023 \u00b7 Cited by 1335 \u2014 Attaining robustness as the objective of withstanding hazards, and building systems less vulnerable to adversarial threats such as adversarial perturbations",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Accountability-in-Algorithmic-Copyright-Enforcement. ...",
+            "text": "",
+            "link": "https://law.stanford.edu/wp-content/uploads/2016/10/Accountability-in-Algorithmic-Copyright-Enforcement.pdf",
+            "snippet": "by M Perel \u00b7 Cited by 322 \u2014 Copyright law has been at the forefront of algorithmic law enforcement since the early 1990s when it conferred safe harbor protection to online intermediaries ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Fault Lines in the AI Ecosystem: TrendAI\u2122 State of AI ...",
+            "text": "",
+            "link": "https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/fault-lines-in-the-ai-ecosystem-trendai-state-of-ai-security-report",
+            "snippet": "The AI ecosystem now poses a significant cybersecurity risk. TrendAI\u2122 Research's analysis of 330,239 Common Vulnerabilities and Exposures (CVEs) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 Intellectual property risks from GAI systems may arise where the use of copyrighted works is not a fair use under the fair use doctrine.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Hardening AI Systems: Security, Robustness, and Safety ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/hardening-ai-systems-security-robustness-and-safety-for-generative-agentic-ai-25143142edb8",
+            "snippet": "The risk from a leak is not just IP loss but potential misuse \u2014 e.g. if someone malicious got GPT-4's exact weights, they could fine-tune it ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 GAI-based systems present two primary information security risks: GAI could potentially discover or enable new cybersecurity risks by lowering ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Towards Context-Sensitive Standards for Robustness ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.15620v1",
+            "snippet": "Robustness is a key requirement for high-risk AI systems. We argue that robustness is not a fixed property of a system, the perturbations the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI Safety and Robustness: Building Resilient, Reliable AI ...",
+            "text": "",
+            "link": "https://agility-at-scale.com/ai/governance/safety-and-robustness/",
+            "snippet": "Robustness is the ability of an AI model to maintain reliable performance when conditions shift \u2014 whether those shifts come from new data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Ethical and regulatory challenges of AI technologies in ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879008/",
+            "snippet": "by C Mennella \u00b7 2024 \u00b7 Cited by 1212 \u2014 This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "NIST SP 800-137, Information Security Continuous Monitoring ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-137.pdf",
+            "snippet": "A robust ISCM program thus enables organizations to move from compliance-driven risk management to data-driven risk management providing organizations with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "CySA+ Correct Question Log Flashcards",
+            "text": "",
+            "link": "https://quizlet.com/1008724505/cysa-correct-question-log-flash-cards/",
+            "snippet": "A security analyst is tasked with monitoring and analyzing encrypted communication between cloud services and users to detect potential threats. Which of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The Role of AI in Hospitals and Clinics: Transforming ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/",
+            "snippet": "by SM Varnosfaderani \u00b7 2024 \u00b7 Cited by 1183 \u2014 This paper aims to explore the multifaceted role of AI in healthcare settings, focusing on its impact on clinical decision-making, hospital operations, medical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Data Security within AI Environments",
+            "text": "",
+            "link": "https://cloudsecurityalliance.org/artifacts/data-security-within-ai-environments",
+            "snippet": "A practitioner's overview of how AI reshapes modern data protection. Learn about AI data security challenges and their essential AI risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "A Comprehensive Survey on Safety Evaluation of LLMs",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.11094v2",
+            "snippet": "LLM-generated content can exhibit unsafe behaviors such as toxicity, bias, to quantify the overlap between generated text and copyrighted ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Copyright Safety for Generative AI",
+            "text": "",
+            "link": "https://houstonlawreview.org/article/92126-copyright-safety-for-generative-ai",
+            "snippet": "by M Sag \u00b7 2023 \u00b7 Cited by 340 \u2014 This Article proposes a set of Best Practices for Copyright Safety for Generative AI, which acts as a guide for how AI can avoid infringing on copyrighted ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Intellectual Property: Types, Risks, How to Protect Your IP",
+            "text": "",
+            "link": "https://www.kiteworks.com/risk-compliance-glossary/intellectual-property/",
+            "snippet": "Unauthorized copying, distribution, or use of software protected by copyright. DRM is often used to prevent piracy and unauthorized use of digital content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Investigating the impact of generative artificial intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X24001690",
+            "snippet": "by AS Al-Busaidi \u00b7 2024 \u00b7 Cited by 88 \u2014 Any unauthorised use of such copyrighted content. Copyright infringement can occur due to any intentional or unintentional copy or use by third person",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Part 3: Generative AI Training pre-publication version",
+            "text": "",
+            "link": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+            "snippet": "[A] rule that unauthorized use of copyrighted works to train AI models constitutes fair use essentially compels authors and publishers to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Copyright Office Weighs In on AI Training and Fair Use",
+            "text": "",
+            "link": "https://www.skadden.com/insights/publications/2025/05/copyright-office-report",
+            "snippet": "Overall, the report concludes that there are no copyright-related benefits that weigh in favor of fair use. The report concludes that there will ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The Growing Tensions Between Digital Media Platforms ...",
+            "text": "",
+            "link": "https://www.americanactionforum.org/insight/the-growing-tensions-between-digital-media-platforms-and-copyright-enforcement/",
+            "snippet": "One of the most prominent criticisms is that the platforms are failing to properly address copyright infringement on their websites.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Accountability-in-Algorithmic-Copyright-Enforcement. ...",
+            "text": "",
+            "link": "https://law.stanford.edu/wp-content/uploads/2016/10/Accountability-in-Algorithmic-Copyright-Enforcement.pdf",
+            "snippet": "by M Perel \u00b7 Cited by 322 \u2014 Copyright law has been at the forefront of algorithmic law enforcement since the early 1990s when it conferred safe harbor protection to online intermediaries",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Crowdsourcing-Based Copyright Infringement Detection in ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/328520701_Crowdsourcing-Based_Copyright_Infringement_Detection_in_Live_Video_Streams",
+            "snippet": "A critical problem of the online video sharing system is the copyright infringement issue where users can stream and watch copyrighted live events such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "How Platforms Lose DMCA Safe Harbor Protection and ...",
+            "text": "",
+            "link": "https://patentpc.com/blog/how-platforms-lose-dmca-safe-harbor-protection-and-how-to-avoid-it",
+            "snippet": "Platforms should invest in AI-driven systems capable of detecting copyrighted material through audio, visual, and text analysis. These systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Everything You Need to Know About Copyright ...",
+            "text": "",
+            "link": "https://videntifier.com/articles/copyright-infringement-detection-software-own-your-digital-content",
+            "snippet": "Protect intellectual property: By swiftly detecting copyright violations, it helps content creators, online platforms, and media companies ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.000749,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.013879,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.014233,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.000749,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 0.1306817634506094,
+        "norm_entropy": 0.23096633967447697,
+        "avg_entropy": 0.026136352690121878,
+        "avg_norm_entropy": 0.04619326793489539,
+        "avg_prob": 0.0059222,
+        "avg_logprob": -7.347724829272093,
+        "avg_explogprob": 0.0006440560321039945,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999251,
+                    0.000749
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.986121,
+                    0.013879
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.985767,
+                    0.014233
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.999251,
+                    0.000749
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 7.92653864e-05,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and respond to copyrighted content in real-time, identifying and flagging potential infringement. It aims to protect intellectual property by monitoring and analyzing audio streams for copyrighted material. The system seeks to prevent unauthorized use of copyrighted content by taking appropriate actions when detected.",
+        "response": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and respond to copyrighted content in real-time, identifying and flagging potential infringement. It aims to protect intellectual property by monitoring and analyzing audio streams for copyrighted material. The system seeks to prevent unauthorized use of copyrighted content by taking appropriate actions when detected.",
+        "elapsed_time": 108.02875695796683
+    }
+}

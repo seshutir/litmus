@@ -1,0 +1,363 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A system is designed to analyze consumer behavior and provide personalized product recommendations, including items related to life events. It aims to predict user needs and preferences, tailoring advertisements to individual households. The system seeks to deliver relevant and timely suggestions, enhancing the overall user experience.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A system is designed to analyze consumer behavior and provide personalized product recommendations, including items related to life events. It aims to predict user needs and preferences, tailoring advertisements to individual households. The system seeks to deliver relevant and timely suggestions, enhancing the overall user experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in the system's consumer behavior analysis and personalized product recommendations",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in predicting user needs and preferences in the system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Compromise of privacy is a risk in tailoring advertisements to individual households using the system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Compromise of privacy is a risk in the system's delivery of relevant and timely suggestions",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Artificial intelligence and consumer behaviour on social media: A study of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S3050644125000210",
+            "snippet": "by RK Srivastava \u00b7 2025 \u00b7 Cited by 9 \u2014 Ethical and privacy concerns are modelled as moderating factors, clarifying how consumer psychology, such 2.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Personalizing Product Recommendations While ...",
+            "text": "",
+            "link": "https://thedecisionlab.com/big-problems/personalizing-product-recommendations",
+            "snippet": "Learn how to create personalized product recommendations that build customer trust without triggering privacy concerns using proven behavioral science ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A Review Analysis Consumer Perception of Data Privacy and Its ...",
+            "text": "",
+            "link": "https://ijaem.net/issue_dcp/A%20Review%20Analysis%20Consumer%20Perception%20of%20Data%20Privacy%20and%20Its%20Impact%20on%20Acceptance%20of%20Personalized%20Digital%20Marketing.pdf",
+            "snippet": "By anonymizing data, organizations can analyze consumer behavior without directly exposing personal information, thereby reducing privacy risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Exploring privacy issues in the age of AI",
+            "text": "",
+            "link": "https://www.ibm.com/think/insights/ai-privacy",
+            "snippet": "Even when data is collected with individuals' consent, privacy risks loom if the data is used for purposes beyond those initially disclosed. \u201cWe ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The New Age of Personalized Customer Experience and Privacy",
+            "text": "",
+            "link": "https://www.cmswire.com/customer-experience/inside-the-privacy-first-approach-to-the-personalized-customer-experience/",
+            "snippet": "Collecting only necessary data for personalization reduces privacy risks and fosters a personalized customer experience. Transparency drives ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Artificial Intelligence and Privacy \u2013 Issues and Challenges",
+            "text": "",
+            "link": "https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/",
+            "snippet": "This resource serves as an introduction to a wider conversation regarding information privacy and AI. It is written for a non-technical audience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Both ends of artificial intelligence impacting privacy: a review ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12957209/",
+            "snippet": "by N Voloch \u00b7 2026 \u00b7 Cited by 4 \u2014 AI models, especially in areas such as facial recognition, user profiling, and predictive analytics, can pose risks of unauthorized data access, misuse, or even ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Impact of AI on Privacy: Protecting Personal Data",
+            "text": "",
+            "link": "https://velaro.com/blog/the-privacy-paradox-of-ai-emerging-challenges-on-personal-data",
+            "snippet": "Privacy risks can arise in numerous ways, including data breaches, unauthorized access, misuse of data, intentional or unintentional bias, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Privacy-preserving artificial intelligence in healthcare",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S001048252300313X",
+            "snippet": "by N Khalid \u00b7 2023 \u00b7 Cited by 768 \u2014 This study summarizes the state-of-the-art approaches for preserving privacy in AI-based healthcare applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Examining Privacy Risks in AI Systems - Transcend.io",
+            "text": "",
+            "link": "https://transcend.io/blog/ai-and-privacy",
+            "snippet": "Aggregating and analyzing personal and sensitive data on a large scale can infringe on an individual's privacy and even threaten civil liberties.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Privacy in targeted advertising on mobile devices: a survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9789888/",
+            "snippet": "by I Ullah \u00b7 2022 \u00b7 Cited by 82 \u2014 This article presents a comprehensive survey of the privacy risks and proposed solutions for targeted advertising in a mobile environment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Impacts of Targeted Advertisements on Privacy Rights: A Meta-analysis ...",
+            "text": "",
+            "link": "https://aast.edu/pheed/staffadminview/pdf_retreive.php?url=6448_70000255037_Impacts%20of%20targeted%20advertisements%20on%20privacy%20rights:%20a%20meta-analysis%20study_research.pdf&stafftype=staffpdfnew",
+            "snippet": "This study primarily focuses on privacy concerns, perceived risks, and benefits associated with such ads. Moreover, it explores how individuals' academic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "(PDF) Privacy in targeted advertising: A survey",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/346684315_Privacy_in_targeted_advertising_A_survey",
+            "snippet": "Advertising systems rely on user profiling and tracking to tailor ads to users with specific interests and to increase their advertising ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Marketing and advertising in a privacy-first world",
+            "text": "",
+            "link": "https://piwik.pro/blog/marketing-advertising-privacy-first-world/",
+            "snippet": "Learn about the recent legal and technological privacy changes and the options to make your digital marketing effective and privacy-first!",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Balancing Privacy and Personalization in Data-Driven ...",
+            "text": "",
+            "link": "https://www.comosoft.us/articles/balancing-privacy-and-personalization-in-data-driven-marketing/",
+            "snippet": "Start by collecting first-party data through surveys or opt-ins, which respects consumer privacy while offering insights for targeted campaigns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Privacy and security in recommenders: an analytical review",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-025-11333-4",
+            "snippet": "by BA Ojokoh \u00b7 2025 \u00b7 Cited by 9 \u2014 This section explores various motivations for prioritizing privacy and security in recommender systems. 3.1 Privacy risks and trust violations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "(PDF) Privacy Risk in Recommender Systems",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/385163341_Privacy_Risk_in_Recommender_Systems",
+            "snippet": "The common privacy risks associated with recommender systems are the lack of adequate implementation of privacy protection principles.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "What are the privacy concerns with recommender systems?",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/what-are-the-privacy-concerns-with-recommender-systems",
+            "snippet": "Recommender systems raise privacy concerns primarily due to their reliance on collecting and analyzing large amounts of user data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Privacy Risks in Recommender Systems - People",
+            "text": "",
+            "link": "https://people.cs.vt.edu/naren/papers/ppp.pdf",
+            "snippet": "by N Ramakrishnan \u00b7 Cited by 286 \u2014 Recommender system users who rate items across disjoint domains face a privacy risk analogous to the one that occurs with statistical database queries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Does privacy concern affect what users say they will do differently from ...",
+            "text": "",
+            "link": "https://uen.pressbooks.pub/range27i1/chapter/e-kim/",
+            "snippet": "This study examined whether privacy concern affects users' stated adoption intentions differently from their actual behavioral choices in AI-driven ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Understanding Customer Responses to AI-Driven ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/00913367.2025.2460985",
+            "snippet": "by K Hardcastle \u00b7 2025 \u00b7 Cited by 157 \u2014 This study therefore explores impacts upon customer experiences of artificial intelligence (AI)-driven recommendations and personalized advertisements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Protecting Privacy While Powering AI Personalization",
+            "text": "",
+            "link": "https://trustarc.com/resource/protecting-privacy-powering-ai-personalization/",
+            "snippet": "Exercising data minimization can lower the risk of collecting and processing personal and (highly) sensitive information, safeguarding individuals",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Exploring privacy issues in the age of AI",
+            "text": "",
+            "link": "https://www.ibm.com/think/insights/ai-privacy",
+            "snippet": "AI privacy is the practice of protecting personal or sensitive information collected, used, shared or stored by AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Artificial Intelligence and Privacy \u2013 Issues and Challenges",
+            "text": "",
+            "link": "https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/",
+            "snippet": "Inferring information in this way not only challenges what is considered personal information, but also raises questions about whether it is acceptable to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A system is designed to analyze consumer behavior and provide personalized product recommendations, including items related to life events. It aims to predict user needs and preferences, tailoring advertisements to individual households. The system seeks to deliver relevant and timely suggestions, enhancing the overall user experience.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A system is designed to analyze consumer behavior and provide personalized product recommendations, including items related to life events. It aims to predict user needs and preferences, tailoring advertisements to individual households. The system seeks to deliver relevant and timely suggestions, enhancing the overall user experience.",
+        "elapsed_time": 55.23480991600081
+    }
+}

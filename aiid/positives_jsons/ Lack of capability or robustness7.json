@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+    "output": " Lack of capability or robustness is a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk associated with autonomous vehicle navigation.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk associated with detecting and responding to traffic signals in a system utilizing autonomous technology",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Unpacking Driver Concerns: The 14 Critical Hurdles for Autonomous ...",
+            "text": "",
+            "link": "https://7itsnews.com/index.php?m=home&c=View&a=index&aid=22449",
+            "snippet": "Such limitations can lead to navigation errors, confusion, and an inability to safely respond to unexpected alterations in the road environment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation: The Growing ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "The safety risks associated with AV navigation are multifaceted and stem from sensor reliability, software and algorithmic errors, cybersecurity threats, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "(PDF) A Critical AI View on Autonomous Vehicle Navigation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384068538_A_Critical_AI_View_on_Autonomous_Vehicle_Navigation_The_Growing_Danger",
+            "snippet": "This review critically examines the potential dangers associated with the increasing reliance on AI in AV navigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Traffic sign detection and recognition using deep learning-based ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S277267112400024X",
+            "snippet": "Removing haze and detecting traffic signs can improve the vehicle's performance in various scenarios, leading to safer and more reliable autonomous driving.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Obstacle Detection and Safely Navigate the Autonomous Vehicle ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7506726/",
+            "snippet": "In this paper, we first introduced small and medium-sized obstacles that were intentionally or unintentionally left on the road, which can pose hazards.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Traffic Light Problem for Autonomous Vehicles - Sama",
+            "text": "",
+            "link": "https://www.sama.com/blog/the-traffic-light-problem-for-autonomous-vehicles",
+            "snippet": "The traffic light problem for autonomous vehicles is critical for all vehicle safety, and unlike human-drivers, AVs rely solely on computer vision systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "A Robust Model for Traffic Light Detection in Adverse Weather ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2406.13473v1",
+            "snippet": "This paper introduces a novel framework and pipeline designed to improve object detection under such conditions, focusing on traffic signal detection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Autonomous Vehicle Risk Management Profile for Traffic Sign ...",
+            "text": "",
+            "link": "https://airc.nist.gov/docs/Traffic_Sign_Recognition_Use_Case_Profile-NIST_AI_RMF.pdf",
+            "snippet": "The profile specifically addresses the risks associated with the integration of AI systems within AVs' TSR function in automation levels 3+. To accommodate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Towards autonomy: A comprehensive technical and ethical review ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772586325000863",
+            "snippet": "The safety analysis of automated vehicles is a crucial and all-encompassing process that entails a thorough evaluation of potential hazards, risks, and safety ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Impact of Autonomous Driving Technologies on Road Safety ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/382569495_The_Impact_of_Autonomous_Driving_Technologies_on_Road_Safety_and_Traffic_Management",
+            "snippet": "This paper explores the multifaceted impact of autonomous vehicles (AVs) on these critical aspects of transportation. Firstly, it examines the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Smart Roads for Autonomous Accident Detection and Warnings - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8953218/",
+            "snippet": "In this research, an accident alert light and sound (AALS) system is proposed for auto accident detection and alerts with all types of vehicles.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Impacts of Automated Vehicles on Highway Infrastructure",
+            "text": "",
+            "link": "https://www.fhwa.dot.gov/publications/research/operations/21015/21015.pdf",
+            "snippet": "This study covers current concerns and thoughts on the potential impacts of automated vehicles (AVs) on highway infrastructure while providing FHWA with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+        "response": " Lack of capability or robustness is a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+        "elapsed_time": 19.20026712500021
+    }
+}

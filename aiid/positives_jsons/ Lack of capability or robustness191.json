@@ -1,0 +1,362 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An incident management system utilizing AI is designed to optimize technician deployment, aiming to efficiently allocate resources and respond to issues in the field. The system seeks to automate decision-making processes, streamlining the deployment of technicians to address problems. It also intends to provide real-time monitoring and control, enabling adjustments to be made as needed.",
+    "output": " Lack of capability or robustness is a risk associated with An incident management system utilizing AI is designed to optimize technician deployment, aiming to efficiently allocate resources and respond to issues in the field. The system seeks to automate decision-making processes, streamlining the deployment of technicians to address problems. It also intends to provide real-time monitoring and control, enabling adjustments to be made as needed.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in an incident management system utilizing AI",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an incident management system utilizing AI is a risk in optimizing technician deployment",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in automating decision-making processes in an incident management system utilizing AI",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in providing real-time monitoring and control for an incident management system utilizing AI",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Examining risks and response for AI loss of control incidents | RAND",
+            "text": "",
+            "link": "https://www.rand.org/randeurope/research/projects/2025/examining-risks-and-response-for-ai-loss-of-control-incidents-cm.html",
+            "snippet": "Researchers have identified warning signs of control-undermining capabilities in advanced AI models \u2013 including deception, self-preservation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "10 AI dangers and risks and how to manage them | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/insights/10-ai-dangers-and-risks-and-how-to-manage-them",
+            "snippet": "10 AI dangers and risks and how to manage them \u00b7 1. Bias \u00b7 2. Cybersecurity threats \u00b7 3. Data privacy issues \u00b7 4. Environmental harms \u00b7 5. Existential risks \u00b7 6.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI-Induced Cybersecurity Risks in Healthcare: A Narrative Review of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12579840/",
+            "snippet": "Real-life incidents show that generative AI poses unique cybersecurity risks in healthcare, including data leaks, algorithm manipulation, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI risks and incidents - OECD",
+            "text": "",
+            "link": "https://www.oecd.org/en/topics/ai-risks-and-incidents.html",
+            "snippet": "Artificial intelligence promises tremendous benefits but also carries real risks. Some of these risks are already materialising into harms to people and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "[PDF] Challenges to the monitoring of deployed AI systems",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf",
+            "snippet": "This report organizes that information into monitoring categories and challenges (gaps, barriers, and open questions) for further investigation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Artificial Intelligence for safety and reliability: A descriptive ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0950423024001013",
+            "snippet": "This research provides a structured review of studies that utilize Artificial Intelligence for safety and reliability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Risks of AI in Operational Technology: Critical Insights for 2025",
+            "text": "",
+            "link": "https://cybertlabs.com/risks-of-ai-in-operational-technology/",
+            "snippet": "An AI system that performs well during initial deployment may become unreliable months or years later if it isn't retrained regularly with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI-Driven Decision Support Framework for Preventing Medical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12499571/",
+            "snippet": "Medical equipment failures pose serious risks to patient safety and healthcare system efficiency. Although AI-based predictive maintenance (PdM) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How AI changes incident management: a cybersecurity question",
+            "text": "",
+            "link": "https://www.linkedin.com/posts/seandmacknyc_ai-cybersecurity-incidentmanagement-activity-7391478834455326720-ull7",
+            "snippet": "Why it matters: Shadow AI isn't just a tech risk, it's a trust risk. Clear governance, employee training, and visibility tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Drawbacks of Artificial Intelligence and Their Potential Solutions in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908503/",
+            "snippet": "This study enlightens the possible drawbacks of AI in the implementation of healthcare sector and their solutions to overcome these situations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Safety-Performance Trade-off: Balancing AI Capability with Risk ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/safety-performance-trade-off-ai-capability-risk",
+            "snippet": "How healthcare can balance AI benefits with safety: tackling black-box models, adversarial attacks, ransomware, and hybrid governance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Artificial intelligence in risk management within the realm of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25000617",
+            "snippet": "AI's capacity to automate complex processes, analyse large datasets, and predict risk outcome positions as a transformative tool in the construction industry, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI for Incident Response: Comparing Benefits and Challenges with ...",
+            "text": "",
+            "link": "https://cygnostic.io/ai-for-incident-response-comparing-benefits-and-challenges-with-tradition/",
+            "snippet": "Conventional incident management can lead to delays and an increased risk of human error due to its reliance on significant human intervention. How does AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Top 10 Risks in AI and How to Mitigate Them | Kognitos Blog",
+            "text": "",
+            "link": "https://www.kognitos.com/blog/top-risks-in-ai/",
+            "snippet": "Discover the top AI risks and how to effectively mitigate them. Understand how Kognitos offers a safe AI automation platform designed for robust AI risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI-Induced Cybersecurity Risks in Healthcare: A Narrative Review of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12579840/",
+            "snippet": "Among the risks of data access are unauthorized access to highly sensitive clinical information, privacy violations, identity theft, blocking of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The Safety-Performance Trade-off: Balancing AI Capability with Risk ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/safety-performance-trade-off-ai-capability-risk",
+            "snippet": "AI in healthcare offers incredible advancements but also introduces serious risks. While it can process vast amounts of data, predict threats, and automate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Examining risks and response for AI loss of control incidents | RAND",
+            "text": "",
+            "link": "https://www.rand.org/randeurope/research/projects/2025/examining-risks-and-response-for-ai-loss-of-control-incidents-cm.html",
+            "snippet": "RAND Europe researchers identified warning signs of control-undermining capabilities in advanced AI models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Artificial intelligence in risk management within the realm of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25000617",
+            "snippet": "This systematic literature review (SLR) explores the integration of AI in construction risk management, focusing on AI applications, risk categories, and key ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "New Report: Challenges to the Monitoring of Deployed AI Systems",
+            "text": "",
+            "link": "https://www.nist.gov/news-events/news/2026/03/new-report-challenges-monitoring-deployed-ai-systems",
+            "snippet": "Our findings are outlined in the new report, NIST AI 800-4: Challenges to the Monitoring of Deployed AI Systems, in which we identify monitoring ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Evaluating accountability, transparency, and bias in AI-assisted ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12235780/",
+            "snippet": "Leveraging these comprehensive datasets, artificial intelligence (AI) has gained traction as a means to improve clinical decision-making and to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI in Crisis Management: Predicting and Preventing Disruptions",
+            "text": "",
+            "link": "https://www.techclass.com/resources/learning-and-development-articles/ai-in-crisis-management-predicting-preventing-disruptions",
+            "snippet": "Once a threat is detected, AI can trigger automated response protocols, optimize resource allocation, and assist in decision-making. It can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Generative AI in IT Incident Management: Faster Resolutions",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/generative-ai-incident-management-faster-resolutions-commis-tech-uta2c",
+            "snippet": "AI algorithms can scale incident management processes to handle increasing volumes of incidents, prioritize tasks based on workload demands, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) AI for Predictive Maintenance: Reducing Downtime and ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392920502_AI_for_Predictive_Maintenance_Reducing_Downtime_and_Enhancing_Efficiency",
+            "snippet": "The implementation of AI-based predictive maintenance meets various deployment challenges caused by initial cost expenses and contradictory data quality as well ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999424,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.99995,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0006278328291195667,
+        "norm_entropy": 0.007858726760295347,
+        "avg_entropy": 0.00015695820727989167,
+        "avg_norm_entropy": 0.001964681690073837,
+        "avg_prob": 0.999843,
+        "avg_logprob": -0.00015704180069256636,
+        "avg_explogprob": 0.9998429705297256,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.000576,
+                    0.999424
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    5e-05,
+                    0.99995
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.999687083569,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An incident management system utilizing AI is designed to optimize technician deployment, aiming to efficiently allocate resources and respond to issues in the field. The system seeks to automate decision-making processes, streamlining the deployment of technicians to address problems. It also intends to provide real-time monitoring and control, enabling adjustments to be made as needed.",
+        "response": " Lack of capability or robustness is a risk associated with An incident management system utilizing AI is designed to optimize technician deployment, aiming to efficiently allocate resources and respond to issues in the field. The system seeks to automate decision-making processes, streamlining the deployment of technicians to address problems. It also intends to provide real-time monitoring and control, enabling adjustments to be made as needed.",
+        "elapsed_time": 48.92924050000147
+    }
+}

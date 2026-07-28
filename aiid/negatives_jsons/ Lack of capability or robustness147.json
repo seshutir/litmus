@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+    "output": " Lack of capability or robustness is a not a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a fertility tracking system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing menstrual cycle data to provide insights into reproductive health.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Implications of digital fertility tracking for clinical care - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12502470/",
+            "snippet": "by KS Clay \u00b7 2025 \u00b7 Cited by 3 \u2014 If these tools are poorly designed or used incorrectly, they can put patients at risk. More research is needed to understand how these tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A randomized trial of web-based fertility-tracking software ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0015028223001334",
+            "snippet": "by LA Wise \u00b7 2023 \u00b7 Cited by 8 \u2014 In this study, we conducted a parallel, non-blinded, randomized controlled trial to assess the extent to which the randomization of a free premium subscription ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Fertile-window misclassification in period-tracking ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/13625187.2026.2669220",
+            "snippet": "by E Brondolin \u00b7 2026 \u2014 Period-tracking apps frequently misclassify fertile days as safe, including days with high pregnancy risk. In a large real-world analysis, both calendar- and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Fertile-window misclassification in period-tracking ...",
+            "text": "",
+            "link": "https://www.medrxiv.org/content/10.64898/2026.02.12.26346180v1.full-text",
+            "snippet": "Calendar-based period tracking frequently misclassified fertile days as safe, with 67% of cycles , despite lacking validated algorithms capable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Optimizing natural fertility: a committee opinion (2022)",
+            "text": "",
+            "link": "https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/",
+            "snippet": "Use of fertility-tracking methods to determine the fertile window and appropriately time intercourse is associated with an increased probability of conceiving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "An evaluation of menstrual health apps' functionality ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12117836/",
+            "snippet": "by E Bucher \u00b7 2025 \u00b7 Cited by 14 \u2014 Menstrual health apps have become increasingly popular, providing users with a tool to monitor and learn about menstrual cycles, symptoms, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Machine learning-based menstrual phase identification ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s44294-025-00078-8",
+            "snippet": "by G Kilungeja \u00b7 2025 \u00b7 Cited by 12 \u2014 This study applies machine learning to identify menstrual cycle phases using physiological signals recorded from a wrist-worn device.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "UEFA consensus statement on menstrual cycle tracking in ...",
+            "text": "",
+            "link": "https://bmjopensem.bmj.com/content/11/3/e002769",
+            "snippet": "by E Verhagen \u00b7 2025 \u00b7 Cited by 12 \u2014 Many claims link menstrual cycle phases to players' performance, injury risk, recovery and health, although such claims often lack robust ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How Period Trackers Fail to Protect Women",
+            "text": "",
+            "link": "https://georgetownlawtechreview.org/privacy-power-empowerment-how-period-trackers-fail-to-protect-women/GLTR-07-2026/",
+            "snippet": "This Note demonstrates how the notice and consent paradigm of privacy law fails to protect women while simultaneously reinforcing harmful gender stereotypes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Benefits of tracking your period | Study Updates",
+            "text": "",
+            "link": "https://hsph.harvard.edu/research/apple-womens-health-study/study-updates/benefits-of-tracking-your-period/",
+            "snippet": "Tracking your period helps you understand your average cycle length, which will alert you to your next cycle. Cycle tracking provides insight into your health ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Innovative Approaches to Menstruation and Fertility Tracking ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10905339/",
+            "snippet": "by L Lyzwinski \u00b7 2024 \u00b7 Cited by 73 \u2014 One study of 330 female individuals found that periodic tracking apps had made errors in predicting periods, with 57% (n=189) of female individuals having ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Fertile-window misclassification in period-tracking ...",
+            "text": "",
+            "link": "https://www.medrxiv.org/content/10.64898/2026.02.12.26346180v1.full-text",
+            "snippet": "Calendar-based period tracking frequently misclassified fertile days as safe, with 67% of cycles containing at least one at-risk day and 25% ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Should Patients Use an Ovulation App to Monitor Cycles?",
+            "text": "",
+            "link": "https://www.volusonclub.net/empowered-womens-health/should-your-patient-use-an-ovulation-app-to-monitor-her-cycle/",
+            "snippet": "The Natural Cycles app uses an algorithm that calculates fertility based on daily body temperature readings and menstrual cycle information \u2014 a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Comparing Pregnancy Risk in Period-Tracking Methods ...",
+            "text": "",
+            "link": "https://www.naturalcycles.com/research-library/pregnancy-risk-period-tracking-vs-digital-contraception",
+            "snippet": "Period-tracking methods frequently mislabel fertile days as \u201csafe,\u201d resulting in up to 44 times higher unintended pregnancy risk per cycle compared to digital ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Menstrual Cycle Tracking Applications and the Potential for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8162175/",
+            "snippet": "by JS Schantz \u00b7 2021 \u00b7 Cited by 62 \u2014 We reviewed published studies on menstrual cycle tracking applications (MCTAs) in order to describe the potential of MCTAs for epidemiologic research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+        "response": " Lack of capability or robustness is a not a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+        "elapsed_time": 30.60877129196888
+    }
+}

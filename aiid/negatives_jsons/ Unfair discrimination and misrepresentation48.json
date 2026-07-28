@@ -1,0 +1,210 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to evaluate and compare physical appearance, providing assessments of beauty based on various criteria. The system aims to make unbiased judgments, considering diverse features and characteristics to determine aesthetic appeal. It seeks to provide a fair and impartial evaluation of physical attractiveness.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to evaluate and compare physical appearance, providing assessments of beauty based on various criteria. The system aims to make unbiased judgments, considering diverse features and characteristics to determine aesthetic appeal. It seeks to provide a fair and impartial evaluation of physical attractiveness.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with a machine learning system evaluating physical appearance",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with providing assessments of beauty based on various criteria using a machine learning system.",
+            "contexts": [
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination takes place when insurers consider factors that are unrelated to actuarial risk while determining whether to provide insurance to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bridging fairness in machine learning: A legal critique of technical strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000805",
+            "snippet": "Unfair or discriminatory models risk reinforcing social inequalities, limiting opportunities for disadvantaged groups, and undermining trust in automated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 AI Bias is when the output of a machine-learning model can lead to the discrimination against specific groups or individuals.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What about fairness, bias and discrimination? | ICO",
+            "text": "",
+            "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-fairness-in-ai/what-about-fairness-bias-and-discrimination/",
+            "snippet": "Demonstrating that an AI system is not unlawfully discriminatory under the EA2010 is a complex task, but it is separate and additional to your obligations ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "While algorithms can be a force for good, they can also violate the right to privacy or lead to discriminatory decision-making, which has a very real impact on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 AI Bias is when the output of a machine-learning model can lead to the discrimination against specific groups or individuals. These tend to be groups that have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How to Prevent Discriminatory Outcomes in Machine Learning",
+            "text": "",
+            "link": "https://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf",
+            "snippet": "One solution is to use the sensitive attributes to test the system behavior and to find and correct the discrimination/ bias. 29 In \u201cFairness in Criminal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Fairness in Machine Learning - Labelia",
+            "text": "",
+            "link": "https://www.labelia.org/en/blog/fairness-in-machine-learning",
+            "snippet": "The present article is dealing with non-discrimination, fairness of machine learning and tips for data scientists to improve their work to build a fairer AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "How artificial intelligence adopts human biases: the case of cosmetic ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-023-00378-2",
+            "snippet": "by A Georgievskaya \u00b7 2025 \u00b7 Cited by 42 \u2014 In this paper, we explain the concept of bias leading to unfairness for beauty technology applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What Does it Mean to Be Beautiful? Exploring the Limits of AI-Driven ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12007659/",
+            "snippet": "by E Ashley \u00b7 2025 \u00b7 Cited by 5 \u2014 The FAI analyzes various facial characteristics, such as skin texture, symmetry, and wrinkles, to generate a holistic rating of attractiveness on a seven-point ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Fairness and Bias in Machine Learning: Mitigation Strategies",
+            "text": "",
+            "link": "https://www.lumenova.ai/blog/fairness-bias-machine-learning/",
+            "snippet": "Reducing AI bias and ensuring fairness in machine learning can lead to equitable outcomes where technology benefits everyone.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Fairness in machine learning: Regulation or standards?",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/fairness-in-machine-learning-regulation-or-standards/",
+            "snippet": "Mike Teodorescu and Christos Makridis discuss the role of industry standards and regulations to ensure machine learning is fair.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Fairness in Machine Learning",
+            "text": "",
+            "link": "https://fairlearn.org/main/user_guide/fairness_in_machine_learning.html",
+            "snippet": "AI systems can behave unfairly for a variety of reasons. Sometimes it is because of societal biases reflected in the training data and in the decisions made ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to evaluate and compare physical appearance, providing assessments of beauty based on various criteria. The system aims to make unbiased judgments, considering diverse features and characteristics to determine aesthetic appeal. It seeks to provide a fair and impartial evaluation of physical attractiveness.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to evaluate and compare physical appearance, providing assessments of beauty based on various criteria. The system aims to make unbiased judgments, considering diverse features and characteristics to determine aesthetic appeal. It seeks to provide a fair and impartial evaluation of physical attractiveness.",
+        "elapsed_time": 104.38034854194848
+    }
+}

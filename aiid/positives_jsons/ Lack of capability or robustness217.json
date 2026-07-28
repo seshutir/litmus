@@ -1,0 +1,342 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to analyze and filter online advertisements, aiming to ensure compliance with platform policies. The system uses algorithms to review and block ads that do not meet certain criteria, with the goal of maintaining a safe and relevant user experience. This automated process helps to streamline ad moderation and reduce the need for human intervention.",
+    "output": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to analyze and filter online advertisements, aiming to ensure compliance with platform policies. The system uses algorithms to review and block ads that do not meet certain criteria, with the goal of maintaining a safe and relevant user experience. This automated process helps to streamline ad moderation and reduce the need for human intervention.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the artificial intelligence system is a risk in online advertisement analysis and filtering",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the artificial intelligence system is a risk in reviewing and blocking ads that do not meet certain criteria",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in streamlining ad moderation using an artificial intelligence system.",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in the artificial intelligence system is a risk in reducing the need for human intervention",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Artificial Intelligence in Advertising: Advancements, Challenges, and ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/21582440231210759",
+            "snippet": "AI technologies risk a lack of accountability and trust, presenting regulatory and legal challenges. This conclusion further underscores the importance of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The ethical use of AI in advertising - IAPP",
+            "text": "",
+            "link": "https://iapp.org/news/a/the-ethical-use-of-ai-in-advertising",
+            "snippet": "As AI becomes increasingly embedded in advertising strategies, it also raises significant ethical concerns, from data privacy risks to algorithmic bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Content-filtering AI systems - limitations, challenges and regulatory ...",
+            "text": "",
+            "link": "https://www.ntu.edu.sg/business/research/nbs-knowledge-lab/nbs-research-blog/content-filtering-ai-systems-limitations-challenges-and-regulatory-approaches",
+            "snippet": "The paper sheds light on the challenges of AI-driven content filtering and its impact on human rights, particularly the right to free speech.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI Adoption Is Surging in Advertising, but is the Industry Prepared for ...",
+            "text": "",
+            "link": "https://www.iab.com/insights/ai-adoption-is-surging-in-advertising-but-is-the-industry-prepared-for-responsible-ai/",
+            "snippet": "The takeaway: AI can pose serious ethical and quality risks, and marketers know these issues can damage trust and brand reputation. That's why ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] Challenges to the monitoring of deployed AI systems",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf",
+            "snippet": "This report organizes that information into monitoring categories and challenges (gaps, barriers, and open questions) for further investigation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Recommendation on the Ethics of Artificial Intelligence - Legal Affairs",
+            "text": "",
+            "link": "https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence",
+            "snippet": "Recognizing the profound and dynamic positive and negative impacts of artificial intelligence (AI) on societies, environment, ecosystems and human lives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Summary of Artificial Intelligence 2025 Legislation",
+            "text": "",
+            "link": "https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation",
+            "snippet": "Legislators, industry and other stakeholders have engaged in robust discussions regarding the concerns about potential misuse or unintended consequences of AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "As highlighted in the previous section, automated tools used for content moderation are limited in a number of ways. Given that these tools are increasingly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "Artificial Intelligence (AI) has emerged as an upcoming tool for automated detection of detrimental content on SM through Machine Learning (ML) algorithms and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Generative AI's Overlooked Risk: Ads - Democracy Journal",
+            "text": "",
+            "link": "https://democracyjournal.org/arguments/generative-ais-overlooked-risk-ads/",
+            "snippet": "Many critics of generative AIs like ChatGPT are overlooking the most profitable avenue for their potential misuse: surveillance advertising.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Ethics of AI in Content Moderation: Balancing Privacy, Free ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/383661768_The_Ethics_of_AI_in_Content_Moderation_Balancing_Privacy_Free_Speech_and_Algorithmic_Control",
+            "snippet": "This paper explores the delicate balance between privacy, free speech, and algorithmic control in the context of AI-driven content moderation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Challenges and Limitations of Human Oversight in Ethical Artificial ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11976012/",
+            "snippet": "It focuses on the digitization of health care and the ethical dilemmas that arise around human-nonhuman collaboration.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI Risks and Trustworthiness - AIRC - NIST AI Resource Center",
+            "text": "",
+            "link": "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/",
+            "snippet": "Robustness is a goal for appropriate system functionality in a broad set of conditions and circumstances, including uses of AI systems not initially anticipated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Benefits and Risks of AI in Health Care: Narrative Review - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11612599/",
+            "snippet": "The integration of artificial intelligence (AI) into health care has the potential to transform the industry, but it also raises ethical, regulatory, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Is human oversight to AI systems still possible? - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1871678424005636",
+            "snippet": "The autonomy of AI systems further exacerbates the issue, as these technologies often function with minimal human intervention, making real-time ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Responsible artificial intelligence governance: A review and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0963868724000672",
+            "snippet": "We developed a conceptual framework for responsible AI governance (defined through structural, relational, and procedural practices), its antecedents, and its ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Summary of Artificial Intelligence 2025 Legislation",
+            "text": "",
+            "link": "https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation",
+            "snippet": "This webpage covers key legislation introduced during the 2025 legislative session related to AI issues generally.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Risk, regulation, and governance: evaluating artificial intelligence ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1057/s41284-025-00495-z",
+            "snippet": "This study systematically examines AI implementations in environments categorised from minimal to high risk, emphasising the significance of tailored risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Recommendation on the Ethics of Artificial Intelligence - Legal Affairs",
+            "text": "",
+            "link": "https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence",
+            "snippet": "Furthermore, new ethical challenges are created by the potential of AI algorithms to reproduce and reinforce existing biases, and thus to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI Compliance: Risk Management for Artificial Intelligence - Osano",
+            "text": "",
+            "link": "https://www.osano.com/articles/what-is-ai-compliance",
+            "snippet": "For compliance, AI risks that need the most attention often relate to data privacy and data security; specifically, how data is collected, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999997,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999994000056512e-06,
+        "norm_entropy": 0.00012349068550420318,
+        "avg_entropy": 1.499998500014128e-06,
+        "avg_norm_entropy": 3.0872671376050794e-05,
+        "avg_prob": 0.9999985,
+        "avg_logprob": -1.5000015000178779e-06,
+        "avg_explogprob": 0.999998499999625,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    3e-06,
+                    0.999997
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.99999850000225,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to analyze and filter online advertisements, aiming to ensure compliance with platform policies. The system uses algorithms to review and block ads that do not meet certain criteria, with the goal of maintaining a safe and relevant user experience. This automated process helps to streamline ad moderation and reduce the need for human intervention.",
+        "response": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to analyze and filter online advertisements, aiming to ensure compliance with platform policies. The system uses algorithms to review and block ads that do not meet certain criteria, with the goal of maintaining a safe and relevant user experience. This automated process helps to streamline ad moderation and reduce the need for human intervention.",
+        "elapsed_time": 57.10592608400111
+    }
+}

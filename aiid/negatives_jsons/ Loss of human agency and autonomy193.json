@@ -1,0 +1,202 @@
+{
+    "input": " Loss of human agency and autonomy is a not a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+    "output": " Loss of human agency and autonomy is a not a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is not a risk associated with a national identification system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is not a risk associated with utilizing biometric data to verify individuals in a national identification system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI Systems and Respect for Human Autonomy - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8576577/",
+            "snippet": "by A Laitinen \u00b7 2021 \u00b7 Cited by 228 \u2014 This study concerns the sociotechnical bases of human autonomy. Drawing on recent literature on AI ethics, philosophical literature on dimensions of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Credited Responses: The Future of Human Agency in 2035",
+            "text": "",
+            "link": "https://www.elon.edu/u/imagining/surveys/xv2023/the-future-of-human-agency-2035/credit/",
+            "snippet": "\u201cIn terms of risks to human autonomy, we should not be very concerned. Technology always has been a tool that humans controlled and there is no reason to",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Ensuring user autonomy in AI systems",
+            "text": "",
+            "link": "https://sciencepolicyreview.pubpub.org/pub/flqvfypt",
+            "snippet": "Users often lack meaningful autonomy when interacting with AI systems, leaves users vulnerable to algorithmic bias, opaque decision-making, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Navigating the Risks and Rewards of Digital ID Systems",
+            "text": "",
+            "link": "https://www.opengovpartnership.org/stories/navigating-the-risks-and-rewards-of-digital-id-systems/",
+            "snippet": "Digital ID systems increases the risks posed by these systems: data breaches and threats to privacy rights, exclusion of marginalized communities, and co- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Human Autonomy at Risk? An Analysis of the Challenges from ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s11023-024-09665-1",
+            "snippet": "by C Prunkl \u00b7 2024 \u00b7 Cited by 134 \u2014 In this article, I provide a conceptual framework that both ties together seemingly disjoint issues about human autonomy, as well as highlights differences ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Failure to \u201cDo No Harm\u201d -- India's Aadhaar biometric ID program and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5741784/",
+            "snippet": "by P Dixon \u00b7 2017 \u00b7 Cited by 104 \u2014 This article focuses on the Republic of India's national digital biometric identity system, the Aadhaar, for its development, data protection and privacy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Public Agencies' Use of Biometrics to Prevent Fraud and Abuse: Risks and ...",
+            "text": "",
+            "link": "https://cdt.org/insights/public-agencies-use-of-biometrics-to-prevent-fraud-and-abuse-risks-and-alternatives/",
+            "snippet": "As described above, biometric-based systems come with inherent privacy and equity issues, so they should only be used when there is no viable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The enduring risks posed by biometric identification systems",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-enduring-risks-posed-by-biometric-identification-systems/",
+            "snippet": "These systems create risks for the people whose data is collected, ranging from how the data is stored to what happens if the collecting agency is not in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Digital id scheme poses risk to personal data and freedoms",
+            "text": "",
+            "link": "https://www.facebook.com/groups/444185135749386/posts/3157283991106140/",
+            "snippet": "Please be aware, the below is long, but it's just me putting in 5 minutes of thought. Today class, well be looking at the proposed digital ID scheme. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Biometrics and Privacy \u2013 Issues and Challenges",
+            "text": "",
+            "link": "https://ovic.vic.gov.au/privacy/resources-for-organisations/biometrics-and-privacy-issues-and-challenges/",
+            "snippet": "This resource provides a high-level overview of what biometrics are, their benefits and uses in the public sector, and the information privacy implications ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The enduring risks posed by biometric identification systems",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-enduring-risks-posed-by-biometric-identification-systems/",
+            "snippet": "\u201cBiometric identifiers are the most secure and convenient way to authenticate and identify people because they cannot be borrowed, stolen, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Mandatory National IDs and Biometric Databases",
+            "text": "",
+            "link": "https://www.eff.org/issues/national-ids",
+            "snippet": "While supporters argue that biometric identifiers are an efficient way to accurately identify people, biometrics are costly, prone to error, and present extreme ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.945761,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.050029,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 12,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 0.20258520736826335,
+        "norm_entropy": 0.5906581824556467,
+        "avg_entropy": 0.10129260368413168,
+        "avg_norm_entropy": 0.29532909122782336,
+        "avg_prob": 0.497895,
+        "avg_logprob": -1.5254589131224583,
+        "avg_explogprob": 0.21752121061864288,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.054239,
+                    0.945761
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.949971,
+                    0.050029
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.448483384981,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a not a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+        "response": " Loss of human agency and autonomy is a not a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+        "elapsed_time": 19.807181792042684
+    }
+}

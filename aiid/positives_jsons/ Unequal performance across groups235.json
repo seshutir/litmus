@@ -1,0 +1,504 @@
+{
+    "input": " Unequal performance across groups is a risk associated with An algorithmic program is designed to assess teacher performance, aiming to evaluate effectiveness and provide insights for improvement. The system seeks to analyze data and identify areas of strength and weakness, ultimately striving to enhance student outcomes. By leveraging data-driven approaches, the program aims to support teacher development and optimize educational strategies.",
+    "output": " Unequal performance across groups is a risk associated with An algorithmic program is designed to assess teacher performance, aiming to evaluate effectiveness and provide insights for improvement. The system seeks to analyze data and identify areas of strength and weakness, ultimately striving to enhance student outcomes. By leveraging data-driven approaches, the program aims to support teacher development and optimize educational strategies.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in the algorithmic teacher performance assessment program",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing data to evaluate teacher effectiveness",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in identifying areas of strength and weakness in the algorithmic program",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in providing insights for teacher improvement through an algorithmic program.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unequal performance across groups is a risk in supporting teacher development through an algorithmic program",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Unequal performance across groups is a risk in optimizing educational strategies",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Investigating algorithmic bias in student progress monitoring",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000705",
+            "snippet": "This research investigates bias in AI algorithms used for monitoring student progress, specifically focusing on bias related to age, disability, and gender.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Is AI Grading Biased? Fairness Guide - EduSageAI",
+            "text": "",
+            "link": "https://www.edusageai.com/blogs/is-ai-grading-biased-how-to-ensure-fairness-in-automated-assessment",
+            "snippet": "As AI grading tools become more prevalent in classrooms worldwide, a critical question demands attention: Is AI grading biased?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Thinking About Equity and Bias in AI - Edutopia",
+            "text": "",
+            "link": "https://www.edutopia.org/article/equity-bias-ai-what-educators-should-know/",
+            "snippet": "Addressing inequity in AI requires an understanding of how bias manifests itself in both society and algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic bias in educational systems: Examining the impact of AI ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/388563395_Algorithmic_bias_in_educational_systems_Examining_the_impact_of_AI-driven_decision_making_in_modern_education",
+            "snippet": "This paper examines the manifestation and implications of algorithmic bias across various educational domains, including admissions processes, assessment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Bias in EdTech: Risks, Equity, and Compliance",
+            "text": "",
+            "link": "https://www.magicedtech.com/blogs/the-hidden-biases-in-ai-that-could-derail-education-products/",
+            "snippet": "Bias in educational AI can widen equity gaps and create compliance risks. Learn how to build fair, reliable, and classroom-ready AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "[PDF] Uneven Playing Field? Assessing the Inequity of Teacher ...",
+            "text": "",
+            "link": "https://www.advocacyinstitute.org/ESSA/Uneven_AEFP-1.pdf",
+            "snippet": "First, we provide the first comprehensive analysis of the inequitable distribution of both input (experience and credentials) and output (effectiveness) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Problems with the use of student test scores to evaluate teachers",
+            "text": "",
+            "link": "https://www.epi.org/publication/bp278/",
+            "snippet": "For a variety of reasons, analyses of VAM results have led researchers to doubt whether the methodology can accurately identify more and less effective teachers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How stable are value-added estimates across years, subjects, and ...",
+            "text": "",
+            "link": "https://cepa.stanford.edu/content/how-stable-are-value-added-estimates-across-years-subjects-and-student-groups",
+            "snippet": "In this brief, we describe how value-added measures for individual teachers vary across time, subject, and student populations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Access to Effective Teachers and Economic and Racial Disparities ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7500583/",
+            "snippet": "Given their importance, unequal access to high quality teachers is a critical potential source of educational inequalities. Yet research on teacher inequalities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Student-Teaching-Evaluation-Bias.pdf",
+            "text": "",
+            "link": "https://advance.charlotte.edu/wp-content/uploads/sites/261/2023/05/Student-Teaching-Evaluation-Bias.pdf",
+            "snippet": "We find that women and other marginalized groups do face significant biases in standard evaluations of teaching \u2013 however, the effect of gender is conditional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Algorithmic bias in public health AI: a silent threat to equity in low ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325396/",
+            "snippet": "At the heart of algorithmic bias lies the issue of structural data exclusion. Many AI systems draw their inputs from data sources that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "[PDF] Algorithmic Bias Explained - The Greenlining Institute",
+            "text": "",
+            "link": "https://greenlining.org/wp-content/uploads/2021/04/Greenlining-Institute-Algorithmic-Bias-Explained-Report-Feb-2021.pdf",
+            "snippet": "Algorithmic bias occurs when an algorithmic decision creates unfair outcomes that unjustifiably and arbitrarily privilege certain groups over others. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "but algorithmic differentiations often relate to groups without necessarily having to identify an individual unambiguously by name or in any other way. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "What is algorithmic bias? Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI Bias in EdTech: Risks, Equity, and Compliance",
+            "text": "",
+            "link": "https://www.magicedtech.com/blogs/the-hidden-biases-in-ai-that-could-derail-education-products/",
+            "snippet": "These biases can lead to unfair evaluations, particularly affecting students from marginalized groups. Similarly, a study highlights that AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "AI in Education: Bias and Fairness Summary - Hypergraphia",
+            "text": "",
+            "link": "https://hypergraphia.com/ainewssocialfeeds/Bias_and_Fairness/Bias_and_Fairness-24-09-02-Summary.html",
+            "snippet": "Bias can stem from training data that is not representative. This leads to unfair outcomes in AI decision-making processes. Affecting sectors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Algorithmic unfairness mitigation in student models",
+            "text": "",
+            "link": "https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.68/index.html",
+            "snippet": "Systematically unfair education systems lead to different levels of learning for students from different demographic groups, which, in the context of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Algorithmic Bias: What Parents Need to Know About AI for Kids",
+            "text": "",
+            "link": "https://codakid.com/blog/ai-for-kids/algorithmic-bias-ai-for-kids/",
+            "snippet": "It's when AI systems produce unfair outcomes due to biased data, design, or assumptions. How It Affects Kids: Children may face unequal recommendations, flawed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Bias Risks in AI Educational Software: 9 Tips for Teachers",
+            "text": "",
+            "link": "https://learningmole.com/risks-of-bias-in-ai-educational-software-teachers/",
+            "snippet": "AI educational software can perpetuate existing biases through its algorithms, creating unfair advantages or disadvantages for certain student ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Risks of AI Algorithmic Bias in Higher Education",
+            "text": "",
+            "link": "https://www.schiller.edu/blog/risks-of-ai-algorithmic-bias-in-higher-education/",
+            "snippet": "Bias in AI algorithms describes systematic yet often unintentional errors within AI systems that lead to unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Algorithmic Bias in the Front Row: Is Your School Ready to Police AI ...",
+            "text": "",
+            "link": "https://www.educationalinnovation360.com/blogs/when-ai-gets-it-wrong-the-hidden-dangers-of-unchecked-algorithms-in-our-classrooms",
+            "snippet": "Imagine AI helping manage a classroom, only to flag a student unfairly. If there isn't human oversight, then what would happen next?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Built-in bias: why education and diversity in AI matter - UN Today",
+            "text": "",
+            "link": "https://untoday.org/built-in-bias-why-education-and-diversity-in-ai-matter/",
+            "snippet": "Increasing AI literacy globally is crucial for helping people understand the biases embedded in AI systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Artificial intelligence in education: Addressing ethical challenges in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/",
+            "snippet": "Predictive systems which are powered by algorithms jeopardize students and teachers' autonomy and their ability to govern their own life [46, 47] ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "AI in Education: Ethical and Practical Challenges - Upskillist",
+            "text": "",
+            "link": "https://www.upskillist.com/blog/ai-in-education-ethical-and-practical-challenges/",
+            "snippet": "Challenges: Privacy risks, algorithmic bias, and lack of training. Concerns: 50% of students feel less connected to teachers due to AI use.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Disrupting links between poverty, chronic stress, and educational ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10662171/",
+            "snippet": "A growing body of evidence suggests that growing up in poverty contributes to cumulative risk exposure\u2014resulting in chronic stress which impacts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Education inequalities at the school starting gate: Gaps, trends, and ...",
+            "text": "",
+            "link": "https://www.epi.org/publication/education-inequalities-at-the-school-starting-gate/",
+            "snippet": "This study examines the relationship between children's socioeconomic status (SES) and their cognitive and noncognitive skills when starting school.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Algorithmic Bias in Education | International Journal of Artificial ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s40593-021-00285-9",
+            "snippet": "In this paper, we review algorithmic bias in education, discussing the causes of that bias and reviewing the empirical literature.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Does Educational Tracking Affect Performance and Inequality ...",
+            "text": "",
+            "link": "https://siepr.stanford.edu/publications/working-paper/does-educational-tracking-affect-performance-and-inequality-differences",
+            "snippet": "The results suggest that early tracking increases educational inequality. While less clear, there is also a tendency for early tracking to reduce mean ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "An AI-powered framework for assessing teacher performance ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12442429/",
+            "snippet": "AI enables the analysis of large volumes of data from various sources\u2014such as classroom interactions, student performance metrics, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How will AI Impact Racial Disparities in Education?",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "This article examines current issues that stakeholders should consider to realize the potential of AI to advance educational equity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Explainable Artificial Intelligence in education - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X22000297",
+            "snippet": "It is known that when modelling students' learning performance and identifying at-risk students, AI techniques may provide more accurate predictions for a group ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Artificial Intelligence and the Future of Teaching and Learning (PDF)",
+            "text": "",
+            "link": "https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf",
+            "snippet": "Third, teachers need to be involved in the design and evaluation of AI systems before they are used in classrooms and when needs for improvement are observed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] The Effectiveness of AI-Driven Tools in Improving Student Learning ...",
+            "text": "",
+            "link": "https://iacis.org/iis/2025/4_iis_2025_233-247.pdf",
+            "snippet": "This study seeks to address the central research question: How effective are AI-driven tools in improving student learning outcomes compared to traditional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 6,
+        "num_contexts": 34,
+        "num_true_atoms": 6,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999997000171535e-06,
+        "norm_entropy": 0.00012824557733663114,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 6,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with An algorithmic program is designed to assess teacher performance, aiming to evaluate effectiveness and provide insights for improvement. The system seeks to analyze data and identify areas of strength and weakness, ultimately striving to enhance student outcomes. By leveraging data-driven approaches, the program aims to support teacher development and optimize educational strategies.",
+        "response": " Unequal performance across groups is a risk associated with An algorithmic program is designed to assess teacher performance, aiming to evaluate effectiveness and provide insights for improvement. The system seeks to analyze data and identify areas of strength and weakness, ultimately striving to enhance student outcomes. By leveraging data-driven approaches, the program aims to support teacher development and optimize educational strategies.",
+        "elapsed_time": 61.806720000000496
+    }
+}

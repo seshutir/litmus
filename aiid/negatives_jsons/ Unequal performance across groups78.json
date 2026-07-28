@@ -1,0 +1,212 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+    "output": " Unequal performance across groups is a not a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is not a risk associated with a medical assessment tool",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing patient factors to evaluate kidney function using a medical assessment tool.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias in medical AI: Implications for clinical decision-making - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/",
+            "snippet": "by JL Cross \u00b7 2024 \u00b7 Cited by 674 \u2014 Insufficient sample sizes for certain patient groups can result in suboptimal performance, algorithm underestimation, and clinically ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Clinical AI Bias Testing: How to Assess and Mitigate Algorithmic Risks in ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/clinical-ai-bias-testing-how-to-assess-and-mitigate-algorithmic-risks-in-healthcare",
+            "snippet": "Clinical AI bias testing evaluates AI systems for disparities in performance across patient groups to ensure fairness, safety, and compliance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias recognition and mitigation strategies in artificial intelligence ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-025-01503-7",
+            "snippet": "by F Hasanzadeh \u00b7 2025 \u00b7 Cited by 345 \u2014 This review examines the origins of bias in healthcare AI, strategies for mitigation, and responsibilities of relevant stakeholders towards achieving fair and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Preventing Bias and Inequities in AI-enabled Health Tools",
+            "text": "",
+            "link": "https://healthpolicy.duke.edu/sites/default/files/2022-07/Preventing%20Bias%20and%20Inequities%20in%20AI-Enabled%20Health%20Tools_1.pdf",
+            "snippet": "This paper explores how bias enters into an AI-enabled health tool throughout various stages of the development and implementation process, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Enhancing Clinical Decision Support in Nephrology - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11585446/",
+            "snippet": "by BA Goldstein \u00b7 2024 \u00b7 Cited by 10 \u2014 CDS tools have been used to detect acute kidney injury1, improve referral for chronic kidney disease patients2, predict mortality in dialysis patients3 and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Making kidney tests work for everyone",
+            "text": "",
+            "link": "https://www.nature.com/articles/d41586-024-04100-y",
+            "snippet": "The United States has moved to deracialize kidney diagnostics. The move addresses major health-equity issues \u2014 but it also shines a light on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Dissecting racial bias in an algorithm used to manage the health of ...",
+            "text": "",
+            "link": "https://www.science.org/doi/10.1126/science.aax2342",
+            "snippet": "by Z Obermeyer \u00b7 2019 \u00b7 Cited by 10169 \u2014 Obermeyer et al. find evidence of racial bias in one widely used algorithm, such that Black patients assigned the same level of risk by the algorithm are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Abandoning a Race-biased Tool for Kidney Diagnosis",
+            "text": "",
+            "link": "https://medicine.yale.edu/news-article/abandoning-a-race-biased-tool-for-kidney-diagnosis/",
+            "snippet": "Race modifier has harmful implications \u201cThis equation increases our estimate of Black patients' kidney function by 21% relative to non-Black ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Complexities of Race Adjustment in Health Algorithms | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/policy/the-complexities-of-race-adjustment-in-health-algorithms",
+            "snippet": "This policy brief explores the complexities of accounting for race in clinical algorithms for evaluating kidney disease and the implications ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The role of health care algorithms in racial and ethnic ...",
+            "text": "",
+            "link": "https://www.pennmedicine.org/news/the-role-of-health-care-algorithms-in-racial-bias-inequity",
+            "snippet": "Removing race from the kidney function algorithm also appeared to reduce chemotherapy access, reduce eligibility for Black patients in clinical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Review of Privacy Challenges, Systemic Oversight, and ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/14/2/675",
+            "snippet": "by SM Williamson \u00b7 2024 \u00b7 Cited by 786 \u2014 This paper critically examines this integration, confronting significant ethical, legal, and technological challenges, particularly in patient privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Chronic Kidney Disease: Quality Care Begins with ...",
+            "text": "",
+            "link": "https://www.kidney.org/professionals/ckdintercept/chronic-kidney-disease-quality-care-begins-measurement",
+            "snippet": "Chronic kidney disease is a disease multiplier. It significantly increases risk for cardiovascular events and mortality. Annual testing, early recognition. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.4815510057992861e-05,
+        "norm_entropy": 4.2748525778345386e-05,
+        "avg_entropy": 7.4077550289964305e-06,
+        "avg_norm_entropy": 2.1374262889172693e-05,
+        "avg_prob": 0.5,
+        "avg_logprob": -6.907755778982387,
+        "avg_explogprob": 0.0009999994999998752,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.5,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+        "response": " Unequal performance across groups is a not a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+        "elapsed_time": 87.21222487499472
+    }
+}

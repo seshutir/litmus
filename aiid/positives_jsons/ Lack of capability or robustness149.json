@@ -1,0 +1,555 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+    "output": " Lack of capability or robustness is a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a robotic system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in interacting with people for a robotic system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in performing tasks autonomously for a robotic system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in recognizing and responding to individuals in a robotic system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is a risk in learning from experiences for the robotic system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of capability or robustness is a risk in improving the robotic system's performance over time",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        },
+        {
+            "id": "a6",
+            "text": "Lack of capability or robustness in a robotic system is a risk in adapting to new situations and environments",
+            "contexts": [
+                "c_a6_0",
+                "c_a6_1",
+                "c_a6_2",
+                "c_a6_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "OSH related risks and opportunities for industrial human-robot ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/",
+            "snippet": "We present a multifaceted analysis of risks and opportunities regarding robotic systems in the context of task automation in the industrial sector.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4 - OSHA",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "A robot system's power supply and cords can present arc flash, shock, fire, and/or other electrical hazards and injuries. Hydraulic Hazards. Ruptured hydraulic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Best Practices for Risk Assessment in Robotics - Fennec Engineering",
+            "text": "",
+            "link": "https://fennec-engineering.com/blog-risk-assessment-robotics",
+            "snippet": "Best practices for conducting effective risk assessments in modern robotics. Learn how to assess tasks, define limits, and ensure safety in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Exploring the limits of robotic systems - Penn Today",
+            "text": "",
+            "link": "https://penntoday.upenn.edu/news/penn-seas-exploring-limits-robotic-systems",
+            "snippet": "Lee's research works to identify how robotic systems learn to perform different tasks, focusing on how to tell when a problem may be too complex ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Critical Hazard Factors in the Risk Assessments of Industrial Robots",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2093791121000639",
+            "snippet": "This study discusses why robot accidents resulting in harm to operators occur repetitively despite implementing control measures and proposes corrective actions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Safety Risks and Accident Causes with Workplace Robots",
+            "text": "",
+            "link": "https://keninstitute.com/safety-risks-and-accident-causes-with-workplace-robots/",
+            "snippet": "Risk: The interaction between humans and robots poses significant safety risks, particularly in environments where robots and humans work closely together.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What are the security risks in robotics and automation?",
+            "text": "",
+            "link": "https://www.researchgate.net/post/What_are_the_security_risks_in_robotics_and_automation",
+            "snippet": "Cybersecurity Vulnerabilities: Like any connected device, robots and automated systems can be vulnerable to cyberattacks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Challenges and Risks in Working with Robots | Nexxis USA",
+            "text": "",
+            "link": "https://nexxis.com/challenges-and-risks-in-working-with-robots/",
+            "snippet": "People are the single-most important factor in the shift to robotic working. The challenges come from ensuring that everybody has access to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "6 main ethical concerns of service robots and human interaction",
+            "text": "",
+            "link": "https://hospitalityinsights.ehl.edu/service-robots-and-ethics",
+            "snippet": "The goal of our research was to focus on the ethical issues linked to the interaction between humans and robots in a service delivery context.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Autonomous Robots for Services\u2014State of the Art, Challenges, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10223107/",
+            "snippet": "This article reviews the current state of development of this technology and highlights the evolution of interest in it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Why Autonomous Robots Fail in Real Environments",
+            "text": "",
+            "link": "https://www.cyberworksrobotics.com/post/why-autonomous-robots-fail-in-real-environments",
+            "snippet": "Most autonomy systems are optimized for ideal operating conditions but lack robust recovery mechanisms when encountering: Sensor failures.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Addressing cybersecurity challenges in robotics: A comprehensive ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772918424000407",
+            "snippet": "This article provides an in-depth exploration of the cybersecurity challenges confronting robotics and offers strategies to address these concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Robotic System Reliability & Readiness - Dr. Brian Harkins",
+            "text": "",
+            "link": "https://www.drbrianharkins.com/articles/robotic-system-reliability-are-we-ready-for-full-automation/",
+            "snippet": "Imagine a robotic system that fails frequently. This not only hampers productivity, but it also poses safety risks. Automation is only as good as its ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Negatives of Robots: 5 Crucial and Worrying Drawbacks - Liv Hospital",
+            "text": "",
+            "link": "https://int.livhospital.com/negatives-of-robots-5-crucial-and-worrying-drawbacks/",
+            "snippet": "Robots know how to do certain tasks. But, they get stuck when things change. For example, a robot for assembly lines might not handle a layout change well.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Technological risks and ethical implications of using robots in long ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9208036/",
+            "snippet": "Technological risks include safety, increased workload, privacy, cost and social justice, and human connection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4 - OSHA",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Occupational health and safety issues in human-robot collaboration",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0925753523002552",
+            "snippet": "Numerous safety concerns are open, and either new or enhanced technical, procedural and organizational measures have to be investigated.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Protocol for Assessing Human- Robot Interaction Safety Risks - CPWR",
+            "text": "",
+            "link": "http://www.cpwr.com/wp-content/uploads/SS2021-Human-Robot-Interaction-Risks.pdf",
+            "snippet": "Previous studies indicate that the lack of crucial resources, such as an HRI safety risk assessment protocol, could increase resistance to using these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Negatives of Robots: 5 Crucial and Worrying Drawbacks - Liv Hospital",
+            "text": "",
+            "link": "https://int.livhospital.com/negatives-of-robots-5-crucial-and-worrying-drawbacks/",
+            "snippet": "Lack of Emotional Intelligence and Intuition. Humans make decisions with emotions and gut feelings. Robots don't have these abilities. They can't understand ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Does learning from experience benefit small AI robotics models?",
+            "text": "",
+            "link": "https://villekuosmanen.medium.com/does-learning-from-experience-benefit-small-ai-robotics-models-3de024f930e0",
+            "snippet": "The most promising direction in AI robotics today is \u201clearning from experience\u201d. Because BC policies only learn to imitate successful actions, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "These human capabilities complement AI's shortcomings - MIT Sloan",
+            "text": "",
+            "link": "https://mitsloan.mit.edu/ideas-made-to-matter/these-human-capabilities-complement-ais-shortcomings",
+            "snippet": "The work tasks that AI is least likely to replace are those that depend on uniquely human capacities, such as empathy, judgment, ethics, and hope.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Exploring the limits of robotic systems - Penn Today",
+            "text": "",
+            "link": "https://penntoday.upenn.edu/news/penn-seas-exploring-limits-robotic-systems",
+            "snippet": "His work offers insights into the fundamental limits of machine learning, guiding the development of new algorithms and systems that are both ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "The Good, the Bad, and the Ugly: Robustness of Robots ... - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=FNlceacjduE",
+            "snippet": "Prof. Dimitrios Kanoulas invited talk at the Workshop on The Art of Robustness: Surviving Failures in Robotics @IROS 2025.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "A robust optimization framework for design of robotic system with ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0045782524001221",
+            "snippet": "This study proposes a robust optimization framework to account for the kinematic and dynamic uncertainties in industrial robotic systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Enabling robustness to failure with modular field robots - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965784/",
+            "snippet": "This work shows that including modular robotic capabilities into field robotics has improved robustness by allowing a robot to reconfigure its controller to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "Robotic System Reliability & Readiness - Dr. Brian Harkins",
+            "text": "",
+            "link": "https://www.drbrianharkins.com/articles/robotic-system-reliability-are-we-ready-for-full-automation/",
+            "snippet": "Explore how advancements in robotics and robot technology drive automation reliability, preparing systems for seamless integration and minimal downtime.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "11 reasons robots struggle to scale in high-mix manufacturing",
+            "text": "",
+            "link": "https://www.therobotreport.com/11-reasons-robots-struggle-to-scale-in-high-mix-manufacturing/",
+            "snippet": "11 reasons robots struggle to scale in high-mix manufacturing \u00b7 1. Lack of data to effectively use AI-based approaches \u00b7 2. Limited part diversity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Robot systems reliability and safety: A review - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/235319927_Robot_systems_reliability_and_safety_A_review",
+            "snippet": "This paper presents a review of published literature on robot reliability and safety. The literature is classified into three main categories: robot safety; ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_0",
+            "title": "Robust interaction control for environments having uncertainties",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000021",
+            "snippet": "This paper proposes a new robust interaction control strategy, the stability enforcement-then-performance enhancement, to provide effective contact performance",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_1",
+            "title": "Challenges and opportunities in the implementation of a new robotic ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12789171/",
+            "snippet": "Abstract. Introduction: Implementing a new robotic system poses a major challenge for the entire surgical team.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_2",
+            "title": "Challenges and Trends in Robotic Systems - Purdue Business",
+            "text": "",
+            "link": "https://business.purdue.edu/news/posts/2024/failing-forward.php",
+            "snippet": "Every advancement in robot technology has set the stage for the next, starting from simple automated tools to sophisticated, intuitive machines.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_4",
+            "title": "Robotic safe adaptation in unprecedented situations",
+            "text": "",
+            "link": "https://www.cambridge.org/core/journals/research-directions-cyber-physical-systems/article/robotic-safe-adaptation-in-unprecedented-situations-the-robosapiens-project/C38E33D46B0585DD692F1597C3172EE9",
+            "snippet": "The robots of tomorrow should be endowed with the ability to adapt to drastic and unpredicted changes in their environment and interactions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Trust in Robots: Challenges and Opportunities - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7467858/",
+            "snippet": "Being able to perform trust inference based on such unstructured data can help a robot to autonomously plan and act appropriately in our social environment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Trustworthy AI and robotics: Implications for the AEC industry",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0926580522001716",
+            "snippet": "Robustness refers to performance consistency in different situations where the AI model or the robotic system is deployed [29]. This is particularly important ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Intelligent Robotics\u2014A Systematic Review of Emerging ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/3/542",
+            "snippet": "It refers to the integration of AI, ML, and advanced sensing technologies within robotic systems to enable them to perceive and interact with their environment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI in Robotics: Enabling Autonomy, Ethics, and Future Trends",
+            "text": "",
+            "link": "https://statusneo.com/ai-in-robotics-enabling-autonomy-ethics-and-future-trends/",
+            "snippet": "This integration involves embedding AI algorithms and machine learning capabilities into robotic systems, enabling them to perceive, learn, and make ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Negatives of Robots: 5 Crucial and Worrying Drawbacks - Liv Hospital",
+            "text": "",
+            "link": "https://int.livhospital.com/negatives-of-robots-5-crucial-and-worrying-drawbacks/",
+            "snippet": "Explore the Negatives of Robots in various industries. We detail 5 crucial and worrying drawbacks, including job loss and cost.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a6": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 7,
+        "num_contexts": 37,
+        "num_true_atoms": 7,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 6.999996500200124e-06,
+        "norm_entropy": 0.00014961984022606966,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S",
+            "a6": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 7,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null,
+            "a6": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+        "response": " Lack of capability or robustness is a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+        "elapsed_time": 70.13687274999938
+    }
+}

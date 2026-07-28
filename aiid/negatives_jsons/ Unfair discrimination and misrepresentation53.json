@@ -1,0 +1,435 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze crime patterns and provide insights to law enforcement, aiming to prevent future crimes. It uses data-driven approaches to identify high-risk areas and individuals, with the goal of enhancing public safety. The system seeks to optimize resource allocation and support informed decision-making for law enforcement agencies.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze crime patterns and provide insights to law enforcement, aiming to prevent future crimes. It uses data-driven approaches to identify high-risk areas and individuals, with the goal of enhancing public safety. The system seeks to optimize resource allocation and support informed decision-making for law enforcement agencies.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in the use of a predictive system for law enforcement",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing crime patterns using a predictive system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in identifying high-risk areas using the predictive system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in identifying high-risk individuals using the predictive system.",
+            "contexts": [
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk in optimizing resource allocation for law enforcement using a predictive system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Unfair discrimination and misrepresentation is not a risk in supporting informed decision-making for law enforcement agencies using the predictive system.",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Artificial Intelligence in Predictive Policing Issue Brief",
+            "text": "",
+            "link": "https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-brief",
+            "snippet": "AI-driven predictive policing perpetuates racial bias, violates privacy rights, and undermines public trust in law enforcement. as and Discrimination: AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Ethics, data protection, and the AI act",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000234",
+            "snippet": "by C Gallese \u00b7 2026 \u00b7 Cited by 3 \u2014 Ethically, it is highly problematic to train predictive models on such sensitive data without meaningful consent, especially when individuals' rights are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Is Predictive Policing Discrimination?",
+            "text": "",
+            "link": "https://bencrump.com/what-is-predictive-policing-discrimination/",
+            "snippet": "Predictive policing discrimination refers to the use of data-driven police tools in ways that may unfairly target certain people or communities, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI bias in law enforcement - A practical guide - Europol",
+            "text": "",
+            "link": "https://www.europol.europa.eu/cms/sites/default/files/documents/AI_bias_in_law_enforcement_-_practical_guide.pdf",
+            "snippet": "Discrimination or less favourable treatments of individuals based on protected characteristics occurs even without usage of AI systems",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Algorithmic Bias and the Erosion of Procedural Fairness in ...",
+            "text": "",
+            "link": "https://www.humanrightsresearch.org/post/algorithmic-bias-and-the-erosion-of-procedural-fairness-in-predictive-policing",
+            "snippet": "Despite expert claims, predictive policing cannot be entirely free of biases, particularly when they stem from systemic injustice and bias in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A study of fairness issues in predictive algorithms- example of bias in crime ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160252726000695",
+            "snippet": "This paper addresses concerns of bias in predicting future crime and victims, also known as region-specific crime prediction and individual-specific risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Artificial Intelligence in Predictive Policing Issue Brief",
+            "text": "",
+            "link": "https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-brief",
+            "snippet": "Bias and Discrimination: AI models can inherit biases from historical crime data, leading to discriminatory policing practices. Lack of Transparency: The ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic Bias and the Erosion of Procedural Fairness in Predictive ...",
+            "text": "",
+            "link": "https://www.humanrightsresearch.org/post/algorithmic-bias-and-the-erosion-of-procedural-fairness-in-predictive-policing",
+            "snippet": "Among its most notable tools is Patternizr, an AI-based pattern recognition system designed to analyze crime complaints and identify related ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI and prediction of criminal justice risk: revisiting the COMPAS dataset ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-026-01116-0",
+            "snippet": "The aim of this study is to evaluate the accuracy of machine learning techniques in addressing the problem of bias in criminal assessment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "DIRTY DATA, BAD PREDICTIONS: HOW CIVIL RIGHTS VIOLATIONS ...",
+            "text": "",
+            "link": "https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson_etal-FIN.pdf",
+            "snippet": "by R RICHARDSON \u00b7 Cited by 1024 \u2014 Law enforcement agencies are increasingly using predictive policing systems to forecast criminal activity and allocate police resources.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "How Actuarial Risk Assessment Instruments Perpetuate Social ...",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/hrj/2025/10/digitalizing-discrimination-how-actuarial-risk-assessment-instruments-perpetuate-social-inequality/",
+            "snippet": "ARAIs perpetuate systemic biases, disproportionately labelling ethno-racial minorities, such as Black individuals, as high-risk, while ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Artificial Intelligence (AI) systems are increasingly embedded in high-stakes decision-making across domains such as healthcare, finance, criminal justice, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Disparate Impact as Uniquely Relevant in the Age of AI",
+            "text": "",
+            "link": "https://civilrights.org/disparate-impact-age-of-ai/",
+            "snippet": "Understanding how AI systems create discriminatory outcomes is crucial for grasping why the disparate impact doctrine is essential to protect people from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Risk profiling systems used to predict crime must be banned",
+            "text": "",
+            "link": "https://www.amnesty.org/en/latest/news/2026/06/risk-profiling-systems/",
+            "snippet": "Risk profiling system used to identify potential offenders must be banned because they are against international law.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "AI systems based on incomplete or biased data can lead to inaccurate outcomes that infringe on people's fundamental rights, including non-discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The future of algorithmic nondiscrimination compliance in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12804706/",
+            "snippet": "by WG La Cava \u00b7 2025 \u2014 A new Section 1557 rule bans discrimination by AI-based clinical decision tools, with compliance required by May 2025.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "A study of fairness issues in predictive algorithms- example of bias in crime ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160252726000695",
+            "snippet": "Failure to address discrimination within the model may lead to oversight of subgroup , designating the origin of crime data as 'derived from official crime ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Algorithmic Bias and the Erosion of Procedural Fairness in Predictive ...",
+            "text": "",
+            "link": "https://www.humanrightsresearch.org/post/algorithmic-bias-and-the-erosion-of-procedural-fairness-in-predictive-policing",
+            "snippet": "\u201cPredictive policing\u201d is the use of machine learning algorithms to \u201cpredict\u201d criminal activity, including the type of activity and geographical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Artificial Intelligence in Predictive Policing Issue Brief",
+            "text": "",
+            "link": "https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-brief",
+            "snippet": "AI-driven predictive policing perpetuates racial bias, violates privacy rights, and undermines public trust in law enforcement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Artificial fairness? Trust in algorithmic police decision-making",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8435155/",
+            "snippet": "by Z Hobson \u00b7 2021 \u00b7 Cited by 92 \u2014 People see a decision as less fair and less appropriate when an algorithm decides, compared to when an officer decides.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "Law Enforcement Use of Predictive Policing Approaches",
+            "text": "",
+            "link": "https://www.nationalacademies.org/read/28036/chapter/5",
+            "snippet": "Using historical data in place-based predictive policing tools can perpetuate systemic biases and discrimination. (Cummings) Racial segregation can impact ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Ethics, data protection, and the AI act",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000234",
+            "snippet": "by C Gallese \u00b7 2026 \u00b7 Cited by 3 \u2014 This risk is especially acute in jurisdictions where policing practices are not known for their sensitivity to the rights of minorities or their adherence",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Artificial Intelligence in Predictive Policing Issue Brief",
+            "text": "",
+            "link": "https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-brief",
+            "snippet": "Predictive policing in artificial intelligence (AI) is when software uses data and algorithms to forecast criminal activity, with the goal of efficiently ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Predictive Policing or Predictive Prejudice? A Study of the ...",
+            "text": "",
+            "link": "https://www.oxjournal.org/predictive-policing-or-predictive-prejudice/",
+            "snippet": "Predictive policing is the use of advanced data analysis techniques to identify and predict potential crime activity before it occurs. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What Is Predictive Policing and How Does It Impact Justice?",
+            "text": "",
+            "link": "https://www.amu.apus.edu/area-of-study/criminal-justice/resources/what-is-predictive-policing/",
+            "snippet": "Predictive policing methods involve a system of crime prediction, crime pattern recognition, and crime analysis. All of that information is used ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Law Enforcement Use of Predictive Policing Approaches",
+            "text": "",
+            "link": "https://www.nationalacademies.org/read/28036/chapter/5",
+            "snippet": "Predictive tools can reinforce biases, exacerbating existing inequalities. (Redmiles); Crime is a systemic issue; crime prevention and reduction require ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a5": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 6,
+        "num_contexts": 27,
+        "num_true_atoms": 0,
+        "num_false_atoms": 6,
+        "num_uniform_atoms": 0,
+        "entropy": 8.289306334778564e-05,
+        "norm_entropy": 0.00012824557733344115,
+        "avg_entropy": 1.3815510557964274e-05,
+        "avg_norm_entropy": 2.1374262888906857e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS",
+            "a5": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 6,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze crime patterns and provide insights to law enforcement, aiming to prevent future crimes. It uses data-driven approaches to identify high-risk areas and individuals, with the goal of enhancing public safety. The system seeks to optimize resource allocation and support informed decision-making for law enforcement agencies.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze crime patterns and provide insights to law enforcement, aiming to prevent future crimes. It uses data-driven approaches to identify high-risk areas and individuals, with the goal of enhancing public safety. The system seeks to optimize resource allocation and support informed decision-making for law enforcement agencies.",
+        "elapsed_time": 216.37979449995328
+    }
+}

@@ -1,0 +1,433 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in an image recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing and categorizing visual data in an image recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying objects and people within photos using an image recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in automatically assigning relevant tags and labels to images using an image recognition system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in the continuous learning and improvement of an image recognition system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias and Discrimination in Generated Images - AI Risk",
+            "text": "",
+            "link": "https://donets.org/risks/bias-and-discrimination-in-generated-images",
+            "snippet": "Bias and Discrimination in Generated Images ; Discrimination and toxicity \u00b7 Unfair discrimination and misrepresentation \u00b7 Individual, Organization ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bias in artificial intelligence for medical imaging - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880872/",
+            "snippet": "by B Ko\u00e7ak \u00b7 2025 \u00b7 Cited by 258 \u2014 AI systems should never cause foreseeable or unintentional harm, for instance through discrimination or suboptimal patient management, which can be a direct ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How is Face Recognition Surveillance Technology Racist?",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/how-is-face-recognition-surveillance-technology-racist",
+            "snippet": "These error-prone, racially biased algorithms can have devastating impacts for people of color. For example, many police departments use face ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Facial recognition automates discrimination. The ACLU-MN is fighting to end law enforcement's use of facial recognition technology in Minnesota.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Diagnosing Gender Bias in Image Recognition Systems - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9351609/",
+            "snippet": "In this article, we present an analysis of bias in both the identification of people and the content labeling of images of women and men across a set of popular ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Generative AI Takes Stereotypes and Bias From Bad to Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Generative AI such as Stable Diffusion takes racial and gender stereotypes to extremes worse than those in the real world.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias and representation in AI generated text-to-image in education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X26000494",
+            "snippet": "AI generated text-to-image tools are rapidly entering educational settings, yet little is known about how their visual biases intersect with goals of equity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Gender Bias in AI Image Classifiers | Donets Risk",
+            "text": "",
+            "link": "https://donets.org/risks/gender-bias-in-ai-image-classifiers",
+            "snippet": "Analysis of 'Gender Bias in AI Image Classifiers' - an AI risk in Discrimination and toxicity identified through peer-reviewed research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Examining Bias and Privacy Concerns in AI Image Recognition",
+            "text": "",
+            "link": "https://keylabs.ai/blog/the-ethical-gaze-examining-bias-and-privacy-concerns-in-ai-image-recognition/",
+            "snippet": "AI algorithms designed for facial recognition often show biases, especially against darker-skinned women. These biases can result in error rates as high as 35%.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "The inaccuracy of facial recognition technology means that Black people are at increased risk of discrimination and human rights impacts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A case will be created highlighting the discrimination issue in algorithmic decision-making using two case studies which clearly show the presence of well- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Racial Discrimination in Face Recognition Technology",
+            "text": "",
+            "link": "https://sciencepolicy.hsites.harvard.edu/blog/racial-discrimination-face-recognition-technology",
+            "snippet": "Another key source of racial discrimination in face recognition lies in its utilization. In 18th century New York, \u201clantern laws\u201d required ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "Still, evidence for discrimination could then be sought by running tests on the systems using experimental methods. If the output of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Bias in AI: Examples and 6 Ways to Fix it in 2026 - AIMultiple",
+            "text": "",
+            "link": "https://aimultiple.com/ai-bias",
+            "snippet": "Expand Image. The image highlights one of the major risks of AI: discrimination and toxicity. It. Figure 1: The comparison of three major AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "They can be particularly harmful because they affect our behavior even when we consciously reject discriminatory beliefs. AI systems, like humans, can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Examining Bias and Privacy Concerns in AI Image Recognition",
+            "text": "",
+            "link": "https://keylabs.ai/blog/the-ethical-gaze-examining-bias-and-privacy-concerns-in-ai-image-recognition/",
+            "snippet": "Training data biases are key origins of discrimination in AI systems, potentially causing unfairness. To combat this, responsible AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "What Happens When Generative AI Exhibits Bias, and What Can Be ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/382271280_Generative_Discrimination_What_Happens_When_Generative_AI_Exhibits_Bias_and_What_Can_Be_Done_About_It",
+            "snippet": "representation may, but need not necessarily, amount to direct or indirect discrimination. Outright discriminatory content can primarily cross the harassment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Who is a scientist? Gender and racial biases in google vision AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-025-00742-4",
+            "snippet": "Even seemingly innocent applications, such as processing images and videos using AI, may introduce biases and discrimination based on identity, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Biased Face Recognition Technology Used by Government",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 57 \u2014 Various forms of invidious discrimination and biases like racism, sexism, ableism, ageism, and the like are unjust because they are committed when there exists ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Examining Bias and Privacy Concerns in AI Image ...",
+            "text": "",
+            "link": "https://keylabs.ai/blog/the-ethical-gaze-examining-bias-and-privacy-concerns-in-ai-image-recognition/",
+            "snippet": "AI bias mirrors and exacerbates social prejudices, causing errors and discrimination against marginalized groups. For example, it can lead to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "How will AI Impact Racial Disparities in Education?",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "Likewise, the usage of AI in education cannot ignore its tendency to perpetuate bias and discrimination. AI remains a very complex, nuanced, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Thinking About Equity and Bias in AI",
+            "text": "",
+            "link": "https://www.edutopia.org/article/equity-bias-ai-what-educators-should-know/",
+            "snippet": "Such policies and regulations must explicitly prohibit and actively counteract all forms of discrimination, including but not limited to racism, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Diagnosing Gender Bias in Image Recognition Systems - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9351609/",
+            "snippet": "by C Schwemmer \u00b7 2020 \u00b7 Cited by 139 \u2014 In this article, we evaluate potential gender biases of commercial image recognition platforms using photographs of US members of Congress and a large number ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithmic bias in machine learning-based marketing ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000959",
+            "snippet": "by S Akter \u00b7 2022 \u00b7 Cited by 347 \u2014 This study presents a framework identifying the sources of algorithmic bias in marketing, drawing on the microfoundations of dynamic capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Towards a Standard for Identifying and Managing Bias in ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 785 \u2014 Section 3 de- scribes the challenge of bias related to three core areas: datasets; test, evaluation, validation and verification; and human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Unfairness in Machine Learning for Web Systems ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3617023.3617043",
+            "snippet": "by D Minatel \u00b7 2023 \u00b7 Cited by 14 \u2014 This section introduces some essential fairness analysis concepts to understand whether a decision as a whole is unfair. It also presents different ways bias ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Biased Technology: The Automated Discrimination of Facial Recognition \u00b7 It gives blanketed and indiscriminate surveillance to authorities to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+        "elapsed_time": 34.29242908300057
+    }
+}

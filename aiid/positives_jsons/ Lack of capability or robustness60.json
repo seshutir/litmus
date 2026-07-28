@@ -1,0 +1,304 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images and classify them into relevant categories, providing insights into environmental phenomena. The system utilizes machine learning algorithms to learn patterns and relationships within the image data, aiming to improve the accuracy of its classifications. By training on a diverse dataset, the system seeks to develop a robust and reliable image classification model.",
+    "output": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images and classify them into relevant categories, providing insights into environmental phenomena. The system utilizes machine learning algorithms to learn patterns and relationships within the image data, aiming to improve the accuracy of its classifications. By training on a diverse dataset, the system seeks to develop a robust and reliable image classification model.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a computer vision system is a risk in analyzing images and classifying them into relevant categories",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the computer vision system's machine learning algorithms is a risk in utilizing them to learn patterns and relationships within the image data",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in training on a diverse dataset to develop a robust and reliable image classification model for the computer vision system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A Survey on the Robustness of Computer Vision Models against ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2305.06024",
+            "snippet": "In this survey, we present a comprehensive overview of methods that improve the robustness of computer vision models against common corruptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A comprehensive survey of robust deep learning in computer vision",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S294985542300045X",
+            "snippet": "In computer systems, robustness indicates the ability of a computer system to handle errors during execution and cope with erroneous inputs. In DL, robustness ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Why We Need Robust and Interactable World Models in Computer ...",
+            "text": "",
+            "link": "https://medium.com/@ml-point/why-we-need-robust-and-interactable-world-models-in-computer-vision-0f228d0094d5",
+            "snippet": "Vision systems fail in out-of-distribution scenes \u00b7 Small visual changes cause large failures \u00b7 Models struggle with long-horizon reasoning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robustness and Adversarial Attacks in Computer Vision",
+            "text": "",
+            "link": "https://www.xenonstack.com/blog/adversarial-attacks-in-computer-vision",
+            "snippet": "Explore Robustness and Adversarial Attacks in Computer Vision, focusing on enhancing AI model resilience against adversarial manipulations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Your 2025 Guide to the Top 6 Computer Vision Problems - OpenCV",
+            "text": "",
+            "link": "https://opencv.org/computer-vision-problems/",
+            "snippet": "This comprehensive read explores the six most common computer vision problems in 2025. We explore the causes and the solutions to them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A comprehensive survey of robust deep learning in computer vision",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S294985542300045X",
+            "snippet": "This paper investigates the progress on the threat of deep learning and the techniques that can enhance the model robustness in computer vision.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What are the current major limitations of computer vision? - Quora",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-current-major-limitations-of-computer-vision",
+            "snippet": "The main limitation is the architecture of computer. The computer recognizes bits or digits only. It doesn't know what is in the picture or what an audio ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Towards Robustifying Image Classifiers against the Perils of ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506202/",
+            "snippet": "This work introduces an AI architecture augmented with adversarial examples and defense algorithms to safeguard, secure, and make more reliable AI systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Robustness of Deep Learning Models for Vision Tasks - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/13/7/4422",
+            "snippet": "This article aims to provide a historical summary of the evolution of adversarial attacks and defense methods on CNN-based models",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Bias in artificial intelligence for medical imaging - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880872/",
+            "snippet": "AI algorithms have the potential to mitigate cognitive biases in human interpretation, but extensive research has highlighted the tendency of AI systems to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What are some fundamental problems in Computer Vision that Deep ...",
+            "text": "",
+            "link": "https://www.quora.com/What-are-some-fundamental-problems-in-Computer-Vision-that-Deep-Learning-may-not-be-able-to-solve",
+            "snippet": "Deep learning has taken over computer vision, is it still necessary to learn traditional computer vision methods such as the ones written in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Deep Learning vs. Traditional Computer Vision - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/pdf/1910.13796",
+            "snippet": "Deep Learning (DL) is used in the domain of digital image processing to solve difficult problems (e.g. image colourization, classification, segmentation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Comprehensive Study on Robustness of Image Classification ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2302.14301",
+            "snippet": "In this paper, we establish a comprehensive robustness benchmark called \\textbf{ARES-Bench} on the image classification task.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Strategies to Improve the Robustness and Generalizability of Deep ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12014193/",
+            "snippet": "The study identifies key strategies to enhance deep learning in neuroimaging, including regularization, data augmentation, transfer learning, and uncertainty ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Applications, image analysis, and interpretation of computer vision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12827770/",
+            "snippet": "Abstract. This review summarizes the current advances, applications, and research prospects of computer vision in advancing medical imaging.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What Is Image Classification? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/image-classification",
+            "snippet": "Learn what image classification is and how it works. Discover the difference between rule-based methods and machine learning statistical approaches.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "computer vision and deep learning: applications in image analysis",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/379759289_COMPUTER_VISION_AND_DEEP_LEARNING_APPLICATIONS_IN_IMAGE_ANALYSIS",
+            "snippet": "The paper underscores the transformative potential of computer vision and deep learning in image analysis and AI detection, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999748,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 18,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00025496824383261166,
+        "norm_entropy": 0.0034401168654190728,
+        "avg_entropy": 6.374206095815291e-05,
+        "avg_norm_entropy": 0.0008600292163547682,
+        "avg_prob": 0.99993625,
+        "avg_logprob": -6.375793970886542e-05,
+        "avg_explogprob": 0.9999362440927854,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.000252,
+                    0.999748
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.999874015876,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images and classify them into relevant categories, providing insights into environmental phenomena. The system utilizes machine learning algorithms to learn patterns and relationships within the image data, aiming to improve the accuracy of its classifications. By training on a diverse dataset, the system seeks to develop a robust and reliable image classification model.",
+        "response": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images and classify them into relevant categories, providing insights into environmental phenomena. The system utilizes machine learning algorithms to learn patterns and relationships within the image data, aiming to improve the accuracy of its classifications. By training on a diverse dataset, the system seeks to develop a robust and reliable image classification model.",
+        "elapsed_time": 40.22509875000014
+    }
+}

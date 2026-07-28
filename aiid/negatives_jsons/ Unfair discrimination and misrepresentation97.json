@@ -1,0 +1,334 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a student's academic success",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a predictive system analyzing various factors that contribute to a student's academic success",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in identifying potential challenges in a predictive system designed to analyze student academic success",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in offering personalized recommendations to help students achieve their goals",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The association between experiences of unfair treatment in school and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11606257/",
+            "snippet": "by E Grew \u00b7 2024 \u00b7 Cited by 2 \u2014 This study investigates how high\u2010school experiences of unfair treatment connect to adolescents' higher education enrollment and life satisfaction 5 years later.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Report of Unfair Discipline at School and Associations with Health Risk ...",
+            "text": "",
+            "link": "https://www.cdc.gov/mmwr/volumes/73/su/su7304a8.htm",
+            "snippet": "by KH Krause \u00b7 2024 \u00b7 Cited by 17 \u2014 This report describes students who reported receiving unfair discipline during the previous 12 months.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Racial Inequality in Education",
+            "text": "",
+            "link": "https://www.aecf.org/blog/racial-inequality-in-education",
+            "snippet": "The U.S. education landscape has long been a source of unequal treatment, access and outcomes based on a student's race or ethnicity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "U.S. Department of Education Directs Schools to End Racial Preferences",
+            "text": "",
+            "link": "https://www.ed.gov/about/news/press-release/us-department-of-education-directs-schools-end-racial-preferences",
+            "snippet": "Students should be assessed according to merit, accomplishment, and character\u2014not prejudged by the color of their skin. The Office for Civil ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Inequality at school",
+            "text": "",
+            "link": "https://www.apa.org/monitor/2016/11/cover-inequality-school",
+            "snippet": "Research shows that compared with white students, black students are more likely to be suspended or expelled, less likely to be placed in gifted programs",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Are algorithms biased in education? Exploring racial bias in predicting ...",
+            "text": "",
+            "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22569",
+            "snippet": "by KA Bird \u00b7 2025 \u00b7 Cited by 66 \u2014 Predictive analytics are increasingly pervasive in higher education. However, algorithmic bias has the potential to reinforce racial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Major Universities Are Using Race as a \u201cHigh Impact Predictor\u201d of Student ...",
+            "text": "",
+            "link": "https://themarkup.org/machine-learning/2021/03/02/major-universities-are-using-race-as-a-high-impact-predictor-of-student-success",
+            "snippet": "Major universities are using their students' race, among other variables, to predict how likely they are to drop out of school.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How will AI Impact Racial Disparities in Education? - Stanford Law School",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "predictive analytics often rate racial minorities as less likely to succeed academically. This is because race is included as a risk factor in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Inside the Black Box: Detecting and Mitigating Algorithmic Bias Across ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/23328584241258741",
+            "snippet": "by D G\u00e1ndara \u00b7 2024 \u00b7 Cited by 120 \u2014 In this study, we examine how the accuracy of college student success predictions differs between racialized groups, signaling algorithmic bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Navigating Fairness, Bias, and Ethics in Educational AI ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.18745v2",
+            "snippet": "AI systems can inadvertently encode and amplify biases present in educational data, leading to unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Is Your Model \"MADD\"? A Novel Metric to Evaluate ...",
+            "text": "",
+            "link": "https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.8/index.html",
+            "snippet": "by M Verger \u00b7 2023 \u00b7 Cited by 30 \u2014 However, predictive models can be biased and produce unfair outcomes, leading to potential discrimination against some students and possible harmful long-term ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI-based prediction of academic success: Support for many ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24001061",
+            "snippet": "by L Herrmann \u00b7 2024 \u00b7 Cited by 25 \u2014 Automated predictors of success can provide support by identifying students at risk of not succeeding in completing their studies at an early stage. At the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "V5I4: Predicting Risk Earlier: Using Artificial Intelligence to ...",
+            "text": "",
+            "link": "https://nwccu.org/news/v5i4-predicting-risk-earlier-using-artificial-intelligence-to-support-student-success-and-combat-inequity/",
+            "snippet": "These results establish our model as a valuable tool to identify students at risk of not returning for their second academic term.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Artificial intelligence in education: Addressing ethical challenges in K ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/",
+            "snippet": "by S Akgun \u00b7 2021 \u00b7 Cited by 2546 \u2014 The article aims to help practitioners reap the benefits and navigate ethical challenges of integrating AI in K-12 classrooms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Notice of interpretation regarding misrepresentations by third-party ...",
+            "text": "",
+            "link": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-01-16/notice-interpretation-regarding-misrepresentations-third-party-service-providers-engaged-institution-higher-education",
+            "snippet": "This letter clarifies types of statements that have a high risk of qualifying as a substantial misrepresentation because they are likely to be false, erroneous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Navigating Fairness, Bias, and Ethics in Educational AI Applications",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.18745v1",
+            "snippet": "These systems aim to enhance student engagement and success by providing personalized recommendations that align with students' goals and abilities, thus ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Avoid Misrepresentations to Prospective and Current Students",
+            "text": "",
+            "link": "https://www.ue.org/risk-management/compliance/avoid-misrepresentations-to-students/",
+            "snippet": "To mitigate the risk of misrepresentations to students at your college or university, carefully review promises to applicants and students.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "V5I4: Predicting Risk Earlier: Using Artificial Intelligence to Support ...",
+            "text": "",
+            "link": "https://nwccu.org/news/v5i4-predicting-risk-earlier-using-artificial-intelligence-to-support-student-success-and-combat-inequity/",
+            "snippet": "Qualitative data offers rich insights into student experience, achievement gaps, and institutional challenges. While quantitative data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Predictive Analytics in Higher Education",
+            "text": "",
+            "link": "https://reportcenter.highered.texas.gov/agency-publication/miscellaneous/iv-a-3-3-the-promise-and-peril-of-predictive-analytics-in-higher-education/",
+            "snippet": "One common use for recommender systems is helping students choose courses to take next and/or choose a major based on data about their previous academic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial intelligence in education: Addressing ethical challenges in K ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/",
+            "snippet": "by S Akgun \u00b7 2021 \u00b7 Cited by 2546 \u2014 These systems provide insights about students' behaviors during learning processes and allow teachers to take action or intervene, which, in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 21,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+        "elapsed_time": 39.62477629201021
+    }
+}

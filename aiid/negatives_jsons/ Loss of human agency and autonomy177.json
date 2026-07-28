@@ -1,0 +1,221 @@
+{
+    "input": " Loss of human agency and autonomy is a not a risk associated with An AI system is designed to analyze various factors and provide recommendations for sentencing in legal cases. It aims to consider multiple data points, such as demographic and socioeconomic information, to inform its decisions. The system seeks to assist in determining fair and appropriate sentences for crimes committed.",
+    "output": " Loss of human agency and autonomy is a not a risk associated with An AI system is designed to analyze various factors and provide recommendations for sentencing in legal cases. It aims to consider multiple data points, such as demographic and socioeconomic information, to inform its decisions. The system seeks to assist in determining fair and appropriate sentences for crimes committed.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is not a risk associated with an AI system in legal cases",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is not a risk associated with analyzing demographic and socioeconomic information to inform sentencing decisions",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Legal and human rights issues of AI: Gaps, challenges and vulnerabilities",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666659620300056",
+            "snippet": "by R Rodrigues \u00b7 2020 \u00b7 Cited by 794 \u2014 This article focusses on legal and human rights issues of artificial intelligence (AI) being discussed and debated, how they are being addressed, gaps and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI's Escalating Sophistication Presents New Legal Dilemmas",
+            "text": "",
+            "link": "https://nysba.org/ais-escalating-sophistication-presents-new-legal-dilemmas/?srsltid=AfmBOooY5N5YU9WkI_KTdN8Sm9eRnd1q-Dkq6bdxsXz0EFilzcat_T_E",
+            "snippet": "Unlike human actors, AI lacks subjective intent, political liberties or autonomy in the legal sense. However, courts and regulators are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "If corporations have legal personhood, why not AI agents? The difference is ...",
+            "text": "",
+            "link": "https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/if-corporations-have-legal-personhood-why-not-ai-agents-the-difference-is-that-t/1495463781936463/",
+            "snippet": "The difference is that the decisions made by corporations are ultimately made by people, whereas AIs are capable of operating with no human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Law of AI is the Law of Risky Agents Without Intentions",
+            "text": "",
+            "link": "https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions",
+            "snippet": "by I Ayres \u00b7 Cited by 28 \u2014 Because AI agents lack intentions, the law should hold them (and the people and companies that employ them) to objective standards, which might ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Human Autonomy at Risk? An Analysis of the Challenges from AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s11023-024-09665-1",
+            "snippet": "by C Prunkl \u00b7 2024 \u00b7 Cited by 134 \u2014 In this article, I provide a conceptual framework that both ties together seemingly disjoint issues about human autonomy, as well as highlights differences ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Assessing AI for Criminal Justice: A User Decision Framework",
+            "text": "",
+            "link": "https://counciloncj.org/assessing-ai-for-criminal-justice-a-user-decision-framework/",
+            "snippet": "Because AI should be fair and just, regular assessment of impacts across demographic groups is essential, as is mandatory user training that addresses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Desistance and Sentencing",
+            "text": "",
+            "link": "https://www.sentencingacademy.org.uk/sentencinghub/research-policy/desistance-and-sentencing/",
+            "snippet": "by A Bunce \u00b7 Cited by 2 \u2014 This paper reviews research on the desistance process and considers the implications of key findings for the sentencing process.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The More You Have, The More You Lose: Criminal Justice Involvement ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438383/",
+            "snippet": "by CR Dennison \u00b7 2017 \u00b7 Cited by 51 \u2014 In the present study, we examine the relationship between involvement in the criminal justice system and achieved socioeconomic status (SES) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Artificial Intelligence in Criminal Justice",
+            "text": "",
+            "link": "https://www.collegesoflaw.edu/blog/2024/01/12/artificial-intelligence-and-criminal-law/",
+            "snippet": "The use by the courts of risk assessment programs is one of the principal incursions of Artificial Intelligence (AI) into criminal law judicial determinations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Sentencing as a human process? Human judges' experiences of ...",
+            "text": "",
+            "link": "https://academic.oup.com/bjc/advance-article/doi/10.1093/bjc/azaf128/8494416",
+            "snippet": "Since 2006, risk assessment tools based on dynamic and static risk factors have been used in sentencing and parole decisions for sex offenders.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Assessing AI for Criminal Justice: A User Decision Framework",
+            "text": "",
+            "link": "https://counciloncj.org/assessing-ai-for-criminal-justice-a-user-decision-framework/",
+            "snippet": "AI (Artificial Intelligence): Machine-based systems that operate with varying levels of autonomy, may exhibit adaptiveness after deployment, and infer from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "rethinking US law for generative AI's societal impacts - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12058884/",
+            "snippet": "by I Cheong \u00b7 2024 \u00b7 Cited by 72 \u2014 Our interdisciplinary study examines the effectiveness of US law in addressing the complex challenges posed by generative AI systems to fundamental human values ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI in Criminal Justice: Why Governance Matters and How to ...",
+            "text": "",
+            "link": "https://law.stanford.edu/2026/03/27/ai-in-criminal-justice-why-governance-matters-and-how-to-make-it-work/",
+            "snippet": "AI is a set of technologies that can reconfigure where power lies in the justice system \u2014 between public and private actors, between technical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Ethical AI Sentencing: A Framework for Moral Judgment in Criminal ...",
+            "text": "",
+            "link": "https://criticaldebateshsgj.scholasticahq.com/article/125464-ethical-ai-sentencing-a-framework-for-moral-judgment-in-criminal-justice",
+            "snippet": "by S Sedlarcik \u00b7 2024 \u2014 AI algorithms are not geared to be involved in morally relevant decision-making. This concern will likely remain even if AI algorithms are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.050001,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.050398,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.30036794466888495,
+        "norm_entropy": 0.574486437752501,
+        "avg_entropy": 0.15018397233444247,
+        "avg_norm_entropy": 0.2872432188762505,
+        "avg_prob": 0.050199499999999994,
+        "avg_logprob": -2.991758030492929,
+        "avg_explogprob": 0.05019910754186771,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.949999,
+                    0.050001
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.949602,
+                    0.050398
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0025200292025,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a not a risk associated with An AI system is designed to analyze various factors and provide recommendations for sentencing in legal cases. It aims to consider multiple data points, such as demographic and socioeconomic information, to inform its decisions. The system seeks to assist in determining fair and appropriate sentences for crimes committed.",
+        "response": " Loss of human agency and autonomy is a not a risk associated with An AI system is designed to analyze various factors and provide recommendations for sentencing in legal cases. It aims to consider multiple data points, such as demographic and socioeconomic information, to inform its decisions. The system seeks to assist in determining fair and appropriate sentences for crimes committed.",
+        "elapsed_time": 47.75438275001943
+    }
+}

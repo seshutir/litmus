@@ -1,0 +1,343 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+    "output": " Lack of capability or robustness is a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in speech recognition for language proficiency assessments",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in analyzing audio recordings to identify and score speech patterns in a speech recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in using artificial intelligence to evaluate an individual's speaking skills.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in a speech recognition system is a risk in flagging potential anomalies or irregularities in speech",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A Robustness Benchmark For Speech Recognition - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2403.07937v2",
+            "snippet": "We propose Speech Robust Bench (SRB), a comprehensive benchmark for evaluating the robustness of ASR models to diverse corruptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bridging language gaps: The role of NLP and speech recognition in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12139008/",
+            "snippet": "Traditional methods lack real-time speech assessment and individualized feedback, limiting learners' progress. Existing speech recognition ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Evaluating the Accessibility of Automatic Speech Recognition ...",
+            "text": "",
+            "link": "https://nhsjs.com/2025/evaluating-the-accessibility-of-automatic-speech-recognition-technology-across-accents/",
+            "snippet": "A growing body of research has highlighted a significant disparity in ASR systems' ability to accurately transcribe content from diverse accents ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Top 7 Speech Recognition Challenges & Solutions - AIMultiple",
+            "text": "",
+            "link": "https://aimultiple.com/speech-recognition-challenges",
+            "snippet": "If a user's voice assistant takes too long to respond or a live transcription falls behind the speaker, the interaction feels unnatural.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Robust Speech Recognition via Large-Scale Weak Supervision",
+            "text": "",
+            "link": "https://cdn.openai.com/papers/whisper.pdf",
+            "snippet": "We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet. When ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "evaluating automatic speech recognition system performance in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631515/",
+            "snippet": "Audio-recorded communications enhance risk identification models, with automatic speech recognition (ASR) systems as a key component. This study ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] Challenges and Feasibility of Automatic Speech Recognition for ...",
+            "text": "",
+            "link": "https://www.colorado.edu/research/ai-institute/sites/default/files/attached-files/challengesfeasibility.pdf",
+            "snippet": "We compare a variety of commercially available ASR systems on both speech to text transcription, and we investigate the influence of ASR errors on downstream ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] Robust Speech Recognition via Large-Scale Weak Supervision",
+            "text": "",
+            "link": "https://proceedings.mlr.press/v202/radford23a/radford23a.pdf",
+            "snippet": "We study the capabilities of speech processing sys- tems trained simply to predict large amounts of transcripts of audio on the internet. When scaled.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Robustness-Related Issues in Speaker Recognition - Academia.edu",
+            "text": "",
+            "link": "https://www.academia.edu/113610475/Robustness_Related_Issues_in_Speaker_Recognition",
+            "snippet": "Robustness-Related Issues in Speaker Recognition \u00b7 1 Emotion Emotion is an intrinsic nature of human beings and changes in the rendering forms of speech signals ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Exploring the effects of artificial intelligence on student and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/",
+            "snippet": "Over-reliance on AI may diminish interpersonal skills and emotional intelligence, leading to social isolation and anxiety. Furthermore, issues ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "(PDF) AI Chatbots and EFL Learners' Risk-Taking in Oral ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403317940_AI_Chatbots_and_EFL_Learners'_Risk-Taking_in_Oral_Communication_A_Scoping_Review",
+            "snippet": "Research examining the role of AI-powered chatbots in promoting risk-taking in oral communication remains limited.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The impact of AI applications on pre-service teachers' public ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0742051X25002574",
+            "snippet": "This study aims to comprehensively evaluate the impact of AI technologies on PSA and ASCOP, contributing to the development of PSA reduction strategies and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Exploring the impact of artificial intelligence-enhanced language ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-025-06033-x",
+            "snippet": "This study constructs an advanced intelligent language learning system, meticulously designed to elevate learners' linguistic prowess and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "AI in Workplace Communications: Pros, Cons and Tips - backstitch",
+            "text": "",
+            "link": "https://www.backstitch.io/blog/ai-in-workplace-communications-pros-cons-and-tips",
+            "snippet": "Risk of Misinterpretation ... AI may misinterpret nuances in language or context, leading to inaccuracies or misunderstandings in communication.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Potential problems associated with use of speech recognition products",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/10177455/",
+            "snippet": "Anecdotal evidence suggests that some persons using these products experience moderate to severe problems with their voices, such as hoarseness, sore throats, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What are common issues faced by speech recognition systems?",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/what-are-common-issues-faced-by-speech-recognition-systems",
+            "snippet": "These issues often stem from environmental factors, linguistic complexity, and system limitations. Understanding these challenges helps in designing more robust ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Disordered speech recognition considering low resources and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S016763932300136X",
+            "snippet": "This study addresses the problems of disordered speech in two respects, low resources, and articulatory abnormality.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Decoding disparities: evaluating automatic speech recognition ...",
+            "text": "",
+            "link": "https://academic.oup.com/jamiaopen/article/7/4/ooae130/7920671",
+            "snippet": "This study evaluates the transcription accuracy and equity of 4 ASR systems\u2014Amazon Web Services (AWS) General, AWS Medical, Whisper, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The impact of AI-driven speech recognition on EFL listening ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-025-04672-8",
+            "snippet": "This randomized controlled trial explored the effects of employing AI-driven methodologies on enhancing listening comprehension, flow experience, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Top 7 Speech Recognition Challenges & Solutions - AIMultiple",
+            "text": "",
+            "link": "https://aimultiple.com/speech-recognition-challenges",
+            "snippet": "The accuracy of a Speech Recognition System (SRS) must be high to create any value. However, achieving a high level of accuracy can be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Characteristics and limitations of Pronunciation Assessment",
+            "text": "",
+            "link": "https://learn.microsoft.com/en-us/azure/foundry/responsible-ai/speech-service/pronunciation-assessment/characteristics-and-limitations-pronunciation-assessment",
+            "snippet": "This article provides information on the characteristics and limitations of using Pronunciation Assessment and the considerations you should ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Evaluation of the performance of an artificial intelligence model in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12826015/",
+            "snippet": "Our AI model showed strong speech recognition abilities without requiring extensive training in professional knowledge. It effectively ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+        "response": " Lack of capability or robustness is a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+        "elapsed_time": 48.21373054099968
+    }
+}

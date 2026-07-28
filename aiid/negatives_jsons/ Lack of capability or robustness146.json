@@ -1,0 +1,212 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A predictive pricing model is designed to forecast future housing prices using artificial intelligence and machine learning algorithms. The model aims to provide accurate and reliable estimates by analyzing various market trends and data points. Its primary objective is to help users make informed decisions by predicting future price fluctuations.",
+    "output": " Lack of capability or robustness is a not a risk associated with A predictive pricing model is designed to forecast future housing prices using artificial intelligence and machine learning algorithms. The model aims to provide accurate and reliable estimates by analyzing various market trends and data points. Its primary objective is to help users make informed decisions by predicting future price fluctuations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a predictive pricing model",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with forecasting future housing prices using artificial intelligence and machine learning algorithms in a predictive pricing model.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v1",
+            "snippet": "ML Model robustness denotes the capacity of a model to sustain stable predictive performance in the face of variations and changes in the input ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "On Robustness of the Explanatory Power of Machine Learning ...",
+            "text": "",
+            "link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024WR037398",
+            "snippet": "by B Panigrahi \u00b7 2025 \u00b7 Cited by 27 \u2014 Our objective was to gauge the robustness and consistency of these models and to glean insights into controlling variables in the prediction ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Comparing Predictive Models for Dependent Risk Pricing",
+            "text": "",
+            "link": "https://variancejournal.org/article/146234-comparing-predictive-models-for-dependent-risk-pricing",
+            "snippet": "by GA Spedicato \u00b7 2025 \u2014 This paper explores the application of advanced machine learning (ML) techniques, particularly gradient-boosted trees (GBTs), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Model Robustness: Building Reliable AI Models",
+            "text": "",
+            "link": "https://encord.com/blog/model-robustness-machine-learning-strategies/",
+            "snippet": "Model robustness is a machine-learning (ML) model's ability to withstand uncertainties and perform accurately in different contexts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "(PDF) Traditional or advanced machine learning approaches",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387780347_Traditional_or_advanced_machine_learning_approaches_Which_one_is_better_for_housing_price_prediction_and_uncertainty_risk_reduction",
+            "snippet": "This study used both traditional and advanced machine learning (ML) approaches to address the issue of housing price prediction.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Intelligent Feature Selection Ensemble Model for Price ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2227-9709/12/2/52",
+            "snippet": "by DC Andrade-Gir\u00f3n \u00b7 2025 \u00b7 Cited by 6 \u2014 This study examines the effects of dimensionality reduction through Recursive Feature Elimination (RFE), Random Forest (RF), and Boruta on real estate price ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Real-Time Explainable Housing Price Prediction with ...",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/6587098.pdf?abstractid=6587098&mirid=1",
+            "snippet": "the models have three significant drawbacks that include low explainability, inability to forecast the future trends, poor capacity to adapt to the changes in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Predicting House Prices Using Machine Learning",
+            "text": "",
+            "link": "https://scholar.smu.edu/cgi/viewcontent.cgi?article=1308&context=datasciencereview",
+            "snippet": "This study explores the use of Machine Learning methods to predict housing prices, a problem of significant interest in real estate economics, and data science.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Machine Learning Models for Predicting Second-hand ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3767052.3767068",
+            "snippet": "This paper presents a comparative analysis of the application of machine learning models in predicting the prices of second-hand houses.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Comparative Analysis of Advanced Models for Predicting ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2413-8851/9/2/32",
+            "snippet": "by I Moreno-Foronda \u00b7 2025 \u00b7 Cited by 24 \u2014 This article presents a systematic review analyzing studies that compare various machine learning (ML) tools with hedonic regression.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Using machine learning and big data to predict real estate ...",
+            "text": "",
+            "link": "https://warrington.ufl.edu/news/machine-learning-big-data-predict-real-estate-returns/",
+            "snippet": "Explore the complexities of predicting real estate returns and how machine learning is transforming financial forecasting.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Residential real estate price prediction based on adaptive ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-025-05217-9",
+            "snippet": "by H Zhang \u00b7 2025 \u00b7 Cited by 5 \u2014 We propose a real estate price prediction model that leverages an adaptive loss function and optimizes feature embedding.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 8e-06,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.026319,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.09582830796781909,
+        "norm_entropy": 0.1757287447171742,
+        "avg_entropy": 0.047914153983909545,
+        "avg_norm_entropy": 0.0878643723585871,
+        "avg_prob": 0.0131635,
+        "avg_logprob": -7.6867665917261085,
+        "avg_explogprob": 0.00045885945560705224,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999992,
+                    8e-06
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.973681,
+                    0.026319
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.00034634491249999993,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A predictive pricing model is designed to forecast future housing prices using artificial intelligence and machine learning algorithms. The model aims to provide accurate and reliable estimates by analyzing various market trends and data points. Its primary objective is to help users make informed decisions by predicting future price fluctuations.",
+        "response": " Lack of capability or robustness is a not a risk associated with A predictive pricing model is designed to forecast future housing prices using artificial intelligence and machine learning algorithms. The model aims to provide accurate and reliable estimates by analyzing various market trends and data points. Its primary objective is to help users make informed decisions by predicting future price fluctuations.",
+        "elapsed_time": 37.0752339590108
+    }
+}

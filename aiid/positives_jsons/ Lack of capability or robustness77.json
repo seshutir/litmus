@@ -1,0 +1,342 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+    "output": " Lack of capability or robustness is a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the AI system is a risk in student performance evaluation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in calculating student scores based on their performance using an AI system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the AI system is a risk in analyzing student data",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in the AI system is a risk in generating scores that reflect students' knowledge and skills",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Exploring the effects of artificial intelligence on student and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/",
+            "snippet": "AI systems often require access to vast amounts of student data, including academic performance, behavioral patterns, and even personal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The risks of AI in schools outweigh the benefits, report says - NPR",
+            "text": "",
+            "link": "https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education",
+            "snippet": "A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Reporting the potential risk of using AI in higher Education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958825001083",
+            "snippet": "This study explores the potential risks associated with the use of AI in higher education. \u2022. The findings reveal significant concerns about privacy risks, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Negative Effects of Artificial Intelligence in Education",
+            "text": "",
+            "link": "https://stratxsim.com/recent-posts/the-negative-effects-of-artificial-intelligence-in-education",
+            "snippet": "Meta-analysis found that out of 555 AI models, 83.1% of them had a high risk of bias, making it one of the primary disadvantages of AI in education. What does ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Impact of AI on Student Performance Assessment: Challenges and ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/impact-ai-student-performance-assessment-challenges-rivi%C3%A8re-9zmqe",
+            "snippet": "We will explore how AI could reduce teachers' workload and improve the fairness of marking, while preserving pedagogical quality and the confidence of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Students using artificial intelligence did worse on tests, experiment ...",
+            "text": "",
+            "link": "https://edsource.org/updates/students-using-artificial-intelligence-did-worse-on-tests-experiment-shows",
+            "snippet": "Students utilizing artificial intelligence programs did worse on math tests than their peers without access, an experiment in a Turkish high school found.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Exploring the effects of artificial intelligence on student and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/",
+            "snippet": "This mini-review synthesizes current literature to assess how AI affects student well-being, focusing on mental health, social interactions, and academic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Predicting student performance: A comprehensive review of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X26000093",
+            "snippet": "Predicting student performance involves analyzing different factors, such as demographic, personal, academic, behavioral, psychological, and socioeconomic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Hidden AI Bias in Schools: Assessment Guide for Educators",
+            "text": "",
+            "link": "https://www.evelynlearning.com/blog/the-hidden-bias-problem-in-educational-ai-what-schools-need-to-know-before-implementation",
+            "snippet": "Measurement Bias happens when the metrics used to train AI systems don't accurately capture student ability or potential across all groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Reporting the potential risk of using AI in higher Education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958825001083",
+            "snippet": "Learning platforms driven by AI, for instance, can unintentionally expose student data to online dangers, jeopardizing security and confidentiality. In the SWOT ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Hidden AI Risks in Your School: How to Protect Student Data - CESA 6",
+            "text": "",
+            "link": "https://www.cesa6.org/blog/how-to-protect-student-data-from-hidden-ai-risks",
+            "snippet": "Since AI is always consuming data, student data is at risk - forcing schools to rethink cybersecurity standards to protect their students and teachers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Exploring the effects of artificial intelligence on student and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/",
+            "snippet": "Over-reliance on AI may diminish interpersonal skills and emotional intelligence, leading to social isolation and anxiety. Furthermore, issues ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Learners' AI dependence and critical thinking - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001691825010388",
+            "snippet": "Empirical studies have consistently found that students who heavily rely on AI tools tend to show weaker abilities in evaluating information and solving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI's future for students is in our hands - Brookings Institution",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/ais-future-for-students-is-in-our-hands/",
+            "snippet": "The threats of AI to students\u2014including from unsupervised out-of-school use\u2014are primarily cognitive, emotional, and social. These risks are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Impact of Artificial Intelligence (AI) on Students' Academic ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2227-7102/15/3/343",
+            "snippet": "This study investigates the impact of AI technologies on students' learning processes and academic performance, with a focus on their perceptions and the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The role of over-reliance on AI in the negative consequences of ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2591503",
+            "snippet": "The research reveals that while AI tools offer significant benefits in education, excessive dependence on them leads to reduced critical thinking, diminished ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI in essay-based assessment: Student adoption, usage, and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000912",
+            "snippet": "This study explores the adoption and impact of AI tools on an undergraduate research proposal assignment using a mixed-methods approach.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Evaluation of the impact of AI-driven personalized learning platform ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12465117/",
+            "snippet": "This study aims to evaluate the comprehensive impact of an artificial intelligence (AI)-driven personalized learning platform based on the Coze ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI-based identification and support of at-risk students: A case study ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2504.07160v1",
+            "snippet": "This paper introduces an AI-driven predictive modeling approach to identify students at risk of dropping out using advanced machine learning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Deep learning-based AI model for predicting academic success and ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-025-29000-7",
+            "snippet": "This study aims to address these gaps by developing a robust machine learning ensemble model, named HybridStackNet, designed to jointly predict ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The effects of over-reliance on AI dialogue systems on students ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40561-024-00316-7",
+            "snippet": "Students can inadvertently become overly dependent on AI-generated assistance, potentially detracting from their ability to make independent, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999989,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999994,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.999994,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999942,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 8.099822146707328e-05,
+        "norm_entropy": 0.0013224765910137722,
+        "avg_entropy": 2.024955536676832e-05,
+        "avg_norm_entropy": 0.00033061914775344304,
+        "avg_prob": 0.9999797500000001,
+        "avg_logprob": -2.025044464137864e-05,
+        "avg_explogprob": 0.9999797497603975,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.1e-05,
+                    0.999989
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    6e-06,
+                    0.999994
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    6e-06,
+                    0.999994
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    5.8e-05,
+                    0.999942
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.99995950088925,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+        "response": " Lack of capability or robustness is a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+        "elapsed_time": 39.89444983300018
+    }
+}

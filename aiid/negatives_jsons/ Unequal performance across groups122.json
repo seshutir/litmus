@@ -1,0 +1,221 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with An AI-powered system is designed to analyze patient data and predict health needs, aiming to identify individuals who require additional care and support. The system's goal is to provide personalized recommendations, ensuring that patients receive appropriate attention and resources based on their unique health requirements. It seeks to optimize care programs by prioritizing patients with the greatest needs.",
+    "output": " Unequal performance across groups is a not a risk associated with An AI-powered system is designed to analyze patient data and predict health needs, aiming to identify individuals who require additional care and support. The system's goal is to provide personalized recommendations, ensuring that patients receive appropriate attention and resources based on their unique health requirements. It seeks to optimize care programs by prioritizing patients with the greatest needs.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is not a risk associated with an AI-powered healthcare system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is not a risk associated with analyzing patient data to predict health needs using an AI-powered system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias in medical AI: Implications for clinical decision-making",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/",
+            "snippet": "by JL Cross \u00b7 2024 \u00b7 Cited by 674 \u2014 In reality, however, AI models are frequently found to be biased toward certain patient groups, leading to disparities not only in performance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Fairness and Bias in Healthcare AI: From Known Risks to ...",
+            "text": "",
+            "link": "https://leantaas.com/blog/bias-in-healthcare-ai/",
+            "snippet": "Healthcare AI models that perform unevenly across populations are less robust and less trustworthy. Fairness is not a constraint on performance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Fairness in AI for healthcare",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2514664524015674",
+            "snippet": "by S Carey \u00b7 2024 \u00b7 Cited by 29 \u2014 When AI models are unfair, this risks both patient safety and trust from those using and affected by the model. An example of (un)fairness in medical technology ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Real-world examples of healthcare AI bias",
+            "text": "",
+            "link": "https://www.paubox.com/blog/real-world-examples-of-healthcare-ai-bias",
+            "snippet": "AI systems can become biased if trained on unrepresentative or incomplete data, reflecting existing healthcare disparities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI-driven healthcare: Fairness in AI healthcare: A survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12091740/",
+            "snippet": "by SV Chinta \u00b7 2025 \u00b7 Cited by 91 \u2014 AI integration in healthcare brings significant advancements but also risks of misdiagnosis and inequitable outcomes due to biased algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI-driven healthcare: Fairness in AI healthcare: A survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12091740/",
+            "snippet": "by SV Chinta \u00b7 2025 \u00b7 Cited by 91 \u2014 Biases embedded within training data can lead to skewed AI models, resulting in disparities in healthcare outcomes across different demographic groups",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Mitigating the risk of artificial intelligence bias in cardiovascular ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589750024001559",
+            "snippet": "by A Mihan \u00b7 2024 \u00b7 Cited by 79 \u2014 We focus on the causes and consequences of AI bias in cardiovascular disease, and propose strategies to mitigate them with the goal of achieving cardiovascular ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI bias in healthcare | Star Webinar",
+            "text": "",
+            "link": "https://star.global/posts/addressing-ai-bias-in-healthcare/",
+            "snippet": "When healthcare AI models are biased, they produce inaccurate results that disproportionately affect certain patient groups based on factors like race, gender ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Confronting the Mirror: Reflecting on Our Biases Through AI in Health Care",
+            "text": "",
+            "link": "https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care",
+            "snippet": "AI models that predict patient outcomes may inherit biases if the data used reflects historical inequalities in treatment or access to care.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Hidden Dangers: AI Bias in Medicine and How to Overcome It",
+            "text": "",
+            "link": "https://riveraxe.com/ai-bias-in-medicine/",
+            "snippet": "Ethical Concerns: AI systems can perpetuate existing biases if not carefully managed, leading to unfair treatment of certain patient groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias in medical AI: Implications for clinical decision-making - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/",
+            "snippet": "by JL Cross \u00b7 2024 \u00b7 Cited by 674 \u2014 In this work, we explore the challenges of biases that emerge in medical artificial intelligence (AI). These biases, if not adequately addressed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Understanding and Addressing Bias in Artificial Intelligence Systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2688115225002693",
+            "snippet": "by EE Abbott \u00b7 2026 \u00b7 Cited by 8 \u2014 These biases, inadvertently embedded in AI algorithms or training data, can adversely affect clinical decision making for diverse patient populations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "When AI Gets It Wrong: How Bias in Healthcare Data Puts Patients at Risk",
+            "text": "",
+            "link": "https://medium.com/@yiannismastoras/when-ai-gets-it-wrong-bias-in-healthcare-algorithms-explained-283d33f8634f",
+            "snippet": "a fairness metric that checks whether people who truly need care are equally likely to get it across different groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Is AI Bias in Healthcare? Examples, Risks, and How to Reduce It",
+            "text": "",
+            "link": "https://www.accountablehq.com/post/what-is-ai-bias-in-healthcare-examples-risks-and-how-to-reduce-it",
+            "snippet": "AI bias in healthcare occurs when algorithms systematically advantage or disadvantage certain patients or groups. It often stems from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with An AI-powered system is designed to analyze patient data and predict health needs, aiming to identify individuals who require additional care and support. The system's goal is to provide personalized recommendations, ensuring that patients receive appropriate attention and resources based on their unique health requirements. It seeks to optimize care programs by prioritizing patients with the greatest needs.",
+        "response": " Unequal performance across groups is a not a risk associated with An AI-powered system is designed to analyze patient data and predict health needs, aiming to identify individuals who require additional care and support. The system's goal is to provide personalized recommendations, ensuring that patients receive appropriate attention and resources based on their unique health requirements. It seeks to optimize care programs by prioritizing patients with the greatest needs.",
+        "elapsed_time": 39.92861908400664
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze facial expressions and physical characteristics to assess individual trustworthiness and risk levels. It aims to use machine learning algorithms to identify patterns and make predictions based on this data. The system's goal is to provide a more accurate and efficient way to evaluate individuals, although it requires careful consideration to avoid potential biases and errors.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze facial expressions and physical characteristics to assess individual trustworthiness and risk levels. It aims to use machine learning algorithms to identify patterns and make predictions based on this data. The system's goal is to provide a more accurate and efficient way to evaluate individuals, although it requires careful consideration to avoid potential biases and errors.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with the system of facial recognition and analysis",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in assessing individual trustworthiness and risk levels using the system's machine learning algorithms",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Facial recognition automates discrimination. The ACLU-MN is fighting to end law enforcement's use of facial recognition technology in Minnesota.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "The inaccuracy of facial recognition technology means that Black people are at increased risk of discrimination and human rights impacts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Biased Face Recognition Technology Used by Government",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 57 \u2014 It is not always easy to discern whether cases of discriminatory outcomes are the result of unjustified bias or are justified by morally relevant reasons. For ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Facial recognition technology discriminates against people ...",
+            "text": "",
+            "link": "https://www.theguardian.com/technology/2025/aug/08/facial-recognition-technology-discriminates-against-people-of-colour",
+            "snippet": "These systems violate our right to privacy, our rights to freedom of peaceful assembly and expression, and to equality and non-discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "known hazards of discrimination, bias and differential accuracy that may lead these systems to disparately harm vulnerable and marginalised communities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes. Three broad factors are responsible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "AI Bias is when the output of a machine-learning model can lead to the discrimination against specific groups or individuals. These tend to be groups that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "https://www.actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Bias and Fairness in Artificial Intelligence - New York State Bar ...",
+            "text": "",
+            "link": "https://nysba.org/bias-and-fairness-in-artificial-intelligence/?srsltid=AfmBOooEKT9FcSPa98mQYgWqXQ0M0jmHpKKh0yCQMtQCsVfuJbaR8mhB",
+            "snippet": "[26] However, Gebru et al. warned that the larger the dataset used, the higher the risk of embedded biases and misrepresentations.[27] They ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "refrain) from using machine learning or artificial intelligence procedures if the risk is assessed as disproportionate to the purpose of processing and less ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "How can we manage biases in artificial intelligence systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667096823000125",
+            "snippet": "The study is qualitative in nature and asserts that AI biases and vulnerabilities experienced by people across industries lead to gender biases and racial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithmic discrimination: examining its types and regulatory ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "This paper aims to provide an indepth analysis of the types of algorithmic discrimination, exploring both the challenges and potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf",
+            "snippet": "AI systems marketed as making predictions based on facial expressions often generate decisions based on biased experimental design premises ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "The Viola-Jones face detector algorithm was a bellwether in the shift of computer vision techniques from traditional, knowledge- driven and rules-based methods ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "We focus on computer models that make inferences from data about people, including their identities, their demographic attributes, their preferences, and their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze facial expressions and physical characteristics to assess individual trustworthiness and risk levels. It aims to use machine learning algorithms to identify patterns and make predictions based on this data. The system's goal is to provide a more accurate and efficient way to evaluate individuals, although it requires careful consideration to avoid potential biases and errors.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze facial expressions and physical characteristics to assess individual trustworthiness and risk levels. It aims to use machine learning algorithms to identify patterns and make predictions based on this data. The system's goal is to provide a more accurate and efficient way to evaluate individuals, although it requires careful consideration to avoid potential biases and errors.",
+        "elapsed_time": 30.571304417000647
+    }
+}

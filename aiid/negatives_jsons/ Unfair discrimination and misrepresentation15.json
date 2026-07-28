@@ -1,0 +1,424 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with an image recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with an image recognition system analyzing and categorizing visual data",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with using machine learning algorithms to identify objects and people within photos in an image recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with automatically assigning relevant tags and labels to images using an image recognition system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with improving the accuracy and capabilities of an image recognition system through continuous learning and improvement",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Technology does not exist outside of the biases. Studies show that facial recognition is least reliable for people of color, women, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Biased Face Recognition Technology Used by Government: A Problem for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 60 \u2014 This paper presents a novel philosophical analysis of the problem of law enforcement's use of biased face recognition technology (FRT) in liberal democracies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "The inaccuracy of facial recognition technology means that Black people are at increased risk of discrimination and human rights impacts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination takes place when insurers consider factors that are unrelated to actuarial risk while determining whether to provide insurance to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition technology is biased. The error rate for light-skinned men is 0.8%, compared to 34.7% for darker-skinned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Considerations for Machine Learning, AI Models, and ...",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Using sensitive data to prevent discrimination by artificial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364922001133",
+            "snippet": "by M van Bekkum \u00b7 2023 \u00b7 Cited by 148 \u2014 This paper asks whether the GDPR's rules on special categories of personal data hinder the prevention of AI-driven discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A Taxonomy of the Biases of the Images created by ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.01556v1",
+            "snippet": "This section will develop a taxonomy of existing biases in AI image generation, establishing the necessary framework for understanding how these stereotypes can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes. Three broad factors are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 ... machine-learning model can lead to the discrimination against specific groups or individuals. These tend to be groups that have been historically discriminated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "\u201cWhy Amazon's Automated Hiring Tool Discriminated Against Women,\u201d ACLU, 12 October 2018. 4. \u201cAI is Making Housing Discrimination Easier Than ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Rendering misrepresentation: Diversity failures in AI image ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "AI image generators tend to either reproduce stereotypes with a lack of diversity in their outputs or overcorrect.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Deep Dive: Bias & Fairness in AI Models",
+            "text": "",
+            "link": "https://research.contrary.com/report/bias-fairness",
+            "snippet": "In May 2024, the European Union adopted the EU AI Act to explicitly impose fairness and non-discrimination requirements on high-risk AI systems, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Decoding image labeling, The backbone of your ML project",
+            "text": "",
+            "link": "https://toloka.ai/blog/decoding-image-labeling/",
+            "snippet": "Automatic labeling leverages algorithms to generate and assign tags to images using techniques like object detection, semantic segmentation, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Image Tagging: optimizing the understanding of AIs",
+            "text": "",
+            "link": "https://www.innovatiana.com/en/post/image-tagging-in-ai",
+            "snippet": "Image tagging is a process of adding textual information to an image to make it more easily searchable and accessible.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "And that can be life-threatening when the technology is in the hands of law enforcement. Facial recognition automates discrimination. The ACLU- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Diagnosing Gender Bias in Image Recognition Systems - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9351609/",
+            "snippet": "by C Schwemmer \u00b7 2020 \u00b7 Cited by 151 \u2014 In this article, we evaluate potential gender biases of commercial image recognition platforms using photographs of US members of Congress and a large number ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The AI risk repository: A meta-review, database, and taxonomy of risks from ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389926000267",
+            "snippet": "by P Slattery \u00b7 2026 \u00b7 Cited by 17 \u2014 Unfair discrimination and misrepresentation unequal treatment of individuals or groups by AI, often based on race, gender, or other sensitive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Bias recognition and mitigation strategies in artificial intelligence ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11897215/",
+            "snippet": "by F Hasanzadeh \u00b7 2025 \u00b7 Cited by 345 \u2014 This review examines the origins of bias in healthcare AI, strategies for mitigation, and responsibilities of relevant stakeholders towards achieving fair and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "NYU Tandon researchers mitigate racial bias in facial recognition ...",
+            "text": "",
+            "link": "https://engineering.nyu.edu/news/nyu-tandon-researchers-mitigate-racial-bias-facial-recognition-technology-demographically",
+            "snippet": "It successfully reduced facial recognition bias by generating highly diverse and balanced synthetic face datasets that can train facial recognition AI models ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "Not only, critics argue, does the irresponsible design and use of facial detection and recognition technologies (FDRTs)1 threaten to violate civil liberties, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "The Civil Rights Implications of the Federal Use of Facial Recognition ...",
+            "text": "",
+            "link": "https://www.usccr.gov/files/2024-09/civil-rights-implications-of-frt.pdf",
+            "snippet": "In response to the federal government's increasing use of facial recognition technology (FRT), the. Commission examined three federal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What is Image Recognition? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/image-recognition",
+            "snippet": "Image recognition enables computers to \"see\" objects, places, people, writing and actions using machine learning (ML).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Impact of AI on Image Recognition - IFIP News",
+            "text": "",
+            "link": "https://www.ifipnews.org/impact-of-ai-on-image-recognition/",
+            "snippet": "It is a technology that is capable of identifying places, people, objects and many other types of elements within an image, and drawing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Decoding image labeling, The backbone of your ML project",
+            "text": "",
+            "link": "https://toloka.ai/blog/decoding-image-labeling/",
+            "snippet": "Image labeling is the process of categorizing entire images and their components or identifying specific objects within them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI-900 practice exam Flashcards",
+            "text": "",
+            "link": "https://quizlet.com/1022505656/ai-900-practice-exam-flash-cards/",
+            "snippet": "-Face detection can detect and verify human faces, not text, from images. -Object detection can detect multiple objects in an image by using bounding box ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 28,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An image recognition system is designed to analyze and categorize visual data, using machine learning algorithms to identify objects and people within photos. The system aims to automatically assign relevant tags and labels to images, facilitating organization and search functionality. It also seeks to improve its accuracy and capabilities through continuous learning and improvement.",
+        "elapsed_time": 114.47151654097252
+    }
+}

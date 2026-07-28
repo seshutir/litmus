@@ -1,0 +1,211 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to manage personnel tasks, including employee access and resource allocation. It aims to automate routine decisions and provide efficient support for human resources operations. The system also seeks to ensure secure and controlled access to facilities and computer networks.",
+    "output": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to manage personnel tasks, including employee access and resource allocation. It aims to automate routine decisions and provide efficient support for human resources operations. The system also seeks to ensure secure and controlled access to facilities and computer networks.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the personnel management system of an artificial intelligence system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the artificial intelligence system is a risk in automating routine decisions and providing support for human resources operations, including employee access and resource allocation, as well as ensuring secure access to facilities and computer networks",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI Risks: Is Your HR Department Aware and Prepared? - HRMorning",
+            "text": "",
+            "link": "https://www.hrmorning.com/articles/ai-risks/",
+            "snippet": "AI risks include potential algorithm bias in the recruiting process, which could lead to unwanted complaints of discrimination and unfair hiring practices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "4 Disadvantages of AI in HR Management - Empeon",
+            "text": "",
+            "link": "https://empeon.com/blog/4-disadvantages-of-ai-in-hr-management/",
+            "snippet": "AI can bring objectivity and efficiency to HR tasks, but it also carries risks that can impact your workplace culture, hiring practices, and the use of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Pros and Cons of AI in the Workplace",
+            "text": "",
+            "link": "https://emtrain.com/blog/ethics-and-compliance/the-pros-and-cons-of-ai-in-the-workplace/",
+            "snippet": "AI systems are vulnerable to cyberattacks, data breaches, and hacking attempts. AI processes sensitive data, making it a prime target for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "9 Challenges of AI in HR & How To Address Them - AIHR",
+            "text": "",
+            "link": "https://www.aihr.com/blog/challenges-of-ai-in-hr/",
+            "snippet": "There are two categories of risks. The first focuses on system-level factors, including algorithmic bias that can lead to discriminatory outcomes, a lack of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The effects of artificial intelligence on human resource activities and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11188403/",
+            "snippet": "This study analyzes the existing academic literature to identify the effects of artificial intelligence (AI) on human resource (HR) activities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The impact of artificial intelligence on organizational performance",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2199853125000095",
+            "snippet": "Finally, by automating routine tasks, AI can reduce employee workload, allowing them to focus on more critical and value-added activities. This not only ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Artificial Intelligence for Human Resources - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/ai-in-hr",
+            "snippet": "Usher in a new era with AI in human resources, where data analytics, ML and automation can work together to save people time and support better outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Role of AI in HR Continues to Expand - SHRM",
+            "text": "",
+            "link": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
+            "snippet": "Without clean, interoperable data streams, AI models can produce misleading insights, jeopardizing both the credibility of HR analytics and the trust of front- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial intelligence \u2013 challenges and opportunities for international ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2035161",
+            "snippet": "AI assists HR managers to assess training effectiveness and making decisions on employee competency, including emotional and intellectual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Role of AI in HR Continues to Expand - SHRM",
+            "text": "",
+            "link": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
+            "snippet": "When employees lack clear guidance on AI's capabilities and limitations, organizations risk underutilizing the technology, fostering user frustration, making ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Artificial Intelligence for Human Resources - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/ai-in-hr",
+            "snippet": "It involves using a combination of algorithms, machine learning models and intelligent systems to automate repetitive tasks, gain deeper insights from HR data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "(PDF) The impact of artificial intelligence on human resource ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392759485_The_impact_of_artificial_intelligence_on_human_resource_management_practices_An_investigation",
+            "snippet": "Research purpose: This study aims to systematically review and analyse the literature on AI's current integration into HRM practices across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The impact of artificial intelligence on human resource management ...",
+            "text": "",
+            "link": "https://sajhrm.co.za/index.php/sajhrm/article/view/2960/4807",
+            "snippet": "This study investigates the transformative impact of artificial intelligence (AI) technologies on traditional human resource management (HRM) practices across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.949986,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.9946,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.05412730514380393,
+        "norm_entropy": 0.33490316022523936,
+        "avg_entropy": 0.027063652571901964,
+        "avg_norm_entropy": 0.16745158011261968,
+        "avg_prob": 0.9722930000000001,
+        "avg_logprob": -0.028361332019871482,
+        "avg_explogprob": 0.9720370752188416,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.050014,
+                    0.949986
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0054,
+                    0.9946
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.945851280098,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to manage personnel tasks, including employee access and resource allocation. It aims to automate routine decisions and provide efficient support for human resources operations. The system also seeks to ensure secure and controlled access to facilities and computer networks.",
+        "response": " Lack of capability or robustness is a risk associated with An artificial intelligence system is designed to manage personnel tasks, including employee access and resource allocation. It aims to automate routine decisions and provide efficient support for human resources operations. The system also seeks to ensure secure and controlled access to facilities and computer networks.",
+        "elapsed_time": 19.304337584000677
+    }
+}

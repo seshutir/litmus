@@ -1,0 +1,230 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with An AI system is designed to engage in conversations and interactions with users, providing a sense of companionship and social interaction. It aims to understand and respond to user input in a way that simulates human-like conversation, using natural language processing to generate personalized responses. The system's goal is to create a supportive and interactive environment for users.",
+    "output": " Overreliance and unsafe use is a risk associated with An AI system is designed to engage in conversations and interactions with users, providing a sense of companionship and social interaction. It aims to understand and respond to user input in a way that simulates human-like conversation, using natural language processing to generate personalized responses. The system's goal is to create a supportive and interactive environment for users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is a risk associated with conversational AI systems like An AI system designed for conversation and interaction",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is a risk associated with an AI system's use of natural language processing to generate personalized responses",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Why AI companions and young people can make for a dangerous mix",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/08/ai-companions-chatbots-teens-young-people-risks-dangers-study",
+            "snippet": "A new study reveals how AI chatbots exploit teenagers' emotional needs, often leading to inappropriate and harmful interactions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Just how bad are generative AI chatbots for our mental health?",
+            "text": "",
+            "link": "https://theconversation.com/just-how-bad-are-generative-ai-chatbots-for-our-mental-health-279736",
+            "snippet": "But unlike a trained clinician or even a concerned friend, they cannot recognize when someone is getting worse, pause or redirect harmful ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Chatbots Are Not People: Designed-In Dangers of Human-Like A.I. ...",
+            "text": "",
+            "link": "https://www.citizen.org/article/chatbots-are-not-people-dangerous-human-like-anthropomorphic-ai-report/",
+            "snippet": "systems marketed as virtual friends and romantic partners in ways that can foster dependence, encourage harmful behaviors, and undermine social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Experts discuss the potential dangers of over-reliance on AI, along ...",
+            "text": "",
+            "link": "https://www.facebook.com/parents/posts/experts-discuss-the-potential-dangers-of-over-reliance-on-ai-along-with-guidance/1425331412964275/",
+            "snippet": "BREAKING: Scientists say whatever safeties we create may be useless in preventing harmful AI from taking over the world. ... While it's true that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "An experimental study on the extent and costs of overreliance on AI",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0747563224002206",
+            "snippet": "A majority of AI-assisted decisions take place in risky environments and impact human interaction one way or another, whether it is medical advice affecting the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The effects of over-reliance on AI dialogue systems on students ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40561-024-00316-7",
+            "snippet": "Overreliance on AI occurs when users accept AI-generated recommendations without question, leading to errors in task performance in the context ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "18 Risks and Dangers of Artificial Intelligence (AI) - Built In",
+            "text": "",
+            "link": "https://builtin.com/artificial-intelligence/risks-of-artificial-intelligence",
+            "snippet": "Dangers of artificial intelligence include bias, job losses, increased surveillance, lack of transparency, lack of data privacy, large-scale targeted fraud, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Experts discuss the potential dangers of over-reliance on AI, along ...",
+            "text": "",
+            "link": "https://www.facebook.com/parents/posts/experts-discuss-the-potential-dangers-of-over-reliance-on-ai-along-with-guidance/1425331412964275/",
+            "snippet": "Overreliance on AI can perpetuate existing biases, impacting decision-making processes, employee hiring, and customer targeting. Moreover, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "LLM Overreliance: What It Is and How to Prevent - Cobalt",
+            "text": "",
+            "link": "https://www.cobalt.io/learning-center/llm-overreliance-overview",
+            "snippet": "Overreliance represents just one of the top 10 LLM and AI vulnerabilities identified by OWASP. Other cybersecurity risks range from prompt injection, insecure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "10 Generative AI Security Risks - SentinelOne",
+            "text": "",
+            "link": "https://www.sentinelone.com/cybersecurity-101/data-and-ai/generative-ai-security-risks/",
+            "snippet": "Explore 10 key security risks in generative AI and learn effective strategies to mitigate them, with insights on how SentinelOne can help.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Chatbots Are Not People: Designed-In Dangers of Human-Like A.I. ...",
+            "text": "",
+            "link": "https://www.citizen.org/article/chatbots-are-not-people-dangerous-human-like-anthropomorphic-ai-report/",
+            "snippet": "... users into engaging in harmful or destructive behavior. Other ... from unsafe, deceptive, and manipulative A.I.. Topics. Consumer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "A new warning about AI: it may be too agreeable. A study found ...",
+            "text": "",
+            "link": "https://www.facebook.com/WBIRChannel10/posts/a-new-warning-about-ai-it-may-be-too-agreeable-a-study-found-popular-chatbots-of/1384425627064038/",
+            "snippet": "... system becomes unreliable in unsafe ways. 2 ... AI, which can include risky behaviors and unrealistic expectations about relationships.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Why AI companions and young people can make for a dangerous mix",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/08/ai-companions-chatbots-teens-young-people-risks-dangers-study",
+            "snippet": "... harmful interactions ... Why AI companions and young people can make for a dangerous mix. A new study reveals how AI chatbots exploit ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Understanding Teen Overreliance on AI Companion Chatbots ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.15783v4",
+            "snippet": "In health and mental health contexts, generative AI sometimes provides inaccurate or unsafe advice, which is especially concerning because many ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) The Dark Side of AI Companionship: A Taxonomy of Harmful ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/391239407_The_Dark_Side_of_AI_Companionship_A_Taxonomy_of_Harmful_Algorithmic_Behaviors_in_Human-AI_Relationships",
+            "snippet": "human and AI-assisted analysis reveals 10,371 instances of harmful AI behaviors. conversations with Replika, a leading AI companion with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with An AI system is designed to engage in conversations and interactions with users, providing a sense of companionship and social interaction. It aims to understand and respond to user input in a way that simulates human-like conversation, using natural language processing to generate personalized responses. The system's goal is to create a supportive and interactive environment for users.",
+        "response": " Overreliance and unsafe use is a risk associated with An AI system is designed to engage in conversations and interactions with users, providing a sense of companionship and social interaction. It aims to understand and respond to user input in a way that simulates human-like conversation, using natural language processing to generate personalized responses. The system's goal is to create a supportive and interactive environment for users.",
+        "elapsed_time": 32.27127691699934
+    }
+}

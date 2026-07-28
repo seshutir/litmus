@@ -1,0 +1,433 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+    "output": " Lack of capability or robustness is a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in Automated editing tools is a risk in online content maintenance",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in Automated editing tools is a risk in detecting and reverting malicious changes",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in Automated editing tools is a risk in correcting errors",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in removing inappropriate edits made by Automated editing tools",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in Automated editing tools is a risk in identifying and reverting unwanted changes",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, incorporating such assumptions and processes into an automated tool runs the risk of enhancing biases around particular groups of individuals and could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI Content Development Challenges and Solutions - ProEdit",
+            "text": "",
+            "link": "https://proedit.com/ai-content-development-challenges/",
+            "snippet": "Explore AI content development challenges affecting content management and accuracy amid increased production speeds.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A Systematic Review of the Barriers to the Implementation of ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10623210/",
+            "snippet": "This literature review highlighted barriers in six key areas: ethical, technological, liability and regulatory, workforce, social, and patient safety barriers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How Automated Moderation is Addressing Online Challenges",
+            "text": "",
+            "link": "https://newmediaservices.com.au/how-automated-moderation-is-addressing-online-challenges/",
+            "snippet": "Automated content moderation uses technological tools and algorithms to detect, filter, and monitor user-generated content (UGC) across online platforms and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] AI Maintenance: A Robustness Perspective - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2301.03052",
+            "snippet": "We start by introducing some highlighted robustness challenges in the AI lifecycle and motivating AI maintenance by making analogies to car ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Review of Generative AI methods in cybersecurity - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667345226000076",
+            "snippet": "It highlights the urgent need for better security measures and highlights how difficult it is to protect against the malicious usage of GenAI capabilities. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Evaluating Malicious Generative AI Capabilities",
+            "text": "",
+            "link": "https://cetas.turing.ac.uk/publications/evaluating-malicious-generative-ai-capabilities",
+            "snippet": "This CETaS Briefing Paper examines how Generative AI (GenAI) systems may enhance malicious actors' capabilities in generating malicious cod.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI-Generated Code Security: Security Risks and Opportunities - Apiiro",
+            "text": "",
+            "link": "https://apiiro.com/blog/ai-generated-code-security/",
+            "snippet": "AI-generated code is only as safe as the prompt that triggered it. Attackers can exploit this by crafting malicious input that alters the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Fault Lines in the AI Ecosystem: TrendAI\u2122 State of AI Security Report",
+            "text": "",
+            "link": "https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/fault-lines-in-the-ai-ecosystem-trendai-state-of-ai-security-report",
+            "snippet": "Primary risk is supply chain compromise through malicious model files that execute embedded code. LLM tools and applications (1,243 CVEs ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Cybersecurity Risks of AI- Generated Code | CSET",
+            "text": "",
+            "link": "https://cset.georgetown.edu/wp-content/uploads/CSET-Cybersecurity-Risks-of-AI-Generated-Code.pdf",
+            "snippet": "Dereference failures and buffer overflows in particular can potentially become vulnerabilities when discovered or exploited by a malicious cyberattacker. While ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The Hidden Costs of AI Copyediting Tools: An Editor's Review",
+            "text": "",
+            "link": "https://janefriedman.com/the-hidden-costs-of-ai-copyediting-tools-an-editors-review/",
+            "snippet": "These tools can handle basic copyediting capabilities like correcting clear-cut errors, catching omissions, and finding weak words and phrasing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Why AI Testing Tools Fail in Enterprises: Key Challenges - testRigor",
+            "text": "",
+            "link": "https://testrigor.com/blog/why-ai-testing-tools-fail-in-enterprises/",
+            "snippet": "AI testing tools struggle in enterprises due to complexity, legacy systems, and a lack of business context. Over-reliance on historical data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "How Robust is Model Editing after Fine-Tuning? An Empirical Study ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.18428v1",
+            "snippet": "Our findings reveal a trend: edits generally fail to persist through fine-tuning, even when fine-tuning is tangential or unrelated to the edits.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Ethical concerns mount as AI takes bigger decision-making role",
+            "text": "",
+            "link": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
+            "snippet": "Harvard experts examine the promise and potential pitfalls as AI takes a bigger decision-making role in more industries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Human editors have an AI problem, - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/lithub/posts/human-editors-have-an-ai-problem/1357096863118685/",
+            "snippet": "Oh, the editing mistakes that undermine self-published author credibility! Some writers use AI to edit and proof. It's better than nothing. But ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Writing with the Help of AI Editing Is Penalized as Non-human?",
+            "text": "",
+            "link": "https://drpatfarrell.medium.com/writing-with-the-help-of-ai-editing-is-penalized-as-non-human-2aa20ebdfe59",
+            "snippet": "Most writers have editors, and book editors do an enormous amount of the work, but AI editing appears to be seen as questionable.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI is screwing up my editing ecosystem - Josh Bernoff",
+            "text": "",
+            "link": "https://bernoff.com/blog/how-ais-weaknesses-create-problems-in-my-editing-ecosystem",
+            "snippet": "There are two problems with AI in the writing process. First, since AI doesn't understand meaning, it sometimes writes content and makes suggestions that do ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "The accuracy of a given tool in detecting and removing content online is highly dependent on the type of content it is trained to tackle. Developers have been ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S266638992400103X",
+            "snippet": "AI's increasing capabilities at deception pose serious risks, ranging from short-term risks, such as fraud and election tampering, to long-term risks, such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "In addition, automated tools are also limited in their ability to derive contextual insights from content. For example, an image recognition tool could identify ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Generative AI risks and mitigation | TeamMate - Wolters Kluwer",
+            "text": "",
+            "link": "https://www.wolterskluwer.com/en/expert-insights/breaking-down-generative-ai-risks-mitigation-options",
+            "snippet": "Learn how Enterprise Risk Management (ERM) teams can assess, mitigate, and govern AI risks in a fast-evolving environment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Challenges and efforts in managing AI trustworthiness risks - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11119750/",
+            "snippet": "This paper addresses the critical gaps in existing AI risk management frameworks, emphasizing the neglect of human factors and the absence of metrics for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Limitations of AI Coding Tools - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/ai-limitations-overview/limitations-of-ai-coding-tools/",
+            "snippet": ">> Lack of Coherence: Automated changes can sometimes lack consistency across multiple files, likely due to internal context window limitations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Edit tool failure - Bug Reports - Cursor - Community Forum",
+            "text": "",
+            "link": "https://forum.cursor.com/t/edit-tool-failure/84351",
+            "snippet": "The edit tool causes changes in the code that is not requested by the model (Gemini Pro). I have lost a weeks worth of work due to this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "Although smaller platforms may rely on off-the-shelf automated tools, the reliability of these tools to identify content across a range of platforms is limited.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Insecurity: threats to information integrity - Access Now",
+            "text": "",
+            "link": "https://www.accessnow.org/artificial-insecurity-information-integrity/",
+            "snippet": "In the second part of our series on AI and digital security, we examine how LLMs threaten information integrity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Correction: AI for scientific integrity: detecting ethical breaches ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12673391/",
+            "snippet": "This perspective examines two key strategies for maintaining research integrity in the GenAI era: (1) detecting unethical or inappropriate use of GenAI in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "International AI Safety Report 2026",
+            "text": "",
+            "link": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+            "snippet": "... content. This Report focuses on the most capable general-purpose AI systems and the emerging risks associated with them. 'General-purpose AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Understanding the risks of AI tools: Protecting your data, devices at ...",
+            "text": "",
+            "link": "https://www.ohio.edu/news/2026/03/understanding-risks-ai-tools-protecting-your-data-devices-ohio-university",
+            "snippet": "Unvetted tools increase the risk of data leakage or malware. Safer ways to use AI at OHIO. Ohio University encourages the thoughtful and secure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+        "response": " Lack of capability or robustness is a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+        "elapsed_time": 39.095420874999945
+    }
+}

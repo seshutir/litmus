@@ -1,0 +1,210 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in an autocomplete search system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing user queries to generate relevant search term completions in an autocomplete system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "An examination of algorithmic bias in search engine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0736585323001326",
+            "snippet": "by C Lin \u00b7 2023 \u00b7 Cited by 31 \u2014 This paper examines the autocomplete algorithmic bias of leading search engines against three sensitive attributes: gender, race, and sexual orientation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Considerations for Machine Learning, AI Models, and ...",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Search engine liability for autocomplete suggestions",
+            "text": "",
+            "link": "https://academic.oup.com/ijlit/article/23/3/261/783836",
+            "snippet": "by S Karapapa \u00b7 2015 \u00b7 Cited by 64 \u2014 This article is concerned with the liability of search engines for algorithmically produced search suggestions, such as through Google's 'autocomplete' ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Ten years on, search auto-complete still suggests slander ...",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/auto-completion-disinformation/",
+            "snippet": "After a decade and a string of legal actions, an AlgorithmWatch experiment shows that search engines still suggest slanderous, false and disparaging statements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Google must remove autocomplete harmful searches if ...",
+            "text": "",
+            "link": "https://edri.org/our-work/edrigramnumber11-10autocomplete-harmful-searches-google-germany/",
+            "snippet": "German Federal Court ruled that Google auto-complete feature may, under certain circumstances, constitute an infringement of the personality right,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Game of Missuggestions: Semantic Analysis of Search-Autocomplete ...",
+            "text": "",
+            "link": "https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07A-1_Wang_paper.pdf",
+            "snippet": "by P Wang \u00b7 Cited by 35 \u2014 autocomplete manipulations are increasingly utilized by miscreants and promotion companies alike to advertise desired suggestion terms when ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Examining Racial Stereotypes in YouTube Autocomplete Suggestions",
+            "text": "",
+            "link": "https://arxiv.org/html/2410.03102v1",
+            "snippet": "We perform an algorithm output audit of autocomplete suggestions for input queries about four racial groups and examine the stereotypes they embody.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Autocomplete as a Research Tool: A Study on Providing Search ...",
+            "text": "",
+            "link": "https://pdfs.semanticscholar.org/cb45/6e523aa6475ab6681c3673438b6566622166.pdf",
+            "snippet": "by K Feist \u00b7 2012 \u00b7 Cited by 62 \u2014 An analysis of search logs from our library federated searching tool reveals both common errors in how search queries are entered, as well as patterns in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Design Search Autocomplete System | System Design Interview",
+            "text": "",
+            "link": "https://algomaster.io/learn/system-design-interviews/design-search-autocomplete-system",
+            "snippet": "A search autocomplete system suggests possible queries to users as they type into a search bar. For example, typing \"best re\" might prompt ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Searching smarter, not harder: leveraging AI to enhance literature ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13067685/",
+            "snippet": "by R Hunter \u00b7 2026 \u00b7 Cited by 1 \u2014 This case study illustrates the use of AI-powered tools to support and streamline such literature searching, using a realist review as an example.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) Autocomplete as Research Tool: A Study on Providing Search ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/284583661_Autocomplete_as_Research_Tool_A_Study_on_Providing_Search_Suggestions",
+            "snippet": "This study examines one such method, the use of autocompletion in search interfaces, by conducting usability tests on its use in typical academic research ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Search Patterns - Autocomplete",
+            "text": "",
+            "link": "https://clintonhalpin.com/blog/search-patterns-autocomplete/",
+            "snippet": "This post will be a great place to start for designers who are looking to design autocomplete from scratch or improve an existing autocomplete & recommender ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Autocomplete Reputation Damage Control Guide",
+            "text": "",
+            "link": "https://rmgdigitalsolutions.com/autocomplete-reputation-damage-control-why-suggestions-shape-trust-before-the-click/",
+            "snippet": "Learn how Autocomplete reputation risks shape trust before the click\u2014and ethical steps to report, monitor, and shift negative suggestions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+        "elapsed_time": 61.47739820799325
+    }
+}

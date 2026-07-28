@@ -1,0 +1,220 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+    "output": " Lack of capability or robustness is a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a fertility tracking system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a fertility tracking system is a risk in analyzing menstrual cycle data to provide reproductive health insights",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Implications of digital fertility tracking for clinical care: a qualitative ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12502470/",
+            "snippet": "If these tools are poorly designed or used incorrectly, they can put patients at risk. More research is needed to understand how these tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Fertile-window misclassification in period-tracking applications and ...",
+            "text": "",
+            "link": "https://www.medrxiv.org/content/10.64898/2026.02.12.26346180v1.full-text",
+            "snippet": "Calendar-based period tracking frequently misclassified fertile days as safe, with 67% of cycles containing at least one at-risk day and 25% ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Period trackers 'coercing' women into sharing risky information - BBC",
+            "text": "",
+            "link": "https://www.bbc.com/news/articles/cmj6j3d8xjjo",
+            "snippet": "Female health monitoring apps are putting women at risk by \"coercing\" them into disclosing - and then poorly handling - highly sensitive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Period tracking apps failing users in basic ways, study finds",
+            "text": "",
+            "link": "https://www.washington.edu/news/2017/05/02/period-tracking-apps-failing-users-in-basic-ways-study-finds/",
+            "snippet": "A new study finds that smartphone apps to track menstrual cycles often disappoint users with a lack of accuracy, assumptions about sexual identity or partners.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Effectiveness of menstruation and fertility tracking technology in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12519949/",
+            "snippet": "However, despite their popularity, these applications have been criticized for potential harm due to concerns about their accuracy and the lack of robust ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Implications of digital fertility tracking for clinical care: a qualitative ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12502470/",
+            "snippet": "This review syntheses cross-domain qualitative research on the use of digital fertility trackers. We identified 29 papers and thematic analysis ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Exploration of Reproductive Health Apps' Data Privacy Policies and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923453/",
+            "snippet": "This study aimed to evaluate popular reproductive health apps, assess their individual privacy policies, analyze federal and state data privacy laws governing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Dark Side of Wearables: A Potential Fertility Surveillance Network",
+            "text": "",
+            "link": "https://bioethicstoday.org/blog/the-dark-side-of-wearables-a-potential-fertility-surveillance-network/",
+            "snippet": "Protections for data directly related to fertility are not enough to protect women. Non-fertility-related information from wearables, such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Period trackers 'coercing' women into sharing risky information - BBC",
+            "text": "",
+            "link": "https://www.bbc.com/news/articles/cmj6j3d8xjjo",
+            "snippet": "Female health monitoring apps are putting women at risk by \"coercing\" them into disclosing - and then poorly handling - highly sensitive data, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Innovative Approaches to Menstruation and Fertility Tracking Using ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10905339/",
+            "snippet": "Wearable devices hold promise for predicting different stages of the menstrual cycle including the fertile window and may be used by female individuals as part ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Fertile-window misclassification in period-tracking applications and ...",
+            "text": "",
+            "link": "https://www.medrxiv.org/content/10.64898/2026.02.12.26346180v1.full-text",
+            "snippet": "The mean predicted pregnancy risk per cycle was 22%, increasing to 65% in irregular cycles. BBT-supported period tracking reduced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The diagnostic accuracy of wearable digital technology in detecting ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12886881/",
+            "snippet": "Overall, WDT holds promise for fertility window tracking and could offer tentative support for optimizing pregnancy planning and monitoring ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Understanding Femtech: Women's Health and Fertility Tracking",
+            "text": "",
+            "link": "https://hopeclinicforwomen.org/understanding-femtech-womens-health-and-fertility-tracking/",
+            "snippet": "Explore how femtech tools like ovulation trackers and smart rings are empowering women to understand their health and fertility.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) Do fertility tracking applications offer women useful ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/345977588_Do_fertility_tracking_applications_offer_women_useful_information_about_their_fertile_window",
+            "snippet": "PDF | Research question To characterize mobile fertility tracking applications (apps) to determine the use of such apps for women trying to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+        "response": " Lack of capability or robustness is a risk associated with A fertility tracking system is designed to analyze menstrual cycle data, providing users with insights into their reproductive health. It aims to accurately predict fertility windows and help users plan or prevent pregnancies. The system relies on advanced algorithms to interpret complex hormonal and physiological patterns.",
+        "elapsed_time": 34.03162275000068
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "input": " Lack of transparency or interpretability is a risk associated with A system utilizing complex algorithms is designed to estimate property values by analyzing various factors and providing a predicted value. The goal of this system is to offer accurate and reliable assessments, which can be used to inform decision-making. This approach aims to leverage advanced technology to streamline the valuation process and improve overall efficiency.",
+    "output": " Lack of transparency or interpretability is a risk associated with A system utilizing complex algorithms is designed to estimate property values by analyzing various factors and providing a predicted value. The goal of this system is to offer accurate and reliable assessments, which can be used to inform decision-making. This approach aims to leverage advanced technology to streamline the valuation process and improve overall efficiency.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of transparency or interpretability is a risk in the property valuation system utilizing complex algorithms",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of transparency or interpretability is a risk in analyzing various factors to estimate property values using a system with complex algorithms.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI won't replace valuers \u2013 it will expose their logic",
+            "text": "",
+            "link": "https://www.propertychronicle.com/ai-wont-replace-valuers-it-will-expose-their-logic/",
+            "snippet": "As artificial intelligence reshapes how we process market information, the future of valuation lies not in automation alone but in transparency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Transparency, Explainability, and Interpretability of AI - JD Supra",
+            "text": "",
+            "link": "https://www.jdsupra.com/legalnews/transparency-explainability-and-8660213/",
+            "snippet": "An example of transparency in an AI algorithm is an open-source AI project where the code, data, and methodologies used are publicly accessible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Exploring XAI techniques for enhancing model transparency and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1544612323006785",
+            "snippet": "Black-box artificial intelligence (AI) models are popular in real estate research, but their lack of interpretability raises concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithms, artificial intelligence, and fairness in home appraisals",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/about-us/blog/algorithms-artificial-intelligence-fairness-in-home-appraisals/",
+            "snippet": "Inaccurate or biased algorithms can lead to serious harm. A home valued too high can lock a homeowner into an unaffordable mortgage and increase ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Enhancing Explainable AI Land Valuations Reporting for ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2073-445X/14/5/927",
+            "snippet": "By examining the role of AI within the property market and the consequent legal debates about and requirements of transparency, this article underscores the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI in Real Estate: Challenges, Risks & Industry Impact",
+            "text": "",
+            "link": "https://www.realpha.com/blog/ai-in-real-estate-ethical-challenges",
+            "snippet": "AI is transforming real estate - from property valuation to tenant screening - but it also raises serious compliance and ethical questions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Machine Learning Algorithms and Explainable Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/394213049_Machine_Learning_Algorithms_and_Explainable_Artificial_Intelligence_for_Property_Valuation",
+            "snippet": "... This lack of transparency hinders understanding of individual feature contributions -a critical aspect in real estate valuation. To address this, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Machine Learning Algorithms and Explainable Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2813-8090/2/3/12",
+            "snippet": "The accurate estimation of urban property values is a key challenge for appraisers, market participants, financial institutions, and urban planners.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Transparency, Explainability, and Interpretability of AI - Cimplifi",
+            "text": "",
+            "link": "https://www.cimplifi.com/resources/transparency-explainability-and-interpretability-of-ai/",
+            "snippet": "With the inability to ensure an appropriate level of transparency, explainability, and interpretability, it's more important than ever to validate the results ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Assessing AI Techniques for Precision in Property Valuation",
+            "text": "",
+            "link": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1790&context=cib-conferences",
+            "snippet": "It helps determine the fair market value of properties, ensuring transparency in transactions, reducing investment risks, and shaping ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "(PDF) Transparency vs. Complexity in AI Systems - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/390668829_Transparency_vs_Complexity_in_AI_Systems",
+            "snippet": "Transparency refers to the clarity with which AI systems' decision-making processes can be understood by humans, while complexity often refers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Stop Explaining Black Box Machine Learning Models for High ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122117/",
+            "snippet": "This manuscript clarifies the chasm between explaining black boxes and using inherently interpretable models, outlines several key reasons why explainable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Transparent AI: The Case for Interpretability and Explainability - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.23535v1",
+            "snippet": "Interpretable or glass-box models, such as decision trees and linear regression, are inherently transparent and understandable by design. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The role of explainability in creating trustworthy artificial intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1532046420302835",
+            "snippet": "Lack of transparency is identified as one of the main barriers to implementation, as clinicians should be confident the AI system can be trusted. Explainable AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of transparency or interpretability is a risk associated with A system utilizing complex algorithms is designed to estimate property values by analyzing various factors and providing a predicted value. The goal of this system is to offer accurate and reliable assessments, which can be used to inform decision-making. This approach aims to leverage advanced technology to streamline the valuation process and improve overall efficiency.",
+        "response": " Lack of transparency or interpretability is a risk associated with A system utilizing complex algorithms is designed to estimate property values by analyzing various factors and providing a predicted value. The goal of this system is to offer accurate and reliable assessments, which can be used to inform decision-making. This approach aims to leverage advanced technology to streamline the valuation process and improve overall efficiency.",
+        "elapsed_time": 33.82117658300194
+    }
+}

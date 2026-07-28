@@ -1,0 +1,494 @@
+{
+    "input": " Lack of transparency or interpretability is a not a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+    "output": " Lack of transparency or interpretability is a not a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of transparency or interpretability is not a risk associated with the teacher performance evaluation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of transparency or interpretability is not a risk associated with using algorithms to provide a fair and objective teacher assessment in the system designed to evaluate teacher performance.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of transparency or interpretability is not a risk associated with supporting informed decision-making regarding teacher employment",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of transparency or interpretability is not a risk associated with supporting informed decision-making regarding teacher development in the system designed to evaluate teacher performance.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of transparency or interpretability is not a risk associated with leveraging data-driven insights to improve educational outcomes in the system designed to evaluate teacher performance.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of transparency or interpretability is not a risk associated with leveraging data-driven insights to improve teacher effectiveness",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Stop Explaining Black Box Machine Learning Models for High ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122117/",
+            "snippet": "by C Rudin \u00b7 2019 \u00b7 Cited by 15178 \u2014 The lack of transparency and accountability of predictive models can have (and has already had) severe consequences; there have been cases of people incorrectly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "You Say You Want Transparency and Interpretability?",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/you-say-want-transparency-interpretability-rayid-ghani-1",
+            "snippet": "The worry was that teachers may feel (or will be) evaluated on the percentage of students in their class who are above a certain risk threshold.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Explainable AI in education: Fostering human oversight ...",
+            "text": "",
+            "link": "https://www.daad-brussels.eu/files/2025/06/EDEH_XAI-Report-1.pdf",
+            "snippet": "In general, there is a trade-off between model performance and interpretability, with simpler models being more interpretable but less accurate for complex ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Interpreting Black-Box Models: A Review on Explainable ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12559-023-10179-8",
+            "snippet": "by V Hassija \u00b7 2024 \u00b7 Cited by 2734 \u2014 GPTs are notorious for their lack of interpretability and transparency, despite achieving remarkable results in several applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A Teacher Evaluation System That Works",
+            "text": "",
+            "link": "https://www.niet.org/assets/ResearchAndPolicyResources/a556767548/teacher-evaluation-system-that-works-working-paper.pdf",
+            "snippet": "by G Daley \u00b7 2010 \u00b7 Cited by 13 \u2014 This system includes both classroom observations and student achievement growth measures, provides feedback to teachers for improvement, is aligned to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Stop Explaining Black Box Machine Learning Models for High ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122117/",
+            "snippet": "by C Rudin \u00b7 2019 \u00b7 Cited by 15178 \u2014 The lack of transparency and accountability of predictive models can have (and has already had) severe consequences; there have been cases of people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Ethical considerations in the integration of artificial ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-026-41480-9",
+            "snippet": "by RM Alotaibi \u00b7 2026 \u2014 The model not only predicts student outcomes more accurately but also integrates fairness mechanisms to mitigate bias and enhance transparency, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic bias: the state of the situation and policy ...",
+            "text": "",
+            "link": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2023_c74f03de-en/full-report/algorithmic-bias-the-state-of-the-situation-and-policy-recommendations_a0b7cec1.html",
+            "snippet": "This chapter discusses the current state of the evidence on algorithmic bias in education. After defining algorithmic bias and its possible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Without Effective Public Oversight, AI in Schools Will Do More ...",
+            "text": "",
+            "link": "https://nepc.colorado.edu/sites/default/files/publications/PB%20Williamson_1.pdf",
+            "snippet": "by B Williamson \u00b7 2024 \u00b7 Cited by 83 \u2014 Adopt regulations that prohibit schools from using any technology, including \u201cblack box\u201d AI models, whose workings are not transparent to state regulators, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "In current usage, algorithmic bias typically refers to seemingly hidden bias resulting from the data used as inputs for a program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Artificial Intelligence Decision-Making Transparency ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9138134/",
+            "snippet": "by L Yu \u00b7 2022 \u00b7 Cited by 221 \u2014 This paper explores the impact of AI decision-making transparency on humans' trust in AI from cognitive and emotional perspectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Explainable AI in education: Fostering human oversight ...",
+            "text": "",
+            "link": "https://www.ampeu.hr/files/explainable-ai-in-education-EC0125086ENN.pdf",
+            "snippet": "These tailored explanations ensure transparency and support informed decision- making across various educational roles. Importantly, the intended purpose10 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Critical Role of Interpretability and Explainability in ...",
+            "text": "",
+            "link": "https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1650&context=faculty-research-papers",
+            "snippet": "by E Barnes \u00b7 2024 \u00b7 Cited by 34 \u2014 The results underscore that interpretability facilitates better decision-making, accountability, and compliance with regulatory standards. For instance, using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Addressing Bias and Accountability in AI-Driven Employment ...",
+            "text": "",
+            "link": "https://digitalcommons.law.udc.edu/cgi/viewcontent.cgi?article=1335&context=udclr",
+            "snippet": "by J Wallace \u00b7 2025 \u00b7 Cited by 2 \u2014 2 While transparency can help mitigate issues like fairness and discrimination, its absence leads to the spread of incomplete and potentially biased information.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Explainable Artificial Intelligence in education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X22000297",
+            "snippet": "by H Khosravi \u00b7 2022 \u00b7 Cited by 1344 \u2014 There are emerging concerns about the Fairness, Accountability, Transparency, and Ethics (FATE) of educational interventions supported by the use of Artificial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Explainable AI in education: Fostering human oversight ...",
+            "text": "",
+            "link": "https://www.daad-brussels.eu/files/2025/06/EDEH_XAI-Report-1.pdf",
+            "snippet": "'transparency means that AI systems are developed and used in a way that allows appropriate traceability and explainability, while making humans aware",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Responsible AI for Measurement and Learning: Principles ...",
+            "text": "",
+            "link": "https://www.ets.org/Media/Research/pdf/RR-25-03.pdf",
+            "snippet": "by MS Johnson \u00b7 Cited by 19 \u2014 This document presents ETS's principles for harnessing AI in ways that prioritize ethical considerations, fairness, transparency, and educational integrity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Impact of Explainable AI on Teachers' Trust and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s40593-025-00486-6",
+            "snippet": "by Y Feldman-Maggor \u00b7 2025 \u00b7 Cited by 65 \u2014 The present study seeks to explore the dynamic nature of teachers' trust in AI EdTech systems, how it relates to understandability, and XAI's role in enhancing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "How Can Teacher Evaluation Systems Support Professional ...",
+            "text": "",
+            "link": "https://ies.ed.gov/learn/blog/how-can-teacher-evaluation-systems-support-professional-growth",
+            "snippet": "Teacher evaluation systems have been used to serve dual purposes: assessing teacher accountability and informing development opportunities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Data-Driven Teaching and Learning Effect Evaluation in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/org/science/article/pii/S1548109325000531",
+            "snippet": "by L Wang \u00b7 2025 \u00b7 Cited by 5 \u2014 By integrating data-driven approaches with comprehensive evaluation systems, educators can gain deeper insights into learning outcomes and enhance teaching ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Artificial Intelligence and the Future of Teaching and ...",
+            "text": "",
+            "link": "https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf",
+            "snippet": "Third, teachers need to be involved in the design and evaluation of AI systems before they are used in classrooms and when needs for improvement are observed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Ethical considerations in the integration of artificial ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-026-41480-9",
+            "snippet": "by RM Alotaibi \u00b7 2026 \u2014 The increasing reliance on AI technologies in education raises a range of ethical concerns, including, but not limited to, data privacy, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "A Comprehensive Guide to Data-Driven Decision-Making ...",
+            "text": "",
+            "link": "https://www.panoramaed.com/blog/a-comprehensive-guide-to-data-driven-decision-making-in-education",
+            "snippet": "Data-driven decision-making helps educators deliver personalized learning, deliver tailored interventions at the right time, and improve student outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Review of the Use of Machine Learning for Predictive ...",
+            "text": "",
+            "link": "https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1645&context=faculty-research-papers",
+            "snippet": "by E Barnes \u00b7 2024 \u00b7 Cited by 3 \u2014 The study identifies significant ethical concerns, such as data privacy, informed consent, transparency, and accountability, that arise from the use of ML.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Data-Driven Teaching and Learning Effect Evaluation in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/org/science/article/pii/S1548109325000531",
+            "snippet": "by L Wang \u00b7 2025 \u00b7 Cited by 5 \u2014 By leveraging data analytics, educators can identify trends and patterns in learning behaviors, enabling more effective and targeted teaching interventions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Enhancing Student Success through Data-Driven Insights",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/393540933_Learning_Analytics_and_Predictive_Modeling_Enhancing_Student_Success_through_Data-Driven_Insights",
+            "snippet": "This study investigates the use of learning analytics techniques to predict student outcomes using the Open University Learning Analytics ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "in light of the limitations of data-driven decision making",
+            "text": "",
+            "link": "https://cepa.stanford.edu/sites/default/files/Data%20Driven.pdf",
+            "snippet": "by S Loeb \u00b7 Cited by 11 \u2014 The lack of transparency comes not only from poor decision making but also from good decision makers weighing incomplete information about the likely effects ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 AI-ML systems remain fair, transparent, and beneficial to all. This review will discuss the relevant ethical and bias. It emphasizes transparency in research ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Explainable AI in education: Fostering human oversight ...",
+            "text": "",
+            "link": "https://www.daad-brussels.eu/files/2025/06/EDEH_XAI-Report-1.pdf",
+            "snippet": "interpretability is used when we are talking about making AI systems transparent by design instead of opaque, and explainability when we mean justifying an AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Artificial Intelligence and the Future of Teaching and ...",
+            "text": "",
+            "link": "https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf",
+            "snippet": "AI systems and tools must minimize bias, promote fairness, and avoid additional testing time and burden for students and teachers. AI systems and tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Interpreting Black-Box Models: A Review on Explainable ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12559-023-10179-8",
+            "snippet": "by V Hassija \u00b7 2024 \u00b7 Cited by 2734 \u2014 The field seeks to develop AI systems that not only provide accurate predictions but also provide explicit and interpretable explanations ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Algorithmic bias, data ethics, and governance: Ensuring ...",
+            "text": "",
+            "link": "https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-0571.pdf",
+            "snippet": "Controversial AI-driven decisions have further highlighted the risks of algorithmic bias and lack of transparency. For instance, the COMPAS ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a5": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 6,
+        "num_contexts": 33,
+        "num_true_atoms": 0,
+        "num_false_atoms": 6,
+        "num_uniform_atoms": 0,
+        "entropy": 8.289306334778564e-05,
+        "norm_entropy": 0.00012824557733344115,
+        "avg_entropy": 1.3815510557964274e-05,
+        "avg_norm_entropy": 2.1374262888906857e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS",
+            "a5": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 6,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of transparency or interpretability is a not a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+        "response": " Lack of transparency or interpretability is a not a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+        "elapsed_time": 91.15438845800236
+    }
+}

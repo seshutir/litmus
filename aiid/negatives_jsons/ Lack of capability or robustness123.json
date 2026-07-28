@@ -1,0 +1,312 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+    "output": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the robotic system's order fulfillment",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with locating items for shipment using the robotic system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with retrieving items for shipment using the robotic system.",
+            "contexts": [
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with packaging items for shipment using the robotic system",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Enabling robustness to failure with modular field robots - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965784/",
+            "snippet": "by T Cordie \u00b7 2024 \u00b7 Cited by 6 \u2014 Robustness to these failures will become critical as robots are required to be more independent and operate out of the range of repair. Modifying the control ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The five pillars of robotic order fulfillment success",
+            "text": "",
+            "link": "https://digital.thescxchange.com/supplychain/march_april_2026/MobilePagedArticle.action?articleId=2119827",
+            "snippet": "Integration challenges can be a key source of problems and delays in robotics initiatives. The answer often involves avoiding manual or hard- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Securing Autonomous Mobile Robot Deployments in the ...",
+            "text": "",
+            "link": "https://locusrobotics.com/wp-content/uploads/2022-Fouad-Research-Paper-Final.pdf",
+            "snippet": "There are significant security and privacy risks associated with warehouse robotics deployments that can negatively affect businesses. It is possible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "To ensure robust VLA-powered system deployment in ...",
+            "text": "",
+            "link": "https://www.instagram.com/reel/DVCx-EPFeDT/",
+            "snippet": "Lack of compliance risks damage and safety issues. We developed a proprietary, hardware-agnostic compliant controller for robot arms and hands. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Substantial capabilities of robotics in enhancing industry ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667241321000057",
+            "snippet": "by M Javaid \u00b7 2021 \u00b7 Cited by 815 \u2014 Through the shipment of components and objects, doors that a human may have opened and closed must now be linked to allow robots to interact with them and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Robotics cyber security: vulnerabilities, attacks ... - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7978470/",
+            "snippet": "by JPA Yaacoub \u00b7 2021 \u00b7 Cited by 500 \u2014 Moreover, the robustness and efficiency of these solutions are analysed, and we suggest several recommendations to increase the security level of robotic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Warehouse Robots 101: Your Complete 2026 Guide",
+            "text": "",
+            "link": "https://www.trossenrobotics.com/post/warehouse-robots-overview",
+            "snippet": "Get clear answers about warehouse robots, including types, costs, benefits, and how to choose the right solution for your warehouse or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Pros and Cons of Robotic Automation",
+            "text": "",
+            "link": "https://www.marinerlogistics.com/resources/robotic-automation-debate?hsLang=en",
+            "snippet": "iva robots has reportedly reduced the time to locate and retrieve items from shelves by 75%, significantly speeding up the order fulfillment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Logistics Robots: Work Smarter, Not Harder",
+            "text": "",
+            "link": "https://www.autostoresystem.com/insights/logistics-robots-work-smarter-not-harder",
+            "snippet": "In this article, we cover the essential aspects of logistics robots, from their types and core functions to the technological advancements ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Pros and Cons of Robotic Automation",
+            "text": "",
+            "link": "https://www.marinerlogistics.com/resources/robotic-automation-debate?hsLang=en",
+            "snippet": "Lack of Flexibility: Robots are often designed for specific tasks and may not be easily adaptable to changes in the operation. This can be a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Why Packaging Robots Improve Quality and Consistency",
+            "text": "",
+            "link": "https://www.afasystemsinc.com/packaging-robots/",
+            "snippet": "Packaging robots perform various packaging tasks, from sorting and labeling to sealing, cartoning and palletizing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Revolutionary Impact of Robots on the Packaging ...",
+            "text": "",
+            "link": "https://www.assured-systems.com/the-revolutionary-impact-of-robots-on-the-packaging-industry/",
+            "snippet": "The use of robotic depanning systems not only increases efficiency but also improves the overall quality of the packaging process. By automating this repetitive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Packaging Robots: An Overview of Benefits and Capabilities",
+            "text": "",
+            "link": "https://botasys.com/post/packaging-robots/",
+            "snippet": "Packaging robots are less likely to commit errors, reducing the risks associated with poor packaging. Reduced Downtime Human workers may ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A robotic process automation model for order-handling ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949863525000020",
+            "snippet": "by A Shamsuzzoha \u00b7 2025 \u00b7 Cited by 36 \u2014 This study proposes a robotic process automation (RPA) model to streamline and optimize order-handling procedures in supply chain management.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How Amazon Robotics Has Changed the Landscape of ...",
+            "text": "",
+            "link": "https://www.exotec.com/insights/how-amazon-robotics-has-changed-the-landscape-of-fulfillment/",
+            "snippet": "This system significantly boosts efficiency by reducing manual picking time and improves order accuracy. It also creates a safer, more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Automation that eliminates mistakes \u2013 how the highest ...",
+            "text": "",
+            "link": "https://www.tme.com/us/en-us/news/events/page/75344/automation-that-eliminates-mistakes-how-the-highest-level-of-robotics-ensures-correct-delivery-to-customers/",
+            "snippet": "The answer is advanced robotics, which is revolutionizing distribution processes by increasing accuracy and operational efficiency. In this article, we present ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Guide to Using Robotic Fulfillment in Your Warehouse",
+            "text": "",
+            "link": "https://www.elementlogic.net/us/blogs/a-guide-to-using-robotic-fulfillment-in-your-warehouse/",
+            "snippet": "A robotic fulfillment system reduces the risk of human error when filling orders. The robotic system maintains accurate inventory records, stores the inventory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Warehouse Robotics: What It Is, Types, and How It Works",
+            "text": "",
+            "link": "https://www.inboundlogistics.com/articles/warehouse-robotics-what-it-is-types-and-how-it-works/",
+            "snippet": "By automating repetitive and physically demanding tasks, these systems significantly reduce the need for human effort in warehouse operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999615,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999807,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.498678,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.95,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.75,
+        "num_atoms": 4,
+        "num_contexts": 19,
+        "num_true_atoms": 3,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 0.3962840374014025,
+        "norm_entropy": 1.293974105577149,
+        "avg_entropy": 0.09907100935035063,
+        "avg_norm_entropy": 0.32349352639428725,
+        "avg_prob": 0.862025,
+        "avg_logprob": -0.1869165173118331,
+        "avg_explogprob": 0.8295129834686267,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.000385,
+                    0.999615
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.000193,
+                    0.999807
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.501322,
+                    0.498678
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.05,
+                    0.95
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "NS",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.7875059832895001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+        "response": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+        "elapsed_time": 71.09337437496288
+    }
+}

@@ -1,0 +1,466 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a credit assessment system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in evaluating an individual's creditworthiness using a credit assessment system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in providing a corresponding credit limit in a credit assessment system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in making fair and unbiased decisions based on a user's financial history and credit qualifications.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk in making fair and unbiased decisions based on a user's credit qualifications",
+            "contexts": [
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Unfair discrimination and misrepresentation is not a risk in providing accurate and reliable credit evaluations in a credit assessment system",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        },
+        {
+            "id": "a6",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a credit assessment system helping individuals manage their financial obligations",
+            "contexts": [
+                "c_a6_0",
+                "c_a6_1",
+                "c_a6_2",
+                "c_a6_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "How Flawed Data Aggravates Inequality in Credit | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/how-flawed-data-aggravates-inequality-credit",
+            "snippet": "AI offers new tools for calculating credit risk. But it can be tripped up by noisy data, leading to disadvantages for low-income and minority borrowers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Comptroller's Handbook, \"Fair Lending\"",
+            "text": "",
+            "link": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf",
+            "snippet": "References to reputation risk have been removed from this booklet as of March 20, 2025. Removal of reputation risk references is identified by a strikethrough.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic discrimination in the credit domain: what do we ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-023-01676-3",
+            "snippet": "by ACB Garcia \u00b7 2024 \u00b7 Cited by 166 \u2014 Regarding credit to families, a longtime public policy objective has been to avoid discrimination in credit provision, especially in mortgages.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "When Algorithms Judge Your Credit: Understanding AI Bias in ...",
+            "text": "",
+            "link": "https://www.accessiblelaw.untdallas.edu/post/when-algorithms-judge-your-credit-understanding-ai-bias-in-lending-decisions",
+            "snippet": "This form of discrimination is particularly harmful because it can be difficult to identify, challenge, or remedy under existing legal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Civil Rights Division | The Equal Credit Opportunity Act",
+            "text": "",
+            "link": "https://www.justice.gov/crt/equal-credit-opportunity-act-3",
+            "snippet": "U.S.C. 1691 et seq. prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Equal Credit Opportunity Act (ECOA) - Fair Lending ...",
+            "text": "",
+            "link": "https://ncua.gov/regulation-supervision/letters-credit-unions-other-guidance/equal-credit-opportunity-act-nondiscrimination-requirements",
+            "snippet": "ECOA promotes the availability of credit to all creditworthy applicants without regard to race, color, religion, national origin, sex, marital status, or age.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Comment for 1002.6 - Rules Concerning Evaluation of ...",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/rules-policy/regulations/1002/Interp-6",
+            "snippet": "a creditor may not consider in its evaluation of creditworthiness any information that it is barred by \u00a7 1002.5 from obtaining or from using for any purpose",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Assessing Creditworthiness in the Modern Financial ...",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4580124_code1647352.pdf?abstractid=4580124&mirid=1",
+            "snippet": "Credit scoring models can perpetuate bias if they are not designed to consider factors beyond financial history, potentially leading to discrimination against ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Use of Alternative Data in Credit Risk Assessment",
+            "text": "",
+            "link": "https://documents1.worldbank.org/curated/en/099031325132018527/pdf/P179614-3e01b947-cbae-41e4-85dd-2905b6187932.pdf",
+            "snippet": "Credit reporting systems increasingly incorporate alternative data when assessing creditworthiness.8 Likewise, credit providers leverage alternative data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Comptroller's Handbook, \"Fair Lending\"",
+            "text": "",
+            "link": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf",
+            "snippet": "The fair lending risk inherent to a credit scoring system depends in part on its complexity and the data it uses.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Algorithmic discrimination in the credit domain: what do we ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-023-01676-3",
+            "snippet": "by ACB Garcia \u00b7 2024 \u00b7 Cited by 166 \u2014 The credit analysis is based on the assigned risk of default of applicants and the threshold of the maximum risk defined by the bank.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "IV-1 Fair Lending Laws and Regulations",
+            "text": "",
+            "link": "https://www.fdic.gov/consumer-compliance-examination-manual/iv-1-fair-lending-laws-and-regulations",
+            "snippet": "The Equal Credit Opportunity Act (ECOA) prohibits discrimination in any aspect of a credit transaction. It applies to any extension of credit,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Fair Lending",
+            "text": "",
+            "link": "https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fair-lending/index-fair-lending.html",
+            "snippet": "The Fair Housing Act (FHA) and Equal Credit Opportunity Act (ECOA) protect consumers by prohibiting unfair and discriminatory practices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "CFPB Targets Unfair Discrimination in Consumer Finance",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/archive/newsroom/cfpb-targets-unfair-discrimination-in-consumer-finance/",
+            "snippet": "Consumers can be harmed by discrimination regardless of whether it is intentional. Discrimination can be unfair in cases where the conduct may ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI Lending and ECOA: Avoiding Accidental Discrimination",
+            "text": "",
+            "link": "https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1570&context=ncbi",
+            "snippet": "by MA Griffith \u00b7 2023 \u00b7 Cited by 9 \u2014 Others have found evidence that, even if the scoring is fair, actual credit decisions continue to be inequitable.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "What to Know About Adverse Action and Risk-Based Pricing Notices",
+            "text": "",
+            "link": "https://www.ftc.gov/business-guidance/resources/using-consumer-reports-credit-decisions-what-know-about-adverse-action-risk-based-pricing-notices",
+            "snippet": "The Risk-Based Pricing Rule requires you to notify consumers if they are getting worse terms because of information in their credit report.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Comptroller's Handbook, \"Fair Lending\"",
+            "text": "",
+            "link": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf",
+            "snippet": "Using risk-based pricing does not inherently increase fair lending risk as long as the pricing models are consistently applied and exceptions are limited and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Comptroller's Handbook, \"Fair Lending\"",
+            "text": "",
+            "link": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf",
+            "snippet": "\u2022 If a bank-prepared fair lending risk assessment was evaluated, provide comments regarding the adequacy of the risk assessment. A good baseline is to compare ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "15 USC CHAPTER 41, SUBCHAPTER III: CREDIT ...",
+            "text": "",
+            "link": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title15-chapter41-subchapter3&edition=prelim",
+            "snippet": "Inaccurate credit reports directly impair the efficiency of the banking system, and unfair credit reporting methods undermine the public confidence",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "restricts access to consumers of color. This work includes efforts to reduce ...",
+            "text": "",
+            "link": "https://nationalfairhousing.org/wp-content/uploads/2021/12/Validation-and-Approval-of-Credit-Score-Models-NFHA-Comments-3.21.19.pdf",
+            "snippet": "We also provide training and technical assistance to our members who work directly with consumers to advance their fair housing rights, build their credit, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_0",
+            "title": "Equal Credit Opportunity Act (Regulation B)",
+            "text": "",
+            "link": "https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/lending-regulations/equal-credit-opportunity-act-regulation-b",
+            "snippet": "The purpose of ECOA is to promote the availability of credit to all creditworthy applicants without regard to race, color, religion, national origin, sex, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_1",
+            "title": "CFPB Targets Unfair Discrimination in Consumer Finance",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/archive/newsroom/cfpb-targets-unfair-discrimination-in-consumer-finance/",
+            "snippet": "Discrimination or improper exclusion can trigger liability under ban on unfair acts and practices",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_2",
+            "title": "Comptroller's Handbook, \"Fair Lending\"",
+            "text": "",
+            "link": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf",
+            "snippet": "The fair lending risk inherent to a credit scoring system depends in part on its complexity and the data it uses. For example, a credit scoring system that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_4",
+            "title": "DISCRIMINATION IS \"UNFAIR\"",
+            "text": "",
+            "link": "https://protectborrowers.org/wp-content/uploads/2021/04/Discrimination_is_Unfair.pdf",
+            "snippet": "by UDA Interpreting \u00b7 2021 \u00b7 Cited by 1 \u2014 An \u201cunfair\u201d practice is defined by statute as something \u201c(1) likely to cause substantial injury to consumers; (2) which is not reasonably.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Credit scoring - Federal Reserve Board",
+            "text": "",
+            "link": "https://www.federalreserve.gov/newsevents/testimony/braunstein20100323a.htm",
+            "snippet": "Well-constructed systems apply the same criteria to all credit applicants without consideration of prohibited bases, such as race, sex, and, to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "When Algorithms Judge Your Credit: Understanding AI Bias in Lending ...",
+            "text": "",
+            "link": "https://www.accessiblelaw.untdallas.edu/post/when-algorithms-judge-your-credit-understanding-ai-bias-in-lending-decisions",
+            "snippet": "The legal framework addressing credit discrimination encompasses two distinct concepts: disparate treatment and disparate impact. Disparate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "CREDIT SCORING APPROACHES GUIDELINES",
+            "text": "",
+            "link": "https://thedocs.worldbank.org/en/doc/935891585869698451-0130022020/original/CREDITSCORINGAPPROACHESGUIDELINESFINALWEB.pdf",
+            "snippet": "It is designed to provide a principle-based classification and measurement approach for financial assets; a single, forward-looking impairment model; and a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Alternative credit data 101: What it is and what it's used for",
+            "text": "",
+            "link": "https://stripe.com/resources/more/alternative-credit-data-101-what-it-is-and-what-its-used-for",
+            "snippet": "Alternative credit data refers to nontraditional data that lenders use to assess a borrower's creditworthiness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 9e-06,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.647678,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.647728,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 0.004083,
+                    "support": "NS"
+                }
+            },
+            {
+                "a6": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.2857142857142857,
+        "num_atoms": 7,
+        "num_contexts": 28,
+        "num_true_atoms": 2,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 0.5852309272186793,
+        "norm_entropy": 1.9107152762230515,
+        "avg_entropy": 0.08360441817409704,
+        "avg_norm_entropy": 0.27295932517472166,
+        "avg_prob": 0.185643,
+        "avg_logprob": -8.49062670924506,
+        "avg_explogprob": 0.00020538450340617183,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.999991,
+                    9e-06
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.352322,
+                    0.647678
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.352272,
+                    0.647728
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.995917,
+                    0.004083
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "S",
+            "a4": "S",
+            "a5": "NS",
+            "a6": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null,
+            "a6": null
+        },
+        "avg_brier": 0.11986500351971428,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+        "elapsed_time": 114.19253358303104
+    }
+}

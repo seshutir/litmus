@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the distribution of medical resources, such as vaccines.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in prioritizing individuals based on their risk of exposure and need for protection in the distribution algorithm",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Experiences of discrimination and their impact on healthcare utilization",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915329/",
+            "snippet": "This article examines the relationship between experiences of discrimination and COVID-19 vaccine non-uptake, with particular attention to the domains in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Medical mistrust, discrimination, and COVID-19 vaccine behaviors ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9652159/",
+            "snippet": "It has been postulated that mistrust in the healthcare system and experiences of discrimination or unfair treatment in other settings may be barriers to uptake ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding and Ameliorating Medical Mistrust Among Black ...",
+            "text": "",
+            "link": "https://www.commonwealthfund.org/publications/newsletter-article/2021/jan/medical-mistrust-among-black-americans",
+            "snippet": "First and foremost, it's important to validate mistrust by acknowledging and affirming experiences of discrimination and conveying that patients ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Gender bias in healthcare: Examples and consequences",
+            "text": "",
+            "link": "https://www.medicalnewstoday.com/articles/gender-bias-in-healthcare",
+            "snippet": "Gender bias also leads to discrimination against health workers. A 2020 study of older women doctors found that age- and gender-based harassment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Eliminating Explicit and Implicit Biases in Health Care - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9172268/",
+            "snippet": "Structural inequities and discrimination have created stereotypes of marginalized populations or communities and implicit and explicit biases toward them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "AI Bias is when the output of a machine-learning model can lead to the discrimination against specific groups or individuals. These tend to be groups that have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Understanding Perceptions of Algorithmic Bias Through the Risk ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/10447318.2025.2546661",
+            "snippet": "Qualitative analysis revealed four key risk dimensions (i.e., mental health, privacy and exploitation, fairness and discrimination, and segmentation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "AI doesn't eliminate bias; it scales it. Learn how algorithmic bias creates massive legal and reputational risk, and how to govern your AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Navigating the muddy waters of bias in artificial intelligence research",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X25003173",
+            "snippet": "Barocas and Hardt (2023) discuss many examples of biased AI systems and their downstream consequences in the form of discrimination, the potential of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Annex A: Fairness in the AI lifecycle | ICO",
+            "text": "",
+            "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/annex-a-fairness-in-the-ai-lifecycle/",
+            "snippet": "This section is about data protection fairness considerations across the AI lifecycle, from problem formulation to decommissioning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Algorithm fairness in artificial intelligence for medicine ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/",
+            "snippet": "by RJ Chen \u00b7 2023 \u00b7 Cited by 749 \u2014 Disparate treatment: Intentional discrimination against protected subgroups. Disparate treatment can result from machine-learning algorithms that include ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Intelligence and Discrimination in Health Care ...",
+            "text": "",
+            "link": "https://case.edu/law/sites/default/files/2021-01/Sharona%20CLE%202-2021_0.pdf",
+            "snippet": "This Article argues that algorithmic discrimination in medicine can violate civil rights laws such as Title VI and Section 1557 of the Affordable Care Act when ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Algorithmic discrimination and health equity - NCBI - NIH",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK613222/",
+            "snippet": "Unfortunately, in the United States, existing healthcare antidiscrimination laws will do little to combat algorithmic discrimination. While federal law requires ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Rooting Out AI's Biases | Hopkins Bloomberg Public Health ...",
+            "text": "",
+            "link": "https://magazine.publichealth.jhu.edu/2023/rooting-out-ais-biases",
+            "snippet": "In some ways, AI is all too human, subject to biases and discrimination. Algorithms are trained on data from a world full of deeply rooted ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Algorithmic Fairness: A Tolerance Perspective",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2405.09543?",
+            "snippet": "by R Luo \u00b7 2024 \u00b7 Cited by 12 \u2014 Except for the performance of algorithms, some social resources face inequitable distribution because of racial discrimination in algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999843,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00015798767435495852,
+        "norm_entropy": 0.0022318604106908277,
+        "avg_entropy": 7.899383717747926e-05,
+        "avg_norm_entropy": 0.0011159302053454139,
+        "avg_prob": 0.9999210000000001,
+        "avg_logprob": -7.900616314505402e-05,
+        "avg_explogprob": 0.9999209969577597,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.000157,
+                    0.999843
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9998430123245,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A distribution algorithm is designed to allocate limited medical resources, such as vaccines, to various groups of people. The algorithm aims to prioritize individuals based on their risk of exposure and need for protection. It seeks to optimize the distribution process, ensuring that resources are allocated efficiently and effectively to those who need them most.",
+        "elapsed_time": 34.57168716700107
+    }
+}

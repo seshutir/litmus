@@ -1,0 +1,170 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to analyze and match license plate information to identify potential mismatches or anomalies. The system aims to provide accurate and efficient processing of license plate data, helping to facilitate investigations and support law enforcement efforts. It uses advanced algorithms to compare and verify license plate information from various sources.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to analyze and match license plate information to identify potential mismatches or anomalies. The system aims to provide accurate and efficient processing of license plate data, helping to facilitate investigations and support law enforcement efforts. It uses advanced algorithms to compare and verify license plate information from various sources.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in automated license plate analysis",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in an automated system that matches license plate information to identify potential mismatches or anomalies",
+            "contexts": []
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Discrimination on Wheels: How Big Data Uses License Plate ...",
+            "text": "",
+            "link": "https://law.stanford.edu/publications/discrimination-on-wheels-how-big-data-uses-license-plate-surveillance-to-put-the-brakes-on-disadvantaged-drivers/",
+            "snippet": "Discrimination in the consumer scoring cycle shows that ALPR-based data analytics will only exacerbate the economic and racial disparities in car ownership.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "[PDF] How Big Data Uses License Plate Surveillance to Put the Brakes on ...",
+            "text": "",
+            "link": "https://open.mitchellhamline.edu/cgi/viewcontent.cgi?article=1585&context=facsch",
+            "snippet": "Thus, rather than creating an equal path to economic mobility, the tainted ALPR data collection methodology reinforces discrimination. Not only that, but using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Automatic License Plate Readers: Legal Status and Policy ...",
+            "text": "",
+            "link": "https://www.brennancenter.org/our-work/research-reports/automatic-license-plate-readers-legal-status-and-policy-recommendations",
+            "snippet": "Closing our eyes to the real and ascertainable harms of discrimination inevitably leads to morning-after regret.\u201d Impact on protected First ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Human Toll of ALPR Errors | Electronic Frontier Foundation",
+            "text": "",
+            "link": "https://www.eff.org/deeplinks/2024/11/human-toll-alpr-errors",
+            "snippet": "ALPR technology can exacerbate our already discriminatory policing system, among other reasons because too many police officers react recklessly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Automated License Plate Readers: Background and Legal Issues",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/IF13068",
+            "snippet": "This In Focus provides an overview of ALPRs, select Fourth Amendment caselaw on their use, and congressional considerations. Background on ALPR ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Automated License Plate Readers: Background and Legal Issues",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/IF13068",
+            "snippet": "If there is a match to a \"hot list\" license plate, the ALPR system can alert a law enforcement officer in real time. The retention of data from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "License Plate Readings Shouldn't Be Public Data - ACLU",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/alpr-as-public-data",
+            "snippet": "Such readings shouldn't generally be retained at all, but if they are at least privacy needs to be protected.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "ACLU releases comprehensive report on law enforcement's use of ...",
+            "text": "",
+            "link": "https://www.aclusocal.org/report-aclu-releases-comprehensive-report-law-enforcements-use-license-plate-readers/",
+            "snippet": "License plate readers can serve a legitimate law enforcement purpose when they alert police to the location of a car associated with a criminal investigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Automatic License Plate Readers: Legal Status and Policy ...",
+            "text": "",
+            "link": "https://www.brennancenter.org/our-work/research-reports/automatic-license-plate-readers-legal-status-and-policy-recommendations",
+            "snippet": "This white paper explains how ALPR technology works, focusing on its use by law enforcement agencies. It then analyzes both the legal and policy landscapes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999923,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999232,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 9,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0008447020478974164,
+        "norm_entropy": 0.01021702913242177,
+        "avg_entropy": 0.0004223510239487082,
+        "avg_norm_entropy": 0.005108514566210885,
+        "avg_prob": 0.9995775,
+        "avg_logprob": -0.0004226490138670708,
+        "avg_explogprob": 0.9995774402896456,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    7.7e-05,
+                    0.999923
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.000768,
+                    0.999232
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9991552978764999,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to analyze and match license plate information to identify potential mismatches or anomalies. The system aims to provide accurate and efficient processing of license plate data, helping to facilitate investigations and support law enforcement efforts. It uses advanced algorithms to compare and verify license plate information from various sources.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to analyze and match license plate information to identify potential mismatches or anomalies. The system aims to provide accurate and efficient processing of license plate data, helping to facilitate investigations and support law enforcement efforts. It uses advanced algorithms to compare and verify license plate information from various sources.",
+        "elapsed_time": 30.041959500002122
+    }
+}

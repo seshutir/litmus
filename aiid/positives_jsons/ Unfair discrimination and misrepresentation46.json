@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A search engine is designed to provide relevant results to users, utilizing algorithms to rank and display profiles based on specific criteria. The system aims to ensure fairness and equality in its search results, avoiding biases and inaccuracies. It seeks to deliver accurate and comprehensive information to users, allowing them to find the most suitable profiles.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A search engine is designed to provide relevant results to users, utilizing algorithms to rank and display profiles based on specific criteria. The system aims to ensure fairness and equality in its search results, avoiding biases and inaccuracies. It seeks to deliver accurate and comprehensive information to users, allowing them to find the most suitable profiles.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a search engine",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in utilizing algorithms to rank and display profiles in a search engine",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "An examination of algorithmic bias in search engine autocomplete ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0736585323001326",
+            "snippet": "This paper examines the autocomplete algorithmic bias of leading search engines against three sensitive attributes: gender, race, and sexual orientation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bias in Search Engines And Algorithms: Home - Research Guides",
+            "text": "",
+            "link": "https://libguides.scu.edu/biasinsearchengines",
+            "snippet": "This library guide examines the biases present in those algorithms, provides information on how to navigate them, and ways to fight bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic Bias & Search Systems: Search Engines & Societal Biases",
+            "text": "",
+            "link": "https://libguides.rowan.edu/algorithmic_bias/societal",
+            "snippet": "Potential Dangers in Search Engine Biases. Societal biases can be reflected in search engine results and in search engine features like auto- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Brand Misrepresentation: The Real Risk in AI Search",
+            "text": "",
+            "link": "https://demandscience.com/resources/blog/ai-search-brand-misrepresentation/",
+            "snippet": "Is AI misrepresenting your brand? Discover why \"good enough\" content architecture is a billion-dollar blind spot and how to build ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How AI Bias in Search Engines Contributes to Disinformation",
+            "text": "",
+            "link": "https://www.diplomaticourier.com/posts/how-ai-bias-in-search-engines-contributes-to-disinformation",
+            "snippet": "Skewed search results reinforce racial stereotypes, gender roles, and other forms of discrimination in two main ways. First, search engines ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "at the algorithms used to rank the search engine results of Indeed, Monster and CareerBuilder. None of the search engines allowed results to be filtered or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Bias in algorithms can emanate from unrepresentative or incomplete training data or the reliance on flawed information that reflects historical inequalities. If ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithms are not neutral: Bias in collaborative filtering - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802245/",
+            "snippet": "There is growing awareness that the outcomes of algorithmic processes can be discriminatory. The best known recent examples of algorithmic discrimination happen ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The report aims to inform policymakers, human rights practitioners and the general public about risk of bias when using AI, thereby feeding into ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Three broad factors are responsible for biases in AI models: (1) data bias, which is the use of unrepresentative data; (2) development bias, which is the result ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithms are not neutral: Bias in collaborative filtering - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802245/",
+            "snippet": "Collaborative filtering algorithms are used in popular recommender systems, such as Amazon and Netflix, that show users items based on criteria, such as \u201c ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What about fairness, bias and discrimination? | ICO",
+            "text": "",
+            "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-fairness-in-ai/what-about-fairness-bias-and-discrimination/",
+            "snippet": "As AI systems learn from data which may be unbalanced and/or reflect discrimination, they may produce outputs which have discriminatory effects on people based ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Addressing the problem of algorithmic bias",
+            "text": "",
+            "link": "https://humanrights.gov.au/sites/default/files/document/publication/final_version_technical_paper_addressing_the_problem_of_algorithmic_bias.pdf",
+            "snippet": "This paper explores the risk that AI systems produce results that cause unfair disadvantage, or even unlawful discrimination, by reference to a hypothetical, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A search engine is designed to provide relevant results to users, utilizing algorithms to rank and display profiles based on specific criteria. The system aims to ensure fairness and equality in its search results, avoiding biases and inaccuracies. It seeks to deliver accurate and comprehensive information to users, allowing them to find the most suitable profiles.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A search engine is designed to provide relevant results to users, utilizing algorithms to rank and display profiles based on specific criteria. The system aims to ensure fairness and equality in its search results, avoiding biases and inaccuracies. It seeks to deliver accurate and comprehensive information to users, allowing them to find the most suitable profiles.",
+        "elapsed_time": 22.649747249999564
+    }
+}

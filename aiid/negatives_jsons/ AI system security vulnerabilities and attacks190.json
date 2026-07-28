@@ -1,0 +1,362 @@
+{
+    "input": " AI system security vulnerabilities and attacks is a not a risk associated with A system is designed to detect and alert on potential network security threats, aiming to identify and prevent data breaches. It utilizes advanced algorithms to analyze network activity and generate alerts for potential security incidents. The system's goal is to provide accurate and timely notifications to help prevent unauthorized access to sensitive information.",
+    "output": " AI system security vulnerabilities and attacks is a not a risk associated with A system is designed to detect and alert on potential network security threats, aiming to identify and prevent data breaches. It utilizes advanced algorithms to analyze network activity and generate alerts for potential security incidents. The system's goal is to provide accurate and timely notifications to help prevent unauthorized access to sensitive information.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "AI system security vulnerabilities and attacks are not risks associated with the network security system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "AI system security vulnerabilities and attacks is a risk in detecting and alerting on potential network security threats in the A system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "AI system security vulnerabilities and attacks is a risk in analyzing network activity in the A system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "AI system security vulnerabilities and attacks is a risk in generating alerts for potential security incidents in the A system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Top AI Security Vulnerabilities to Watch out for in 2026",
+            "text": "",
+            "link": "https://cycode.com/blog/ai-security-vulnerabilities/",
+            "snippet": "AI risk in cybersecurity refers to the security gaps and failure modes. These are not hypothetical concerns. AI presents attack surfaces that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability and What ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "AI attacks exist because there are fundamental limitations in the underlying AI algorithms that adversaries can exploit in order to make the system fail. Unlike ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Are the Risks and Benefits of Artificial Intelligence (AI) in ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-risks-and-benefits-in-cybersecurity",
+            "snippet": "AI algorithms can analyze code, network configurations, and system architectures to identify potential vulnerabilities and misconfigurations. security teams ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The impact of artificial intelligence on organisational cyber security",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2543925123000372",
+            "snippet": "by I Jada \u00b7 2024 \u00b7 Cited by 259 \u2014 AI can impact cybersecurity throughout it's entire life cycle, yielding benefits like automation, threat intelligence, and improved cyber defense.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI and cyber security: what you need to know",
+            "text": "",
+            "link": "https://www.ncsc.gov.uk/guidance/ai-and-cyber-security-what-you-need-to-know",
+            "snippet": "AI systems are subject to novel security vulnerabilities (described briefly below) that need to be considered alongside standard cyber security ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "What Is the Role of AI in Threat Detection?",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-in-threat-detection",
+            "snippet": "AI establishes a baseline of normal network behavior and flags deviations, which may indicate a security breach. AI in threat detection prioritizes and filters ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI in Cybersecurity: How AI is Changing Threat Defense",
+            "text": "",
+            "link": "https://ischool.syracuse.edu/ai-in-cybersecurity/",
+            "snippet": "Discover how AI in cybersecurity enhances threat detection, prevents attacks, and transforms digital defense strategies in 2025.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Is AI Security? Risks, Principles and Benefits",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/ai-security",
+            "snippet": "Key AI security threats include data poisoning, adversarial attacks, prompt injection, and agentic AI vulnerabilities. driven detection systems learn normal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Top AI Security Vulnerabilities to Watch out for in 2026",
+            "text": "",
+            "link": "https://cycode.com/blog/ai-security-vulnerabilities/",
+            "snippet": "Among the major risk lists of top AI vulnerabilities, prompt injection is the most frequently mentioned. Attackers design inputs that cause an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Top 14 AI Security Risks in 2026",
+            "text": "",
+            "link": "https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-security-risks/",
+            "snippet": "Hardware vulnerabilities can bypass software-level security measures, potentially giving attackers deep access to the AI system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "What Are the Risks and Benefits of Artificial Intelligence (AI) ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-risks-and-benefits-in-cybersecurity",
+            "snippet": "AI-driven systems can automatically trigger response actions upon detecting a threat, such as isolating infected endpoints or blocking malicious IP addresses.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Top 14 AI Security Risks in 2026",
+            "text": "",
+            "link": "https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-security-risks/",
+            "snippet": "This article will cover a few of the main AI security risks associated with AI systems, the ways to address them, and how SentinelOne is able to protect AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "Public policy creating \u201cAI Security Compliance\u201d programs will reduce the risk of attacks on AI systems and lower the impact of successful attacks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What Is AI Security? Risks, Principles and Benefits",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/ai-security",
+            "snippet": "AI security threats include data poisoning, adversarial attacks, prompt injection, and agentic AI vulnerabilities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "AI and the Future of Cybersecurity | Harvard Extension School",
+            "text": "",
+            "link": "https://extension.harvard.edu/blog/ai-and-the-future-of-cybersecurity/",
+            "snippet": "AI is making cyberattacks faster, more scalable, and more difficult to detect by automating tasks such as phishing, data analysis, and malware ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Top AI Security Vulnerabilities to Watch out for in 2026",
+            "text": "",
+            "link": "https://cycode.com/blog/ai-security-vulnerabilities/",
+            "snippet": "AI risk in cybersecurity refers to the security gaps and failure modes that arise from the development, deployment, and integration of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What Are the Risks and Benefits of Artificial Intelligence (AI) in ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-risks-and-benefits-in-cybersecurity",
+            "snippet": "AI enhances threat detection, automates incident responses, and improves vulnerability management. AI systems failing to detect threats or, worse, classifying ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "What Is AI Security? Risks, Principles and Benefits",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/ai-security",
+            "snippet": "Key AI security threats include data poisoning, adversarial attacks, prompt injection, and agentic AI vulnerabilities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability and What ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "AI attacks exist because there are fundamental limitations in the underlying AI algorithms that adversaries can exploit in order to make the system fail.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What Is the Role of AI in Threat Detection?",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-in-threat-detection",
+            "snippet": "AI establishes a baseline of normal network behavior and flags a security breach. AI in threat detection prioritizes and filters out false positives, allowing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI in Cybersecurity: How AI is Changing Threat Defense",
+            "text": "",
+            "link": "https://ischool.syracuse.edu/ai-in-cybersecurity/",
+            "snippet": "AI in cybersecurity involves applying artificial intelligence to help protect systems, networks, and data from threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Artificial intelligence for cybersecurity: Literature review and future ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1566253523001136",
+            "snippet": "by R Kaur \u00b7 2023 \u00b7 Cited by 1057 \u2014 Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Leverage AI to Detect Security Threats",
+            "text": "",
+            "link": "https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-threat-detection/",
+            "snippet": "AI threat detection enhances traditional security by identifying sophisticated threats in real-time, helping organizations stay ahead of cybercriminals.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Is AI in Cybersecurity?",
+            "text": "",
+            "link": "https://www.sophos.com/en-us/cybersecurity-explained/ai-in-cybersecurity",
+            "snippet": "Today's AI systems are trained to detect potential cyber threats, identify new attack vectors, and safeguard your company's sensitive data. The three top ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.75,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 3,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.6815509058050037e-05,
+        "norm_entropy": 8.549705155722242e-05,
+        "avg_entropy": 4.203877264512509e-06,
+        "avg_norm_entropy": 2.1374262889305606e-05,
+        "avg_prob": 0.7499994999999999,
+        "avg_logprob": -3.4538783894914435,
+        "avg_explogprob": 0.03162275288459838,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.75,
+        "topic": "",
+        "query": " AI system security vulnerabilities and attacks is a not a risk associated with A system is designed to detect and alert on potential network security threats, aiming to identify and prevent data breaches. It utilizes advanced algorithms to analyze network activity and generate alerts for potential security incidents. The system's goal is to provide accurate and timely notifications to help prevent unauthorized access to sensitive information.",
+        "response": " AI system security vulnerabilities and attacks is a not a risk associated with A system is designed to detect and alert on potential network security threats, aiming to identify and prevent data breaches. It utilizes advanced algorithms to analyze network activity and generate alerts for potential security incidents. The system's goal is to provide accurate and timely notifications to help prevent unauthorized access to sensitive information.",
+        "elapsed_time": 33.35642133298097
+    }
+}

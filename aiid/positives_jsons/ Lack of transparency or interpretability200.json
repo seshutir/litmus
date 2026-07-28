@@ -1,0 +1,354 @@
+{
+    "input": " Lack of transparency or interpretability is a risk associated with A system is designed to analyze various factors and adjust compensation for service providers accordingly. It aims to optimize the distribution of ride requests and calculate fares based on multiple variables. The system also seeks to provide a fair and efficient experience for both service providers and users.",
+    "output": " Lack of transparency or interpretability is a risk associated with A system is designed to analyze various factors and adjust compensation for service providers accordingly. It aims to optimize the distribution of ride requests and calculate fares based on multiple variables. The system also seeks to provide a fair and efficient experience for both service providers and users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of transparency or interpretability is a risk in the service provider compensation system designed to analyze various factors and adjust compensation for service providers accordingly.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of transparency or interpretability is a risk in analyzing various factors to adjust compensation for service providers in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of transparency or interpretability is a risk in optimizing the distribution of ride requests in the system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of transparency or interpretability is a risk in calculating fares based on multiple variables in the system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Transparency of AI in Healthcare as a Multilayered System of ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9189302/",
+            "snippet": "In this paper, we suggest an interdisciplinary vision on how to tackle the issue of AI's transparency in healthcare, and we propose a single point of reference.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Transparency and Liability Issues Associated with AI-Based ...",
+            "text": "",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-99709-9_15",
+            "snippet": "Furthermore, if a system's output causes harm to patients, a lack of transparency could interfere with how civil liabilities are attributed, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Decoding U.S. Tort Liability in Healthcare's Black-Box AI Era",
+            "text": "",
+            "link": "https://law.stanford.edu/wp-content/uploads/2024/02/Publish_27-STLR-1-2024_Decoding-U.S.-Tort-Liability-in-Healthcares-Black-Box-AI-Era.pdf",
+            "snippet": "The current liability framework is not fully equipped to address the unique challenges posed by black-box AI's lack of transparency, leaving patients, consumers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Artificial Intelligence Risk Management Framework: Generative ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "Consistent with other AI RMF profiles, this profile offers insights into how risk can be managed across various stages of the AI lifecycle and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Enhancing interpretability and accuracy of AI models in healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638409/",
+            "snippet": "Our systematic review explores various AI applications in healthcare, focusing on the critical assessment of model interpretability and accuracy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Transparency, Explainability, and Interpretability of AI - Cimplifi",
+            "text": "",
+            "link": "https://www.cimplifi.com/resources/transparency-explainability-and-interpretability-of-ai/",
+            "snippet": "A transparent AI system is one where its mechanisms, data sources, and decision-making processes are openly available and understandable.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Transparent AI: The Case for Interpretability and Explainability - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.23535v1",
+            "snippet": "The first step involves defining interpretability requirements based on the application domain and stakeholder needs. Interpretable models ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The complete guide to AI transparency, explainability, and ...",
+            "text": "",
+            "link": "https://blog.stackaware.com/p/ai-transparency-explainability-interpretability-nist-rmf-iso-42001",
+            "snippet": "The complete guide to AI transparency, explainability, and interpretability. An actionable guide to implementing nebulous AI governance requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Do All AI Systems Need to Be Explainable?",
+            "text": "",
+            "link": "https://ssir.org/articles/entry/do_ai_systems_need_to_be_explainable",
+            "snippet": "\u201cExplainable AI\u201d can bridge the gap between AI outputs and human expertise, but a balance needs to be struck between explainability and performance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Uncertainties in shared mobility optimization problems: Survey and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1366554525003916",
+            "snippet": "In ride-hailing systems, demand uncertainty also plays a crucial role in decision making process. Guo et al. (2021) attributes this uncertainty to unpredictable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Rideshare Transparency: Translating Gig Worker Insights on AI ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/381485808_Rideshare_Transparency_Translating_Gig_Worker_Insights_on_AI_Platform_Design_to_Policy",
+            "snippet": "Our analysis suggests that rideshare workers need key pieces of information, which we refer to as indicators, to make informed work decisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Data-Driven Capacity Management of Ride-Hailing Service with ...",
+            "text": "",
+            "link": "https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0595",
+            "snippet": "This paper studies the capacity management of ride-hailing services with unstable passenger demand. In the existing parametric approaches, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Transparent AI: The Case for Interpretability and Explainability - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.23535v1",
+            "snippet": "The EU AI Act mandates transparency for high-risk AI systems and grants individuals the right to clear and meaningful explanations of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Transparency and Interpretability - Data, Responsibly",
+            "text": "",
+            "link": "https://dataresponsibly.github.io/rds23/assets/transparency_reader_2023.pdf",
+            "snippet": "In this work, we propose LIME, a novel explanation tech- nique that explains the predictions of any classifier in an in- terpretable and faithful manner, by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Risks and Remedies for Black Box Artificial Intelligence - C3 AI",
+            "text": "",
+            "link": "https://c3.ai/blog/risks-and-remedies-for-black-box-artificial-intelligence/",
+            "snippet": "But coupling such systems with poor interpretability \u2013 also referred to as explainability \u2013 can create a recipe for disaster. End users often ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Explainable Artificial Intelligence (XAI) Approaches for Transparency ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/376151973_Explainable_Artificial_Intelligence_XAI_approaches_for_transparency_and_accountability_in_financial_decision-making",
+            "snippet": "The lack of interpretability in these models presents a significant challenge, as stakeholders, regulators, and end-users often struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Understanding Black Box AI: Risks, Decision-Making, and the Shift ...",
+            "text": "",
+            "link": "https://www.fluid.ai/blog/understanding-black-box-ai",
+            "snippet": "... risks of opaque AI systems fall into several distinct categories. Lack of transparency: It means that when a model produces an unexpected or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Understanding Black Box AI: Challenges and Solutions - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/understanding-black-box-ai/",
+            "snippet": "However, the lack of transparency in black box AI systems poses significant challenges, including data security issues, bias, and the difficulty in validating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Lack of Explainability and Transparency in AI: The Black-Box Dilemma",
+            "text": "",
+            "link": "https://medium.com/@ThisIsMeIn360VR/lack-of-explainability-and-transparency-in-ai-the-black-box-dilemma-5bb58776cd93",
+            "snippet": "Known as the \u201cblack-box problem,\u201d this issue arises when AI models make decisions without clear, understandable reasoning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Comparing fare evasion severity by econometric and artificial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0967070X25005141",
+            "snippet": "Fare evasion is a pressing issue in public transport networks, impacting the financial sustainability of Transit Agencies (TAs) and Public Transport ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Recent Applications of Explainable AI (XAI): A Systematic Literature ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/14/19/8884",
+            "snippet": "Future research should focus on developing comprehensive evaluation standards and improving the interpretability and stability of explanations. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Challenges of Machine Learning and Their Economic Implications",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7996274/",
+            "snippet": "The purpose of this paper was to determine, from a positive economics point of view, whether the free use of machine learning models maximizes aggregate social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999882,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.996884,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.003231133258411166,
+        "norm_entropy": 0.032185269760589906,
+        "avg_entropy": 0.0008077833146027915,
+        "avg_norm_entropy": 0.008046317440147477,
+        "avg_prob": 0.9991909999999999,
+        "avg_logprob": -0.0008102179500158325,
+        "avg_explogprob": 0.9991901101879204,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.000118,
+                    0.999882
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.003116,
+                    0.996884
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.998385430845,
+        "topic": "",
+        "query": " Lack of transparency or interpretability is a risk associated with A system is designed to analyze various factors and adjust compensation for service providers accordingly. It aims to optimize the distribution of ride requests and calculate fares based on multiple variables. The system also seeks to provide a fair and efficient experience for both service providers and users.",
+        "response": " Lack of transparency or interpretability is a risk associated with A system is designed to analyze various factors and adjust compensation for service providers accordingly. It aims to optimize the distribution of ride requests and calculate fares based on multiple variables. The system also seeks to provide a fair and efficient experience for both service providers and users.",
+        "elapsed_time": 50.005376583001635
+    }
+}

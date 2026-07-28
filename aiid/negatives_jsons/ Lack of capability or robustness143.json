@@ -1,0 +1,404 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A research model is designed to analyze and generate text based on human discussions, with the goal of providing insights into complex moral issues. The model aims to learn from large amounts of user-generated content and offer advice on ethical dilemmas. It seeks to understand and replicate human-like decision-making processes, improving its ability to reason and provide helpful responses.",
+    "output": " Lack of capability or robustness is a not a risk associated with A research model is designed to analyze and generate text based on human discussions, with the goal of providing insights into complex moral issues. The model aims to learn from large amounts of user-generated content and offer advice on ethical dilemmas. It seeks to understand and replicate human-like decision-making processes, improving its ability to reason and provide helpful responses.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the research model's text analysis and generation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with the model's learning from large amounts of user-generated content",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with the model offering advice on ethical dilemmas",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with understanding and replicating human-like decision-making processes in the research model.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with improving the model's ability to reason and provide helpful responses",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Advancing adversarial and LLM robustness in trustworthy AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-026-11558-x",
+            "snippet": "by Q Tang \u00b7 2026 \u00b7 Cited by 1 \u2014 In this paper, we systematically review the evaluation methods and enhancement strategies for AI model robustness from multiple perspectives: (1) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v2",
+            "snippet": "The chapter delves into the factors that impede robustness, such as data bias, model complexity, and the pitfalls of underspecified ML pipelines.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "We demonstrate capabilities do not guarantee robustness, as superhuman Go AIs can still be beaten by simple strategies. Learn more\u200d; Scaling Trends for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "A Survey of Adversarial Defences and Robustness in NLP",
+            "text": "",
+            "link": "https://www.cs.purdue.edu/homes/bb/2026-spring-cs592eai/docs/at/A_Survey_of_Adversarial_Defences_and_Robustness_in_NLP.pdf",
+            "snippet": "by G SHREYA \u00b7 2022 \u00b7 Cited by 289 \u2014 Another approach to improving the robustness of machine learning models is through generation-based adversarial examples. For example, [56] proposed using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Adversarial Robustness in Text Classification through ...",
+            "text": "",
+            "link": "https://www.preprints.org/manuscript/202602.0617",
+            "snippet": "by C Shao \u00b7 2026 \u00b7 Cited by 16 \u2014 This paper addresses the problem of text classification models being vulnerable and lacking robustness under adversarial perturbations. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v2",
+            "snippet": "In fact, model robustness is a cornerstone of safety because robust AI systems are able to deal with unexpected inputs and perturbations without compromising ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 a machine learning model is able to automatically learn complex structures from data, however the learned patterns are limited in its understanding of the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI Robustness",
+            "text": "",
+            "link": "https://deepgram.com/ai-glossary/ai-robustness",
+            "snippet": "AI robustness refers to the ability of AI systems to maintain optimal performance and reliability under a wide range of conditions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Ethical challenges and evolving strategies in the integration of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11977975/",
+            "snippet": "by EB Weiner \u00b7 2025 \u00b7 Cited by 274 \u2014 This paper examines the current state of AI in healthcare, focusing on five critical ethical concerns: justice and fairness, transparency, patient consent and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Ethical concerns mount as AI takes bigger decision-making ...",
+            "text": "",
+            "link": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
+            "snippet": "Harvard experts examine the promise and potential pitfalls as AI takes a bigger decision-making role in more industries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Ethical Considerations of Artificial Intelligence",
+            "text": "",
+            "link": "https://www.captechu.edu/blog/ethical-considerations-of-artificial-intelligence",
+            "snippet": "Addressing the ethical issues surrounding AI requires collaboration among technologists, policymakers, ethicists, and society at large.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Top Ethical Issues with AI and Machine Learning",
+            "text": "",
+            "link": "https://www.dataversity.net/articles/top-ethical-issues-with-ai-and-machine-learning/",
+            "snippet": "This lack of interpretability raises ethical dilemmas when AI systems are involved in critical decision-making processes such as healthcare or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Comparing AI and human decision-making mechanisms in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004225009721",
+            "snippet": "by L Wang \u00b7 2025 \u00b7 Cited by 11 \u2014 To test the performance of AI in daily decision-making, we compared humans, LLMs, and reinforcement learning (RL) in a multi-day commute decision-making game.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "HUMAN AND ARTIFICIAL INTELLIGENCE: A REVIEW OF ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12768574/",
+            "snippet": "by A Ifeanyichukwu \u00b7 2025 \u2014 AI systems are designed to replicate and enhance cognitive functions such as learning, problem-solving, and decision-making, complementing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "A study shows major artificial intelligence models are likely ...",
+            "text": "",
+            "link": "https://www.facebook.com/nbcphiladelphia/posts/a-study-shows-major-artificial-intelligence-models-are-likely-to-refuse-to-criti/1412966624312466/",
+            "snippet": "Overreliance on AI systems without human oversight can lead to a loss of critical decision-making skills and human intuition.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Heuristics and Biases in AI Decision-Making",
+            "text": "",
+            "link": "https://arxiv.org/html/2410.02820v3",
+            "snippet": "A responsible AGI must not only mimic human reasoning but also surpass its limitations by recognizing and mitigating biases in a consistent and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Adversarial Robustness Could Help Prevent Catastrophic ...",
+            "text": "",
+            "link": "https://www.alignmentforum.org/posts/timk6zHDTFdrHYLmu/adversarial-robustness-could-help-prevent-catastrophic",
+            "snippet": "Today's models do not robustly refuse to cause harm. If a model has the ability to cause harm, we should train it to refuse to do so.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Evaluating LLM stability under self-challenging prompts",
+            "text": "",
+            "link": "https://arxiv.org/html/2603.03330v1",
+            "snippet": "We introduce the Certainty Robustness Benchmark, a two-turn evaluation framework that measures how LLMs balance stability and adaptability under ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Managing Advanced Cyber Risks in Frontier AI Frameworks",
+            "text": "",
+            "link": "https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/",
+            "snippet": "Capability thresholds provide a better risk proxy than compute thresholds and are more measurable than risk thresholds, but are still difficult ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "In simple terms, robustness refers to an AI system's reliability, especially in unfamiliar or challenging situations. Currently, most AI systems are far from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Opinion Paper: \u201cSo what if ChatGPT wrote it? ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0268401223000233",
+            "snippet": "by YK Dwivedi \u00b7 2023 \u00b7 Cited by 7323 \u2014 ChatGPT describes itself as \u201ca cutting-edge language model\u2026, designed to generate human-like text based on a vast amount of diverse data.\u201d Put differently ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethical implications of ChatGPT and other large language ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12433979/",
+            "snippet": "by A Almufarreh \u00b7 2025 \u00b7 Cited by 12 \u2014 This paper investigates the ethical implications of LLM use in academic settings by exploring stakeholder perceptions and developing practical guidelines for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Review of Ethical and Robust Large Language Models",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.13934v1",
+            "snippet": "This comprehensive review examines the critical trust issues in LLMs, focusing on concerns such as unintentional harms, lack of transparency, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Survey of U.S. Users' Privacy Perceptions in LLM Chatbots",
+            "text": "",
+            "link": "https://www.ndss-symposium.org/wp-content/uploads/usec26-5.pdf",
+            "snippet": "by E Gumusel \u00b7 Cited by 1 \u2014 In this study, we surveyed 267 U.S.-based LLM users to understand their privacy perceptions, practices, and data-sharing preferences, and how demographics and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 26,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A research model is designed to analyze and generate text based on human discussions, with the goal of providing insights into complex moral issues. The model aims to learn from large amounts of user-generated content and offer advice on ethical dilemmas. It seeks to understand and replicate human-like decision-making processes, improving its ability to reason and provide helpful responses.",
+        "response": " Lack of capability or robustness is a not a risk associated with A research model is designed to analyze and generate text based on human discussions, with the goal of providing insights into complex moral issues. The model aims to learn from large amounts of user-generated content and offer advice on ethical dilemmas. It seeks to understand and replicate human-like decision-making processes, improving its ability to reason and provide helpful responses.",
+        "elapsed_time": 65.66189804096939
+    }
+}

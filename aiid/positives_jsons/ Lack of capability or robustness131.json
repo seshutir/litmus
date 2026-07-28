@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A robotic shopping guide is designed to assist and navigate customers through a retail environment, providing information and support to enhance their shopping experience. It aims to interact with users and offer personalized recommendations, while also moving autonomously through the space. The robot's primary function is to improve customer engagement and satisfaction.",
+    "output": " Lack of capability or robustness is a risk associated with A robotic shopping guide is designed to assist and navigate customers through a retail environment, providing information and support to enhance their shopping experience. It aims to interact with users and offer personalized recommendations, while also moving autonomously through the space. The robot's primary function is to improve customer engagement and satisfaction.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a retail environment with robotic shopping guides",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in navigating customers through a retail environment using a robotic shopping guide",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robots in retail: Rolling out the Whiz - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716508/",
+            "snippet": "According to a recent survey, approximately half of all retailers plan to employ in-store robots in some capacity by 2023 (Brain Corp., 2021).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Use of Autonomous Mobile Robots in Retail",
+            "text": "",
+            "link": "https://losspreventionmedia.com/the-use-of-autonomous-mobile-robots-in-retail/",
+            "snippet": "Robots, like anything, will break, need updates, be damaged, and need power to operate. Store size, design, constant layout changes, employee ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "(PDF) Artificial Intelligence in Retail: Benefits and Risks Associated ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/349167818_Artificial_Intelligence_in_Retail_Benefits_and_Risks_Associated_With_Mobile_Shopping_Applications",
+            "snippet": "Artificial Intelligence in Retail: Benefits and Risks Associated With Mobile Shopping Applications \u00b7 the majority is not concerned with the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "SIoT robots and consumer experiences in retail: Unpacking repeat ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0969698923003405",
+            "snippet": "This study contributes to knowledge on the so far limited understanding of how to manage collaboration between Social Internet of Things (SIoT) service robots ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robot Assistant in Retail: Advantages and Disadvantages Explored",
+            "text": "",
+            "link": "https://provenrobotics.ai/robot-assistant-in-retail-advantages-and-disadvantages/",
+            "snippet": "Robot assistants in retail are programmed for specific tasks and may lack the flexibility and adaptability of human employees. They may struggle ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Consumer perceived risk of using autonomous retail technology",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296323007488",
+            "snippet": "This research integrated consumer perceived risk theory and the motivation\u2013opportunity\u2013ability framework to develop and empirically test a model of consumer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A Retailer's Guide to Using Robots to Improve Customer Experience",
+            "text": "",
+            "link": "https://www.martechoutlook.com/news/a-retailer-s-guide-to-using-robots-to-improve-customer-experience-nid-2972.html",
+            "snippet": "Walmart is testing robotic shopping carts to make it easier for shoppers to find items on their shopping lists and eliminate the need to push ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How robots will affect the future of retailing - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716531/",
+            "snippet": "To predict how robots will affect the future of retailing, the authors begin this article with a brief review of recent deployments of robots in the retail and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "(PDF) The Rise of Service Robots in Retailing: Literature Review on ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/340175091_The_Rise_of_Service_Robots_in_Retailing_Literature_Review_on_Success_Factors_and_Pitfalls",
+            "snippet": "This chapter provides a literature overview on service robots in retailing and their impact on customers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Smart Retail: How IoT, AI & Automation Are Changing Stores",
+            "text": "",
+            "link": "https://www.scalecomputing.com/resources/smart-retail-ai-iot-automation",
+            "snippet": "Discover how IoT, AI, and automation are revolutionizing retail operations. Explore smart retail innovations and real-world use cases with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Revolutionizing retail: The transformative power of service robots on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0969698924003813",
+            "snippet": "This paper investigates the factors influencing customer acceptance of RSRs based on their interaction experiences with these robots.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How robots will affect the future of retailing - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716531/",
+            "snippet": "In some cases, robots may help retailers gain efficiency by streamlining non\u2013customer-facing functions (e.g., cleaning, inventory checking, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Human\u2013Robot Interaction Strategy of Service Robot with Insufficient ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2313-7673/11/3/213",
+            "snippet": "This paper explores the interaction strategies of service robots in self-service shops from a user experience perspective in the case of robots with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Autonomous Retail: AI and Robotics in Checkout-Free Stores",
+            "text": "",
+            "link": "https://www.qodequay.com/autonomous-retail-ai-robotics?srsltid=AfmBOorYq-ptcNWu-3guaN0dNUtmilTvosAeus405z9hrK0I56Veedo5",
+            "snippet": "It leverages cutting-edge computer vision, sensor fusion, and machine learning to create a highly accurate and efficient shopping environment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The role of the human-robot interaction in consumers' acceptance of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S014829632200323X",
+            "snippet": "The Retail Service Robot (RSR) is a humanoid robot that uses AI service automation to provide customized shopping assistance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.998542,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.998542,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0029138732021248095,
+        "norm_entropy": 0.031677780454016,
+        "avg_entropy": 0.0014569366010624047,
+        "avg_norm_entropy": 0.015838890227008,
+        "avg_prob": 0.998542,
+        "avg_logprob": -0.0014590639162523006,
+        "avg_explogprob": 0.998542,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.001458,
+                    0.998542
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.001458,
+                    0.998542
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9970861257640001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A robotic shopping guide is designed to assist and navigate customers through a retail environment, providing information and support to enhance their shopping experience. It aims to interact with users and offer personalized recommendations, while also moving autonomously through the space. The robot's primary function is to improve customer engagement and satisfaction.",
+        "response": " Lack of capability or robustness is a risk associated with A robotic shopping guide is designed to assist and navigate customers through a retail environment, providing information and support to enhance their shopping experience. It aims to interact with users and offer personalized recommendations, while also moving autonomously through the space. The robot's primary function is to improve customer engagement and satisfaction.",
+        "elapsed_time": 35.28544899999906
+    }
+}

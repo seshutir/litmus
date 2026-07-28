@@ -1,0 +1,254 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A facial recognition system is designed to detect and identify individuals, while also recognizing objects such as weapons. The system aims to provide accurate and reliable results, regardless of individual characteristics. It is intended to enhance security and safety by quickly and precisely identifying potential threats.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A facial recognition system is designed to detect and identify individuals, while also recognizing objects such as weapons. The system aims to provide accurate and reliable results, regardless of individual characteristics. It is intended to enhance security and safety by quickly and precisely identifying potential threats.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in detecting and identifying individuals using a facial recognition system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in recognizing objects such as weapons in a facial recognition system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "The inaccuracy of facial recognition technology means that Black people are at increased risk of discrimination and human rights impacts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Biased Face Recognition Technology Used by Government: A Problem for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "It is not always easy to discern whether cases of discriminatory outcomes are the result of unjustified bias or are justified by morally relevant reasons. For ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Examining the Ethics of Facial Recognition - Santa Clara University",
+            "text": "",
+            "link": "https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/examining-the-ethics-of-facial-recognition/",
+            "snippet": "One of the biggest causes for these mismatches mentioned may be related to programmers carrying over their own discriminatory biases into the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "FTC Warns About Misuses of Biometric Information and Harm to ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-warns-about-misuses-biometric-information-harm-consumers",
+            "snippet": "... bias and discrimination. Biometric information refers to data that depict or describe physical, biological, or behavioral traits ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Bias in the Machine: Facial Recognition Technology and Racial ...",
+            "text": "",
+            "link": "https://mit-serc.pubpub.org/pub/bias-in-machine",
+            "snippet": "\u201cThe New Jim Code\u201d: Ruha Benjamin on Racial Discrimination by Algorithm, New Statesman, September 26, 2019. Ovide, S. \u201cA Case for Banning Facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Biased Face Recognition Technology Used by Government - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "Unjustified bias, and its resulting arbitrary discrimination whereby individuals and groups are treated differently, is characterized by the absence of a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Racial Discrimination in Face Recognition Technology",
+            "text": "",
+            "link": "https://sciencepolicy.hsites.harvard.edu/blog/racial-discrimination-face-recognition-technology",
+            "snippet": "Another key source of racial discrimination in face recognition lies in its utilization. In 18th century New York, \u201clantern laws\u201d required ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Researchers have found that facial recognition AI has concerning ...",
+            "text": "",
+            "link": "https://www.facebook.com/innocenceproject/posts/researchers-have-found-that-facial-recognition-ai-has-concerning-failure-rates-w/838739668295013/",
+            "snippet": "... discrimination: - Facial recognition software performs worst on darker- skinned females, with error rates up to 35% compared to just 1% for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Protection of the rights of the individual when using facial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405844022003747",
+            "snippet": "The use of FRT by law enforcement has been marked by criticism of bias, discrimination, and lack of transparency. For instance, Bacchini et al. (2019) claimed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Biased Technology: The Automated Discrimination of Facial ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Facial recognition automates discrimination. The ACLU-MN is fighting to end law enforcement's use of facial recognition technology in Minnesota.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/news/publications/understanding-bias-facial-recognition-technologies",
+            "snippet": "Understanding bias in facial recognition technologies. A guide to understanding bias and discrimination in facial recognition technologies. Learn more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Biased Face Recognition Technology Used by Government - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "Various forms of invidious discrimination and biases like racism, sexism, ableism, ageism, and the like are unjust because they are committed when there exists ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "(PDF) Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/344663138_Understanding_bias_in_facial_recognition_technologies",
+            "snippet": "In this explainer, I focus on one central aspect of this debate: the role that dynamics of bias and discrimination play in the development and deployment of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Racial Discrimination in Face Recognition Technology",
+            "text": "",
+            "link": "https://sciencepolicy.hsites.harvard.edu/blog/racial-discrimination-face-recognition-technology",
+            "snippet": "Face recognition in racial discrimination by law enforcement. Another key source of racial discrimination in face recognition lies in its ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Science Really Says About Facial Recognition Accuracy and ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/2022/07/23/what-science-really-says-about-facial-recognition-accuracy-and-bias-concerns/",
+            "snippet": "In many cases, the sole justification offered is the claim that this face matching technology is generally inaccurate, and particularly so with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 15,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A facial recognition system is designed to detect and identify individuals, while also recognizing objects such as weapons. The system aims to provide accurate and reliable results, regardless of individual characteristics. It is intended to enhance security and safety by quickly and precisely identifying potential threats.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A facial recognition system is designed to detect and identify individuals, while also recognizing objects such as weapons. The system aims to provide accurate and reliable results, regardless of individual characteristics. It is intended to enhance security and safety by quickly and precisely identifying potential threats.",
+        "elapsed_time": 37.8733479170005
+    }
+}

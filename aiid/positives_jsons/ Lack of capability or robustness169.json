@@ -1,0 +1,394 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An algorithm is designed to assess the risk of overdose in patients by analyzing various factors, including medical history and personal data. The system aims to provide healthcare providers with insights to make informed decisions about pain management and treatment. It also seeks to identify high-risk patients and provide personalized recommendations to improve patient outcomes.",
+    "output": " Lack of capability or robustness is a risk associated with An algorithm is designed to assess the risk of overdose in patients by analyzing various factors, including medical history and personal data. The system aims to provide healthcare providers with insights to make informed decisions about pain management and treatment. It also seeks to identify high-risk patients and provide personalized recommendations to improve patient outcomes.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the algorithm is a risk in patient risk assessment",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the algorithm is a risk in analyzing medical history and personal data to assess overdose risk",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the algorithm is a risk in providing insights for informed pain management decisions",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in identifying high-risk patients using the algorithm.",
+            "contexts": [
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in the algorithm is a risk in generating personalized treatment recommendations",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Algorithm fairness in artificial intelligence for medicine and healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632090/",
+            "snippet": "In healthcare, the development and deployment of insufficiently fair systems of artificial intelligence can undermine the delivery of equitable care.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Learning unbiased risk prediction based algorithms in healthcare",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2352914825000152",
+            "snippet": "This paper critically analyzes this problem by exploring different types of data and algorithmic biases during both pre-processing and post-processing phases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Identifying and mitigating algorithmic bias in the safety net - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-025-01732-w",
+            "snippet": "Algorithmic bias occurs when predictive model performance varies meaningfully across sociodemographic classes, exacerbating systemic healthcare disparities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Promising algorithms to perilous applications: a systematic review of ...",
+            "text": "",
+            "link": "https://informatics.bmj.com/content/31/1/e101065",
+            "snippet": "We review the evidence supporting the use of such tools in real-world settings, from retrospective dataset performance to pathway evaluation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Governance for Ethical Risk Prediction in Healthcare | Censinet, Inc.",
+            "text": "",
+            "link": "https://censinet.com/perspectives/ai-governance-for-ethical-risk-prediction-in-healthcare",
+            "snippet": "AI in healthcare can predict patient risks, but without proper governance, it may lead to serious consequences like biased outcomes, patient safety issues, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A machine learning approach for opioid overdose risk prediction ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12881380/",
+            "snippet": "The goal of this study is to develop and validate a machine learning approach for predicting opioid overdose risk and identifying associated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Comparing person-level matching algorithms to identify risk across ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9097759/",
+            "snippet": "This study, using statewide Maryland data, builds on these concepts by comparing 2 exact matching algorithms with an approximate matching ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Developing and Validating a Machine Learning Algorithm to Predict ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/org/science/article/pii/S1438887126002001",
+            "snippet": "This study aims to develop and validate an ML model using electronic health record (EHR) data to predict the 3-month risk of incident OUD among adults ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Machine-Learning Algorithms May Accurately Predict Risk for Opioid ...",
+            "text": "",
+            "link": "https://www.clinicalpainadvisor.com/news/machine-learning-algorithms-may-accurately-predict-risk-for-opioid-overdose/",
+            "snippet": "Machine-learning algorithms that incorporate administrative data and deep learning may be effective for predicting risk for opioid overdose ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Machine-Learning Algorithms for Predicting Opioid Overdose Risk ...",
+            "text": "",
+            "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2728625",
+            "snippet": "Machine-learning algorithms using administrative data appear to be a valuable and feasible tool for more accurate identification of opioid overdose risk.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Artificial intelligence and pain management: cautiously optimistic",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11485867/",
+            "snippet": "One of the most apparent opportunities for AI in pain management is in determining the likely etiology of pain. Using AI to identify trends in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Rise of Clinical Decision Support Algorithms in Pain ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12343441/",
+            "snippet": "This paper examines the rise of clinical decision support algorithms used to assess risk in pain management and the opioid industry's influence",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "A Better Measuring Stick: Algorithmic Approach to Pain Diagnosis ...",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/better-measuring-stick-algorithmic-approach-pain-diagnosis-could-eliminate-racial-bias",
+            "snippet": "The algorithm not only scores pain more accurately but presents additional visual data that could prove helpful in the clinic such as \u201cheat maps ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Ethical considerations for the use of artificial intelligence in medical ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S016517812300416X",
+            "snippet": "AI has the potential to assist clinicians in medical decision-making capacity assessments by providing additional insights to an evaluation process.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "4 Ethical Challenges of AI in Pain Assessment (With Solutions)",
+            "text": "",
+            "link": "https://www.painweek.org/media/news/4-ethical-challenges-ai-pain-assessment-solutions",
+            "snippet": "AI is a tool\u2014not a replacement for clinical judgment. Over-reliance on algorithms risks depersonalizing care and ignoring individual patient ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Bias in medical AI: Implications for clinical decision-making - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/",
+            "snippet": "Such AI systems could systematically underestimate risks or miss important factors for these patients, leading to worse care recommendations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Algorithmic Bias and Machine Learning in Health Care - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=h3y_R4mJwNo",
+            "snippet": "Columbia Mailman School of Public Health Distinguished Lecture Series in Data Science Sherri Rose, PhD\u200b is a Professor of Health Policy and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Role of Generative Artificial Intelligence in Personalized Medicine",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12081128/",
+            "snippet": "Generative AI models have shown significant promise in revolutionizing personalized medicine by enabling precise treatment predictions and patient-specific ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Ethical Implications of Generative AI in Personalized Treatment ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403524036_Ethical_Implications_of_Generative_AI_in_Personalized_Treatment_Recommendations",
+            "snippet": "One of the most pressing ethical concerns in generative AI is the handling of patient data. Personalized treatment recommendations require ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Generative AI in Improving Personalized Patient Care Plans - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/14/23/10899",
+            "snippet": "The main aim of this study is to investigate the opportunities, challenges, and barriers in implementing generative artificial intelligence ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Strengths and weaknesses of existing data sources to support ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6971390/",
+            "snippet": "Multiple secondary data sources exist that can be used to examine the impact of public health approaches to addressing the opioid crisis.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "A machine learning framework to predict the risk of opioid use disorder",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666827021000724",
+            "snippet": "We proposed a machine learning framework for identifying potential risk factors of opioid use disorder from a large-scale healthcare claims data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Artificial Intelligence and Pain Medicine: An Introduction - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848920/",
+            "snippet": "In pain medicine, ML algorithms can be used to analyze patient data and predict treatment outcomes based on patterns and features within the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Utilizing Machine Learning for Early Intervention and Risk ...",
+            "text": "",
+            "link": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.70008",
+            "snippet": "ML algorithms provide a powerful framework for informed decision-making in addiction care, leading toward personalized medicine and reducing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.99987,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00013399154763388737,
+        "norm_entropy": 0.001951231313889895,
+        "avg_entropy": 2.6798309526777476e-05,
+        "avg_norm_entropy": 0.00039024626277797903,
+        "avg_prob": 0.9999732,
+        "avg_logprob": -2.680169054649691e-05,
+        "avg_explogprob": 0.9999731986686156,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.00013,
+                    0.99987
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.9999476033802001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An algorithm is designed to assess the risk of overdose in patients by analyzing various factors, including medical history and personal data. The system aims to provide healthcare providers with insights to make informed decisions about pain management and treatment. It also seeks to identify high-risk patients and provide personalized recommendations to improve patient outcomes.",
+        "response": " Lack of capability or robustness is a risk associated with An algorithm is designed to assess the risk of overdose in patients by analyzing various factors, including medical history and personal data. The system aims to provide healthcare providers with insights to make informed decisions about pain management and treatment. It also seeks to identify high-risk patients and provide personalized recommendations to improve patient outcomes.",
+        "elapsed_time": 58.57099941699926
+    }
+}

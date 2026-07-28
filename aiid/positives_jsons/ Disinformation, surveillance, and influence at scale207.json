@@ -1,0 +1,464 @@
+{
+    "input": " Disinformation, surveillance, and influence at scale is a risk associated with A social media platform uses algorithms to analyze and influence online trends, aiming to shape public opinion and engagement. It employs natural language processing and machine learning to generate and disseminate content, interacting with users on various social media platforms. The system's goal is to identify and amplify specific topics and ideas, creating a targeted online presence.",
+    "output": " Disinformation, surveillance, and influence at scale is a risk associated with A social media platform uses algorithms to analyze and influence online trends, aiming to shape public opinion and engagement. It employs natural language processing and machine learning to generate and disseminate content, interacting with users on various social media platforms. The system's goal is to identify and amplify specific topics and ideas, creating a targeted online presence.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with a social media platform",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with analyzing and influencing online trends on a social media platform",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with generating and disseminating content on a social media platform",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with employing natural language processing in a social media platform",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with employing machine learning to interact with users on social media platforms",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with a social media platform's algorithms identifying and amplifying specific topics and ideas",
+            "contexts": [
+                "c_a5_1",
+                "c_a5_2"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The disaster of misinformation: a review of research in social media",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/",
+            "snippet": "Rumors, misinformation, disinformation, and mal-information are common challenges confronting media of all types. It is, however, worse in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Influence Operations and Disinformation on Social Media",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/influence-operations-and-disinformation-social-media/",
+            "snippet": "The very design of social media technologies can enhance the speed, scale and reach of propaganda and disinformation, engendering new ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Social media manipulation by political actors an industrial scale ...",
+            "text": "",
+            "link": "https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report",
+            "snippet": "... misinformation on an industrial scale ... Established political parties were also found to be using social media to 'spread disinformation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Managing disinformation on social media platforms - Springer Nature",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12525-025-00796-6",
+            "snippet": "For example, it has been shown that the increasing spread of disinformation can accelerate the polarization of our societies (Casal B\u00e9rtoa & ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Social Media Misinformation and the Prevention of Political ...",
+            "text": "",
+            "link": "https://www.stimson.org/2022/social-media-misinformation-and-the-prevention-of-political-instability-and-mass-atrocities/",
+            "snippet": "The questions fell into several categories: specification of the misinformation and disinformation problems and their political, legal, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The disaster of misinformation: a review of research in social media",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/",
+            "snippet": "The spread of misinformation in social media has become a severe threat to public interests. For example, several incidents of public health ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Measuring receptivity to misinformation at scale on a social media ...",
+            "text": "",
+            "link": "https://hai.stanford.edu/research/measuring-receptivity-to-misinformation-at-scale-on-a-social-media-platform",
+            "snippet": "Our paper provides a more precise estimate of misinformation's impact by focusing on the exposure of users likely to believe it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Social media manipulation by political actors an industrial scale ...",
+            "text": "",
+            "link": "https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report",
+            "snippet": "The report explores the tools and techniques of computational propaganda, including the use of fake accounts \u2013 bots, humans and hacked accounts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A Critical Review of Disinformation Spread on Social Media and Its ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/383008519_Information_Pandemic_A_Critical_Review_of_Disinformation_Spread_on_Social_Media_and_Its_Implications_for_State_Resilience",
+            "snippet": "This research examines the spread of disinformation on social media platforms and its impact on state resilience through a systematic literature review",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Influence Operations and Disinformation on Social Media",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/influence-operations-and-disinformation-social-media/",
+            "snippet": "2018. Disinformation, 'Fake News' and Influence Campaigns on Twitter. Miami, FL: Knight Foundation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Social Media: Content Dissemination and Moderation Practices",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/R46662",
+            "snippet": "... dissemination of information and content), may increase the risk of spreading harmful content and misinformation online. Operators may ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Managing disinformation on social media platforms - Springer Nature",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12525-025-00796-6",
+            "snippet": "While misinformation refers to any wrong information, disinformation requires the intentional distribution of incorrect information to cause ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Misinformation in action: Fake news exposure is linked to lower trust ...",
+            "text": "",
+            "link": "https://misinforeview.hks.harvard.edu/article/misinformation-in-action-fake-news-exposure-is-linked-to-lower-trust-in-media-higher-trust-in-government-when-your-side-is-in-power/",
+            "snippet": "Misinformation in action: Fake news exposure is linked to lower trust in media, higher trust in government when your side is in power. One major ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI-driven disinformation: policy recommendations for ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "by A Romanishyn \u00b7 2025 \u00b7 Cited by 38 \u2014 The rise of AI-generated disinformation has made the problem more acute than ever, necessitating robust countermeasures - from better detection ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Managing disinformation on social media platforms",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12525-025-00796-6",
+            "snippet": "by EK Clemons \u00b7 2025 \u00b7 Cited by 10 \u2014 Limiting the harm of disinformation is complicated by the need to preserve freedom of speech and avoid the appearance of bias, as well as by the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Linguistic features of AI mis/disinformation and the ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41467-025-67145-1",
+            "snippet": "by Y Ma \u00b7 2025 \u00b7 Cited by 1 \u2014 From a quality perspective, this work explores the risks associated with employing LLMs for AI mis/disinformation governance through ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Machine learning and Natural Language Processing of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2210670722003468",
+            "snippet": "by A Hodorog \u00b7 2022 \u00b7 Cited by 94 \u2014 The manuscript strives to leverage the power of Natural Language Processing (NLP) techniques applied to Twitter messages using supervised learning to achieve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "social media and the influence of fake news detection ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384105375_SOCIAL_MEDIA_AND_THE_INFLUENCE_OF_FAKE_NEWS_DETECTION_BASED_ON_ARTIFICIAL_INTELLIGENCE",
+            "snippet": "This paper explores the influence of AI in identifying and mitigating fake news on social media platforms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "AI-driven disinformation: policy recommendations for democratic ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "Machine learning helps coordinate these bots to act in swarms or networks. Coordination of disinformation at scale \u2013 real-time social media ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "When Human Bias Meets Machine-Scale Amplification",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/when-human-bias-meets-machine-scale-amplification/",
+            "snippet": "When Human Bias Meets Machine-Scale Amplification \u00b7 Misinformation and disinformation distort facts, but even worse, they influence aspirations ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "The role of artificial intelligence in disinformation | Data & Policy",
+            "text": "",
+            "link": "https://www.cambridge.org/core/journals/data-and-policy/article/role-of-artificial-intelligence-in-disinformation/7C4BF6CA35184F149143DE968FC4C3B6",
+            "snippet": "As a matter of fact, the lack of access to accurate information goes beyond the disinformation problem. Misinformation also affects society as a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Misinformation Detection on Social Media, a Big Data and Machine ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/391739140_Misinformation_Detection_on_Social_Media_a_Big_Data_and_Machine_Learning_Approach",
+            "snippet": "known disinformation organizations). 11.0 Storage and Analysis of Datasets. Following collection, the misinformation is kept ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Social Media and Artificial Intelligence: Information, Bias, and Trust",
+            "text": "",
+            "link": "https://link.springer.com/rwe/10.1007/978-3-031-75316-9_96-1",
+            "snippet": "From misinformation to insight: Machine learning strategies for fake news detection. Information (Basel), 16. https://doi.org/10.3390 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Social media, misinformation and harmful algorithms - Parliament UK",
+            "text": "",
+            "link": "https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html",
+            "snippet": "The report examines the challenges posed by social media algorithms in amplifying harmful and misleading content, and highlights the importance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "[PDF] The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "Notably, algorithmic content moderation forms the backbone of social media security by restricting illegal, harmful, or inappropriate content. Algorithms ensure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Fake social media news and distorted campaign detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405844024120804",
+            "snippet": "Fake pictures shared on social media platforms lead to distortion and division among the public. Fake news spread misinformation linked to the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Digital media and misinformation: An outlook on multidisciplinary ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/",
+            "snippet": "Buzzwords, like misinformation, disinformation, hoax, rumor, and fake news are employed interchangeably and shallowly. Since these concepts are sometimes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "social media and the influence of fake news detection based on ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384105375_SOCIAL_MEDIA_AND_THE_INFLUENCE_OF_FAKE_NEWS_DETECTION_BASED_ON_ARTIFICIAL_INTELLIGENCE",
+            "snippet": "However, the proliferation of fake news across these platforms poses significant risks, including societal misinformation, political manipulation, and erosion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Fake news, disinformation and misinformation in social media",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s13278-023-01028-5",
+            "snippet": "This work aims to provide a comprehensive and systematic review of fake news research as well as a fundamental review of existing approaches used to detect and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Social Drivers and Algorithmic Mechanisms on Digital Media",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/17456916231185057",
+            "snippet": "Do engagement metrics promote hate speech, radicalized content, and fake news? ... A systemic framework for disinformation on social media ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 6,
+        "num_contexts": 30,
+        "num_true_atoms": 6,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999997000171535e-06,
+        "norm_entropy": 0.00012824557733663114,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 6,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Disinformation, surveillance, and influence at scale is a risk associated with A social media platform uses algorithms to analyze and influence online trends, aiming to shape public opinion and engagement. It employs natural language processing and machine learning to generate and disseminate content, interacting with users on various social media platforms. The system's goal is to identify and amplify specific topics and ideas, creating a targeted online presence.",
+        "response": " Disinformation, surveillance, and influence at scale is a risk associated with A social media platform uses algorithms to analyze and influence online trends, aiming to shape public opinion and engagement. It employs natural language processing and machine learning to generate and disseminate content, interacting with users on various social media platforms. The system's goal is to identify and amplify specific topics and ideas, creating a targeted online presence.",
+        "elapsed_time": 62.00022258300305
+    }
+}

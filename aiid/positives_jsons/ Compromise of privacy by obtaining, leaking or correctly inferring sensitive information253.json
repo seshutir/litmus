@@ -1,0 +1,414 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system utilizes video analysis to recognize and analyze facial features in public spaces, aiming to enhance customer experiences and provide personalized services. The technology is designed to process visual data from various sources, extracting insights to inform business decisions. This type of analysis can be used to improve operational efficiency and tailor interactions with individuals.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system utilizes video analysis to recognize and analyze facial features in public spaces, aiming to enhance customer experiences and provide personalized services. The technology is designed to process visual data from various sources, extracting insights to inform business decisions. This type of analysis can be used to improve operational efficiency and tailor interactions with individuals.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in public space video analysis using a system that recognizes and analyzes facial features",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in recognizing and analyzing facial features in public spaces",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Compromise of privacy is a risk in processing visual data from various sources in a system that utilizes video analysis.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Compromise of privacy is a risk in extracting insights from video analysis to inform business decisions",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Compromise of privacy is a risk in tailoring interactions with individuals using the system's video analysis technology",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Ethical Considerations in the Use of Facial Recognition for Public ...",
+            "text": "",
+            "link": "https://publicsafety.ieee.org/topics/ethical-considerations-in-the-use-of-facial-recognition-for-public-safety/",
+            "snippet": "One primary concern is the potential for this technology to be used in ways that infringe on individual privacy and autonomy. There are valid fears that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Privacy vs. Security: The Legal Implications of Using Facial ...",
+            "text": "",
+            "link": "https://nysba.org/privacy-vs-security-the-legal-implications-of-using-facial-recognition-technology-at-entertainment-venues/?srsltid=AfmBOopuIeV0nfWrGXwALTG8Ftf_Pz3PAI_IJDkNJEnaUKwjQ7dJGZZg",
+            "snippet": "The central concern of the use of facial recognition technology is privacy and security. With little to no regulation in place regarding its ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Reconsidering the regulation of facial recognition in public spaces",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9274635/",
+            "snippet": "This paper contributes to the discussion on effective regulation of facial recognition technologies (FRT) in public spaces.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How facial-recognition app poses threat to privacy, civil liberties",
+            "text": "",
+            "link": "https://news.harvard.edu/gazette/story/2023/10/how-facial-recognition-app-poses-threat-to-privacy-civil-liberties/",
+            "snippet": "Facial-recognition technology can also be used to intimidate or harass investigative journalists, government officials, or political opponents, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ethical compliance for facial recognition technology",
+            "text": "",
+            "link": "https://www.int-comp.org/insight/ethical-compliance-for-facial-recognition-technology/",
+            "snippet": "One major downside is the threat to privacy, as individuals might unknowingly be subjected to surveillance without their consent or awareness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Facial Recognition and Privacy: Concerns and Solutions in the Age ...",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/facial-recognition-and-privacy-concerns-and-solutions-in-the-age-of-ai",
+            "snippet": "Facial recognition technology raises substantial ethical, legal, and privacy issues, particularly in the era of artificial intelligence, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "The use of FRT for surveillance purposes also raises concerns about the erosion of privacy in public spaces and the potential for abuse by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "When it Comes to Facial Recognition, There is No Such Thing as a ...",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/when-it-comes-to-facial-recognition-there-is-no-such-thing-as-a-magic-number",
+            "snippet": "Companies and legislators are using misleading test scores to justify the expansion of facial recognition into our communities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Unmasking the Ethical Dilemmas of Facial Recognition Technology ...",
+            "text": "",
+            "link": "https://vitorihaldijiran.medium.com/unmasking-the-ethical-dilemmas-of-facial-recognition-technology-in-public-spaces-volume-2-c62fb52e7354",
+            "snippet": "This study centres on the research question: What ethical issues arise from the increasing deployment of facial recognition technology in public spaces?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "privacy-preserving techniques in image and video analysis",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387722236_PRIVACY-PRESERVING_TECHNIQUES_IN_IMAGE_AND_VIDEO_ANALYSIS",
+            "snippet": "This paper reviews state-of-the-art privacy-preserving methods, including differential privacy, federated learning, homomorphic encryption, and secure multi- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Implications of Privacy Regulations on Video Surveillance Systems",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3706108",
+            "snippet": "Privacy risk increases dramatically when processing raw image/video data. To deal with the vulnerability of leaking sensitive information by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Protecting the privacy of humans in video sequences using a ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417417303986",
+            "snippet": "We propose a computer vision-based de-identification pipeline that enables automated protection of privacy of humans in video sequences ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "[PDF] Video Surveillance: Privacy Issues and Legal Compliance",
+            "text": "",
+            "link": "https://backend.orbit.dtu.dk/ws/files/110934780/Video_Surveillance_Privacy_issues_and_legal_compliance.pdf",
+            "snippet": "Pervasive usage of video surveillance is rapidly increasing in developed countries. Continuous security threats to public safety demand use of such systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Privacy vs Security: Balancing Surveillance System Data Protection",
+            "text": "",
+            "link": "https://www.praossolutions.com/blog/addressing-privacy-concerns-balancing-effective-security-monitoring-with-personal-data-protection-in-modern-surveillance-systems/",
+            "snippet": "Critics argue that such systems can lead to invasions of privacy, potential misuse of collected data, and the erosion of individual freedoms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Privacy in an AI Era: How Do We Protect Our Personal Information?",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information",
+            "snippet": "Privacy in an AI Era: How Do We Protect Our Personal Information? Date March 18, 2024 A new report analyzes the risks of AI and offers potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Exploring privacy issues in the age of AI - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/insights/ai-privacy",
+            "snippet": "AI arguably poses a greater data privacy risk than earlier technological advancements, but the right software solutions can address AI privacy concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Both ends of artificial intelligence impacting privacy: a review ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12957209/",
+            "snippet": "Abstract. The intersection of Artificial Intelligence (AI) and privacy presents both significant challenges and opportunities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Tech Tools + Privacy Considerations - Jackson Lewis",
+            "text": "",
+            "link": "https://www.jacksonlewis.com/insights/tech-tools-privacy-considerations",
+            "snippet": "Our special report and corresponding podcast series are created to help you move forward steadily, seamlessly, and successfully in a workplace law environment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "How Video Analytics Help Prevent Business Theft | CO",
+            "text": "",
+            "link": "https://www.uschamber.com/co/run/technology/prevent-business-theft-with-video-analytics",
+            "snippet": "Footage and data captured by a video surveillance system can help your small business detect suspicious activity and potentially stop theft before it occurs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Privacy and Security Risk Factors Related to Telehealth Services",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9860467/",
+            "snippet": "The objective of the study is to identify challenges and associated factors for privacy and security related to telehealth visits during the COVID-19 pandemic.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Implications of Privacy Regulations on Video Surveillance Systems",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3706108",
+            "snippet": "Once the data subject is identified, privacy can be compromised as an adversary can then track, monitor, and perform target profiling with the ubiquitous sensor ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Ethical Considerations and Privacy Concerns for AI Video ... - Pavion",
+            "text": "",
+            "link": "https://pavion.com/resource/balancing-ethics-and-privacy-ethical-considerations-and-privacy-concerns-for-ai-video-surveillance-in-retail/",
+            "snippet": "Privacy concerns in AI surveillance relate to the collection, storage, and use of individuals' personal data without their knowledge or consent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Ethical Considerations in the Use of Facial Recognition for Public ...",
+            "text": "",
+            "link": "https://publicsafety.ieee.org/topics/ethical-considerations-in-the-use-of-facial-recognition-for-public-safety/",
+            "snippet": "Facial recognition technology fundamentally impacts individual privacy by enabling the large-scale collection and analysis of biometric data. Unlike other ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Facial privacy in the digital era: A comprehensive survey on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "As sensitive biometric data, once facial information is leaked, it may cause irreversible damage to personal privacy. Ensuring the security of facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Is facial analysis inherently wrong? - Zenus AI",
+            "text": "",
+            "link": "https://www.zenus.ai/post/is-facial-analysis-inherently-wrong",
+            "snippet": "Face recognition identifies individuals and induces a risk to data privacy. Facial analysis computes anonymous statistics without risk to data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What are the privacy concerns surrounding emerging technologies ...",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-privacy-concerns-surrounding-emerging-technologies-like-facial-recognition-and-biometric-data?top_ans=1477743721104818",
+            "snippet": "Data breaches involving facial recognition data increase the potential for identity theft, stalking, and harassment because, unlike passwords ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The ethics of facial recognition technologies, surveillance ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320316/",
+            "snippet": "The rapid development of facial recognition technologies (FRT) has led to complex ethical choices in terms of balancing individual privacy rights versus ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system utilizes video analysis to recognize and analyze facial features in public spaces, aiming to enhance customer experiences and provide personalized services. The technology is designed to process visual data from various sources, extracting insights to inform business decisions. This type of analysis can be used to improve operational efficiency and tailor interactions with individuals.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system utilizes video analysis to recognize and analyze facial features in public spaces, aiming to enhance customer experiences and provide personalized services. The technology is designed to process visual data from various sources, extracting insights to inform business decisions. This type of analysis can be used to improve operational efficiency and tailor interactions with individuals.",
+        "elapsed_time": 56.957484208000096
+    }
+}

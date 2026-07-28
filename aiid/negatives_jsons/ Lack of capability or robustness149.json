@@ -1,0 +1,525 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+    "output": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system interacting with people",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system performing tasks autonomously",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system recognizing and responding to individuals.",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system's learning from experiences",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of capability or robustness is not a risk associated with improving the robotic system's performance over time",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_3"
+            ]
+        },
+        {
+            "id": "a6",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system adapting to new situations and environments",
+            "contexts": [
+                "c_a6_0",
+                "c_a6_2",
+                "c_a6_3",
+                "c_a6_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Enabling robustness to failure with modular field robots - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965784/",
+            "snippet": "by T Cordie \u00b7 2024 \u00b7 Cited by 6 \u2014 Actuator failure on a remotely deployed robot results in decreased efficiency or even renders it inoperable. Robustness to these failures will become critical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Secure Robotics: Navigating Challenges at the Nexus of ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3723050",
+            "snippet": "by A Haskard \u00b7 2025 \u00b7 Cited by 30 \u2014 Safety considerations include mitigating the risks of physical harm and environmental damage due to robotic malfunctions or cyberattacks, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How Should a Robot Assess Risk? Towards an Axiomatic ...",
+            "text": "",
+            "link": "https://stanfordasl.github.io/wp-content/papercite-data/pdf/Majumdar.Pavone.ISRR17.pdf",
+            "snippet": "by A Majumdar \u00b7 Cited by 327 \u2014 a robot's inability to assess risks in a ra- tional way could lead to behavior that is harmful both to itself and humans or other autonomous agents around it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Stanford Seminar - Continual Safety Assurances for Learning ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=jeJ4x1EyIFM",
+            "snippet": "Stanford Seminar - Continual Safety Assurances for Learning-Enabled Robotic Systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Occupational health and safety issues in human-robot ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0925753523002552",
+            "snippet": "by A Giallanza \u00b7 2024 \u00b7 Cited by 152 \u2014 Numerous safety concerns are open, and either new or enhanced technical, procedural and organizational measures have to be investigated.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Safety Risks and Accident Causes with Workplace Robots",
+            "text": "",
+            "link": "https://keninstitute.com/safety-risks-and-accident-causes-with-workplace-robots/",
+            "snippet": "The interaction between humans and robots poses significant safety risks, particularly in environments where robots and humans work closely together.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Robotics in the Workplace: An Overview",
+            "text": "",
+            "link": "https://www.cdc.gov/niosh/robotics/about/index.html",
+            "snippet": "Emerging risks \u00b7 Injure workers through unexpected contact \u00b7 Distract workers from hazards \u00b7 Cause workers mental stress. Distrust of the robot's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Working Safely with Robot Workers: Recommendations for the ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4779796/",
+            "snippet": "by V Murashov \u00b7 2016 \u00b7 Cited by 219 \u2014 The increasing use of robots in performing tasks alongside or together with human coworkers raises novel occupational safety and health issues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Protocol for Assessing Human- Robot Interaction Safety ...",
+            "text": "",
+            "link": "http://www.cpwr.com/wp-content/uploads/SS2021-Human-Robot-Interaction-Risks.pdf",
+            "snippet": "This study developed a practical process and tools for practitioners to identify and quantify HRI safety risks when using RA in construction operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Full article: No robot is an island - what properties should ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1463922X.2024.2401168",
+            "snippet": "by BJE Johansson \u00b7 2025 \u00b7 Cited by 4 \u2014 Consequently, automated or so-called autonomous systems exhibit brittleness, showcasing autonomous capabilities only in very specific situations and contexts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Navigating Liability In Autonomous Robots: Legal And ...",
+            "text": "",
+            "link": "https://yris.yira.org/column/navigating-liability-in-autonomous-robots-legal-and-ethical-challenges-in-manufacturing-and-military-applications/",
+            "snippet": "A fundamental issue underlying AI liability is responsibility fragmentation. Unlike traditional tools that function under direct human control, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "How Should a Robot Assess Risk? Towards an Axiomatic ...",
+            "text": "",
+            "link": "https://stanfordasl.github.io/wp-content/papercite-data/pdf/Majumdar.Pavone.ISRR17.pdf",
+            "snippet": "by A Majumdar \u00b7 Cited by 327 \u2014 a robot's inability to assess risks in a ra- tional way could lead to behavior that is harmful both to itself and humans or other autonomous agents around it. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "A Survey on Trust Metrics for Autonomous Robotic Systems",
+            "text": "",
+            "link": "https://www.oajaiml.com/uploads/archivepdf/21551154.pdf",
+            "snippet": "by V DiLuoffo \u00b7 2023 \u00b7 Cited by 6 \u2014 This internal checking may uncover, potential vulnerabilities, misbehavior, or lack of ability to perform a task. A common problem with these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Towards Robust and Secure Embodied AI: A Survey on ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.13175v1",
+            "snippet": "We provide a comprehensive framework for understanding the interplay between vulnerabilities and safety in embodied AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "In simple terms, robustness refers to an AI system's reliability, especially in unfamiliar or challenging situations. Currently, most AI systems are far from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Robotics cyber security: vulnerabilities, attacks ... - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7978470/",
+            "snippet": "by JPA Yaacoub \u00b7 2021 \u00b7 Cited by 500 \u2014 Lack of tamper-resistant hardware renders robots prone to damage and/or partial/total destruction, which can lead to the loss of the robot's functional",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Learning of Robot Safety Policies via Adversarial Synthetic ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.05952v1",
+            "snippet": "The main result reveals a significant safety vulnerability, with most models achieving safety rates below 55%, and shows that strong performance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Adding Safety and Robustness to Learning for Robots by ...",
+            "text": "",
+            "link": "https://bcommons.berkeley.edu/adding-safety-and-robustness-learning-robots-learning-robots",
+            "snippet": "Safety and robustness of robotic systems are crucial for deploying robots in the real world. Machine learning has emerged as a promising tool for enabling ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "AI Safety in a World of Vulnerable Machine Learning Systems",
+            "text": "",
+            "link": "https://www.alignmentforum.org/posts/ncsxcf8CkDveXBCrA/ai-safety-in-a-world-of-vulnerable-machine-learning-systems-1",
+            "snippet": "We've argued above that capabilities do not guarantee robustness and observed trade offs between capability and robustness. However ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "3.3: Robustness | AI Safety, Ethics, and Society Textbook",
+            "text": "",
+            "link": "https://www.aisafetybook.com/textbook/robustness",
+            "snippet": "AI systems are vulnerable to adversarial examples, Trojans and other attacks. We need progress on improving the robustness of models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Robotic System Reliability & Readiness",
+            "text": "",
+            "link": "https://www.drbrianharkins.com/articles/robotic-system-reliability-are-we-ready-for-full-automation/",
+            "snippet": "Robotic system reliability is necessary for improved patient outcomes and is dependent on regular maintenance and updates.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Beyond performance: Explaining generalisation failures of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667379725000403",
+            "snippet": "by D Kube \u00b7 2025 \u00b7 Cited by 5 \u2014 This study investigates the generalisation and explainability challenges of Robotic Foundation Models (RFMs) in industrial applications, and robust benchmarking",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v1",
+            "snippet": "This chapter explores the foundational concept of robustness in Machine Learning (ML) and its integral role in establishing trustworthiness in Artificial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_0",
+            "title": "Enabling robustness to failure with modular field robots - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965784/",
+            "snippet": "by T Cordie \u00b7 2024 \u00b7 Cited by 6 \u2014 Robustness to these failures will become critical as robots are required to be more independent and operate out of the range of repair. both the simulated and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_2",
+            "title": "Full article: No robot is an island - what properties should ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1463922X.2024.2401168",
+            "snippet": "by BJE Johansson \u00b7 2025 \u00b7 Cited by 4 \u2014 The ability to learn is central to all other SyRes-based capabilities; otherwise, the system will not be able to adapt to new situations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_3",
+            "title": "Stanford Seminar - Continual Safety Assurances for Learning ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=jeJ4x1EyIFM",
+            "snippet": "Furthermore, these methods allow us to dynamically update safety assurances online, as new environment information is obtained during deployment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_4",
+            "title": "The Dilemma of Decision-Making in the Real World",
+            "text": "",
+            "link": "https://arxiv.org/html/2412.01744v2",
+            "snippet": "To advance the robotic system's ability to handle similar situations when it becomes stuck with decision-making, it is essential to consider how best to adapt ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI revolutionizing industries worldwide: A comprehensive ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2773207X24001386",
+            "snippet": "by AB Rashid \u00b7 2024 \u00b7 Cited by 1070 \u2014 This comprehensive review paper aims to provide readers with a deep understanding of AI's applications & implementations, workings, and potential impacts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Autonomy, artificial intelligence and robotics: Technical ...",
+            "text": "",
+            "link": "https://www.icrc.org/sites/default/files/document/file_list/autonomy_artificial_intelligence_and_robotics.pdf",
+            "snippet": "Autonomous (robotic) systems operate without human intervention, based on interaction with their environment. sufficient predictability and reliability, brings ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Intelligent Robotics\u2014A Systematic Review of Emerging ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/3/542",
+            "snippet": "by JT Licardo \u00b7 2024 \u00b7 Cited by 306 \u2014 It refers to the integration of AI, ML, and advanced sensing technologies within robotic systems to enable them to perceive and interact with their environment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Robotics | NIST",
+            "text": "",
+            "link": "https://www.nist.gov/el/robotics",
+            "snippet": "As robots are systems of systems, to perform their assigned tasks, robots must perceive the world and their current state through a combination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI in Robotics: Enabling Autonomy, Ethics, and Future Trends",
+            "text": "",
+            "link": "https://statusneo.com/ai-in-robotics-enabling-autonomy-ethics-and-future-trends/",
+            "snippet": "This integration involves embedding AI algorithms and machine learning capabilities into robotic systems, enabling them to perceive, learn, and make ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a5": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a6": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 7,
+        "num_contexts": 34,
+        "num_true_atoms": 0,
+        "num_false_atoms": 7,
+        "num_uniform_atoms": 0,
+        "entropy": 9.670857390574992e-05,
+        "norm_entropy": 0.000149619840222348,
+        "avg_entropy": 1.3815510557964274e-05,
+        "avg_norm_entropy": 2.1374262888906857e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS",
+            "a5": "NS",
+            "a6": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 7,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null,
+            "a6": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+        "response": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to interact with people and perform tasks autonomously, using advanced algorithms to recognize and respond to individuals. It aims to learn from experiences and improve its performance over time, adapting to new situations and environments. The system's primary goal is to provide a reliable and efficient service, minimizing disruptions and errors.",
+        "elapsed_time": 110.216358457983
+    }
+}

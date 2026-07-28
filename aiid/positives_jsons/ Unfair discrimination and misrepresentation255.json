@@ -1,0 +1,362 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze and process requests using algorithmic decision-making, relying on various data sources to inform its evaluations. The system aims to assess and verify information, utilizing biometric and sensitive data to make determinations. Its primary goal is to provide a framework for evaluating requests in a consistent and fair manner.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze and process requests using algorithmic decision-making, relying on various data sources to inform its evaluations. The system aims to assess and verify information, utilizing biometric and sensitive data to make determinations. Its primary goal is to provide a framework for evaluating requests in a consistent and fair manner.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in algorithmic decision-making in the system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing and processing requests using the system's algorithmic decision-making.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in assessing and verifying information in the system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in utilizing the system's biometric and sensitive data",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "... discrimination laws directly on automated decision-making systems. ... algorithmic decision making, whether or not discriminatory intent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Understanding how algorithmic injustice leads to making ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S037872062400003X",
+            "snippet": "Unjust algorithmic recommendations can lead decision makers to discriminatory choices, risking harm to individuals or groups. This study addresses this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "[PDF] Algorithmic Bias Explained - The Greenlining Institute",
+            "text": "",
+            "link": "https://greenlining.org/wp-content/uploads/2021/04/Greenlining-Institute-Algorithmic-Bias-Explained-Report-Feb-2021.pdf",
+            "snippet": "Disparate Treatment: A decision-maker is liable for disparate treatment discrimination when they have a discriminatory intent or motive, or use protected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Fairer Algorithmic Decision-Making and Its Consequences",
+            "text": "",
+            "link": "https://partnershiponai.org/paper/fairer-algorithmic-decision-making-and-its-consequences/",
+            "snippet": "Once demographic data is collected, antidiscrimination law and policies largely inhibit organizations from using this data since knowledge of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article, as it is common in AI ethics literature, will concentrate on the problematic cases in which the outcome of bias may lead to discrimination by AI- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A case will be created highlighting the discrimination issue in algorithmic decision-making using two case studies which clearly show the presence of well ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic discrimination: examining its types and regulatory ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1320277/full",
+            "snippet": "Algorithmic discrimination can manifest in various forms, such as bias by the algorithmic agents, biased feature selection, preventive controls, consequential ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] Discrimination, artificial intelligence, and algorithmic decision-making",
+            "text": "",
+            "link": "https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73",
+            "snippet": "AI advances important goals, such as efficiency, health and economic growth but it can also have discriminatory effects, for instance when AI systems learn from.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias and Fairness in Artificial Intelligence - New York State Bar ...",
+            "text": "",
+            "link": "https://nysba.org/bias-and-fairness-in-artificial-intelligence/?srsltid=AfmBOopsJRQLZ7KZUMs8FX5HD7lFGnkQ3VuBZxngiDz28CeZZ1FUAKYY",
+            "snippet": "This article will examine the issue of bias and fairness in AI from all angles, including how it works and how it can be misused.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "What is Data Bias? - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/data-bias",
+            "snippet": "What are the risks of data bias? Data bias can lead to unfair, inaccurate and unreliable AI systems resulting in serious consequences for individuals, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The AI risk repository: A meta-review, database, and taxonomy of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389926000267",
+            "snippet": "The Domain Taxonomy classifies risks by their effects across seven areas, from discrimination and privacy violations to misinformation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "MIT AI Risk Repository",
+            "text": "",
+            "link": "https://airisk.mit.edu/",
+            "snippet": "Risks related to unfair treatment, harmful content exposure, and unequal AI performance across different groups and individuals. 1.1 Unfair discrimination and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What about fairness, bias and discrimination? | ICO",
+            "text": "",
+            "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-fairness-in-ai/what-about-fairness-bias-and-discrimination/?search=precision",
+            "snippet": "What is the difference between fairness in data protection law and \u201calgorithmic fairness\u201d? What are the technical approaches to mitigate discrimination risk in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "FTC Warns About Misuses of Biometric Information and Harm to ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-warns-about-misuses-biometric-information-harm-consumers",
+            "snippet": "Consumers face new and increasing risks associated with the collection and use of biometric information. For example, using biometric ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Ethics and Biometric Data - Loyola University Chicago",
+            "text": "",
+            "link": "https://www.luc.edu/uxandbiometricslab-dev/news/blog/archive/ethicsandbiometricdata.shtml",
+            "snippet": "One of the biggest ethical concerns that emerges from biometric data is privacy. The nature of biometric data is simply different than that of statistical data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Risks of Bias in Biometrics: Business Impact and How to Prevent It",
+            "text": "",
+            "link": "https://www.aware.com/bias-in-biometrics-understanding-risks-blog/",
+            "snippet": "Bias in biometrics is a moral issue, but it's also a business one. Ignoring it puts companies at risk of losing trust, getting hit with legal penalties, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Using sensitive data to prevent discrimination by artificial intelligence",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364922001133",
+            "snippet": "This paper asks whether the GDPR's rules on special categories of personal data hinder the prevention of AI-driven discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The Ethics and Concerns of Biometric Data Collection - Daon",
+            "text": "",
+            "link": "https://www.daon.com/resource/the-ethics-and-concerns-of-biometric-data-collection/",
+            "snippet": "Understanding how biometric data collection works is key when responding to customers' concerns about the use of their data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What is AI Bias? - Understanding Its Impact, Risks, and Mitigation ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/what-is-ai-bias-risks-mitigation-strategies",
+            "snippet": "AI bias occurs when artificial intelligence systems produce unfair or prejudiced outcomes due to issues with the data, algorithms, or objectives ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Privacy, ethics, transparency, and accountability in AI systems for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12209263/",
+            "snippet": "Bias in AI refers to systematic and non-random errors in predictions or decisions made by ML models. Biases can arise from various sources and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring",
+            "text": "",
+            "link": "https://www.ada.gov/resources/ai-guidance/",
+            "snippet": "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "This paper investigates current state-of-the-art methods for bias mitigation and contrasts them with the legal requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Discrimination, artificial intelligence, and algorithmic decision-making",
+            "text": "",
+            "link": "https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73",
+            "snippet": "This report, written for the Anti-discrimination department of the. Council of Europe, concerns discrimination caused by algorithmic decision-making and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze and process requests using algorithmic decision-making, relying on various data sources to inform its evaluations. The system aims to assess and verify information, utilizing biometric and sensitive data to make determinations. Its primary goal is to provide a framework for evaluating requests in a consistent and fair manner.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze and process requests using algorithmic decision-making, relying on various data sources to inform its evaluations. The system aims to assess and verify information, utilizing biometric and sensitive data to make determinations. Its primary goal is to provide a framework for evaluating requests in a consistent and fair manner.",
+        "elapsed_time": 46.47712649999812
+    }
+}

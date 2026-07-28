@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A robotic system is designed to perform tasks in a manufacturing environment, utilizing sensors to navigate and interact with its surroundings. It aims to improve efficiency and productivity by automating various processes, while prioritizing the safety of nearby workers. The system relies on advanced sensors and programming to execute tasks with precision and accuracy.",
+    "output": " Lack of capability or robustness is a risk associated with A robotic system is designed to perform tasks in a manufacturing environment, utilizing sensors to navigate and interact with its surroundings. It aims to improve efficiency and productivity by automating various processes, while prioritizing the safety of nearby workers. The system relies on advanced sensors and programming to execute tasks with precision and accuracy.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a robotic system is a risk in manufacturing",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a robotic system's sensors is a risk in utilizing sensors to navigate and interact with its surroundings",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "OSH related risks and opportunities for industrial human-robot ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/",
+            "snippet": "We present a multifaceted analysis of risks and opportunities regarding robotic systems in the context of task automation in the industrial sector.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "11 reasons robots struggle to scale in high-mix manufacturing",
+            "text": "",
+            "link": "https://www.therobotreport.com/11-reasons-robots-struggle-to-scale-in-high-mix-manufacturing/",
+            "snippet": "1. Lack of data to effectively use AI-based approaches \u00b7 2. Limited part diversity makes it difficult to design robust algorithms \u00b7 3. Processes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The top challenges manufacturers face with robotics - Mujin",
+            "text": "",
+            "link": "https://mujin-corp.com/resources/blog/the-top-challenges-manufacturers-face-with-robotics",
+            "snippet": "One of the most immediate barriers to robotics adoption is the high upfront cost. Robots require substantial investment in hardware, integration, and training.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Robotics in Manufacturing: Benefits, Challenges, and Future Potential",
+            "text": "",
+            "link": "https://www.plantautomation-technology.com/articles/robotics-in-manufacturing-benefits-challenges-and-future-potential",
+            "snippet": "Production systems operated by robots have built-in capabilities that notice equipment defects and reprioritize workflow and predict upcoming maintenance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Critical Hazard Factors in the Risk Assessments of Industrial Robots",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2093791121000639",
+            "snippet": "Currently, a risk assessment is compulsory before implementing robot-related tasks such as assembly, material handling, pick, and place to prevent accidents.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Faulty control system - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1389041724000275",
+            "snippet": "In robotic systems, faults are categorized into hardware, software, and interaction-related faults. In robotics, faults can have a significant impact on robot ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "(PDF) How Roboticists Think about Navigation and Major Unsolved ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403393119_How_Roboticists_Think_about_Navigation_and_Major_Unsolved_Challenges",
+            "snippet": "To expand interdisciplinary consideration of the mechanisms involved in navigation, this chapter provides an overview of research into robot ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Robot usability in the wild: bridging accessibility gaps for diverse ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12394322/",
+            "snippet": "The ability of a system to move freely depends on slope steepness, with risks including slipping, sliding, and tipping. Slipping occurs when ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Challenges and solutions in the robotics field - Arrow Electronics",
+            "text": "",
+            "link": "https://www.arrow.com/en/resources/articles/2026/04/Melexis_Robotics_Solutions.html",
+            "snippet": "Traditional sensor systems often fall short when faced with the complex challenges encountered in robotics applications. Integration challenges, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A Systematic Review of Sensor Vulnerabilities and Cyber\u2010Physical ...",
+            "text": "",
+            "link": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cps2.70023",
+            "snippet": "It is of no surprise that the integration of sensors with Industry 4.0 robotic systems exposes them to potential cyber-physical risks/threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Exploring tasks and challenges in human-robot collaborative systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736584525001565",
+            "snippet": "This paper presents an in-depth exploration of Human-Robot Collaborative Systems (HRCSs) within industrial environments, a dynamic field that has witnessed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Integrating collaborative robots in manufacturing, logistics, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11646840/",
+            "snippet": "This study investigates the implementation of collaborative robots across three distinct industrial sectors: vehicle assembly, warehouse logistics, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4 - OSHA",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "(PDF) Safety Considerations in Deployment of Robotic Systems",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/394065804_Safety_Considerations_in_Deployment_of_Robotic_Systems_-_A_Systematic_Review",
+            "snippet": "An in\u2010depth understanding of the risks related to robotic systems is crucial to guarantee safety throughout all stages of robot design and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "How Robotics Innovations Improve Machine Safety in the Workplace",
+            "text": "",
+            "link": "https://pacificblueengineering.com/robotics-innovations-improve-machine-safety/",
+            "snippet": "Consistent performance: Robots can perform tasks consistently, minimizing the risk of variations that could lead to safety hazards. All of this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A robotic system is designed to perform tasks in a manufacturing environment, utilizing sensors to navigate and interact with its surroundings. It aims to improve efficiency and productivity by automating various processes, while prioritizing the safety of nearby workers. The system relies on advanced sensors and programming to execute tasks with precision and accuracy.",
+        "response": " Lack of capability or robustness is a risk associated with A robotic system is designed to perform tasks in a manufacturing environment, utilizing sensors to navigate and interact with its surroundings. It aims to improve efficiency and productivity by automating various processes, while prioritizing the safety of nearby workers. The system relies on advanced sensors and programming to execute tasks with precision and accuracy.",
+        "elapsed_time": 34.492853457999445
+    }
+}

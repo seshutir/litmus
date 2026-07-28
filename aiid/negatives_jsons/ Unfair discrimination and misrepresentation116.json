@@ -1,0 +1,210 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a language generation model",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in generating human-like text based on given prompts using a language generation model",
+            "contexts": [
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bias in Large Language Models: Origin, Evaluation, and Mitigation",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.10915v1",
+            "snippet": "In general, extrinsic biases in LLMs impact both understanding and generation tasks, leading to unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Taxonomy of Risks posed by Language Models",
+            "text": "",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533088",
+            "snippet": "by L Weidinger \u00b7 2022 \u00b7 Cited by 1627 \u2014 2.1.1 Social stereotypes and unfair discrimination. The reproduction of harmful stereotypes is well-documented in models that represent natural language [32].",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "(PDF) Ethical and social risks of harm from Language Models",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/356891243_Ethical_and_social_risks_of_harm_from_Language_Models",
+            "snippet": "The first area concerns the perpetuation of stereotypes, unfair discrimination, exclusionary norms, toxic language, and lower performance by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Bias and Fairness in Large Language Models: A Survey",
+            "text": "",
+            "link": "https://direct.mit.edu/coli/article/50/3/1097/121961/Bias-and-Fairness-in-Large-Language-Models-A",
+            "snippet": "by IO Gallegos \u00b7 2024 \u00b7 Cited by 2075 \u2014 We present a comprehensive survey of bias evaluation and mitigation techniques for LLMs. We first consolidate, formalize, and expand notions of social bias and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Generative AI Takes Stereotypes and Bias From Bad to Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Generative AI such as Stable Diffusion takes racial and gender stereotypes to extremes worse than those in the real world.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "While algorithms can be a force for good, they can also violate the right to privacy or lead to discriminatory decision-making, which has a very real impact on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in AI",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "AI systems, like humans, can internalize implicit biases from their training data. If a model learns from biased language or imagery, it may unknowingly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias in Large Language Models: Origin, Evaluation, and ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.10915v1",
+            "snippet": "This comprehensive review examines the landscape of bias in LLMs, from its origins to current mitigation strategies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Large Language Models beyond dialogue",
+            "text": "",
+            "link": "https://www.bbvaaifactory.com/llm-beyond-dialogue/",
+            "snippet": "Today, we explain how large language models can help us as data scientists beyond conversational assistants.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Explicitly unbiased large language models still form biased ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874501/",
+            "snippet": "by X Bai \u00b7 2025 \u00b7 Cited by 232 \u2014 The strongest bias in race appears when language models associate negative attributes, guilty phrases, and weapon objects with the word black.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Fundamentals of LLM Text Generation",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=a-6hVvU1WMk&vl=en",
+            "snippet": "Let's explore how Large Language Models (LLMs) like ChatGPT, Claude, Gemini generate text, focusing on decoding strategies that introduce ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial Intelligence (AI): Key Terms",
+            "text": "",
+            "link": "https://library.madonna.edu/artificialintelligence/keyterms",
+            "snippet": "Discrimination embedded in AI systems which lead systems to produce inaccurate, offensive, or misleading information.AI",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+        "elapsed_time": 41.86629299999913
+    }
+}

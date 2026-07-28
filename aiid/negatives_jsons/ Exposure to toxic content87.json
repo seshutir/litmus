@@ -1,0 +1,433 @@
+{
+    "input": " Exposure to toxic content is a not a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+    "output": " Exposure to toxic content is a not a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is not a risk in an image search system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is not a risk in an image search system's analyzing and ranking images",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is not a risk in an image search system's filtering out of inappropriate or offensive content",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is not a risk in improving the system's understanding of natural language",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Exposure to toxic content is not a risk in addressing complex search queries in an image search system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey of Needs, ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Toxic images may display not only explicit content, but also spread misinformation and visual hate speech, and become viral [77] .",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Investigating toxicity and Bias in stable diffusion text-to-image models - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12381170/",
+            "snippet": "by M Schneider \u00b7 2025 \u00b7 Cited by 10 \u2014 However, we conclude that this low ratio of personal sensitive content is generally not harmful. Although one could argue that a single image ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A critical reflection on the use of toxicity detection algorithms in proactive ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "by M Warner \u00b7 2025 \u00b7 Cited by 25 \u2014 We conducted design workshops with four stakeholder groups, asking participants to embed a toxicity detection algorithm into an imagined mobile phone keyboard.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How to handle toxic image backlinks from user-generated content",
+            "text": "",
+            "link": "https://www.facebook.com/groups/DumbSEOQuestions/posts/4598759586824990/",
+            "snippet": "Hi, can anyone offer advice on how to handle toxic backlinks stemming from images that people are posting via an online app/software? \nFor context, I ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Potential risks of content, features, and functions: The science of how social ...",
+            "text": "",
+            "link": "https://www.apa.org/topics/social-media-internet/youth-social-media-2024",
+            "snippet": "To reduce the risks of psychological harm, adolescents' exposure to content on social media that depicts illegal or psychologically maladaptive behavior,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Investigating toxicity and Bias in stable diffusion text-to-image models - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12381170/",
+            "snippet": "by M Schneider \u00b7 2025 \u00b7 Cited by 10 \u2014 Our data-driven analysis shows that on average, more than half of the images produced by the models contain harmful. However, we conclude that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Understanding and Mitigating Toxicity in Image-Text Pretraining Datasets",
+            "text": "",
+            "link": "https://arxiv.org/html/2505.06356v1",
+            "snippet": "Our findings underscore the need to actively identify and filter toxic content - such as hate speech, explicit imagery, and targeted harassment",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Rethinking No-reference Image Exposure Assessment from Holism ...",
+            "text": "",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2024/file/eda3ee49bf6e868c35dc741948517891-Paper-Conference.pdf",
+            "snippet": "by S He \u00b7 2024 \u00b7 Cited by 4 \u2014 The method should primarily address three key issues: firstly, as a no-reference method, it should effectively simulate reference images in non-preset scenarios ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Rethinking 'Safety' in GenAI Image Safety Annotation Tasks from ...",
+            "text": "",
+            "link": "https://ojs.aaai.org/index.php/AIES/article/download/36742/38880",
+            "snippet": "by D Wang \u00b7 2025 \u00b7 Cited by 1 \u2014 This paper examines how annotators evaluate the safety of AI-generated images, focusing on the qualitative reasoning behind their judgments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 Information Integrity: Lowered barrier to entry to generate and support the exchange and consumption of content which may not distinguish fact ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 Artificial intelligence (AI) has emerged as an important tool for identifying and filtering out UGC that is offensive or harmful.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Inappropriate content: factsheet",
+            "text": "",
+            "link": "https://www.esafety.gov.au/educators/training-for-professionals/professional-learning-program-teachers/inappropriate-content-factsheet",
+            "snippet": "Inappropriate content may be an image, video or written words that can be upsetting, disturbing or offensive.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "What is Text-in-Image Moderation? Challenges and ...",
+            "text": "",
+            "link": "https://imagga.com/blog/what-is-text-in-image-moderation-challenges-and-solutions/",
+            "snippet": "Text-in-image moderation detects harmful or sensitive words hidden in memes, screenshots, and photos. Learn why it's essential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Image-based malicious Internet content filtering method for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S2214212622000151",
+            "snippet": "by RM Alguliyev \u00b7 2022 \u00b7 Cited by 16 \u2014 This paper proposes a method with high accuracy classification of undesirable images to prevent harmful image content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Investigating the Detection of Toxic Languages Grounded ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.02094v1",
+            "snippet": "Since youth is in a critical period of mental and cognitive development, exposure to toxic content is particularly dangerous as it generally ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "A critical reflection on the use of toxicity detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "by M Warner \u00b7 2025 \u00b7 Cited by 25 \u2014 We found contextual factors such as platform culture and affordances, and scales of abuse, impacting on perceptions of toxicity and effectiveness of the system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Technological Solutions to Online Toxicity: Potential and ...",
+            "text": "",
+            "link": "https://technologyandsociety.org/technological-solutions-to-online-toxicity-potential-and-pitfalls/",
+            "snippet": "Consequently, this data imbalance can result in models excelling at recognizing nontoxic language but struggling with identifying toxic content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Reducing Toxicity in Language Models",
+            "text": "",
+            "link": "https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/",
+            "snippet": "Many challenges are associated with the effort to diminish various types of unsafe content: In this post, we delve into the issue of toxicity in language ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Unveiling disguised toxicity: A novel pre-processing module ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11015521/",
+            "snippet": "by J Chan \u00b7 2024 \u00b7 Cited by 5 \u2014 This study introduces \u201cSpecialis Revelio,\u201d a sophisticated text pre-processing module aimed at enhancing the detection of disguised toxic content in online ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "QExplorer: Large Language Model Based Query Extraction ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.18480v1",
+            "snippet": "When a suspicious toxic content is reported, the auditor first analyzes the content and extracts keywords or images that need to be explored.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Potential risks of content, features, and functions",
+            "text": "",
+            "link": "https://www.apa.org/topics/social-media-internet/youth-social-media-2024",
+            "snippet": "Psychological science continues to reveal benefits from social media use, as well as risks and opportunities that certain content, features, and functions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "The AI risk repository: A meta-review, database, and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389926000267",
+            "snippet": "by P Slattery \u00b7 2026 \u00b7 Cited by 17 \u2014 Exposure to toxic content, AI that exposes users to harmful, abusive, unsafe. or inappropriate content. May involve providing advice or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Content policies for Google Search",
+            "text": "",
+            "link": "https://support.google.com/websearch/answer/10622781?hl=en",
+            "snippet": "Google's automated systems help protect against objectionable material. Google might remove certain personal information that creates significant risks of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Google Search: AI Overview & AI Mode",
+            "text": "",
+            "link": "https://institute.commonsensemedia.org/sites/default/files/risk-assessments/csm-ai-risk-assessment-google-search-07142026_0.pdf",
+            "snippet": "Google Search's AI Overview and AI Mode earn our lowest rating because they create unacceptable risks for kids and teens.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "While these technologies provide significant benefits, they are also the source of toxicity, like hate speech, cyberbullying, misinformation, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 Verify that systems properly handle queries that may give rise to inappropriate, malicious, or illegal usage, including facilitating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What is Azure AI Content Safety?",
+            "text": "",
+            "link": "https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview",
+            "snippet": "Learn how to use Content Safety to track, flag, assess, and filter inappropriate material in user-generated content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Limitations of Google AI in Providing Accurate Information",
+            "text": "",
+            "link": "https://www.facebook.com/groups/spacehipsters/posts/9304606319584168/",
+            "snippet": "I have come to the conclusion that AI is too stupid to take over. At this point, Skynet is a dope.\n\nI searched \"How were the Apollo photos processed\". ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a not a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+        "response": " Exposure to toxic content is a not a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+        "elapsed_time": 521.5437247919617
+    }
+}

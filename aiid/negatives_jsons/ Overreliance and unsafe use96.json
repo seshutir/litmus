@@ -1,0 +1,212 @@
+{
+    "input": " Overreliance and unsafe use is a not a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+    "output": " Overreliance and unsafe use is a not a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is not a risk associated with a robotic system designed for exploration and inspection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is not a risk associated with a robotic system designed for exploration and inspection navigating challenging environments, capturing data and providing insights to support decision-making",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robotics Safety - Grainger Safety - University of Illinois",
+            "text": "",
+            "link": "https://safety.grainger.illinois.edu/resources/robotics-safety",
+            "snippet": "Robotic systems present a variety of hazards, particularly during non-routine operations such as programming, maintenance, testing, and setup.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Occupational health and safety issues in human-robot collaboration",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0925753523002552",
+            "snippet": "by A Giallanza \u00b7 2024 \u00b7 Cited by 152 \u2014 Numerous safety concerns are open, and either new or enhanced technical, procedural and organizational measures have to be investigated.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Safety Considerations in Deployment of Robotic Systems \u2013 A Systematic ...",
+            "text": "",
+            "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/rob.70022",
+            "snippet": "by AD Adesiji \u00b7 2026 \u00b7 Cited by 14 \u2014 Algorithms like force limitation and obstacle avoidance can minimize injury risk, especially during robot\u2013human interactions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Robotics in the Workplace: An Overview",
+            "text": "",
+            "link": "https://www.cdc.gov/niosh/robotics/about/index.html",
+            "snippet": "Robots can improve safety and productivity in the workplace. However, there are also potential hazards associated with using robot systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Inspection Robots for Hazardous Environments \u2013 A Deep Dive",
+            "text": "",
+            "link": "https://robotcenter.co.uk/insights/inspection-robots-for-hazardous-environments-a-deep-dive/",
+            "snippet": "Robotic inspection systems can operate continuously without breaks, shift changes, or safety briefings, enabling more comprehensive and frequent inspections.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Exploring tasks and challenges in human-robot collaborative systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736584525001565",
+            "snippet": "by S Asif \u00b7 2026 \u00b7 Cited by 37 \u2014 Without trust, the systems may not be utilised to their maximum potential and could potentially compromise both system and human safety [111].",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Underground mine rescue robotic systems: insights into human ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932144/",
+            "snippet": "by R Bakzadeh \u00b7 2026 \u00b7 Cited by 1 \u2014 This study examines the specific informational needs and communication preferences of mine rescue personnel for designing robotic systems for underground ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Robots and Drones - The Future of Inspection",
+            "text": "",
+            "link": "https://www.huvrdata.com/resources/robots-drones-inspections/",
+            "snippet": "Discover how industrial robots and drones are transforming inspection, enhancing safety, and reducing costs. Learn about market growth, key applications, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How Robots Mitigate Risks with Infrastructure Inspections",
+            "text": "",
+            "link": "https://www.hokuyo-usa.com/resources/blog/how-robots-are-mitigating-risks-infrastructure-inspections",
+            "snippet": "Robots eliminate or minimize the need for human entry into hazardous environments. Therefore, it significantly reduces risk and the cost of associated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2604.23775v1",
+            "snippet": "This shift raises a new class of safety challenges, stemming from the embodied nature of VLA systems, including irreversible physical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Autonomous VR-Based Risk Detection for Situational ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2607.16582v1",
+            "snippet": "We present a VR-based Human\u2013Robot Interaction framework for studying how VLM-assisted robots can support situational awareness in simulated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Review Exploring tasks and challenges in human-robot ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736584525001565",
+            "snippet": "by S Asif \u00b7 2026 \u00b7 Cited by 37 \u2014 This paper presents an in-depth exploration of Human-Robot Collaborative Systems (HRCSs) within industrial environments, a dynamic field that has witnessed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Robots In Public",
+            "text": "",
+            "link": "https://www.massrobotics.org/wp-content/uploads/2026/03/RobotsInPublicFinal.pdf",
+            "snippet": "Robots are no longer confined to factories, laboratories, or tightly controlled pilot environments. They are already operating in public and semi-public.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 1,
+        "entropy": 0.4963602039576722,
+        "norm_entropy": 1.2863969571159561,
+        "avg_entropy": 0.2481801019788361,
+        "avg_norm_entropy": 0.6431984785579781,
+        "avg_prob": 0.275,
+        "avg_logprob": -1.8444397270569681,
+        "avg_explogprob": 0.15811388300841897,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.95,
+                    0.05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.12625,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a not a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+        "response": " Overreliance and unsafe use is a not a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+        "elapsed_time": 35.53234025003621
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+    "output": " Lack of capability or robustness is a not a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with autonomous vehicle navigation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with detecting and responding to traffic signals in a system utilizing autonomous technology.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "by T Miller \u00b7 2024 \u00b7 Cited by 41 \u2014 This review critically examines the potential dangers associated with the increasing reliance on AI in AV navigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A Survey on an Emerging Safety Challenge for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2095809924000274",
+            "snippet": "by H Wang \u00b7 2024 \u00b7 Cited by 102 \u2014 This study offers a comprehensive exploration of the SOTIF landscape by reviewing academic research, practical activities, challenges, and perspectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "(PDF) A Critical AI View on Autonomous Vehicle Navigation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384068538_A_Critical_AI_View_on_Autonomous_Vehicle_Navigation_The_Growing_Danger",
+            "snippet": "This review critically examines the potential dangers associated with the increasing reliance on AI in AV navigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "(PDF) Safety Challenges for Autonomous Vehicles in the ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384746578_Safety_Challenges_for_Autonomous_Vehicles_in_the_Absence_of_Connectivity",
+            "snippet": "This article examines the critical safety challenges faced by autonomous vehicles (AVs) operating in environments without connectivity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Survey on Adversarial Robustness of LiDAR-based ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.13778v1",
+            "snippet": "This survey focuses on the intersection of Adversarial Machine Learning (AML) and autonomous systems, with a specific focus on LiDAR-based systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Testing autonomous vehicles and AI: perspectives and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s12544-025-00732-x",
+            "snippet": "by D Fern\u00e1ndez Llorca \u00b7 2025 \u00b7 Cited by 47 \u2014 This study aims to comprehensively explore the complexities of integrating Artificial Intelligence (AI) into Autonomous Vehicles (AVs), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robust detection framework for adversarial threats in ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1617978/full",
+            "snippet": "by S Ness \u00b7 2025 \u00b7 Cited by 37 \u2014 Adversarial attacks are able to alter sensor inputs, signals or decisions and can cause the vehicle to perform uncontrollably and dangerously. This can lead to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "(PDF) Evaluating the Effectiveness of Explainable AI for ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/402150515_Evaluating_the_Effectiveness_of_Explainable_AI_for_Adversarial_Attack_Detection_in_Traffic_Sign_Recognition_Systems",
+            "snippet": "Connected autonomous vehicles (CAVs) rely on deep neural network-based perception systems to operate safely in complex driving environments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 This paper analyses the legal frameworks of selected states, aside from those frameworks at international and EU level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Improving intelligent perception and decision optimization of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12379253/",
+            "snippet": "by X Teng \u00b7 2025 \u00b7 Cited by 9 \u2014 The core purpose is to realistically simulate real-world traffic scenarios, enabling system to make optimal decisions based on different dynamic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Road Ahead for Autonomous Vehicle Regulation",
+            "text": "",
+            "link": "https://www.theregreview.org/2026/05/31/spotlight-the-road-ahead-for-autonomous-vehicle-regulation/",
+            "snippet": "Mark Fagan discusses the current challenges and opportunities in autonomous vehicle regulation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "State Public Safety and Autonomous Vehicle Technology",
+            "text": "",
+            "link": "https://www.nga.org/wp-content/uploads/2019/09/Autonomous-Vehicle-Technology.pdf",
+            "snippet": "Autonomous vehicles have the potential to revolutionize how we move people and goods. As states navigate implementing this new technology, they face a number of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.002762,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.027624,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.11541763070781447,
+        "norm_entropy": 0.2097890775150719,
+        "avg_entropy": 0.057708815353907233,
+        "avg_norm_entropy": 0.10489453875753595,
+        "avg_prob": 0.015193,
+        "avg_logprob": -4.740435271444741,
+        "avg_explogprob": 0.008734843330020295,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.997238,
+                    0.002762
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.972376,
+                    0.027624
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.00038535701,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+        "response": " Lack of capability or robustness is a not a risk associated with A system utilizing autonomous technology is designed to enable vehicles to navigate through streets safely and efficiently. It aims to detect and respond to traffic signals, ensuring compliance with traffic rules and regulations. The technology seeks to improve road safety by reducing the risk of accidents caused by human error.",
+        "elapsed_time": 59.41359258402372
+    }
+}

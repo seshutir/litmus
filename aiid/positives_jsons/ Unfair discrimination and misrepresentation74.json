@@ -1,0 +1,211 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in an autocomplete system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing user queries to generate relevant search term completions in an autocomplete system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "An examination of algorithmic bias in search engine autocomplete ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0736585323001326",
+            "snippet": "This paper examines the autocomplete algorithmic bias of leading search engines against three sensitive attributes: gender, race, and sexual orientation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "AI doesn't eliminate bias; it scales it. Learn how algorithmic bias creates massive legal and reputational risk, and how to govern your AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Bias and Fairness in Artificial Intelligence - New York State Bar ...",
+            "text": "",
+            "link": "https://nysba.org/bias-and-fairness-in-artificial-intelligence/?srsltid=AfmBOorn-TU1vDlx1gBLlls84FrtHrsV9pXzykkGiVjx2jxERQNH-IcR",
+            "snippet": "This article will examine the issue of bias and fairness in AI from all angles, including how it works and how it can be misused.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Understanding Generative Artificial Intelligence and The Potential ...",
+            "text": "",
+            "link": "https://www.nhbar.org/understanding-generative-artificial-intelligence-and-the-potential-for-discrimination-and-bias/",
+            "snippet": "This Ethics Corner is intended to address concerns related to bias and discrimination while using artificial intelligence tools.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "exploring the perils of algorithmic biases and selective adherence to ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420529/",
+            "snippet": "This study extends the literature by examining the interplay of (biased) human operators and biased algorithmic decision support systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Google autocomplete: The silent threat to your online reputation",
+            "text": "",
+            "link": "https://searchengineland.com/google-autocomplete-online-reputation-432106",
+            "snippet": "Learn how negative autocomplete keywords about your brand can shape people's perceptions and influence their decisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Fairness in Search Systems - Emerald Publishing",
+            "text": "",
+            "link": "https://www.emerald.com/ftinr/article/18/3/262/1328689/Fairness-in-Search-Systems",
+            "snippet": "It involves a multi-faceted analysis of user queries to interpret their intent, context, and meaning. A cognitive bias is a systematic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Ten years on, search auto-complete still suggests slander and ...",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/auto-completion-disinformation/",
+            "snippet": "After a decade and a string of legal actions, an AlgorithmWatch experiment shows that search engines still suggest slanderous, false and disparaging statements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "(PDF) Which Stereotypes Are Moderated and Under ... - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/371531165_Which_Stereotypes_Are_Moderated_and_Under-Moderated_in_Search_Engine_Autocompletion",
+            "snippet": "This study enquires into the moderation of stereotypes in autocompletion results by Google, DuckDuckGo and Yahoo! We investigate the moderation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias and Unfairness in Information Retrieval Systems",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.11457v2",
+            "snippet": "In this paper, we present a comprehensive survey of existing works on emerging and pressing bias and unfairness issues in IR systems when the integration of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Fairness in Search Systems - Emerald Publishing",
+            "text": "",
+            "link": "https://www.emerald.com/ftinr/article/18/3/262/1328689/Fairness-in-Search-Systems",
+            "snippet": "This monograph presents a comprehensive taxonomy of fairness in search systems and surveys the current research landscape. We systematically ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] How the Autocomplete Function Influences Our Opinion Making and ...",
+            "text": "",
+            "link": "https://www.dpublication.com/wp-content/uploads/2022/04/33-9557.pdf",
+            "snippet": "The autocomplete function in search engines can make the search process easier for users. However, this function can also influence the opinion formation of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "View of From autocomplete to ChatGPT: Assessing responsibility in ...",
+            "text": "",
+            "link": "https://firstmonday.org/ojs/index.php/fm/article/view/14233/12104",
+            "snippet": "This paper examines the legal and ethical questions of accountability that arise in the automation of information retrieval, using disputes over Google's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An autocomplete system is designed to provide users with suggested search terms based on their input, aiming to streamline the search process. The system analyzes user queries and generates relevant completions, intending to facilitate efficient information retrieval. This technology seeks to predict and offer potential search terms, helping users find relevant content quickly.",
+        "elapsed_time": 25.418645125000694
+    }
+}

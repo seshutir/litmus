@@ -1,0 +1,363 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A facial editing system is designed to apply various filters and effects to user-generated images, utilizing AI-powered algorithms to modify and enhance facial features. The system aims to provide a range of editing options, allowing users to alter and refine their photos. It seeks to leverage machine learning techniques to deliver realistic and engaging image transformations.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A facial editing system is designed to apply various filters and effects to user-generated images, utilizing AI-powered algorithms to modify and enhance facial features. The system aims to provide a range of editing options, allowing users to alter and refine their photos. It seeks to leverage machine learning techniques to deliver realistic and engaging image transformations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a facial editing system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in applying various filters and effects to user-generated images using a facial editing system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in utilizing AI-powered algorithms to modify and enhance facial features in a facial editing system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in leveraging machine learning techniques to deliver realistic and engaging image transformations in a facial editing system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Biased Face Recognition Technology Used by Government: A Problem for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 60 \u2014 This paper presents a novel philosophical analysis of the problem of law enforcement's use of biased face recognition technology (FRT) in liberal democracies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "The inaccuracy of facial recognition technology means that Black people are at increased risk of discrimination and human rights impacts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition is least reliable for people of color, women, and nonbinary individuals. And that can be life-threatening. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Rite Aid Banned from Using AI Facial Recognition After FTC Says Retailer ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without",
+            "snippet": "Rite Aid will be prohibited from using facial recognition technology for surveillance purposes for five years to settle Federal Trade Commission charges.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "When facial recognition does not 'recognise': erroneous ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-023-01634-z",
+            "snippet": "by VL Raposo \u00b7 2024 \u00b7 Cited by 50 \u2014 This paper analyzes cases in which the use of FR to identify individuals leads to mistaken identifications, exploring its causes and legal consequences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 These benchmarks can be used in the evaluation of facial recognition systems that were biased towards skin colour and gender [23, 60]. Simpson's paradox.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Fairness and Bias in Artificial Intelligence: A Brief Survey of ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2413-4155/6/1/3",
+            "snippet": "by E Ferrara \u00b7 2024 \u00b7 Cited by 1610 \u2014 This survey study offers a succinct, comprehensive overview of fairness and bias in AI, addressing their sources, impacts, and mitigation strategies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Deepfake detection in generative AI: A legal framework ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X25000355",
+            "snippet": "by F Romero-Moreno \u00b7 2025 \u00b7 Cited by 50 \u2014 This research undertakes technical and comparative legal analyses of deepfake detection methods. It examines key mitigation strategies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Rendering misrepresentation: Diversity failures in AI image ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "AI image generators tend to either reproduce stereotypes with a lack of diversity in their outputs or overcorrect.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Generative AI and deepfakes: a human rights approach to ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/13600869.2024.2324540",
+            "snippet": "by F Romero Moreno \u00b7 2024 \u00b7 Cited by 214 \u2014 This paper critically examines how an unmodified AIA could enable voter manipulation, blackmail, and the generation these models, have been ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "When facial recognition does not 'recognise': erroneous ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-023-01634-z",
+            "snippet": "by VL Raposo \u00b7 2024 \u00b7 Cited by 50 \u2014 This paper focuses on one particular use of facial recognition, namely identification, both as authentication and as recognition. Despite ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Fairness and Bias in Artificial Intelligence: A Brief Survey of ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2413-4155/6/1/3",
+            "snippet": "by E Ferrara \u00b7 2024 \u00b7 Cited by 1610 \u2014 Discrimination is a key concern when it comes to biased AI systems, as they can perpetuate and even amplify existing inequalities [24]. For example, biased ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition technology is biased. The error rate for light-skinned men is 0.8%, compared to 34.7% for darker-skinned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 A new and unorthodox approach to deal with discriminatory bias in Artificial Intelligence is needed. As it is explored in detail, the current literature is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "AI & HR: Algorithmic Discrimination in the Workplace",
+            "text": "",
+            "link": "https://publications.lawschool.cornell.edu/jlpp/2024/11/21/ai-hr-algorithmic-discrimination-in-the-workplace/",
+            "snippet": "Research shows that AI suffers from algorithmic bias by reproducing and amplifying human biases. Amazon's AI recruitment tool discriminated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Types of bias in AI Biases in training data are among the most thoroughly documented sources of algorithmic unfairness (Mehrabi et al., 2021; Lacmanovic and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Fairer Machine Learning in the Real World: Mitigating Discrimination ...",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id",
+            "snippet": "by M Veale \u00b7 2017 \u00b7 Cited by 830 \u2014 This paper presents and discusses three potential approaches to deal with such knowledge and information deficits in the context of fairer machine learning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Fairness issues, current approaches, and challenges in machine learning ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s13042-023-02083-2",
+            "snippet": "by TD Jui \u00b7 2024 \u00b7 Cited by 150 \u2014 This fairness issue is problematic because it can result in unjust outcomes for individuals who are similar in relevant respects but are treated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Algorithmic bias in machine learning-based marketing models",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000959",
+            "snippet": "by S Akter \u00b7 2022 \u00b7 Cited by 381 \u2014 This study presents a framework identifying the sources of algorithmic bias in marketing, drawing on the microfoundations of dynamic capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "(PDF) Fairer machine learning in the real world: Mitigating discrimination ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/321249365_Fairer_machine_learning_in_the_real_world_Mitigating_discrimination_without_collecting_sensitive_data",
+            "snippet": "Decisions based on algorithmic, machine learning models can be unfair, reproducing biases in historical data used to train them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Protecting against Malicious Image Editing via False Moderation",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.26199v1",
+            "snippet": "The proliferation of AI-powered image editing systems raises serious concerns because it allows personal images to be arbitrarily manipulated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "It gives blanketed and indiscriminate surveillance to authorities to track you. \u00b7 It is inaccurate and intensifies racial and gender biases that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Bias in AI",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Stereotyping Bias: Occurs when AI systems reinforce harmful stereotypes. For example, a translation model that consistently associates the word \"nurse\" with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Facial Recognition Technology and Its Algorithmic Racial Bias",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=jgN1HUQQb1o",
+            "snippet": "This University of Minnesota Law School webinar focuses on facial recognition technology and the implications of the growing use of video in\u00a0...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A facial editing system is designed to apply various filters and effects to user-generated images, utilizing AI-powered algorithms to modify and enhance facial features. The system aims to provide a range of editing options, allowing users to alter and refine their photos. It seeks to leverage machine learning techniques to deliver realistic and engaging image transformations.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A facial editing system is designed to apply various filters and effects to user-generated images, utilizing AI-powered algorithms to modify and enhance facial features. The system aims to provide a range of editing options, allowing users to alter and refine their photos. It seeks to leverage machine learning techniques to deliver realistic and engaging image transformations.",
+        "elapsed_time": 174.56108120799763
+    }
+}

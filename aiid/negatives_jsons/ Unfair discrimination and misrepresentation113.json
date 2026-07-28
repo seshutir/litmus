@@ -1,0 +1,211 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to predict a person's gender based on various identifiers, aiming to provide accurate and unbiased results. It uses machine learning algorithms to analyze patterns and relationships between identifiers and genders. The goal of this system is to improve the accuracy of gender prediction for various applications.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to predict a person's gender based on various identifiers, aiming to provide accurate and unbiased results. It uses machine learning algorithms to analyze patterns and relationships between identifiers and genders. The goal of this system is to improve the accuracy of gender prediction for various applications.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in the gender prediction system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in using machine learning algorithms to analyze patterns and relationships between identifiers and genders in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial and Gender Discrimination in the Stress Process - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3783344/",
+            "snippet": "by BL Perry \u00b7 2013 \u00b7 Cited by 471 \u2014 Findings suggest that racial and gender discrimination increases risk for poor health and low well-being, working both directly and indirectly through increased ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "On the trajectory of discrimination: A meta-analysis and forecasting ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0749597823000560",
+            "snippet": "by M Schaerer \u00b7 2023 \u00b7 Cited by 98 \u2014 Discrimination against women for male-typed and balanced jobs decreased across time. \u2022 Forecasters expected this decline, but overestimated the degree of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Gender Discrimination | SHARE Title IX and Title VI Office",
+            "text": "",
+            "link": "https://share.stanford.edu/education-and-outreach/learn-topics/gender-discrimination",
+            "snippet": "Gender discrimination is when someone is treated unequally or disadvantageously based on their gender but not necessarily in a sexual nature.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What about fairness, bias and discrimination? | ICO",
+            "text": "",
+            "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-fairness-in-ai/what-about-fairness-bias-and-discrimination/?search=minimisation",
+            "snippet": "AI systems learn from data does not guarantee that their outputs will not lead to discriminatory effects. Unfairness and discrimination is not limited to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Social identifiers are so pervasive that machine learning algorithms can detect other proxies or patterns in the data that reveal sex or race, such as social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 AI Bias is when the output of a machine-learning model can lead to the discrimination against specific groups or individuals.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "AI systems based on incomplete or biased data can lead to inaccurate outcomes that infringe on people's fundamental rights, including non-discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Fairness issues, current approaches, and challenges in machine learning ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s13042-023-02083-2",
+            "snippet": "by TD Jui \u00b7 2024 \u00b7 Cited by 150 \u2014 Lack of individual fairness in algorithms refers to the situation where the algorithm treats similar individuals differently, leading to unfair ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Addressing bias in big data and AI for health care: A call for open science",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/",
+            "snippet": "by N Norori \u00b7 2021 \u00b7 Cited by 1182 \u2014 AI is prone to reinforcing bias, which can lead to fatal outcomes, misdiagnoses, and lack of generalization.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI Gender Bias, Disparities, and Fairness: Does Training Data Matter?",
+            "text": "",
+            "link": "https://arxiv.org/html/2312.10833v4",
+            "snippet": "The study employs three distinct techniques for bias analysis: The metrics used in this work are scoring accuracy difference to assess the degree of bias, mean ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Gender bias, but make it automated. What's in a name? A dataset problem.",
+            "text": "",
+            "link": "https://www.facebook.com/realjostanley/posts/gender-bias-but-make-it-automated-whats-in-a-name-a-dataset-problem/1492363458912719/",
+            "snippet": "The oxymoron of discrimination-free discriminators Modern businesses want to use machine learning and data mining to make decisions based on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to predict a person's gender based on various identifiers, aiming to provide accurate and unbiased results. It uses machine learning algorithms to analyze patterns and relationships between identifiers and genders. The goal of this system is to improve the accuracy of gender prediction for various applications.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to predict a person's gender based on various identifiers, aiming to provide accurate and unbiased results. It uses machine learning algorithms to analyze patterns and relationships between identifiers and genders. The goal of this system is to improve the accuracy of gender prediction for various applications.",
+        "elapsed_time": 28.25874516699696
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+    "output": " Lack of capability or robustness is a not a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the automated debt assessment system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with assessing and verifying debt information using an automated system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with identifying and processing debt claims using the automated system.",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with providing accurate and efficient notifications to individuals through the automated system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with streamlining the debt assessment process in an automated system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "How to avoid algorithmic decision-making mistakes",
+            "text": "",
+            "link": "https://stories.uq.edu.au/momentum-magazine/robodebt-algorithmic-decision-making-mistakes/index.html",
+            "snippet": "Robodebt was an automated debt assessment and recovery program that relied solely on a data-matching system to issue debt notices to welfare recipients.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithmic decision-making and system destructiveness",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2021.1960905",
+            "snippet": "by T Rinta-Kahila \u00b7 2022 \u00b7 Cited by 178 \u2014 In this paper, we report on a case study of the Australian government's \u201cRobodebt\u201d programme that was designed to automatically calculate and collect welfare ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The flawed algorithm at the heart of Robodebt - Pursuit",
+            "text": "",
+            "link": "https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt",
+            "snippet": "ADM systems are known to pose serious risks \u2013 including entrenching bias, eroding privacy, and the absence of procedural fairness, transparency ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Towards a smart debt collection system: a Design Science ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40537-025-01252-0",
+            "snippet": "by M Przyby\u0142ek \u00b7 2025 \u00b7 Cited by 5 \u2014 Our research addresses the limitations of existing debt collection software, but lacks automated decision-making capabilities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robodebt: A case study in the impact of digitalization on ...",
+            "text": "",
+            "link": "https://taxpayer-rights.org/wp-content/uploads/2024/05/Dirk-Van-Rooy-Robodebt.pdf",
+            "snippet": "Lack of transparency and oversight in automated debt calculation system. Citizens did not have access to understand how their debt amounts were calculated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Evaluating Trustworthiness in AI: Risks, Metrics, and ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/14/13/2717",
+            "snippet": "by A Nastoska \u00b7 2025 \u00b7 Cited by 108 \u2014 Robodebt's failure highlights the dangers of deploying automated systems without robust mechanisms to mitigate algorithmic biases,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "by M Kattnig \u00b7 2024 \u00b7 Cited by 56 \u2014 This paper investigates current state-of-the-art methods for bias mitigation and contrasts them with the legal requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic decision-making and system destructiveness",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2021.1960905",
+            "snippet": "by T Rinta-Kahila \u00b7 2022 \u00b7 Cited by 178 \u2014 The automated system independently estimated welfare overpayments and sent debt notification letters to citizens without human scrutiny.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Challenges and efforts in managing AI trustworthiness risks",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11119750/",
+            "snippet": "by N Polemi \u00b7 2024 \u00b7 Cited by 73 \u2014 This paper addresses the critical gaps in existing AI risk management frameworks, emphasizing the neglect of human factors and the absence of metrics for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial Intelligence Risk & Governance - Wharton Human-AI ...",
+            "text": "",
+            "link": "https://ai.wharton.upenn.edu/white-paper/artificial-intelligence-risk-governance/",
+            "snippet": "This white paper provides AIRS's views on potential approaches to AI governance for financial services including potential risks, risk categorization, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Implementation gap in technology-driven debt collection & ...",
+            "text": "",
+            "link": "https://www.autoremarketing.com/autofinjournal/commentary-implementation-gap-in-technology-driven-debt-collection-the-challenges-risks-and-strategic-implications/",
+            "snippet": "This article argues that the gap between technological capability and operational execution is the primary cause of this underperformance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Towards a smart debt collection system: a Design Science ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40537-025-01252-0",
+            "snippet": "by M Przyby\u0142ek \u00b7 2025 \u00b7 Cited by 5 \u2014 Our research addresses the limitations of existing debt collection software, but lacks automated decision-making capabilities. not only ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Intelligent decision support for debt collection using ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S3050700626000381",
+            "snippet": "This paper proposes a novel approach to optimizing debt collection, by integrating Machine Learning (ML), Fuzzy Logic, and Multi-Criteria Decision Analysis ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Inefficiencies and Errors in Manual Risk Management",
+            "text": "",
+            "link": "https://www.neuanalytics.com/blog/inefficiencies-and-errors-in-manual-risk-management",
+            "snippet": "Manual risk management is labor-intensive, and often inefficient, leading to errors that can be mediated with a fully automated risk management system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Developing real-time IoT-based public safety alert and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12334619/",
+            "snippet": "by H Zhang \u00b7 2025 \u00b7 Cited by 87 \u2014 This paper presents the design and evaluation of a real-time IoT-based emergency response and public safety alert system tailored for rapid ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "AI Safety and Robustness: Building Resilient, Reliable AI ...",
+            "text": "",
+            "link": "https://agility-at-scale.com/ai/governance/safety-and-robustness/",
+            "snippet": "Robustness is the ability of an AI model to maintain reliable performance when conditions shift \u2014 whether those shifts come from new data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Automate Alert Triage Without SOAR: A 2026 Guide",
+            "text": "",
+            "link": "https://www.livingsecurity.com/blog/automating-soc-response-error",
+            "snippet": "Go beyond traditional SOAR with automated alert triage and enrichment. Reduce analyst fatigue and improve threat detection accuracy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 In addition to threatening the robustness of the model overall, model collapse could lead to homogenized outputs, including by amplifying any ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Artificial intelligence (AI) safety system for safe & ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772508126000219",
+            "snippet": "by R Thakur \u00b7 2026 \u00b7 Cited by 4 \u2014 Safety in autonomous systems refers to their ability to proactively detect hazardous conditions, mitigate risks, and reliably maintain safe operational limits, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "The Hidden Cost of Process Debt",
+            "text": "",
+            "link": "https://navvia.com/blog/the-hidden-cost-of-process-debt",
+            "snippet": "Operational Process Debt stems from a lack of accountability and clear process ownership, poor process discovery, inconsistent process mapping ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Live Session | The Hidden Cost of Process Debt",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=rrT0l5gTK6s",
+            "snippet": "In this video, we introduce Process Debt, the hidden operational liability that develops when business processes aren't effectively designed, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "The Evolution of Technical Debt from DevOps to ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0164121225002687",
+            "snippet": "by S Moreschini \u00b7 2026 \u00b7 Cited by 22 \u2014 This study aims to explore how Technical Debt Management (TDM) must adapt in the context of AI-enhanced software development. It investigates (1) the evolution ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Evaluating Trustworthiness in AI: Risks, Metrics, and ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/14/13/2717",
+            "snippet": "by A Nastoska \u00b7 2025 \u00b7 Cited by 108 \u2014 Robodebt's failure highlights the dangers of deploying automated systems without robust mechanisms to mitigate algorithmic biases, such as model bias, data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Towards a smart debt collection system: a Design Science ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40537-025-01252-0",
+            "snippet": "by M Przyby\u0142ek \u00b7 2025 \u00b7 Cited by 5 \u2014 This paper reports on the development of a Smart Debt Collection System (SDCS) through a Design Science Research (DSR) approach, involving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Automated Debt Collection Management: 6 Rules for ...",
+            "text": "",
+            "link": "https://www.riverty.com/en/business/insights/blog/automated-debt-collection-management/",
+            "snippet": "Using automated debt collection management effectively: 6 clear rules for efficiency, responsibility, and stable collections processes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What information does a debt collector have to give me ...",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/",
+            "snippet": "Under the debt collection rule, debt collectors have to provide you with certain information about your debt, known as validation information.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "PRinciPles foR effecTive insolvency and cRediToR/deBToR ...",
+            "text": "",
+            "link": "https://openknowledge.worldbank.org/bitstreams/3824fe8e-edb3-5f9b-aa28-f5afc759e562/download",
+            "snippet": "Competition in credit delivery is handicapped by lack of access to accurate information on credit risk and by unpredictable legal mechanisms for debt ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+        "response": " Lack of capability or robustness is a not a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+        "elapsed_time": 238.08940737502417
+    }
+}

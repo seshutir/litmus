@@ -1,0 +1,201 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a social media platform's account recommendation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a social media platform's account recommendation system suggesting new accounts to users based on their interests and interactions",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Social Media Screening and Procedural Justice - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/",
+            "snippet": "by E Vosen \u00b7 2021 \u00b7 Cited by 30 \u2014 This article aims to provide an assessment of the procedural justice of social media screening and to articulate recommendations for a fairer use of social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "STRIPED-Judicial-Primer-on-Algorithmic-Harms.pdf",
+            "text": "",
+            "link": "https://hsph.harvard.edu/wp-content/uploads/2026/02/STRIPED-Judicial-Primer-on-Algorithmic-Harms.pdf",
+            "snippet": "Courts now encounter cases involving online harms, consumer protection, and platform responsibility, and judges increasingly must evaluate.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "The algorithms driving social media are called recommender systems. These algorithms are the engine that makes Facebook and YouTube what they are.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://www.bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "by D Draper \u00b7 Cited by 7 \u2014 Notably, algorithmic content moderation forms the backbone of social media security by restricting illegal, harmful, or inappropriate content. Algorithms ensure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Recommendation Systems in Social Media - Youth AI Safety Institute",
+            "text": "",
+            "link": "https://institute.commonsensemedia.org/sites/default/files/ra-import/csm-ai-risk-assessment-recommendation-systems-in-social-media-01132026.pdf",
+            "snippet": "Research and documented cases show that these systems can unintentionally steer users toward narrow, repetitive, or even harmful content,.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "STRIPED-Judicial-Primer-on-Algorithmic-Harms.pdf",
+            "text": "",
+            "link": "https://hsph.harvard.edu/wp-content/uploads/2026/02/STRIPED-Judicial-Primer-on-Algorithmic-Harms.pdf",
+            "snippet": "The legal analysis focuses on whether a platform's design choices create foreseeable risks of harm distinct from user-generated content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Recommendation Systems in Social Media - Youth AI Safety Institute",
+            "text": "",
+            "link": "https://institute.commonsensemedia.org/risk-assessments/recommendation-systems-in-social-media",
+            "snippet": "Recommendation systems can help users find new and interesting content, help users connect with new people around shared interests, and help ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Introduction",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/why-am-i-seeing-this/introduction/",
+            "snippet": "Recommendation systems are algorithmic tools that internet platforms use to identify and recommend content, products, and services that may be of interest to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "The answer is determined in large part by algorithms. In computer science, the algorithms driving social media are called recommender systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Recommendation Systems For Social Media Marketing",
+            "text": "",
+            "link": "https://www.meegle.com/en_us/topics/recommendation-algorithms/recommendation-systems-for-social-media-marketing",
+            "snippet": "A recommendation system is a data-driven algorithm designed to predict and suggest content, products, or services that align with a user's preferences, behavior ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The rising safety concerns of deep recommender systems - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12529586/",
+            "snippet": "by H Shen \u00b7 2025 \u00b7 Cited by 6 \u2014 LLMs may further exacerbate biases or discrimination against certain groups, leading to unfair treatment of specific user populations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Social Media Recommendation: Unlocking User Engagement Keys",
+            "text": "",
+            "link": "https://datasciencedojo.com/blog/social-media-recommendation-system/",
+            "snippet": "Social media recommendation system: It is an algorithm that suggests relevant products to users based on a variety of factors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 7.7e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.000768,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 12,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0062372028889396665,
+        "norm_entropy": 0.010217029132421927,
+        "avg_entropy": 0.0031186014444698333,
+        "avg_norm_entropy": 0.005108514566210963,
+        "avg_prob": 0.0004225,
+        "avg_logprob": -8.321712980463596,
+        "avg_explogprob": 0.00024317894645713056,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999923,
+                    7.7e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999232,
+                    0.000768
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 2.9787650000000003e-07,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+        "elapsed_time": 49.097936833044514
+    }
+}

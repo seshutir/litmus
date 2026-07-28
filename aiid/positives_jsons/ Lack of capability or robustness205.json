@@ -1,0 +1,415 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A vehicle's autonomous system is designed to detect potential collisions and automatically apply the brakes to prevent accidents. The system uses various sensors and technologies to identify hazards and respond accordingly. Its primary goal is to enhance safety and reduce the risk of collisions by providing an additional layer of protection for drivers and passengers.",
+    "output": " Lack of capability or robustness is a risk associated with A vehicle's autonomous system is designed to detect potential collisions and automatically apply the brakes to prevent accidents. The system uses various sensors and technologies to identify hazards and respond accordingly. Its primary goal is to enhance safety and reduce the risk of collisions by providing an additional layer of protection for drivers and passengers.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk associated with a vehicle's autonomous system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a vehicle's autonomous system is a risk in detecting potential collisions",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a vehicle's autonomous system is a risk in automatically applying the brakes to prevent accidents",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in a vehicle's autonomous system is a risk in using various sensors and technologies to identify hazards",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in a vehicle's autonomous system is a risk in responding to identified hazards",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666675824002182",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What is the robustness often mentioned in autonomous driving?",
+            "text": "",
+            "link": "https://en.eeworld.com.cn/news/qrs/eic690043.html",
+            "snippet": "If the system is not robust enough, it may cause the vehicle to lose control or make wrong decisions. With the support of robust technology, the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "Although this networking capability enhances operational efficiency, it is susceptible to potential cyber-attacks. Embedded control systems such as engine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Missing Link in Autonomous Vehicle Development: Robustness ...",
+            "text": "",
+            "link": "https://www.linkedin.com/posts/matthewhu_engineeringmanagement-robustdesign-reliability-activity-7393169707513733120-NKfF",
+            "snippet": "Execution Constraint and Bottleneck: Lack of Robustness Thinking \u2014 Lessons from Autonomous Vehicle Development Organizations today invest ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Emerging Risks of Level 3 Autonomous Vehicles - Verisk",
+            "text": "",
+            "link": "https://core.verisk.com/Insights/Emerging-Issues/Articles/2024/September/Week-4/The-Emerging-Risks-of-Level-3-Autonomous-Vehicles",
+            "snippet": "Simulated experiments have suggested that road accidents might decrease as more vehicles supporting Level 3 or higher autonomy enter our ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Collision Risk in Autonomous Vehicles: Classification, Challenges ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-8921/6/1/7",
+            "snippet": "This research examines systems and solutions developed in this field to determine collision times and uses various alarms in self-driving cars that prevent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Survey of Autonomous Vehicles' Collision Avoidance Algorithms",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11769269/",
+            "snippet": "Autonomous vehicles must have collision avoidance systems to prevent accidents and ensure safety. These systems rely on sensors, algorithms, and communication ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Crashes involving self-driving cars raise questions about safety ...",
+            "text": "",
+            "link": "https://www.kbtx.com/2026/01/09/crashes-involving-self-driving-cars-raise-questions-about-safety-accountabiity/",
+            "snippet": "Self-driving cars are navigating roads in several major cities, but crashes involving the autonomous vehicles are raising questions about safety",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A Comprehensive Review on Limitations of Autonomous Driving ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/376090805_A_Comprehensive_Review_on_Limitations_of_Autonomous_Driving_and_its_Impact_on_Accidents_and_Collisions",
+            "snippet": "This paper aims to comprehensively examine the limitations inherent in autonomous driving and their consequential impact on accidents and collisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Automatic Emergency Braking (AEB) System Impact on Fatality and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7037779/",
+            "snippet": "The results showed that low-speed autonomous emergency braking (AEB) reduced front-to-rear crash rates by 43% and front-to-rear injury crash rates by 45% [3]. A ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Are Automatic Emergency Brakes The Future Of Car Safety Now ...",
+            "text": "",
+            "link": "https://www.prtassoc.com/post/are-automatic-emergency-brakes-the-future-of-car-safety-now-that-automakers-have-fulfilled-the-auto",
+            "snippet": "According to research, AEB has the potential to reduce rear-end crashes by as much as 50%, particularly in urban environments or at speeds below ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Effects of automatic emergency braking systems to reduce risk of ...",
+            "text": "",
+            "link": "https://tsr.international/TSR/article/view/26466",
+            "snippet": "The study shows varying effectiveness of AEB systems in reducing crash risks under different lighting, weather, and speed conditions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Do Automatic Braking Systems Lower Accident Rates?",
+            "text": "",
+            "link": "https://www.terrybryant.com/blogs/can-automatic-emergency-braking-systems-reduce-accidents",
+            "snippet": "Motor vehicle crashes of cars with automatic emergency braking were 43% less than crashes of vehicles without AEBs, and they resulted in 64% fewer injuries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "NHTSA Finalizes Key Safety Rule to Reduce Crashes and Save Lives",
+            "text": "",
+            "link": "https://www.nhtsa.gov/press-releases/nhtsa-fmvss-127-automatic-emergency-braking-reduce-crashes",
+            "snippet": "\u201cAutomatic emergency braking is proven to save lives and reduce serious injuries from frontal crashes, and this technology is now mature enough ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11360603/",
+            "snippet": "This survey covers 108 publications and presents an overview of the sensors used in AVs today, categorizes the sensor's failures that can occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The Safety Risks of AI-Driven Solutions in Autonomous Road Vehicles",
+            "text": "",
+            "link": "https://www.mdpi.com/2032-6653/15/10/438",
+            "snippet": "This paper focuses on the potential safety risks of deploying DNN classifiers in Advanced Driver Assistance System (ADAS) systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "System and Sensor Failures. An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://sustainability.ncsu.edu/blog/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Evaluating the potential risks posed by autonomous vehicles by ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666691X25000715",
+            "snippet": "Storms, rain, fog, icy roads, and snow may compromise the security of an autonomous vehicle driving system comprised of numerous software and hardware ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "What is a HARA in Autonomous Mobility and Why is it Important?",
+            "text": "",
+            "link": "https://medium.com/@autodriveai/what-is-a-hara-in-autonomous-mobility-and-why-is-it-important-03d639070c9c",
+            "snippet": "HARA is a systematic process used in the field of autonomous mobility to identify and evaluate potential hazards associated with the operation of autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Risk assessment in autonomous driving: a comprehensive survey of ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43684-025-00112-1",
+            "snippet": "The core goal of the risk assessment model is to quantify the risk level faced by the autonomous driving system through a comprehensive analysis ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "The Emerging Risks of Level 3 Autonomous Vehicles - Verisk",
+            "text": "",
+            "link": "https://core.verisk.com/Insights/Emerging-Issues/Articles/2024/September/Week-4/The-Emerging-Risks-of-Level-3-Autonomous-Vehicles",
+            "snippet": "Like ADAS, Level 3 capability might lead to lower claim frequency but higher severity as the sensors that support this technology can be costly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Partial Automation Doesn't Make Vehicles Safer - IEEE Spectrum",
+            "text": "",
+            "link": "https://spectrum.ieee.org/partial-vehicle-autonomy-risk",
+            "snippet": "Partial automation doesn't make vehicles safer. Self-driving tech is better treated as a convenience, not a safety feature.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Roadside sensor networks for robust perception and decision ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590005626001074",
+            "snippet": "Autonomous vehicles face critical perception limitations in adverse weather and dense traffic, where onboard sensors frequently deliver ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Multiple vehicle cooperation and collision avoidance in automated ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9837199/",
+            "snippet": "In the article, authors propose a particular precise deep Q-network-based automatic braking system to avoid vehicle-pedestrian collisions (DQN).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A vehicle's autonomous system is designed to detect potential collisions and automatically apply the brakes to prevent accidents. The system uses various sensors and technologies to identify hazards and respond accordingly. Its primary goal is to enhance safety and reduce the risk of collisions by providing an additional layer of protection for drivers and passengers.",
+        "response": " Lack of capability or robustness is a risk associated with A vehicle's autonomous system is designed to detect potential collisions and automatically apply the brakes to prevent accidents. The system uses various sensors and technologies to identify hazards and respond accordingly. Its primary goal is to enhance safety and reduce the risk of collisions by providing an additional layer of protection for drivers and passengers.",
+        "elapsed_time": 55.715701958000864
+    }
+}

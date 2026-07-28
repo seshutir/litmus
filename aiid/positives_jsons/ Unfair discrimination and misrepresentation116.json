@@ -1,0 +1,403 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a language generation model",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in generating human-like text based on given prompts using a language generation model",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in generating relevant and coherent text using a language generation model.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in creating engaging and accurate content for a language generation model",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in maintaining a neutral and respectful tone in a language generation model",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Taxonomy of Risks Posed by Language Models",
+            "text": "",
+            "link": "https://airisk.mit.edu/blog/taxonomy-of-risks-posed-by-language-models",
+            "snippet": "The taxonomy includes 6 domains of AI risk and 20 subdomains: \u00b7 Social stereotypes and unfair discrimination \u00b7 Hate speech and offensive language ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "[PDF] Ethical and social risks of harm from Language Models - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2112.04359",
+            "snippet": "This includes four distinct risks: LMs can create unfair discrimination and representational and material harm by perpetuating stereotypes and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Large Language Models generating biased or discriminatory content",
+            "text": "",
+            "link": "https://donets.org/risks/large-language-models-generating-biased-or-discriminatory-content",
+            "snippet": "Analysis of 'Large Language Models generating biased or discriminatory content' - an AI risk in Discrimination and toxicity identified ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias in AI Large Language Models: Risks and Remedies",
+            "text": "",
+            "link": "https://www.americanbar.org/groups/gpsolo/resources/magazine/2025-mar-apr/bias-ai-large-language-models-risks-remedies/",
+            "snippet": "Large language models (LLMs) can perpetuate and amplify societal biases, raising significant concerns about fairness and discrimination in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Risks of Harm from Large Language Models: Discrimination ...",
+            "text": "",
+            "link": "https://medium.com/@jl115/harm-from-language-models-discrimination-exclusion-and-toxicity-b94d7cf44c57",
+            "snippet": "This includes perpetuating social stereotypes and unfair discrimination, reinforcing exclusionary norms, generating toxic language, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI generates covertly racist decisions about people based on their ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41586-024-07856-5",
+            "snippet": "We demonstrate that language models embody covert racism in the form of dialect prejudice, exhibiting raciolinguistic stereotypes about speakers of African ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias of AI-generated content: an examination of news produced by ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10909834/",
+            "snippet": "Our study reveals that the AIGC produced by each examined LLM demonstrates substantial gender and racial biases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias and Fairness in Large Language Models: A Survey",
+            "text": "",
+            "link": "https://direct.mit.edu/coli/article/50/3/1097/121961/Bias-and-Fairness-in-Large-Language-Models-A",
+            "snippet": "We present a comprehensive survey of bias evaluation and mitigation techniques for LLMs. We first consolidate, formalize, and expand notions of social bias and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Stereotyping Bias: Occurs when AI systems reinforce harmful stereotypes. For example, a translation model that consistently associates the word \"nurse\" with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Covert Racism in AI: How Language Models Are Reinforcing ...",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/covert-racism-ai-how-language-models-are-reinforcing-outdated-stereotypes",
+            "snippet": "New research reveals that large language models continue to perpetuate harmful racial biases, particularly against speakers of African American English.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Bias of AI-generated content: an examination of news ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10909834/",
+            "snippet": "by X Fang \u00b7 2024 \u00b7 Cited by 325 \u2014 In the context of LLMs, AIGC is considered biased if it exhibits systematic and unfair discrimination ... Moreover, the AIGC generated by each LLM exhibits ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Ethical and social risks from large Language Models",
+            "text": "",
+            "link": "https://medium.com/nlplanet/two-minutes-nlp-ethical-and-social-risks-from-large-language-models-e6f8e8373870",
+            "snippet": "The risks covered in the report are: Discrimination, Exclusion, and Toxicity: arise from the language model communicating unjust, toxic, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Covert Racism in AI: How Language Models Are Reinforcing ...",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/covert-racism-ai-how-language-models-are-reinforcing-outdated-stereotypes",
+            "snippet": "Speakers of African American English (AAE) dialect are known to experience discrimination in housing, education, employment, and criminal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Bias in Large Language Models: Origin, Evaluation, and ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.10915v1",
+            "snippet": "Social biases preserved by LLMs would likely lead to direct or indirect discrimination actions from LLMs. Ferrara (2023) argues that AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Limitations and Challenges of Language Generation Tools",
+            "text": "",
+            "link": "https://www.kent.edu/ctl/limitations-and-challenges-language-generation-tools",
+            "snippet": "They are prone to bias and exclusionary language. Because the language generators are simply utilizing predictive text based on what they have been taught, they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Bias of AI-generated content: an examination of news produced by ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10909834/",
+            "snippet": "In the context of LLMs, AIGC is considered biased if it exhibits systematic and unfair discrimination against certain population groups, particularly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Ethical and social risks of harm from Language Models - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2112.04359",
+            "snippet": "This includes four distinct risks: LMs can create unfair discrimination and representational and material harm by perpetuating stereotypes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Linguistic Bias in Generative AI - Responsible AI Initiative",
+            "text": "",
+            "link": "https://re-ai.berkeley.edu/projects/linguistic-bias-generative-ai",
+            "snippet": "As language model usage increases globally, these tools risk reinforcing power dynamics and amplifying inequalities that harm minoritized language communities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Unfair Discrimination in AI Language Model Outputs",
+            "text": "",
+            "link": "https://donets.org/risks/unfair-discrimination-in-ai-language-model-outputs",
+            "snippet": "Analysis of 'Unfair Discrimination in AI Language Model Outputs' - an AI risk in Discrimination and toxicity identified through peer-reviewed",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Bias and Fairness in Large Language Models: A Survey",
+            "text": "",
+            "link": "https://direct.mit.edu/coli/article/50/3/1097/121961/Bias-and-Fairness-in-Large-Language-Models-A",
+            "snippet": "by IO Gallegos \u00b7 2024 \u00b7 Cited by 1671 \u2014 We present a comprehensive survey of bias evaluation and mitigation techniques for LLMs. We first consolidate, formalize, and expand notions of social bias and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Explicitly unbiased large language models still form biased ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874501/",
+            "snippet": "by X Bai \u00b7 2025 \u00b7 Cited by 169 \u2014 We found pervasive stereotype biases mirroring those in society in 8 value-aligned models across 4 social categories (race, gender, religion, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias in Large Language Models: Origin, Evaluation, and Mitigation",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.10915v1",
+            "snippet": "Extrinsic bias in these tasks can cause the model to misinterpret or unfairly process input text based on biased associations learned during ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethical concerns of generative AI and mitigation strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1568494626002371",
+            "snippet": "LLMs are capable of generating text, images, and music that mimic human creativity based on prompts provided by humans [3], [4]. This capability is powered by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Ethical and social risks from large Language Models | by ... - Medium",
+            "text": "",
+            "link": "https://medium.com/nlplanet/two-minutes-nlp-ethical-and-social-risks-from-large-language-models-e6f8e8373870",
+            "snippet": "Misinformation Harms: arise from the language model predicting false, misleading, or poor quality information. Potential harms include deception ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Biases in artificial intelligence (AI) systems pose a range of ethical issues. The myriads of biases in AI systems are briefly reviewed and divided in three ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Evaluating and Mitigating Discrimination in Language Model ...",
+            "text": "",
+            "link": "https://www.anthropic.com/news/evaluating-and-mitigating-discrimination-in-language-model-decisions",
+            "snippet": "We present a method for proactively evaluating the potential discriminatory impact of LMs in a wide range of use cases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 26,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A language generation model is designed to produce human-like text based on given prompts, aiming to provide helpful and informative responses. The model's primary function is to generate text that is relevant and coherent, using patterns and associations learned from large datasets. It intends to assist users by creating engaging and accurate content, while maintaining a neutral and respectful tone.",
+        "elapsed_time": 54.44539429199904
+    }
+}

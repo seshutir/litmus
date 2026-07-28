@@ -1,0 +1,413 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+    "output": " Unequal performance across groups is a not a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is not a risk associated with medical image analysis using AI systems.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing medical images, such as chest X-rays, to provide accurate classifications and diagnoses",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in relying on trained databases to inform decision-making processes in AI systems",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in assisting healthcare professionals in identifying patterns using AI systems.",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unequal performance across groups in AI systems is a risk in making informed decisions while striving to maintain fairness and accuracy in predictions",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias in medical AI: Implications for clinical decision-making - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/",
+            "snippet": "by JL Cross \u00b7 2024 \u00b7 Cited by 674 \u2014 Left unaddressed, biased medical AI can lead to substandard clinical decisions and the perpetuation and exacerbation of longstanding healthcare ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bias in artificial intelligence for medical imaging: fundamentals, detection ...",
+            "text": "",
+            "link": "https://dirjournal.org/articles/doi/dir.2024.242854",
+            "snippet": "by B Ko\u00e7ak \u00b7 2025 \u00b7 Cited by 306 \u2014 AI in medical imaging is at risk of being compromised by several types of biases, which could adversely affect patient outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Risks of AI Race Detection in the Medical System | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/policy/policy-brief-risks-ai-race-detection-medical-system",
+            "snippet": "This brief warns that AI systems that infer patients' race in medical settings could deepen existing healthcare disparities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Study reveals why AI models that analyze medical images can be ...",
+            "text": "",
+            "link": "https://news.mit.edu/2024/study-reveals-why-ai-analyzed-medical-images-can-be-biased-0628",
+            "snippet": "studies have found that these models don't always perform well across all demographic groups, usually faring worse on women and people of color.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Addressing fairness in artificial intelligence for medical imaging",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41467-022-32186-3",
+            "snippet": "by MA Ricci Lara \u00b7 2022 \u00b7 Cited by 265 \u2014 A plethora of work has shown that AI systems can systematically and unfairly be biased against certain populations in multiple scenarios.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Underdiagnosis bias of artificial intelligence algorithms ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8674135/",
+            "snippet": "by L Seyyed-Kalantari \u00b7 2021 \u00b7 Cited by 1218 \u2014 Here, we examine algorithmic underdiagnosis in chest X-ray pathology classification across three large chest X-ray datasets, as well as one ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Study reveals why AI models that analyze medical images ...",
+            "text": "",
+            "link": "https://news.mit.edu/2024/study-reveals-why-ai-analyzed-medical-images-can-be-biased-0628",
+            "snippet": "studies have found that these models don't always perform well across all demographic groups, usually faring worse on women and people of color ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Quantitative assessment of impact of technical and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0010482525015008",
+            "snippet": "by D Cherezov \u00b7 2025 \u00b7 Cited by 5 \u2014 These models could exhibit biased performance across different patient groups, potentially leading to unequal outcomes in real-world applications where data",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI Warning on \u201cFairness Gaps\u201d for X-Ray Analysis",
+            "text": "",
+            "link": "https://www.insideprecisionmedicine.com/topics/precision-medicine/ai-warning-on-fairness-gaps-for-x-ray-analysis/",
+            "snippet": "While AI can spot demographic information on X-ray images, researchers have warned that this can also affect its accuracy for different genders and ethnic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias recognition and mitigation strategies in artificial ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-025-01503-7",
+            "snippet": "by F Hasanzadeh \u00b7 2025 \u00b7 Cited by 345 \u2014 This review examines the origins of bias in healthcare AI, strategies for mitigation, and responsibilities of relevant stakeholders towards achieving fair and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 Fairness extends to data collection for training AI systems, ensuring that historically marginalized groups are not disadvantaged.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Bias in medical AI: Implications for clinical decision-making - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778/",
+            "snippet": "by JL Cross \u00b7 2024 \u00b7 Cited by 674 \u2014 When an algorithm is trained on imbalanced data, this can lead to worse performance and algorithm underestimation for underrepresented groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "What Is AI Bias? Causes, Types, & Real-World Impacts",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias",
+            "snippet": "AI bias is a systematic tendency of an artificial intelligence system to produce outputs that unfairly favor or disadvantage certain groups or outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What is Data Bias?",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/data-bias",
+            "snippet": "Data bias can lead to unfair, inaccurate and unreliable AI systems resulting in serious consequences for individuals, businesses and society.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The potential for AI to have limitations or biases in its decision-making ...",
+            "text": "",
+            "link": "https://www.facebook.com/groups/459796183286792/posts/735995122333562/",
+            "snippet": "Bias in AI can lead to unfair or unequal treatment of certain groups, and it can also undermine the accuracy and reliability of the AI system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 Clinical use of AI systems should demonstrate equitable performance across a spectrum of demographic groups to ensure performant generalizability, including ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI bias in healthcare | Star Webinar",
+            "text": "",
+            "link": "https://star.global/posts/addressing-ai-bias-in-healthcare/",
+            "snippet": "When healthcare AI models are biased, they produce inaccurate results that disproportionately affect certain patient groups based on factors like race, gender ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Confronting the Mirror: Reflecting on Our Biases Through AI in Health Care",
+            "text": "",
+            "link": "https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care",
+            "snippet": "AI models that predict patient outcomes may inherit biases if the data used reflects historical inequalities in treatment or access to care.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Understanding Bias and Fairness in AI-enabled Healthcare Software",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=bcqofACB-Sk",
+            "snippet": "The meeting will focus on considerations to reduce bias and increase fairness in artificial intelligence used to make health care decisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Artificial intelligence has the power to transform our world. ...",
+            "text": "",
+            "link": "https://www.facebook.com/SantaClaraUniversity/posts/artificial-intelligence-has-the-power-to-transform-our-world-but-does-it-work-eq/1370435715112205/",
+            "snippet": "Bias can cause artificial intelligence to make decisions that are systematically unfair to particular groups of people, and researchers have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Addressing the problem of algorithmic bias",
+            "text": "",
+            "link": "https://humanrights.gov.au/sites/default/files/document/publication/final_version_technical_paper_addressing_the_problem_of_algorithmic_bias.pdf",
+            "snippet": "This paper explores the risk that AI systems produce results that cause unfair disadvantage, or even unlawful discrimination, by reference to a hypothetical, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "What are the concerns about AI prompting accuracy and ...",
+            "text": "",
+            "link": "https://www.facebook.com/groups/698593531630485/posts/1128950318594802/",
+            "snippet": "**What aspects of AI prompting raise the most concerns for you, whether in terms of accuracy, bias, ethical implications, or user control?**\n* Misinformation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias in artificial intelligence for medical imaging - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880872/",
+            "snippet": "by B Ko\u00e7ak \u00b7 2025 \u00b7 Cited by 326 \u2014 AI in medical imaging is at risk of being compromised by several types of biases, which could adversely affect patient outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Underdiagnosis bias of artificial intelligence algorithms ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41591-021-01595-0",
+            "snippet": "by L Seyyed-Kalantari \u00b7 2021 \u00b7 Cited by 1220 \u2014 Artificial intelligence (AI) systems have increasingly achieved expert-level performance in medical imaging applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Evaluation metrics in medical imaging AI",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S3050577125000283",
+            "snippet": "by B Kocak \u00b7 2025 \u00b7 Cited by 98 \u2014 Artificial intelligence (AI) has rapidly become a transformative force in medical imaging, enabling diverse applications such as disease classification, lesion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI Medical Image Analyses Can Be Biased",
+            "text": "",
+            "link": "https://www.labmanager.com/ai-medical-image-analyses-can-be-biased-32445",
+            "snippet": "Artificial intelligence models often play a role in medical diagnoses, especially when it comes to analyzing images such as X-rays.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Evaluating and Mitigating Bias in AI-Based Medical Text ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2504.17279v1",
+            "snippet": "However, there is growing concern that such AI systems may reflect and amplify human bias, and reduce the quality of their performance in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.8,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 4,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.7815508558078626e-05,
+        "norm_entropy": 0.00010687131444666094,
+        "avg_entropy": 3.563101711615725e-06,
+        "avg_norm_entropy": 2.137426288933219e-05,
+        "avg_prob": 0.7999993999999999,
+        "avg_logprob": -2.763102911593255,
+        "avg_explogprob": 0.0630956839714267,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.8,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+        "response": " Unequal performance across groups is a not a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+        "elapsed_time": 208.9594809159753
+    }
+}

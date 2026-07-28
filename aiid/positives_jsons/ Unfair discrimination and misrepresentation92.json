@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in this workforce management system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing data on shift cancellations to assess worker reliability in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI hiring tools may be filtering out the best job applicants - BBC",
+            "text": "",
+            "link": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+            "snippet": "AI screening technology, such as one-way video interviews, can leave some highly qualified candidates without the interviews they deserve.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Artificial Intelligence is Gaining Traction in the Workplace, but it has ...",
+            "text": "",
+            "link": "https://www.oswaldcompanies.com/media-center/artificial-intelligence-is-gaining-traction-in-the-workplace-but-it-has-drawbacks-protect-your-workforce-and-your-bottom-line/",
+            "snippet": "Here are some key risks: \u00b7 Data Privacy and Cybersecurity \u00b7 Algorithmic Bias and Discrimination \u00b7 Automation Errors \u00b7 Intellectual Property.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Discrimination by recruitment algorithms is a real problem - Pursuit",
+            "text": "",
+            "link": "https://pursuit.unimelb.edu.au/articles/discrimination-by-recruitment-algorithms-is-a-real-problem",
+            "snippet": "As the use by employers of AI to screen job applicants grows, there are serious risks of discrimination against women, older applicants and minority groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI bias in recruitment and promotion: navigating legal ... - d&i Leaders",
+            "text": "",
+            "link": "https://dileaders.com/blog/ai-bias-in-recruitment-and-promotion-navigating-legal-and-discrimination-risks/",
+            "snippet": "However, these systems also carry significant risks, particularly the potential to replicate, or even amplify, existing biases. Understanding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "AI algorithms can perpetuate discrimination through biased data sets, opaque decision-making processes, and exclusionary employment criteria if they are not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "exploring the perils of algorithmic biases and selective adherence to ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420529/",
+            "snippet": "Particularly, we focus on (i) users noticing and correcting such algorithmic biases in the context of hiring decisions and racial discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The dark sides of people analytics: reviewing the perils for ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2021.1927213",
+            "snippet": "... risk of covert discrimination. Consequently, the use of and reliance on learning algorithms and AI can reinforce social and economic stratification ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithm\u2010facilitated discrimination: a socio\u2010legal study of the use by ...",
+            "text": "",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1111/jols.12535",
+            "snippet": "The risks of discrimination are therefore high when the HireVue system is used by employers in countries not adequately represented in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial Intelligence & the Capacity for Discrimination: The ...",
+            "text": "",
+            "link": "https://www.igminresearch.com/articles/html/igmin250",
+            "snippet": "Without adequate data governance and transparency, AI systems can perpetuate discrimination. AI's ability to discriminate stems primarily from biased data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Can Employers Use AI or Algorithms to Evaluate Employee ...",
+            "text": "",
+            "link": "https://www.mitchellkline.com/can-employers-use-ai-or-algorithms-to-evaluate-employee-performance/",
+            "snippet": "A primary concern is that the AI's training data may reflect historical biases, leading to discriminatory outcomes. The algorithms themselves ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI Bias in Scheduling Algorithms: Detection and Prevention",
+            "text": "",
+            "link": "https://www.myshyft.com/blog/ai-bias-scheduling-algorithms/",
+            "snippet": "... discrimination in work schedules that affects employee ... objectives prioritize efficiency over fairness, potentially leading to discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Data and Algorithms at Work: The Case for Worker Technology Rights",
+            "text": "",
+            "link": "https://laborcenter.berkeley.edu/data-algorithms-at-work/",
+            "snippet": "Of particular concern is that workers of color, women, and immigrants can face direct discrimination via systemic biases embedded in these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Ethical and legal challenges of artificial intelligence-driven healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7332220/",
+            "snippet": "... fair as the data that it is trained with. AI also bears a risk for biases and thus discrimination. It is therefore vital that AI makers are aware of this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Data-Driven Workplace and the Case for Worker Technology ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/00197939221131558",
+            "snippet": "To date, the best-documented harm to workers from data-driven technologies is bias and discrimination based on race, gender, age, disability, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to assess worker reliability by analyzing data on shift cancellations and other factors. The goal of this system is to optimize workforce management and streamline scheduling processes. It aims to provide a fair and accurate evaluation of worker performance, taking into account various variables that may impact reliability.",
+        "elapsed_time": 33.55012762500155
+    }
+}

@@ -1,0 +1,433 @@
+{
+    "input": " Governance failure is a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+    "output": " Governance failure is a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Governance failure is a risk in an autonomous vehicle system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "An autonomous vehicle system's governance failure is a risk in navigating through various road environments using advanced sensors and algorithms",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Governance failure is a risk in detecting and responding to obstacles in an autonomous vehicle system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Governance failure is a risk in an autonomous vehicle system's automatically steering, accelerating, and braking",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Governance failure is a risk in an autonomous vehicle system's continuous learning and improvement of performance through real-world testing and data analysis",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Risk and Opportunity Governance of Autonomous Cars - IRGC",
+            "text": "",
+            "link": "https://irgc.org/risk-and-opportunity-governance-of-autonomous-cars/",
+            "snippet": "If the vulnerability of vehicles and transportation systems increases as autonomy increases, fail-safe or resilience strategies will be needed. Adaptive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Considering Trust and Risk Perception during Failures - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0001457525003550",
+            "snippet": "This study contributes to this growing area by examining how different AV failure types (mechanical and security) and scenarios influence driver trust and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Who Is Responsible When Autonomous Systems Fail?",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/who-responsible-when-autonomous-systems-fail/",
+            "snippet": "The responsibility for failures was deflected away from the automated parts of the system (and the humans, such as engineers, whose control is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "(PDF) Autonomous Vehicles: Legal Governance of Civil Liability Risks",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392884508_Autonomous_Vehicles_Legal_Governance_of_Civil_Liability_Risks",
+            "snippet": "... autonomous system logic failures, which represent core challenges in modern product. liability regimes. Autonomous driving technology has fundamentally ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Navigating Liability in the Age of Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.wshblaw.com/experience-navigating-liability-in-the-age-of-autonomous-vehicles",
+            "snippet": "Negligence claims arise when drivers fail to meet this duty by failing to intervene or misusing the vehicle's technology. Defense strategies in negligence cases ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "An attacker could potentially feed the system false data, causing it to 'see' obstacles that do not exist, or fail to detect those that do. The GPS system, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Autonomous Vehicle Ethical Considerations - Meegle",
+            "text": "",
+            "link": "https://www.meegle.com/en_us/topics/autonomous-vehicles/autonomous-vehicle-ethical-considerations",
+            "snippet": "Who Is Responsible for Ethical Failures in Autonomous Vehicles? Responsibility can lie with manufacturers, programmers, or users, depending on the nature of the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] Understanding AI Risks in Transportation | September 2024",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/2024-09/HASS_COE_AI_Assurance_Whitepaper_AI_Risk_Sep2024.pdf",
+            "snippet": "Reducing the severity of failure by limiting the AI responsibility. This makes it so that AI system failures result in fewer harms, thus decreasing failure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Towards common ethical and safe 'behaviour' standards for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001457522001609",
+            "snippet": "In this context, vehicle failure conditions will be subject to new responsibility and liability questions. The EC recommendations also stress the importance of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] RISK AND OPPORTUNITY GOVERNANCE OF AUTONOMOUS CARS",
+            "text": "",
+            "link": "https://irgc.org/wp-content/uploads/2018/09/IRGC-workshop-Autonomous-Cars_15-16June-Background-Paper-13June.pdf",
+            "snippet": "Sensor suites and algorithmic capabilities of AV are not immune to failure, creating the potential for significant known and unknown safety risks. Risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Evaluating the potential risks posed by autonomous vehicles by ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666691X25000715",
+            "snippet": "Prediction failure risk-aware decision-making for autonomous vehicles ... A generic approach to analysing failures in human \u2013 system interaction in autonomy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "(PDF) Autonomous Vehicles: Legal Governance of Civil Liability Risks",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392884508_Autonomous_Vehicles_Legal_Governance_of_Civil_Liability_Risks",
+            "snippet": "... barriers for victims, ultimately leading to the failure of legal ... autonomous system logic failures, which represent core challenges in modern product.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "[PDF] Workshop on Governance of the Safety of Automated Vehicles",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/12837-workshop_on_governance_of_automated_vehicles_03062017_final_version-tag.pdf",
+            "snippet": "Will public expectations accommodate a future system in which the safety consequences of human error are almost entirely eliminated, but ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Learning from the Failure of Autonomous and Intelligent Systems ...",
+            "text": "",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1111/risa.13850",
+            "snippet": "Learning from the failures of AIS is particularly urgent because many of these new technologies remain at early stages of experimentation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Tesla's AI Governance Failures Highlight Industry Pattern - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/posts/maheshawati_ai-responsibleai-enterpriseai-activity-7439867670168023040-gO7o",
+            "snippet": "Tesla's AI Governance Failures Highlight Industry Pattern. View ... The biggest unresolved challenge is the long tail problem, autonomous driving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Safety Considerations for Automated Passenger Vehicles",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/R48605",
+            "snippet": "Other safety limitations of partially and conditionally automated vehicles found in studies are drivers with impaired vigilance, a failure to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "A Comprehensive Analysis of Safety Failures in Autonomous Driving ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2673-7590/6/1/21",
+            "snippet": "Failures in automated driving systems rarely result from a single technical malfunction. Instead, they emerge from coupled organizational, technical, human, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Subrogating Automated Driving Systems & Vehicle Failures | MWL",
+            "text": "",
+            "link": "https://www.mwl-law.com/subrogating-automated-driving-systems-and-autonomous-vehicle-failures/",
+            "snippet": "Products malfunction and computers fail. Simple auto subrogation has now entered the more complex and exponentially more expensive world of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Automated driving regulations \u2013 where are we now? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "Human-machine interaction brings several challenges, such as misunderstanding of automation, overreliance on automation, and failed feedback on system states ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Evaluating the potential risks posed by autonomous vehicles by ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666691X25000715",
+            "snippet": "This research introduces a new method for evaluating potential risks linked to Autonomous Vehicles (AVs) by employing an integrated Decomposed Fuzzy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Breaking through safety performance stagnation in autonomous ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41467-026-69761-x",
+            "snippet": "As NDE is generated based on naturalistic driving data, testing results in NDE can represent the safety performance of AVs in the real world.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Learning from the Failure of Autonomous and Intelligent Systems ...",
+            "text": "",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1111/risa.13850",
+            "snippet": "One of the most critical risk management challenges is to ensure that the failures of AIS can be reliably identified, rigorously analyzed, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "[PDF] Failure Analysis of Autonomous Systems with RL-Guided MCMC ...",
+            "text": "",
+            "link": "https://ntrs.nasa.gov/api/citations/20250004865/downloads/RL-MCMC.pdf",
+            "snippet": "In the first stage, reinforcement learning is used to find a policy that encodes an approximation of the statistical modes of a failure likelihood function.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "AI Safety for Autonomous Systems: Avoiding Unintended Impacts",
+            "text": "",
+            "link": "https://www.e-spincorp.com/ai-safety-for-autonomous-systems-avoiding-unintended-impacts/",
+            "snippet": "AI-powered automotive systems have been linked to at least 25 confirmed fatalities and hundreds of injuries and property damage incidents.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Automated driving regulations \u2013 where are we now? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "... Design Domain or a system failure with an effect on the DDT. Dynamic ... The regulation includes requirements for system safety, fail-safe responses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Public acceptance and perception of autonomous vehicles - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7908960/",
+            "snippet": "Fault tolerance aims at preventing small faults from developing into serious failures. ... The main objective of the FTC is to detect faults in the system and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] A Framework for Automated Driving System Testable Cases and ...",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13882-automateddrivingsystems_092618_v1a_tag.pdf",
+            "snippet": "Navigation and Control. Failures associated with navigation focus primarily on software algorithms related to mission planning, maneuver/trajectory planning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] NVIDIA Autonomous Vehicles Safety Report",
+            "text": "",
+            "link": "https://images.nvidia.com/aem-dam/en-zz/Solutions/auto-self-driving-safety-report.pdf",
+            "snippet": "By eventually removing human error from the driving equation, we can ... Our products enable the vehicle to detect a system malfunction or breach of.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/1424-8220/24/16/5108",
+            "snippet": "This survey covers 108 publications and presents an overview of the sensors used in AVs today, categorizes the sensor's failures that can occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.999905,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999979,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.996494,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.003617842052591528,
+        "norm_entropy": 0.03544978269021271,
+        "avg_entropy": 0.0007235684105183056,
+        "avg_norm_entropy": 0.0070899565380425425,
+        "avg_prob": 0.9992751999999999,
+        "avg_logprob": -0.000726033031092301,
+        "avg_explogprob": 0.9992742304671155,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    9.5e-05,
+                    0.999905
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    2.1e-05,
+                    0.999979
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.003506,
+                    0.996494
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.9985536603004,
+        "topic": "",
+        "query": " Governance failure is a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+        "response": " Governance failure is a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+        "elapsed_time": 53.85777824999968
+    }
+}

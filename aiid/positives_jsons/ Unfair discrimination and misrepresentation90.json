@@ -1,0 +1,475 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a credit assessment system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in evaluating an individual's creditworthiness in a credit assessment system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing a corresponding credit limit in a credit assessment system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in making fair and unbiased decisions based on a user's financial history",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in making fair and unbiased decisions based on a user's credit qualifications",
+            "contexts": [
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing accurate and reliable credit evaluations in a credit assessment system",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "What is a Fair Lending Risk Assessment?",
+            "text": "",
+            "link": "https://www.bankershub.com/blogs/blog/what-is-a-fair-lending-risk-assessment?srsltid=AfmBOoqE3OybXQmOAC5XeMGdnHmkLbGRzMS2_vcE6b1HDUcsrrn6i8LG",
+            "snippet": "These laws aim to prevent discrimination in lending practices and ensure equal access to credit for all consumers. By evaluating their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Discriminatory Impact of Credit Scores",
+            "text": "",
+            "link": "https://www.publicjustice.net/the-discriminatory-impact-of-credit-scores/",
+            "snippet": "Under the legal theory of disparate impact, anti-discrimination laws can be invoked when a neutral policy or practice leads to discriminatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding Fair Lending Risk in the Credit Process",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=01thaJ95NUg",
+            "snippet": "This video provides an overview of redlining discrimination risk and discusses how a bank's compliance management system can help address such ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How Flawed Data Aggravates Inequality in Credit | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/how-flawed-data-aggravates-inequality-credit",
+            "snippet": "Those prohibitions are intended to prevent discrimination, but they can also block lenders from recognizing differences between groups that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Comptroller's Handbook, \"Fair Lending\"",
+            "text": "",
+            "link": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/fair-lending/pub-ch-fair-lending.pdf",
+            "snippet": "The additional credit analysis involved in underwriting commercial credit products adds complexity to the sampling and discrimination analysis process.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Understanding AI Bias in Lending Decisions - Accessible Law",
+            "text": "",
+            "link": "https://www.accessiblelaw.untdallas.edu/post/when-algorithms-judge-your-credit-understanding-ai-bias-in-lending-decisions",
+            "snippet": "This form of discrimination is particularly harmful because it can be difficult to identify, challenge, or remedy under existing legal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "CFPB Targets Unfair Discrimination in Consumer Finance",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-targets-unfair-discrimination-in-consumer-finance/",
+            "snippet": "Consumers can be harmed by discrimination regardless of whether it is intentional. Discrimination can be unfair in cases where the conduct may ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "VIII-6 Fair Credit Reporting Act | FDIC.gov",
+            "text": "",
+            "link": "https://www.fdic.gov/consumer-compliance-examination-manual/viii-6-fair-credit-reporting-act",
+            "snippet": "... unfair discrimination in any state in which the financial institution is lawfully doing business. ... Regardless of whether the institution provides risk-based ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "No. 112: AI Systems and a Risk of Discrimination in ...",
+            "text": "",
+            "link": "https://law.stanford.edu/publications/no-112-ai-systems-and-a-risk-of-discrimination-in-creditworthiness-assessments-the-role-of-the-eu-artificial-intelligence-act-in-safeguarding-the-right-to-non-discrimination/",
+            "snippet": "The aim of this thesis is to assess the existing legal framework that safeguards the right to non-discrimination in credit scoring assessments ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "s Top-Issued Fair Lending Matters Requiring Immediate Attention ...",
+            "text": "",
+            "link": "https://www.consumercomplianceoutlook.org/2024/fourth-issue/fair-lending",
+            "snippet": "ECOA and the FHA prohibit discrimination in all aspects of the transaction, including when evaluating applicants for credit. Lenders' underwriting systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "What protections do I have against credit discrimination?",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/fair-lending/",
+            "snippet": "The Equal Credit Opportunity Act makes it illegal for a creditor to discriminate in any aspect of credit transaction based on certain characteristics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "s Top-Issued Fair Lending Matters Requiring Immediate Attention ...",
+            "text": "",
+            "link": "https://www.consumercomplianceoutlook.org/2024/fourth-issue/fair-lending",
+            "snippet": "This article discusses the top-issued fair lending matters. We believe data-driven articles can help institutions assess compliance risk in their operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "What to Know About Adverse Action and Risk-Based Pricing Notices",
+            "text": "",
+            "link": "https://www.ftc.gov/business-guidance/resources/using-consumer-reports-credit-decisions-what-know-about-adverse-action-risk-based-pricing-notices",
+            "snippet": "if you deny a consumer credit based on information in a consumer report, you must provide an \u201cadverse action\u201d notice to the consumer. if you grant credit, but ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Understanding Fair Lending Risk in the Credit Process - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=D3p9bPNxOfg",
+            "snippet": "This video provides an overview of overt discrimination risk and discusses how a bank's compliance management system can help address such ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Discriminatory Impact of Credit Scores - Public Justice",
+            "text": "",
+            "link": "https://www.publicjustice.net/the-discriminatory-impact-of-credit-scores/",
+            "snippet": "Credit scores are often inaccurate and poorly predict the very thing they're designed to measure\u2013the likelihood that we will repay a loan.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article, as it is common in AI ethics literature, will concentrate on the problematic cases in which the outcome of bias may lead to discrimination by AI- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Bias and Fairness of AI-based systems within Financial Crime",
+            "text": "",
+            "link": "https://www.niceactimize.com/blog/fraud-bias-and-fairness-of-ai-based-systems-within-financial-crime",
+            "snippet": "While there isn't a silver bullet when it comes to remediating the dangers of discrimination and unfairness in AI systems or permanent fixes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Algorithmic Bias, Financial Inclusion, and Gender",
+            "text": "",
+            "link": "https://www.womensworldbanking.org/wp-content/uploads/2024/03/Algorithmic_Bias_Primer.pdf",
+            "snippet": "In this section, our focus is on unfair bias or discrimination. Discrimination happens when some prioritized groups receive a systematic advantage (being ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "Research is concerned with ensuring unbiased decision-making and thereby preventing discrimination by AI systems. With regard to AI systems, it should also be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "The legal doctrine that will be key to preventing AI discrimination",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-legal-doctrine-that-will-be-key-to-preventing-ai-discrimination/",
+            "snippet": "Disparate impact laws allow people to sue for discrimination based on race, sex, or another protected characteristic without having to prove ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "[PDF] Algorithmic Bias, Financial Inclusion, and Gender",
+            "text": "",
+            "link": "https://www.womensworldbanking.org/wp-content/uploads/2024/03/Algorithmic_Bias_Primer.pdf",
+            "snippet": "Discrimination happens when some prioritized groups receive a systematic advantage (being offered credit, for example) and other groups are placed at a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "[PDF] How Credit Scores \u201cBake In\u201d and Perpetuate Past Discrimination",
+            "text": "",
+            "link": "https://www.nclc.org/wp-content/uploads/2016/05/20240227_Issue-Brief_Past-Imperfect.pdf",
+            "snippet": "Credit reports and scores reflect stunning racial disparities. Credit reporting and credit scoring are supposed to be entirely objective, with no room for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Criticism of credit scoring systems in the United States - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/Criticism_of_credit_scoring_systems_in_the_United_States",
+            "snippet": "Racial bias, discrimination against prospective employees, discrimination against medical and student debt holders, poor risk predictability, manipulation of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "Algorithm Bias in Credit Scoring: What's Inside the Black Box? - CGAP",
+            "text": "",
+            "link": "https://www.cgap.org/blog/algorithm-bias-in-credit-scoring-whats-inside-black-box",
+            "snippet": "Algorithms and automation don't necessarily imply a bigger risk of discrimination than traditional types of credit scoring. In the absence ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "How Flawed Data Aggravates Inequality in Credit | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/how-flawed-data-aggravates-inequality-credit",
+            "snippet": "AI offers new tools for calculating credit risk. But it can be tripped up by noisy data, leading to disadvantages for low-income and minority borrowers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Fairness in credit scoring: Assessment, implementation and profit ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0377221721005385",
+            "snippet": "The empirical results substantiate the evaluation of fairness measures, identify suitable options to implement fair credit scoring, and clarify ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "How can consumers without credit history benefit from the use of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0306457324003315",
+            "snippet": "This research aims to enhance the predictability of creditworthiness among marginalized consumers affected by the widespread adoption of AI frameworks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI Bias in Credit & Loan Processing - ITMAGINATION",
+            "text": "",
+            "link": "https://www.itmagination.com/blog/credit-loan-processing-ai-biased-when-assessing-credit-worthiness",
+            "snippet": "There are significant concerns about bias, as AI systems can inadvertently perpetuate historical prejudices and lead to unfair treatment of certain groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Evaluating AI fairness in credit scoring with the BRIO tool - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2406.03292v1",
+            "snippet": "We present a method for quantitative, in-depth analyses of fairness issues in AI systems with an application to credit scoring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Algorithm Bias in Credit Scoring: What's Inside the Black Box? - CGAP",
+            "text": "",
+            "link": "https://www.cgap.org/blog/algorithm-bias-in-credit-scoring-whats-inside-black-box",
+            "snippet": "Computers can make faster, better, and less biased lending decisions than humans, but only if human bias hasn't crept into their algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 6,
+        "num_contexts": 31,
+        "num_true_atoms": 6,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999997000171535e-06,
+        "norm_entropy": 0.00012824557733663114,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 6,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A credit assessment system is designed to evaluate an individual's creditworthiness and provide a corresponding credit limit. The system aims to make fair and unbiased decisions based on a user's financial history and credit qualifications. It seeks to provide accurate and reliable credit evaluations to help individuals manage their financial obligations.",
+        "elapsed_time": 67.99979041699953
+    }
+}

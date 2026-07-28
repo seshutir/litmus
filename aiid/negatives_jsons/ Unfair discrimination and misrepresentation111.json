@@ -1,0 +1,301 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with a video analysis system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with automatically labeling and categorizing video content using a video analysis system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with using machine learning algorithms to identify and assign keywords to videos",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "\"Algorithmic Bias\" and \"Unfair\" Discrimination",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=ci4_W2U-xbo",
+            "snippet": "However, with those potential benefits come challenges, such as the risk that AI applications may result in unintended bias or \"unfair\u00a0...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Disparate Impact as Uniquely Relevant in the Age of AI",
+            "text": "",
+            "link": "https://civilrights.org/disparate-impact-age-of-ai/",
+            "snippet": "Understanding how AI systems create discriminatory outcomes is crucial for grasping why the disparate impact doctrine is essential to protect people from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How AI Is (and Isn't) Litigated in U.S. Federal Court Opinions",
+            "text": "",
+            "link": "https://arxiv.org/html/2607.23888v1",
+            "snippet": "Unfair discrimination and misrepresentation (N incident=115) and Unequal performance across groups (n=32) are more prevalent in AI incidents ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Selection and measurement bias arise when marginalized groups are systematically omitted or mislabeled during data collection; such bias has been detected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "1.1 Unfair discrimination and misrepresentation",
+            "text": "",
+            "link": "https://www.airi-navigator.com/subdomain/1-1",
+            "snippet": "Explore AI risks, incidents, governance, and expert data for the Unfair discrimination and misrepresentation subdomain within Discrimination & Toxicity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias in AI",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "If the system is not tested with diverse inputs or monitored for bias after deployment, it can lead to unintended discrimination or exclusion. Addressing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Understanding Bias in AI-Based Video Analytics: Impacts on ...",
+            "text": "",
+            "link": "https://intelexvision.com/understanding-bias-in-ai-based-video-analytics-impacts-on-precision-and-recall-introduction/",
+            "snippet": "Bias in AI refers to systematic and unfair discrimination that is often unintentional and arises due to the data or algorithms used. In the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Labeling AI-Generated Content May Not Change Its Persuasiveness",
+            "text": "",
+            "link": "https://hai.stanford.edu/policy/labeling-ai-generated-content-may-not-change-its-persuasiveness",
+            "snippet": "Terms of Use \u00b7 Privacy \u00b7 Copyright \u00b7 Trademarks \u00b7 Non-Discrimination \u00b7 Accessibility. \u00a9 Stanford University. Stanford, California 94305. Pause ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Facial recognition automates discrimination. The ACLU-MN is fighting to end law enforcement's use of facial recognition technology in Minnesota.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The AI risk repository: A meta-review, database, and taxonomy of risks from ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389926000267",
+            "snippet": "by P Slattery \u00b7 2026 \u00b7 Cited by 17 \u2014 The Domain Taxonomy classifies risks by their effects across seven areas, from discrimination and privacy violations to misinformation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "When humans discriminate, it's easy to assign fault. But if a student is unfairly harmed by an algorithm relying on machine learning, who is accountable for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Considerations for Machine Learning, AI Models, and ...",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 Algorithmic bias is when the bias is not actually in the input data and is created by the algorithm",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "While algorithms can be a force for good, they can also violate the right to privacy or lead to discriminatory decision-making, automated tools are far from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "New tool identifies the sources of fake videos | UCR News",
+            "text": "",
+            "link": "https://news.ucr.edu/articles/2026/07/24/new-tool-identifies-sources-fake-videos",
+            "snippet": "Artificial intelligence can generate videos so realistic that distinguishing them from authentic footage is becoming increasingly difficult.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "ViDscribe: Multimodal AI for Customizing Audio Description ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13157971/",
+            "snippet": "by MS Cheema \u00b7 2026 \u00b7 Cited by 1 \u2014 To answer a question, the system sends the user's query along with the current video timestamp, video AD, and representative video frames to Gemini 3 Pro, which ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Witness confirms that AI-generated videos are now clearly ...",
+            "text": "",
+            "link": "https://www.facebook.com/attyalman/posts/witness-confirms-that-ai-generated-videos-are-now-clearly-labeled-on-platforms-l/1314544354180986/",
+            "snippet": "Witness confirms that AI-generated videos are now clearly labeled on platforms like Meta. If you don't see the 'AI-generated' tag, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Distinguishing Reality from AI: Approaches for Detecting ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2073-431X/14/1/1",
+            "snippet": "by D Ghiur\u0103u \u00b7 2024 \u00b7 Cited by 121 \u2014 This paper systematically examines the characteristics, methodologies, and challenges associated with detecting the synthetic content across multiple modalities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Understanding the Impact of AI Label Disclosure on ...",
+            "text": "",
+            "link": "https://scholarspace.manoa.hawaii.edu/bitstreams/45602533-def1-431b-85f3-913c3e2ed312/download",
+            "snippet": "by Q Wang \u00b7 2026 \u00b7 Cited by 1 \u2014 To conceptualize this phenomenon in our study, we use the term video inauthenticity to represent deepfake videos that misrepresent events, people, or fact and.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 3,
+        "num_contexts": 20,
+        "num_true_atoms": 0,
+        "num_false_atoms": 3,
+        "num_uniform_atoms": 0,
+        "entropy": 4.1446531673892815e-05,
+        "norm_entropy": 6.412278866672059e-05,
+        "avg_entropy": 1.3815510557964271e-05,
+        "avg_norm_entropy": 2.1374262888906864e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 3,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A video analysis system is designed to automatically label and categorize video content using artificial intelligence. The system aims to provide accurate and relevant descriptions of videos, enabling users to discover and engage with content that aligns with their interests. It uses machine learning algorithms to identify and assign keywords to videos, facilitating a more personalized user experience.",
+        "elapsed_time": 44.32769287499832
+    }
+}

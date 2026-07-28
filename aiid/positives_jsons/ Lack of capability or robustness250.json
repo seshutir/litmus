@@ -1,0 +1,386 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An acoustic detection system is designed to identify and locate gunshots, providing audio evidence to support investigations. It aims to enhance public safety by accurately detecting and reporting gunshot incidents. The system's audio outputs are intended to assist in gathering evidence and informing decision-making in criminal cases.",
+    "output": " Lack of capability or robustness is a risk associated with An acoustic detection system is designed to identify and locate gunshots, providing audio evidence to support investigations. It aims to enhance public safety by accurately detecting and reporting gunshot incidents. The system's audio outputs are intended to assist in gathering evidence and informing decision-making in criminal cases.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the acoustic detection system for public safety",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an acoustic detection system is a risk in identifying and locating gunshots",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in an acoustic detection system is a risk in providing audio evidence to support investigations",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in an acoustic detection system is a risk in accurately detecting and reporting gunshot incidents",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in an acoustic detection system is a risk in assisting in gathering evidence and informing decision-making in criminal cases",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "U-M policy brief raises concerns about acoustic gunshot detection ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "U-M policy brief raises concerns about acoustic gunshot detection systems used by police departments. September 1, 2022. U-M policy brief raises ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Gunshot Detection: Reducing Gunfire through Acoustic Technology",
+            "text": "",
+            "link": "https://www.ojp.gov/library/publications/gunshot-detection-reducing-gunfire-through-acoustic-technology",
+            "snippet": "This guide describes best practices for the implementation and uses of acoustic gunshot detection systems, covering the basic principles that drive the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How to Think About Evaluating Acoustic Gunshot Detection Systems",
+            "text": "",
+            "link": "https://datascience.policefoundation.org/2021/10/22/acoustic-gunshot-detection-1/",
+            "snippet": "For example, when gunshots go undetected, gun crimes go unsolved, and low rates of detection and case clearances reduce the perceived risk (i.e. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Acoustic data detection in large-scale emergency vehicle sirens and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424004731",
+            "snippet": "The research addresses the need for more effective solutions in the domain of emergency vehicle siren and road noise detection by introducing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Reduced Robustness of Acoustic Systems to Background Noise",
+            "text": "",
+            "link": "https://donets.org/risks/reduced-robustness-of-acoustic-systems-to-background-noise",
+            "snippet": "Analysis of 'Reduced Robustness of Acoustic Systems to Background Noise' - an AI risk in AI system safety, failures and limitations identified",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "U-M policy brief raises concerns about acoustic gunshot detection ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "\"The performance equation ShotSpotter uses only counts errors based on failure to identify a verified gunshot, or a mislocated verified gunshot, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Acoustic detection of gunshots to improve measurement and ...",
+            "text": "",
+            "link": "https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.1370",
+            "snippet": "This study explores the use of passive acoustic monitoring to detect gunshots and map spatial and temporal patterns of hunting activity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Gunshot Detection: Reducing Gunfire through Acoustic Technology",
+            "text": "",
+            "link": "https://popcenter.asu.edu/content/gunshot-detection",
+            "snippet": "This guide describes best practices for the implementation and uses of acoustic gunshot detection systems (AGDS).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Understanding Gunshot Detection Systems: Benefits & Limits",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/gunshot-detection-system-technology",
+            "snippet": "Explore how gunshot detection system technology works, its advantages, limitations, and alternative solutions for enhanced safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Robust acoustic object detection - PubMed",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16266183/",
+            "snippet": "We consider a novel approach to the problem of detecting phonological objects like phonemes, syllables, or words, directly from the speech signal.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Robust sound event detection in bioacoustic sensor networks",
+            "text": "",
+            "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214168",
+            "snippet": "In this article, we develop, benchmark, and combine several machine listening techniques to improve the generalizability of SED models across heterogeneous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "A holistic review of acoustic detection for unmanned aerial vehicles",
+            "text": "",
+            "link": "https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A",
+            "snippet": "The acoustic-based UAV detection technology processes the acoustic signals captured by sensor arrays, distinguishing the distinctive features of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Acoustic Violence Detection Using Cascade Strategy for ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/15/6/1227",
+            "snippet": "The ability to detect violent events from audio is relevant to public safety, autonomous surveillance and content moderation, especially when visual sensing is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "(PDF) Verifying the Audio Evidence to Assist Forensic Investigation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/353012073_Verifying_the_Audio_Evidence_to_Assist_Forensic_Investigation",
+            "snippet": "Audio forensics is a field in forensics that is used to authenticate, enhance, and analyze audio files to aid in solving different crime investigations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "U-M policy brief raises concerns about acoustic gunshot detection ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "Research at the University of Michigan finds law enforcement technology aimed at detecting gunshot sounds and notifying police in close to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Measurements, Analysis, Classification, and Detection of Gunshot ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9737970/",
+            "snippet": "This paper focuses on the analysis of feature importance pertaining to gunshot and gunshot-like sounds.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The Hidden Costs of Police Technology: Evaluating Acoustic ...",
+            "text": "",
+            "link": "https://www.policechiefmagazine.org/the-hidden-costs-of-police-technology/",
+            "snippet": "Results show that AGDS simply seem to replace traditional calls for service and do so less efficiently and at a greater monetary cost to departments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Understanding Gunshot Detection Systems: Benefits & Limits",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/gunshot-detection-system-technology",
+            "snippet": "The biggest risks are accuracy, variability and privacy concerns. False positives can occur when impulsive sounds (fireworks, construction noise ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "U-M policy brief raises concerns about acoustic gunshot detection ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "U-M policy brief raises concerns about acoustic gunshot detection systems ... evidence the system \"actively reduces police/citizen collaboration.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Impact of ShotSpotter Technology on Firearm Homicides and Arrests ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8566613/",
+            "snippet": "Results suggest that implementing ShotSpotter technology has no significant impact on firearm-related homicides or arrest outcomes. Policy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Does Acoustic Gunshot Detection Technology Reduce Crime? A ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12103-025-09883-y",
+            "snippet": "Gun violence has led many police agencies to adopt acoustic gunshot detection technology (GDT) to identify gunshots and provide precise ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "[PDF] SoundThinking's Black-Box Gunshot Detection Method",
+            "text": "",
+            "link": "https://law.stanford.edu/wp-content/uploads/2023/06/Publish_26-STLR-193-2023_SoundThinkings-Black-Box-Gunshot-Detection-Method.pdf",
+            "snippet": "SoundThinking markets their ShotSpotter black-box gunshot detection method to local governments and police departments as both a real-time alert.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "U-M policy brief raises concerns about acoustic gunshot detection ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "U-M policy brief raises concerns about acoustic gunshot detection systems used by police departments. September 1, 2022. U-M policy brief ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Police Technology: Acoustic Gunshot Detection Systems",
+            "text": "",
+            "link": "https://icjia.illinois.gov/researchhub/articles/police-technology-acoustic-gunshot-detection-systems",
+            "snippet": "Acoustic gunshot detection systems (AGDs) such as ShotSpotter use sound sensors to locate gunshots in a community, improve response times, determine how many ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 24,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An acoustic detection system is designed to identify and locate gunshots, providing audio evidence to support investigations. It aims to enhance public safety by accurately detecting and reporting gunshot incidents. The system's audio outputs are intended to assist in gathering evidence and informing decision-making in criminal cases.",
+        "response": " Lack of capability or robustness is a risk associated with An acoustic detection system is designed to identify and locate gunshots, providing audio evidence to support investigations. It aims to enhance public safety by accurately detecting and reporting gunshot incidents. The system's audio outputs are intended to assist in gathering evidence and informing decision-making in criminal cases.",
+        "elapsed_time": 62.0068202500006
+    }
+}

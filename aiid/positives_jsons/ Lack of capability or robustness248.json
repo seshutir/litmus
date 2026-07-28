@@ -1,0 +1,313 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with Autonomous vehicles are designed to provide safe and efficient transportation by harnessing advanced navigation technology. They aim to reduce congestion and emissions while improving mobility, and are equipped with sensors and software to make decisions and adjust their route in real-time. The vehicles operate independently, making trips between designated stops with precision and reliability.",
+    "output": " Lack of capability or robustness is a risk associated with Autonomous vehicles are designed to provide safe and efficient transportation by harnessing advanced navigation technology. They aim to reduce congestion and emissions while improving mobility, and are equipped with sensors and software to make decisions and adjust their route in real-time. The vehicles operate independently, making trips between designated stops with precision and reliability.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in Autonomous vehicles",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in harnessing advanced navigation technology for Autonomous vehicles to make decisions and adjust their route in real-time",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in operating Autonomous vehicles independently, making trips between designated stops with precision and reliability",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in Autonomous vehicles is a risk in reducing congestion and emissions while improving mobility",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Road to Robust and Resilient Autonomous Vehicles at Scale",
+            "text": "",
+            "link": "https://arxiv.org/abs/2210.10876",
+            "snippet": "This paper presents the current state-of-the-art simulation frameworks and methodologies used in the development of autonomous driving systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "A qualitative AI security risk assessment of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0968090X24003188",
+            "snippet": "This paper systematically analyzes the security risks associated with artificial intelligence (AI) components in autonomous vehicles (AVs).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Statistically Safer Does Not Really Matter for Autonomous Vehicles",
+            "text": "",
+            "link": "https://philkoopman.substack.com/p/statistically-safer-autonomous-vehicles",
+            "snippet": "Statistical safety for autonomous vehicles is not going to be what drives societal acceptance. Instead, for each dramatic crash people will ask \u201cwould a human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation: The Growing ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "This review critically examines the potential dangers associated with the increasing reliance on AI in AV navigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Unpacking Driver Concerns: The 14 Critical Hurdles for Autonomous ...",
+            "text": "",
+            "link": "https://7itsnews.com/index.php?m=home&c=View&a=index&aid=22449",
+            "snippet": "Such limitations can lead to navigation errors, confusion, and an inability to safely respond to unexpected alterations in the road environment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A survey of decision-making and planning methods for self-driving ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11876185/",
+            "snippet": "Tesla's Robotaxi technology faces challenges, including safety and reliability issues, regulatory and licensing hurdles, and market acceptance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Exploring new methods for increasing safety and reliability of ...",
+            "text": "",
+            "link": "https://news.mit.edu/2023/exploring-methods-increasing-safety-reliability-autonomous-vehicles-0523",
+            "snippet": "Human reliability also plays a role in how autonomous vehicles are integrated in the traffic system, especially around safety considerations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Driving to Safety - RAND",
+            "text": "",
+            "link": "https://www.rand.org/pubs/research_reports/RR1478.html",
+            "snippet": "How safe are autonomous vehicles? The answer is crucial for developing sound policies to govern their deployment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Reliable, robust, and comprehensive risk assessment framework for ...",
+            "text": "",
+            "link": "https://academic.oup.com/jcde/article/9/5/1680/6657807",
+            "snippet": "In this paper, we propose a risk assessment framework capable of reliably predicting and assessing the possibility of collision in urban environments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Autonomous Vehicles That Include Risk in Their Decision Making",
+            "text": "",
+            "link": "https://www.volpe.dot.gov/news/autonomous-vehicles-include-risk-their-decision-making",
+            "snippet": "Referred to as model-based autonomy, Prof. Williams' focus is on risk-aware systems whose actions operate within user-specified risk tolerances.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Assessing the barriers and implications of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666188825001340",
+            "snippet": "On the positive side, AVs can improve traffic safety, reduce traffic congestion, and offer greater mobility for people who cannot drive or cannot access a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Autonomous vehicles could be an environmental boon or disaster ...",
+            "text": "",
+            "link": "https://engineering.princeton.edu/news/2019/03/05/autonomous-vehicles-could-be-environmental-boon-or-disaster-depending-public-policy",
+            "snippet": "Widespread use of autonomous vehicles (AVs) could either massively increase or drastically cut greenhouse gas emissions depending, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Are driverless cars bad for the environment?",
+            "text": "",
+            "link": "https://sustainability.stanford.edu/news/are-driverless-cars-bad-environment",
+            "snippet": "Autonomous vehicles that can move more smoothly through traffic and adjust their routes to bottlenecks could help to ease traffic congestion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Towards Navigation Safety for Autonomous Cars - Inside GNSS",
+            "text": "",
+            "link": "https://insidegnss.com/towards-navigation-safety-for-autonomous-cars/",
+            "snippet": "HAVs can make driving more fuel- and time-efficient. They can significantly reduce traffic congestion and emissions by driving a precise speed, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Autonomous Cars Advantages Drawbacks: Easyrain's Safety Role",
+            "text": "",
+            "link": "https://www.easyrain.it/autonomous-cars-advantages-drawbacks-easyrain-safety/",
+            "snippet": "Discover the autonomous cars advantages and drawbacks including safety, cybersecurity, and how Easyrain enhances their reliability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation: The Growing ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "Autonomous vehicles (AVs) represent a transformative advancement in transportation technology, promising to enhance travel efficiency, reduce traffic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 19,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with Autonomous vehicles are designed to provide safe and efficient transportation by harnessing advanced navigation technology. They aim to reduce congestion and emissions while improving mobility, and are equipped with sensors and software to make decisions and adjust their route in real-time. The vehicles operate independently, making trips between designated stops with precision and reliability.",
+        "response": " Lack of capability or robustness is a risk associated with Autonomous vehicles are designed to provide safe and efficient transportation by harnessing advanced navigation technology. They aim to reduce congestion and emissions while improving mobility, and are equipped with sensors and software to make decisions and adjust their route in real-time. The vehicles operate independently, making trips between designated stops with precision and reliability.",
+        "elapsed_time": 42.13324337499944
+    }
+}

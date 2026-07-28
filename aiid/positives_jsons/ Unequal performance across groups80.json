@@ -1,0 +1,221 @@
+{
+    "input": " Unequal performance across groups is a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+    "output": " Unequal performance across groups is a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in medical image analysis",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in providing accurate classifications and diagnoses of medical images, such as chest X-rays",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Unequal performance of medical imaging models across",
+            "text": "",
+            "link": "https://donets.org/risks/unequal-performance-of-medical-imaging-models-across-demographic-groups",
+            "snippet": "Analysis of 'Unequal performance of medical imaging models across demographic groups' - an AI risk in Discrimination and toxicity identified ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Strategies for Addressing Bias in Artificial Intelligence for Medical ...",
+            "text": "",
+            "link": "https://healthmanagement.org/c/healthmanagement/News/strategies-for-addressing-bias-in-artificial-intelligence-for-medical-imaging",
+            "snippet": "Conducting subgroup analysis helps identify and address poor performance in certain groups, ensuring model generalizability and equitable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Machine Learning and Bias in Medical Imaging - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10883605/",
+            "snippet": "Common risks of propagating bias can arise from unbalanced training, sub-optimal architecture design or selection, and uneven application of models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias in medical imaging AI: Checkpoints and mitigation - Aidence",
+            "text": "",
+            "link": "https://www.aidence.com/articles/bias-in-medical-imaging-ai/",
+            "snippet": "This research provides a notable example of how gender imbalance in a medical imaging dataset influences AI performance. When training a model ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Bias in artificial intelligence for medical imaging: fundamentals ...",
+            "text": "",
+            "link": "https://dirjournal.org/articles/doi/dir.2024.242854",
+            "snippet": "This bias can stem from a variety of sources and can lead to disparities in the performance of AI systems across different patient groups, potentially ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Underdiagnosis bias of artificial intelligence algorithms applied to ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8674135/",
+            "snippet": "Here, we perform a systematic study of underdiagnosis bias in the AI-based chest X-ray (CXR) prediction models, designed to predict diagnostic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Study reveals why AI models that analyze medical images can be ...",
+            "text": "",
+            "link": "https://news.mit.edu/2024/study-reveals-why-ai-analyzed-medical-images-can-be-biased-0628",
+            "snippet": "In 2022, MIT researchers reported that AI models can make accurate predictions about a patient's race from their chest X-rays \u2014 something that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Enhancement of Fairness in AI for Chest X-ray Classification - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12099404/",
+            "snippet": "This study investigated several fairness enhancement techniques to improve the fairness of a chest X-ray classifier trained on a publicly available dataset.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI Warning on \u201cFairness Gaps\u201d for X-Ray Analysis",
+            "text": "",
+            "link": "https://www.insideprecisionmedicine.com/topics/precision-medicine/ai-warning-on-fairness-gaps-for-x-ray-analysis/",
+            "snippet": "While AI can spot demographic information on X-ray images, researchers have warned that this can also affect its accuracy for different genders and ethnic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Risk of Bias in Chest Radiography Deep Learning Foundation Models",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/374255661_Risk_of_Bias_in_Chest_Radiography_Deep_Learning_Foundation_Models",
+            "snippet": "Conclusion The studied chest radiography foundation model demonstrated racial and sex-related bias, which led to disparate performance across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Addressing fairness in artificial intelligence for medical imaging",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41467-022-32186-3",
+            "snippet": "In the field of healthcare, the potential unequal behavior of algorithms towards different population sub-groups could even be considered to go ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Quantitative assessment of impact of technical and population-based ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0010482525015008",
+            "snippet": "These models could exhibit biased performance across different patient groups, potentially leading to unequal outcomes in real-world applications where data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Algorithms Trained on Normal Chest X-rays Can Predict Health Insurance ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.11030v4",
+            "snippet": "Deep vision models, trained on chest X-rays, can now detect not only disease but also invisible traces of social inequality. In this study, we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) Underdiagnosis bias of artificial intelligence algorithms applied to ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations",
+            "snippet": "... unequal performance across patient subgroups. Methods: We propose TEDIN (Trustworthy Explainable Deep Intelligence Network), a multi-module ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+        "response": " Unequal performance across groups is a risk associated with AI systems are designed to analyze medical images, such as chest X-rays, to provide accurate classifications and diagnoses. These systems rely on trained databases to inform their decision-making processes. The goal of these AI systems is to assist healthcare professionals in identifying patterns and making informed decisions, while striving to maintain fairness and accuracy in their predictions.",
+        "elapsed_time": 26.867242416001318
+    }
+}

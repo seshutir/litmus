@@ -1,0 +1,353 @@
+{
+    "input": " Exposure to toxic content is a risk associated with A text generation system is designed to create human-like responses to user prompts, utilizing advanced language models to generate coherent and contextually relevant tweets. The system aims to provide engaging and informative content, while also attempting to understand and respond appropriately to sensitive topics. It seeks to improve its ability to generate respectful and inclusive responses, particularly when dealing with diverse groups and perspectives.",
+    "output": " Exposure to toxic content is a risk associated with A text generation system is designed to create human-like responses to user prompts, utilizing advanced language models to generate coherent and contextually relevant tweets. The system aims to provide engaging and informative content, while also attempting to understand and respond appropriately to sensitive topics. It seeks to improve its ability to generate respectful and inclusive responses, particularly when dealing with diverse groups and perspectives.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk in a text generation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in generating coherent and contextually relevant tweets",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is a risk in understanding and responding to sensitive topics",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is a risk in generating respectful and inclusive responses to diverse groups and perspectives",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A Survey on Harmful Content Generation and Safety Mitigation of LLM",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05775v2",
+            "snippet": "A recent study shows that LLMs trained on massive, web-sourced datasets, which often contain harmful content, can perpetuate toxic behaviors ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Toxicity in Generative AI: Detection, Risks, and Controls - LayerX",
+            "text": "",
+            "link": "https://layerxsecurity.com/generative-ai/genai-toxicity/",
+            "snippet": "The very models that generate insightful, human-like text can also produce harmful, biased, and toxic content, introducing substantial legal, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Toxic Content Generation: \u200dHow this works and how Lakera stops it",
+            "text": "",
+            "link": "https://www.lakera.ai/risk/toxic-content-generation",
+            "snippet": "Find out how Lakera stops AI systems from producing offensive, biased, or unsafe content that harms user trust.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Mitigating Text Toxicity with Counterfactual Generation | HAL",
+            "text": "",
+            "link": "https://hal.science/hal-05478259v1/file/XAI_25_vlast_Mitigating_Text_Toxicity_with_Counterfactual_Generation%20%282%29.pdf",
+            "snippet": "Abstract. Toxicity mitigation consists in rephrasing text in order to remove offensive or harmful meaning. Neural natural language process-.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Explaining Toxic Text via Knowledge Enhanced Text Generation",
+            "text": "",
+            "link": "https://cs.stanford.edu/~diyiy/docs/naacl_exp.pdf",
+            "snippet": "Warning: This paper contains content that is offensive and may be upsetting. Biased or toxic speech can be harmful to var- ious demographic groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "For detecting toxicity, we employ Detoxify [80], a model designed to quantify toxic language in online interactions. It provides scores across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Toxicity Phenomenon Across Social Media - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2410.21589v1",
+            "snippet": "Furthermore, little work has been done to identify demographics of those receiving and producing toxic content. While the prevalence of toxicity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "(PDF) Reliability of News and Toxicity in Twitter Conversations",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/364502018_Reliability_of_News_and_Toxicity_in_Twitter_Conversations",
+            "snippet": "interplay between language toxicity and misinformation. 2 Related ... toxic content. Drawing from an extensive dataset that spans eight ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "People, posts, and platforms: reducing the spread of online toxicity ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s44204-022-00042-2",
+            "snippet": "We present a novel model of individual people, online posts, and media platforms to explain the online spread of epistemically toxic content such as fake news.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How Toxic Content Drives User Engagement on Social Media",
+            "text": "",
+            "link": "https://www.promarket.org/2025/07/16/how-toxic-content-drives-user-engagement-on-social-media/",
+            "snippet": "The results confirmed that toxicity sparks curiosity: respondents who encountered more toxic posts were 18% more likely to click to view the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "Social media platforms have become critical spaces for discussing mental health concerns, including eating disorders.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Health advisory on social media use in adolescence",
+            "text": "",
+            "link": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+            "snippet": "Research demonstrates that adolescents' exposure to online discrimination and hate predicts increases in anxiety and depressive symptoms, even after controlling ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Inappropriate content: factsheet - eSafety Commissioner",
+            "text": "",
+            "link": "https://www.esafety.gov.au/educators/training-for-professionals/professional-learning-program-teachers/inappropriate-content-factsheet",
+            "snippet": "Inappropriate content may be an image, video or written words that can be upsetting, disturbing or offensive.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Topic-driven toxicity: Exploring the relationship between online ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7034861/",
+            "snippet": "Findings suggest that news comment toxicity can be characterized as topic-driven toxicity that targets topics rather than as vindictive toxicity that targets ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Is Harmful Content? Examples, Risks & Detection",
+            "text": "",
+            "link": "https://getstream.io/blog/harmful-content/",
+            "snippet": "Learn what harmful content is, how to identify it in your app, and what product teams can do to reduce risks and protect user experience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "[PDF] Designing Toxic Content Classification for a Diversity of Perspectives",
+            "text": "",
+            "link": "https://elie.net/static/files/designing-toxic-content-classification-for-a-diversity-of-perspectives/designing-toxic-content-classification-for-a-diversity-of-perspectives-paper.pdf",
+            "snippet": "Abstract. In this work, we demonstrate how existing classifiers for iden- tifying toxic comments online fail to generalize to the diverse.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "How Toxic Content Drives User Engagement on Social Media",
+            "text": "",
+            "link": "https://www.promarket.org/2025/07/16/how-toxic-content-drives-user-engagement-on-social-media/",
+            "snippet": "Thus, toxic content that is rude, disrespectful or hostile, though in principle unpleasant, might paradoxically drive more engagement. In our ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Toxic Speech and Limited Demand for Content Moderation on ...",
+            "text": "",
+            "link": "https://www.cambridge.org/core/journals/american-political-science-review/article/toxic-speech-and-limited-demand-for-content-moderation-on-social-media/405333D7072585903E81BEF1729378F8",
+            "snippet": "We find that while both the severity of toxicity and the target of the attack matter, the demand for content moderation of toxic speech is limited.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "INCLUSIVE TOXICITY IS DESTROYING YOUR COMPANY AND ...",
+            "text": "",
+            "link": "https://medium.com/@jus_geauxst/inclusive-toxicity-is-destroying-your-company-and-culture-cd9f62e94200",
+            "snippet": "Company culture is one of the major organs of a brand's ecosystem but it is being destroyed through inclusive practices that are toxic.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Safeguarding large language models: a survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12532640/",
+            "snippet": "by Y Dong \u00b7 2025 \u00b7 Cited by 171 \u2014 While current LLM guardrails include mechanisms to detect harmful content, they still risk generating biased or misleading responses. It is reasonable to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "A faster, better way to prevent an AI chatbot from giving ...",
+            "text": "",
+            "link": "https://news.mit.edu/2024/faster-better-way-preventing-ai-chatbot-toxic-responses-0410",
+            "snippet": "Teams of human testers write prompts aimed at triggering unsafe or toxic text from the model being tested. These prompts are used to teach ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Dark Side of Language Models",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666827024000215",
+            "snippet": "by D Barman \u00b7 2024 \u00b7 Cited by 194 \u2014 This review paper explores the potential of LLMs to initiate the generation of multi-media disinformation, encompassing text, images, audio, and video.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Toxicity in Generative AI: Detection, Risks, and Controls - LayerX",
+            "text": "",
+            "link": "https://layerxsecurity.com/generative-ai/genai-toxicity/",
+            "snippet": "The very models that generate insightful, human-like text can also produce harmful, biased, and toxic content, introducing substantial legal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with A text generation system is designed to create human-like responses to user prompts, utilizing advanced language models to generate coherent and contextually relevant tweets. The system aims to provide engaging and informative content, while also attempting to understand and respond appropriately to sensitive topics. It seeks to improve its ability to generate respectful and inclusive responses, particularly when dealing with diverse groups and perspectives.",
+        "response": " Exposure to toxic content is a risk associated with A text generation system is designed to create human-like responses to user prompts, utilizing advanced language models to generate coherent and contextually relevant tweets. The system aims to provide engaging and informative content, while also attempting to understand and respond appropriately to sensitive topics. It seeks to improve its ability to generate respectful and inclusive responses, particularly when dealing with diverse groups and perspectives.",
+        "elapsed_time": 41.57164987499709
+    }
+}

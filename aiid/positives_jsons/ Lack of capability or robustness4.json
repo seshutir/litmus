@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a system designed to analyze surgical procedures is a risk",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the system designed to analyze data on surgical procedures is a risk in identifying and tracking complications",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Evaluating the Impact of the Level of Robustness in Operating Room ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11507990/",
+            "snippet": "In this paper, we consider a cardinality-constrained robust optimization model for OR scheduling, addressing uncertain surgery durations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Operative Risk - StatPearls - NCBI Bookshelf - NIH",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK532240/",
+            "snippet": "Operative risk, or surgical risk, is the cumulative risk of death, the development of a new disease or medical condition, or the deterioration ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Surgical Equipment Vendor Risk Management: Operating Room ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/surgical-equipment-vendor-risk-management-operating-room-safety-reliability",
+            "snippet": "Faulty devices, cybersecurity risks, and supply chain disruptions can lead to severe complications, delays, and increased costs. Many healthcare facilities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Complications in surgery: root cause analysis and preventive ...",
+            "text": "",
+            "link": "https://psnet.ahrq.gov/issue/complications-surgery-root-cause-analysis-and-preventive-measures",
+            "snippet": "This commentary discusses how root cause analysis can identify factors contributing to surgical complications and provides tactics to reduce their incidence ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] DEFINING RELIABILITY AND ROBUSTNESS FROM A HUMAN ...",
+            "text": "",
+            "link": "https://human-factors.arc.nasa.gov/publications/s11_Hobbs.pdf",
+            "snippet": "The system is designed so that human capabilities can be brought to bear on non-routine, unanticipated problems. This is a key attribute that provides system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Artificial Intelligence and Machine Learning in Prediction of Surgical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9653510/",
+            "snippet": "This article aims to provide an overview of AI in predicting surgical complications using common machine learning and deep learning algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Systems Approaches to Surgical Quality and Safety - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1356252/",
+            "snippet": "However at least 30\u201350% of major complications occurring in patients undergoing general surgical procedures are thought to be avoidable. The wide variation in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Are Operating Rooms Ready For Surgical AI? New Data Reveals ...",
+            "text": "",
+            "link": "https://globalrph.com/2026/01/are-operating-rooms-ready-for-surgical-ai-new-data-reveals-critical-insights/",
+            "snippet": "Machine learning algorithms have demonstrated the ability to accurately predict postoperative complications such as acute kidney injury using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Machine Learning Model to Identify Patients at High Risk for ...",
+            "text": "",
+            "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807056",
+            "snippet": "An automated machine learning model accurately identify patients at high risk of adverse outcomes and predict surgical mortality or major complications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Surgical skill is predicted by the ability to detect errors. - PSNet",
+            "text": "",
+            "link": "https://psnet.ahrq.gov/issue/surgical-skill-predicted-ability-detect-errors",
+            "snippet": "The investigators observed surgeons participating in three skills tests, one of which involved error detection. Results indicate that the ability to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The rise of robotics and AI-assisted surgery in modern healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12181090/",
+            "snippet": "AI-assisted robotic surgeries demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Review on the utility of artificial intelligence in robotic surgery",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0011384025002230",
+            "snippet": "The advancement of robotic surgery has introduced transformative capabilities in the field of minimally invasive procedures, combining precision with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] Potential Risks of Robotic Surgery - The Joint Commission",
+            "text": "",
+            "link": "https://digitalassets.jointcommission.org/api/public/content/6ad56d4f89c24078aa6e6a5d6801214f",
+            "snippet": "Issue: Robotic surgery (also called minimally invasive surgery, laparoscopic surgery or a closed procedure) has seen exponential growth since its introduction ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The IDEAL framework for surgical robotics: development ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41591-023-02732-7",
+            "snippet": "The next generation of surgical robotics is poised to disrupt healthcare systems worldwide, requiring new frameworks for evaluation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial Intelligence-Based Hazard Detection in Robotic-Assisted ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10340313/",
+            "snippet": "Accuracy detection is critical for the safety of the patient when targeting specific hazards during the surgical intervention (in this case, internal bleeding).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999991,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.997386,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0026195804806943973,
+        "norm_entropy": 0.026356989286003,
+        "avg_entropy": 0.0013097902403471987,
+        "avg_norm_entropy": 0.0131784946430015,
+        "avg_prob": 0.9986885,
+        "avg_logprob": -0.0013132112520071939,
+        "avg_explogprob": 0.9986876506325689,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    9e-06,
+                    0.999991
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.002614,
+                    0.997386
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9973804165385,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+        "elapsed_time": 21.3714200000004
+    }
+}

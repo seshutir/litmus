@@ -1,0 +1,346 @@
+{
+    "input": " Loss of human agency and autonomy is a not a risk associated with A predictive policing system is designed to analyze data and identify patterns, aiming to support law enforcement decision-making and resource allocation. The system seeks to provide insights into potential criminal activity, helping to prevent and investigate crimes. It relies on data analysis and machine learning algorithms to generate predictions and recommendations.",
+    "output": " Loss of human agency and autonomy is a not a risk associated with A predictive policing system is designed to analyze data and identify patterns, aiming to support law enforcement decision-making and resource allocation. The system seeks to provide insights into potential criminal activity, helping to prevent and investigate crimes. It relies on data analysis and machine learning algorithms to generate predictions and recommendations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is not a risk associated with a predictive policing system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in analyzing data to identify patterns for law enforcement decision-making using a predictive policing system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Loss of human agency and autonomy is a risk in providing insights into potential criminal activity through a predictive policing system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Loss of human agency and autonomy is a risk in generating predictions to prevent crimes using a predictive policing system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Loss of human agency and autonomy is a risk in generating recommendations to investigate crimes using a predictive policing system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Artificial intelligence and predictive policing: risks and challenges",
+            "text": "",
+            "link": "https://eucpn.org/sites/default/files/document/files/PP%20%282%29.pdf",
+            "snippet": "A productive use of AI in predictive policing with beneficial outcomes is dependent on a human rights compliant use of AI. But there are risks to it as well: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Predictive policing and predictive justice: Ethics, data protection, and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000234",
+            "snippet": "by C Gallese \u00b7 2026 \u00b7 Cited by 3 \u2014 Predictive policing is not the only domain in which automated means have been employed in the judicial field causing damages to citizens.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Artificial Intelligence in Predictive Policing Issue Brief",
+            "text": "",
+            "link": "https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-brief",
+            "snippet": "AI-driven predictive policing perpetuates racial bias, violates privacy rights, and undermines public trust in law enforcement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic Policing: When Predicting Means Presuming Guilty",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/algorithmic-policing-explained/",
+            "snippet": "Algorithmic policing refers to practices with which it is allegedly possible to \u201cpredict\u201d future crimes and detect future perpetrators by using algorithms and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What Is Predictive Policing and How Does It Impact Justice?",
+            "text": "",
+            "link": "https://www.amu.apus.edu/area-of-study/criminal-justice/resources/what-is-predictive-policing/",
+            "snippet": "What is predictive policing? Learn the advantages, disadvantages, and ethical concerns with using predictive policing technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Artificial intelligence and predictive policing: risks and challenges",
+            "text": "",
+            "link": "https://eucpn.org/sites/default/files/document/files/PP%20%282%29.pdf",
+            "snippet": "This opens up possibilities for predictive policing: AI applications can handle large amounts of complex data (crime data, video streams from security cameras, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Big Data Surveillance: The Case of Policing - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10846878/",
+            "snippet": "by S Brayne \u00b7 2017 \u00b7 Cited by 1292 \u2014 This article examines the intersection of two structural developments: the growth of surveillance and the rise of \u201cbig data.\u201d",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What Is Predictive Policing and How Does It Impact Justice?",
+            "text": "",
+            "link": "https://www.amu.apus.edu/area-of-study/criminal-justice/resources/what-is-predictive-policing/",
+            "snippet": "Predictive policing involves using advanced statistics, algorithms, and machine learning to predict where crimes may happen. In other words, law ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Predictive Policing: The Future of Law Enforcement?",
+            "text": "",
+            "link": "https://www.ojp.gov/pdffiles1/nij/230414.pdf",
+            "snippet": "by B Pearsall \u00b7 Cited by 234 \u2014 Predictive policing, in essence, is taking data from disparate sources, analyzing them and then using results to anticipate, prevent and respond more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The Promises and Perils of Predictive Policing",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/the-promises-and-perils-of-predictive-policing/",
+            "snippet": "Research from the McKinsey Global Institute suggests that integrating AI into law enforcement might lower urban crime rates by 30 to 40 percent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "AI and policing - Europol",
+            "text": "",
+            "link": "https://www.europol.europa.eu/cms/sites/default/files/documents/AI-and-policing.pdf",
+            "snippet": "These systems expedite the processing of large volumes of information, aiding investigators in uncovering potential threats and identifying criminal activities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Artificial intelligence and predictive policing: risks and challenges",
+            "text": "",
+            "link": "https://eucpn.org/sites/default/files/document/files/PP%20%282%29.pdf",
+            "snippet": "AI applications can handle large amounts of complex data (crime data, video streams from security cameras, ?) and predict when or where crimes will take place.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Is Predictive Policing and How Does It Impact Justice?",
+            "text": "",
+            "link": "https://www.amu.apus.edu/area-of-study/criminal-justice/resources/what-is-predictive-policing/",
+            "snippet": "They can identify probable criminal incidents that may occur in the future and disrupt them, reducing the burden on the criminal justice system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "The Promises and Perils of Predictive Policing",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/the-promises-and-perils-of-predictive-policing/",
+            "snippet": "At its core, predictive policing involves the use of algorithms to forecast when and where crimes are likely to occur. These predictions are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Ethics, data protection, and the AI act",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000234",
+            "snippet": "by C Gallese \u00b7 2026 \u00b7 Cited by 3 \u2014 This article explores the risks of using predicting policing and predictive justice devices based on AI models in light of the AI Act and its relationship with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Predictive policing and predictive justice: Ethics, data protection, and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000234",
+            "snippet": "by C Gallese \u00b7 2026 \u00b7 Cited by 3 \u2014 Predictive policing is a law enforcement strategy that uses data and analytics to anticipate, prevent, and respond to crime, while the broader term \u201cpredictive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "DOJ Report on AI in Criminal Justice: Key Takeaways",
+            "text": "",
+            "link": "https://counciloncj.org/doj-report-on-ai-in-criminal-justice-key-takeaways/",
+            "snippet": "Predictive policing may risk amplifying historical biases and feedback loops that can entrench discriminatory practices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "AI and policing - Europol",
+            "text": "",
+            "link": "https://www.europol.europa.eu/cms/sites/default/files/documents/AI-and-policing.pdf",
+            "snippet": "The AI model identifies patterns within historical data, associating indicators with the likelihood of a crime occurring, and then generates risk scores as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI and policing - Europol",
+            "text": "",
+            "link": "https://www.europol.europa.eu/cms/sites/default/files/documents/AI-and-policing.pdf",
+            "snippet": "A recent advancement is \u201cpredictive policing\u201d, employing sophisticated statistical methods to extract valuable new insights from vast datasets, primary ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Typology of Automated Law Enforcement Systems Under EU Law",
+            "text": "",
+            "link": "https://www.europeanpapers.eu/e-journal/typology-automated-law-enforcement-systems-under-eu-law-what-standards-defence-rights",
+            "snippet": "by A Sachoulidou \u00b7 2026 \u00b7 Cited by 2 \u2014 Abstract: New and emerging technologies are re-shaping police-citizen encounters \u2013 ranging from person-based predictive policing software ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.000131,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999886,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.997866,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999837,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.999995,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.8,
+        "num_atoms": 5,
+        "num_contexts": 20,
+        "num_true_atoms": 4,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0035848826383643576,
+        "norm_entropy": 0.02792649986816722,
+        "avg_entropy": 0.0007169765276728716,
+        "avg_norm_entropy": 0.005585299973633444,
+        "avg_prob": 0.7995430000000001,
+        "avg_logprob": -1.7885463069565268,
+        "avg_explogprob": 0.16720305500181096,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999869,
+                    0.000131
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.000114,
+                    0.999886
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.002134,
+                    0.997866
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.000163,
+                    0.999837
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    5e-06,
+                    0.999995
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.7990345221414,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a not a risk associated with A predictive policing system is designed to analyze data and identify patterns, aiming to support law enforcement decision-making and resource allocation. The system seeks to provide insights into potential criminal activity, helping to prevent and investigate crimes. It relies on data analysis and machine learning algorithms to generate predictions and recommendations.",
+        "response": " Loss of human agency and autonomy is a not a risk associated with A predictive policing system is designed to analyze data and identify patterns, aiming to support law enforcement decision-making and resource allocation. The system seeks to provide insights into potential criminal activity, helping to prevent and investigate crimes. It relies on data analysis and machine learning algorithms to generate predictions and recommendations.",
+        "elapsed_time": 36.29072845802875
+    }
+}

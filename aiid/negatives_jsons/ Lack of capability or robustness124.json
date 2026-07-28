@@ -1,0 +1,484 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to optimize warehouse operations by automating tasks and streamlining logistics. It aims to improve efficiency and productivity by navigating through the warehouse and performing specific functions. The system relies on advanced algorithms and sensors to interact with its environment and avoid collisions.",
+    "output": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to optimize warehouse operations by automating tasks and streamlining logistics. It aims to improve efficiency and productivity by navigating through the warehouse and performing specific functions. The system relies on advanced algorithms and sensors to interact with its environment and avoid collisions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system's warehouse operations",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with automating tasks in a robotic system designed for warehouse operations",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with the robotic system navigating through the warehouse",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with performing specific functions in the robotic system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with a robotic system interacting with its environment",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of capability or robustness is not a risk associated with avoiding collisions in a robotic system designed for warehouse operations.",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Full article: Managing technology-related disruptions and ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2552281",
+            "snippet": "by M Rodr\u00edguez-Garc\u00eda \u00b7 2025 \u00b7 Cited by 10 \u2014 This paper presents an integrative review that combines insights from highly automated warehouse systems (HAWS) and risk management, providing a comprehensive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Why AI Should Never Be Responsible for Warehouse Safety",
+            "text": "",
+            "link": "https://www.ehstoday.com/safety-technology/article/55390905/why-ai-should-never-be-responsible-for-warehouse-safety",
+            "snippet": "AI, automation and robotics can transform warehouse operations, but those benefits depend on safety being prioritized from the start. Ultimately ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Top Warehouse Automation Challenges and Ways to ...",
+            "text": "",
+            "link": "https://igps.net/warehouse-automation-challenges/",
+            "snippet": "Older warehouse management platforms may lack API capability or structured data architecture required for robotics and automated storage systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Substantial capabilities of robotics in enhancing industry ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667241321000057",
+            "snippet": "by M Javaid \u00b7 2021 \u00b7 Cited by 815 \u2014 Robotics is an important technology of Industry 4.0, which provides extensive capabilities in the field of manufacturing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Warehouse automation hasn't made workers safer",
+            "text": "",
+            "link": "https://business.gmu.edu/news/2025-08/warehouse-automation-hasnt-made-workers-safer-its-just-reshuffled-risk",
+            "snippet": "Without careful job design, task rotation, and realistic performance goals, the shift to robotics can create new health and safety risks. \u201c ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Top Warehouse Automation Challenges and How ...",
+            "text": "",
+            "link": "https://www.elementlogic.net/us/blogs/top-warehouse-automation-challenges-and-how-to-overcome-them/",
+            "snippet": "Ensuring the consistent reliability of automated systems is crucial for preventing disruptions in warehouse operations. Technical malfunctions or breakdowns can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Overcoming Common Challenges in Warehouse Automation",
+            "text": "",
+            "link": "https://www.opex.com/ebook/overcoming-common-challenges-in-warehouse-automation/",
+            "snippet": "Overcome warehouse automation challenges with proven strategies and best practices. Solve integration, workforce, and implementation obstacles effectively.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "A robotic process automation model for order-handling ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949863525000020",
+            "snippet": "by A Shamsuzzoha \u00b7 2025 \u00b7 Cited by 36 \u2014 This study proposes a robotic process automation (RPA) model to streamline and optimize order-handling procedures in supply chain management.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Pros and Cons of Robotic Automation",
+            "text": "",
+            "link": "https://www.marinerlogistics.com/resources/robotic-automation-debate?hsLang=en",
+            "snippet": "Lack of Flexibility: Robots are often designed for specific tasks and may not be easily adaptable to changes in the operation. This can be a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Warehouse robots in unstructured spaces: 40+ patents",
+            "text": "",
+            "link": "https://www.patsnap.com/resources/blog/articles/warehouse-robots-in-unstructured-spaces-40-patents/",
+            "snippet": "Reliable autonomous navigation in spaces not designed with automation in mind is the most fundamental challenge facing warehouse robots today.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Towards Worker-Centered Warehouse Robots: A User Study ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12369-026-01359-1",
+            "snippet": "Robots are increasingly shaping warehouse environments, where they interact with human workers and contribute to warehouse efficiency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Warehouse Robots 101: Your Complete 2026 Guide",
+            "text": "",
+            "link": "https://www.trossenrobotics.com/post/warehouse-robots-overview",
+            "snippet": "Get clear answers about warehouse robots, including types, costs, benefits, and how to choose the right solution for your warehouse or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Top 5 Warehouse Robots Changing the Game in Material ...",
+            "text": "",
+            "link": "https://www.vecnarobotics.com/resources/warehouse-robots/",
+            "snippet": "This technological prowess not only minimizes the risk of injuries but also significantly lowers the associated costs of workplace accidents and insurance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Benchmarking Responsible Robot Manipulation using ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2512.04308v1",
+            "snippet": "Despite this progress, current robot systems still fall short of human-level capabilities in executing tasks with reliability and responsibility ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Enabling robustness to failure with modular field robots - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965784/",
+            "snippet": "by T Cordie \u00b7 2024 \u00b7 Cited by 6 \u2014 Actuator failure on a remotely deployed robot results in decreased efficiency or even renders it inoperable. Robustness to these failures will become critical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Adding Safety and Robustness to Learning for Robots by ...",
+            "text": "",
+            "link": "https://bcommons.berkeley.edu/adding-safety-and-robustness-learning-robots-learning-robots",
+            "snippet": "Safety and robustness of robotic systems are crucial for deploying robots in the real world. Machine learning has emerged as a promising tool for enabling ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Learning of Robot Safety Policies via Adversarial Synthetic ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.05952v1",
+            "snippet": "Ensuring the safety of robotic systems operating in open-ended, human-centric environments remains a fundamental challenge.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Robust interaction control for environments having ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000021",
+            "snippet": "by S Kim \u00b7 2022 \u00b7 Cited by 9 \u2014 Physical human\u2013robot and/or robot\u2013environment interactions require robust contact stability because an unstable interaction could harm the human or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Safety Risks and Accident Causes with Workplace Robots",
+            "text": "",
+            "link": "https://keninstitute.com/safety-risks-and-accident-causes-with-workplace-robots/",
+            "snippet": "The interaction between humans and robots poses significant safety risks, particularly in environments where robots and humans work closely together.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Full article: No robot is an island - what properties should ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1463922X.2024.2401168",
+            "snippet": "by BJE Johansson \u00b7 2025 \u00b7 Cited by 4 \u2014 This paper proposes that insights from resilience engineering can enhance the self-sufficiency of so-called autonomous systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Occupational health and safety issues in human-robot ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0925753523002552",
+            "snippet": "by A Giallanza \u00b7 2024 \u00b7 Cited by 152 \u2014 Preventing human-robot contacts in collaborative operations, reducing the risk to zero, is obviously impossible, and physical contacts are no longer excluded",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Why AI Should Never Be Responsible for Warehouse Safety",
+            "text": "",
+            "link": "https://www.ehstoday.com/safety-technology/article/55390905/why-ai-should-never-be-responsible-for-warehouse-safety",
+            "snippet": "While AI can guide how robots move, the systems that prevent collisions and protect workers must be independent and fail-safe.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "6 Warehouse Mistakes & How You Can Fix Now",
+            "text": "",
+            "link": "https://www.vecnarobotics.com/resources/warehouse-mistakes-and-how-to-solve-them/",
+            "snippet": "AMRs operate with a level of precision and consistency that significantly reduces the risk of collisions or damage to goods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "How Robotics Enhances Workplace Safety in Warehouses",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/how-robotics-enhances-workplace-safety-warehouses-acciorobotics-wsfpc",
+            "snippet": "AI-powered robotic picking systems reduce human involvement in high-velocity fulfillment zones, minimizing the likelihood of accidental ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Warehouse Robotics Hazards and OSHA Adherence",
+            "text": "",
+            "link": "https://blog.oshaeducationschool.com/warehouse-robotics-hazards-osha/",
+            "snippet": "Collision risks are significant when workers move through areas where robots operate, so establishing clear traffic pathways is critical. Visual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI-enhanced Digital Twin systems for warehouse logistics ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405959526000093",
+            "snippet": "by MM Alam \u00b7 2026 \u00b7 Cited by 9 \u2014 Robots, utilizing reinforcement learning and computer vision, automate tasks like picking and packing, boosting efficiency and reducing errors. This review ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Warehouse Automation Explained: Trends, Types & Best ...",
+            "text": "",
+            "link": "https://www.netsuite.com/portal/resource/articles/inventory-management/warehouse-automation.shtml",
+            "snippet": "Warehouse automation is the process of automating the movement of inventory into, within, and out of warehouses to customers with minimal human assistance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Warehouse Robotics: What It Is, Types, and How It Works",
+            "text": "",
+            "link": "https://www.inboundlogistics.com/articles/warehouse-robotics-what-it-is-types-and-how-it-works/",
+            "snippet": "By automating repetitive and physically demanding tasks, these systems significantly reduce the need for human effort in warehouse operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Top Warehouse Automation Challenges and How ...",
+            "text": "",
+            "link": "https://www.elementlogic.net/us/blogs/top-warehouse-automation-challenges-and-how-to-overcome-them/",
+            "snippet": "The primary goal of warehouse automation is to enhance operational efficiency, reduce errors, and improve productivity in handling inventory...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Warehouse Automation: Types & Applications",
+            "text": "",
+            "link": "https://www.iqsdirectory.com/articles/automation-equipment/warehouse-automation.html",
+            "snippet": "By reducing human error and manual tasks, digital robotics boost efficiency in material handling, uplift customer service, enhance employee morale, and cut ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.2e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 6,
+        "num_contexts": 32,
+        "num_true_atoms": 0,
+        "num_false_atoms": 6,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00020504479968793665,
+        "norm_entropy": 0.00032034282388399693,
+        "avg_entropy": 3.4174133281322775e-05,
+        "avg_norm_entropy": 5.339047064733282e-05,
+        "avg_prob": 2.8333333333333335e-06,
+        "avg_logprob": -13.401359449666273,
+        "avg_explogprob": 1.5130857494229026e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.999988,
+                    1.2e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS",
+            "a5": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 6,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 2.4000000000000004e-11,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to optimize warehouse operations by automating tasks and streamlining logistics. It aims to improve efficiency and productivity by navigating through the warehouse and performing specific functions. The system relies on advanced algorithms and sensors to interact with its environment and avoid collisions.",
+        "response": " Lack of capability or robustness is a not a risk associated with A robotic system is designed to optimize warehouse operations by automating tasks and streamlining logistics. It aims to improve efficiency and productivity by navigating through the warehouse and performing specific functions. The system relies on advanced algorithms and sensors to interact with its environment and avoid collisions.",
+        "elapsed_time": 147.69359670800623
+    }
+}

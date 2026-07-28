@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A driverless train system is designed to transport passengers safely and efficiently by utilizing advanced autonomous technology. It aims to optimize routes and schedules, reducing congestion and improving overall travel experiences. The system relies on precise control mechanisms to ensure smooth operation and reliable braking.",
+    "output": " Lack of capability or robustness is a not a risk associated with A driverless train system is designed to transport passengers safely and efficiently by utilizing advanced autonomous technology. It aims to optimize routes and schedules, reducing congestion and improving overall travel experiences. The system relies on precise control mechanisms to ensure smooth operation and reliable braking.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a driverless train system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing advanced autonomous technology to optimize routes and schedules in a driverless train system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Autonomous trains | AGCS",
+            "text": "",
+            "link": "https://commercial.allianz.com/news-and-insights/expert-risk-articles/autonomous-trains.html",
+            "snippet": "\u201cUrban driverless systems in closed environments present different risks from networks in open environments,\u201d says Lauxmann.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "When Stopping Fails: Rethinking Minimal Risk Conditions ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.29115v1",
+            "snippet": "Current AVs lack robust interactive capabilities, and overriding their decisions can only be achieved through remote assistance or manual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Challenges and opportunities of train driving automation in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666691X26000321",
+            "snippet": "Surprisingly, 62% of participants did not see driverless trains as a threat to drivers' jobs, which could be due to the fact that they are not drivers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Lessons Learned for a Driverless Regional Train Case Study",
+            "text": "",
+            "link": "https://rpsonline.com.sg/proceedings/esrel-sra-e2025/pdf/ESREL-SRA-E2025-P5318.pdf",
+            "snippet": "by M Zeller \u00b7 2025 \u00b7 Cited by 1 \u2014 \u201dLack of explainability\u201d, and (17) \u201dLack of robustness\u201d are sufficiently mit- igated by generating training curves, conducting performance analyses",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Deployment of Autonomous Trains in Rail Transportation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/352672552_Deployment_of_Autonomous_Trains_in_Rail_Transportation_Current_Trends_and_Existing_Challenges",
+            "snippet": "It was highlighted that the proposed driverless train system could effectively prevent potential issues caused by human errors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Artificial intelligence, machine learning and deep ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772586325000565",
+            "snippet": "by S Saki \u00b7 2025 \u00b7 Cited by 65 \u2014 AI algorithms analyze historical data, real-time traffic conditions, and passenger demand to create optimized schedules and routes for buses, trains, and other ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Autonomous trains | AGCS",
+            "text": "",
+            "link": "https://commercial.allianz.com/news-and-insights/expert-risk-articles/autonomous-trains.html",
+            "snippet": "The efficiencies offered by advanced technology could touch all areas of rail operations. They include optimized speed, braking and acceleration,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "by A Giannaros \u00b7 2023 \u00b7 Cited by 308 \u2014 This paper offers a comprehensive exploration of the current state of AV technology, particularly examining the intersection of autonomous vehicles and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Future of Autonomous Trains: Challenges and Opportunities",
+            "text": "",
+            "link": "https://eeesa.com/en/autonomous-trains/",
+            "snippet": "Ensuring safety in an autonomous environment is a major challenge. Systems must be robust to withstand failures and cyber-attacks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Ensuring American Leadership in Automated Vehicle ...",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/2020-02/EnsuringAmericanLeadershipAVTech4.pdf",
+            "snippet": "AVs\u2014if developed properly- also have the potential to make our roadways safer by reducing crashes caused by human error, including crashes involving impaired or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Artificial intelligence, machine learning and deep ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772586325000565",
+            "snippet": "by S Saki \u00b7 2025 \u00b7 Cited by 65 \u2014 By adapting to live conditions, these systems minimize delays, reduce wait times, and improve overall service reliability (Nampalli and Adusupalli, 2024).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Driverless trains aren't science fiction",
+            "text": "",
+            "link": "https://www.facebook.com/ALSTOM/posts/driverless-trains-arent-science-fiction-theyve-already-been-moving-millions-of-p/1329200202576747/",
+            "snippet": "Using layered sensor systems, predictive AI, and real-time track analysis, the trains respond to obstacles, weather changes, and traffic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Autonomous trains | AGCS",
+            "text": "",
+            "link": "https://commercial.allianz.com/news-and-insights/expert-risk-articles/autonomous-trains.html",
+            "snippet": "Higher capacity and greater reliability could encourage people off the roads and onto the rails and even lead to lower ticket prices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Future of Autonomous Trains: Challenges and Opportunities",
+            "text": "",
+            "link": "https://eeesa.com/en/autonomous-trains/",
+            "snippet": "With advanced detection and response systems, autonomous trains have the potential to reduce accidents caused by human error.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "This new train is driving itself, and it's changing the way stuff ...",
+            "text": "",
+            "link": "https://www.instagram.com/reel/DOrdThVjgg4/?hl=en",
+            "snippet": "The train is actually using a dust suppression system designed to reduce material loss during transport. water, the spray contains",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.029331,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.006361,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.13568353500447383,
+        "norm_entropy": 0.24658664627848015,
+        "avg_entropy": 0.06784176750223692,
+        "avg_norm_entropy": 0.12329332313924007,
+        "avg_prob": 0.017846,
+        "avg_logprob": -4.293339991537982,
+        "avg_explogprob": 0.013659227320752804,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.970669,
+                    0.029331
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.993639,
+                    0.006361
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.000450384941,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A driverless train system is designed to transport passengers safely and efficiently by utilizing advanced autonomous technology. It aims to optimize routes and schedules, reducing congestion and improving overall travel experiences. The system relies on precise control mechanisms to ensure smooth operation and reliable braking.",
+        "response": " Lack of capability or robustness is a not a risk associated with A driverless train system is designed to transport passengers safely and efficiently by utilizing advanced autonomous technology. It aims to optimize routes and schedules, reducing congestion and improving overall travel experiences. The system relies on precise control mechanisms to ensure smooth operation and reliable braking.",
+        "elapsed_time": 104.56973099999595
+    }
+}

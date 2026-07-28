@@ -1,0 +1,443 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images of license plates and compare them to a database of stolen vehicles, aiming to assist law enforcement in identifying potentially stolen cars. The system uses optical character recognition to extract relevant information from the images. It is intended to provide accurate and efficient alerts to authorities, helping to prevent crime and ensure public safety.",
+    "output": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images of license plates and compare them to a database of stolen vehicles, aiming to assist law enforcement in identifying potentially stolen cars. The system uses optical character recognition to extract relevant information from the images. It is intended to provide accurate and efficient alerts to authorities, helping to prevent crime and ensure public safety.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the computer vision system for law enforcement",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a computer vision system is a risk in analyzing images of license plates",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the computer vision system's optical character recognition is a risk in using it to extract relevant information",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in comparing license plates to a database of stolen vehicles using a computer vision system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in the computer vision system is a risk in providing accurate and efficient alerts to authorities",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Dangers of Unregulated AI in Policing | Brennan Center for Justice",
+            "text": "",
+            "link": "https://www.brennancenter.org/our-work/research-reports/dangers-unregulated-ai-policing",
+            "snippet": "Without robust safeguards, they risk generating inaccurate results, perpetuating bias, and undermining individual rights. Police departments ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "[PDF] AI-Generated Police Reports: High-Tech, Low Accuracy, Big Risks ...",
+            "text": "",
+            "link": "https://fairandjustprosecution.org/wp-content/uploads/2025/06/AI-Generated-Police-Reports-High-Tech-Low-Accuracy-Big-Risks-June-2025.pdf",
+            "snippet": "While AI-generated police report technology is marketed as a solution to reduce administrative burdens and improve report accuracy, these tools pose significant ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI Generated Police Reports Raise Concerns Around Transparency ...",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/ai-generated-police-reports-raise-concerns-around-transparency-bias",
+            "snippet": "AI-generated police reports threaten to exacerbate existing problems in law enforcement, and to create new ones.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Can Algorithms lessen The Bias in The Criminal Justice System",
+            "text": "",
+            "link": "https://www.avemarialaw.edu/can-algorithms-lessen/",
+            "snippet": "When algorithms assign individuals with a threat score, it influences who the police target and how they handle those interactions. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A Forensic Without the Science: Face Recognition in U.S. Criminal ...",
+            "text": "",
+            "link": "https://www.law.georgetown.edu/privacy-technology-center/publications/a-forensic-without-the-science-face-recognition-in-u-s-criminal-investigations/",
+            "snippet": "A report released by the Center on Privacy & Technology evaluates the reliability of face recognition as it is used by police in the United States.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Robust and Efficient Approach to License Plate Detection - PubMed",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27893394/",
+            "snippet": "This paper presents a robust and efficient method for license plate detection with the purpose of accurately localizing vehicle license plates from complex ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A License Plate Recognition System with Robustness against ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2075-1680/12/5/424",
+            "snippet": "This paper presents a general method for character extraction and pattern matching in license plate recognition systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Performance of Automatic License Plate Recognition Systems on ...",
+            "text": "",
+            "link": "https://library.imaging.org/jist/articles/68/6/060401",
+            "snippet": "The aim of this study is to evaluate the performance of DL-based ALPR systems on distorted images. Various distortions, including simulated bad ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "License Plate Recognition Challenges - Milestone Documentation",
+            "text": "",
+            "link": "https://doc.milestonesys.com/en-US/bundle/doc1200_2025r1/page/content/briefcam/license_plate_recognition_challenges.htm",
+            "snippet": "There are many factors that affect the performance of license plate recognition including license plate-specific challenges, camera types, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A Robust Attentional Framework for License Plate Recognition in the ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2006.03919",
+            "snippet": "We propose a robust framework for license plate recognition in the wild. It is composed of a tailored CycleGAN model for license plate image generation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "AI Risks: Optical Character Recognition and Named Entity Recognition",
+            "text": "",
+            "link": "https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-experts-projects/ai-risks-optical-character-recognition_en",
+            "snippet": "The AI risks project assesses the data protection risks of AI for Optical Character Recognition (OCR) and Named Entity Recognition (NER).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Capabilities and limitations of optical character recognition (OCR)",
+            "text": "",
+            "link": "https://learn.microsoft.com/en-us/azure/foundry/responsible-ai/computer-vision/ocr-characteristics-and-limitations",
+            "snippet": "A popular measure of accuracy for OCR is word error rate (WER), or how many words were incorrectly output in the extracted results. The lower ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "OCR's Shortcomings & How Hyperscience Innovates Beyond It",
+            "text": "",
+            "link": "https://www.hyperscience.ai/blog/ocrs-shortcomings-and-how-hyperscience-innovates-beyond-it/",
+            "snippet": "Traditional OCR often falters in character recognition and struggles with the unstructured nature of extracted text, leading to inefficiencies ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Why is OCR (Optical Character Recognition) so bad? - Quora",
+            "text": "",
+            "link": "https://www.quora.com/Why-is-OCR-Optical-Character-Recognition-so-bad",
+            "snippet": "It isn't bad at all. We use OCR all the time and it is quite reliable. There are companies that specialize in OCR algorithms and have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "State of OCR technology in 2026: Is it dead or a solved problem?",
+            "text": "",
+            "link": "https://aimultiple.com/ocr-technology",
+            "snippet": "OCR is not a stand-alone solution in human-machine communication \u00b7 OCRs still can't match human-level accuracy in most applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A License Plate Recognition System with Robustness against ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2075-1680/12/5/424",
+            "snippet": "The main advantages of the proposed algorithm are the lack of a need for a training set, the high speed of the training process, the ability to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "License Plate Reader Guide: How It Works, Uses, Accuracy and ...",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/license-plate-reader",
+            "snippet": "Once captured, plate data is compared in real time against \u201chotlists\u201d: databases of stolen vehicles, AMBER Alerts, people suspected of crimes, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Eyes on the Road: AI, Privacy, and Automated License Plate Readers",
+            "text": "",
+            "link": "https://bostonbar.org/journal/eyes-on-the-road-ai-privacy-and-automated-license-plate-readers/",
+            "snippet": "ALPR systems contain both \u201creal-time\u201d alerts and historical data, allowing users to enter and search for driver information in a database and be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Does Flock Safety's system capture more data than license plates?",
+            "text": "",
+            "link": "https://www.facebook.com/groups/CrestviewAreaCrimeBreakins/posts/3527679214075855/",
+            "snippet": "Flock cameras significantly impact public surveillance and transparency by creating a vast network of automated license plate readers that track ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "[PDF] LICENSE PLATE RECOGNITION TECHNOLOGY (LPR)",
+            "text": "",
+            "link": "https://cebcp.org/wp-content/evidence-based-policing/LPR_FINAL.pdf",
+            "snippet": "involves scanning vehicle plates directly and comparing them to a single database concerning the status of those plates (and the cars attached to them).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "The Limits of Computer Vision, and of Our Own",
+            "text": "",
+            "link": "https://magazine.hms.harvard.edu/articles/limits-computer-vision-and-our-own",
+            "snippet": "In fields such as radiology, AI models can help compensate for the shortcomings of human vision but have weaknesses of their own.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Ethical and regulatory challenges of AI technologies in healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879008/",
+            "snippet": "This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "[PDF] Using Computer Vision as a Risk Mitigation Tool",
+            "text": "",
+            "link": "https://www.nsc.org/getmedia/2499ccbe-1bfe-4992-9cbe-111db89a9a0f/computer-vision-camera-analytics-tech-wp.pdf?srsltid=AfmBOopnq5HQtGoUEP3Vd9425kJs53nffy2ZhQ3oOBIIsfK2blQvMAEi",
+            "snippet": "The end goal of the Work to Zero initiative is to eliminate workplace fatality risk through the use of technology. This report finds computer vision technology, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "AI-driven computer vision and machine learning models for real-time ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2307187726000143",
+            "snippet": "The research addresses the current issues of creating simple and implementable models using artificial intelligence with precision and scale to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "How Computer Vision is Changing Safety and Security | Voxel51",
+            "text": "",
+            "link": "https://voxel51.com/blog/how-computer-vision-is-changing-security",
+            "snippet": "By analyzing vast volumes of video data with speed and accuracy, computer vision helps reduce false alarms, improve compliance, and surface ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "License Plate Recognition - an overview | ScienceDirect Topics",
+            "text": "",
+            "link": "https://www.sciencedirect.com/topics/computer-science/license-plate-recognition",
+            "snippet": "ANPR is a technology used to photograph license plates, scan them using optical character recognition software, identify the vehicle, and reference it against ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "License Plate Recognition for Stolen Vehicles Using Optical ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/357651145_License_Plate_Recognition_for_Stolen_Vehicles_Using_Optical_Character_Recognition",
+            "snippet": "Automatic license plate recognition (ALPR) is to extract vehicle license plate information from an image or a sequence of images. The extracted information can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "US5568406A - Stolen car detection system and method",
+            "text": "",
+            "link": "https://patents.google.com/patent/US5568406A/en",
+            "snippet": "A method and system to detect and identify a target vehicle displaying a switched or invalid license plate includes a license plate reader to read the plate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Deep Learning-Based System for Automatic License Plate ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/15/14/7833",
+            "snippet": "Automatic license plate recognition (ALPR) from images covers a wide range of applications across various domains, such as vehicle charging and parking systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Automated License Plate Recognition Systems",
+            "text": "",
+            "link": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2694&context=thesis",
+            "snippet": "A computer vision application, automated license plate recognition systems take in image data and outputs predictions in regards to the license ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999976,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.799970999783433e-05,
+        "norm_entropy": 0.0004884398626864342,
+        "avg_entropy": 5.599941999566866e-06,
+        "avg_norm_entropy": 9.768797253728684e-05,
+        "avg_prob": 0.9999944,
+        "avg_logprob": -5.600058000949688e-06,
+        "avg_explogprob": 0.9999943999576794,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    2.4e-05,
+                    0.999976
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.9999904001152,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images of license plates and compare them to a database of stolen vehicles, aiming to assist law enforcement in identifying potentially stolen cars. The system uses optical character recognition to extract relevant information from the images. It is intended to provide accurate and efficient alerts to authorities, helping to prevent crime and ensure public safety.",
+        "response": " Lack of capability or robustness is a risk associated with A computer vision system is designed to analyze images of license plates and compare them to a database of stolen vehicles, aiming to assist law enforcement in identifying potentially stolen cars. The system uses optical character recognition to extract relevant information from the images. It is intended to provide accurate and efficient alerts to authorities, helping to prevent crime and ensure public safety.",
+        "elapsed_time": 56.504649333997804
+    }
+}

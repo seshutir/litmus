@@ -1,0 +1,536 @@
+{
+    "input": " AI system security vulnerabilities and attacks is a risk associated with A decentralized system utilizes blockchain technology to facilitate secure and transparent transactions, enabling the creation of autonomous organizations. It aims to provide a robust and resilient framework for managing digital assets, ensuring the integrity and security of all transactions. The system relies on advanced cryptographic techniques to protect user funds and maintain the trust of its participants.",
+    "output": " AI system security vulnerabilities and attacks is a risk associated with A decentralized system utilizes blockchain technology to facilitate secure and transparent transactions, enabling the creation of autonomous organizations. It aims to provide a robust and resilient framework for managing digital assets, ensuring the integrity and security of all transactions. The system relies on advanced cryptographic techniques to protect user funds and maintain the trust of its participants.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with a decentralized system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with utilizing a decentralized system that uses blockchain technology",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with facilitating secure and transparent transactions in a decentralized system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with creating autonomous organizations that utilize blockchain technology",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with managing digital assets in a decentralized system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with protecting user funds in a decentralized system",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        },
+        {
+            "id": "a6",
+            "text": "AI system security vulnerabilities and attacks is a risk associated with maintaining the trust of the system's participants",
+            "contexts": [
+                "c_a6_0",
+                "c_a6_1",
+                "c_a6_2",
+                "c_a6_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "Public policy creating \u201cAI Security Compliance\u201d programs will reduce the risk of attacks on AI systems and lower the impact of successful attacks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Top 14 AI Security Risks in 2026",
+            "text": "",
+            "link": "https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-security-risks/",
+            "snippet": "This article will cover a few of the main AI security risks associated with AI systems, the ways to address them, and how SentinelOne is able to protect AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Blockchain for secure and decentralized artificial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S209672092400006X",
+            "snippet": "by AMS Saleh \u00b7 2024 \u00b7 Cited by 189 \u2014 Secure AI systems must be built to withstand and protect against these attacks and other cyber risks. Decentralized AI systems are a solution that allows ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Top AI Security Vulnerabilities to Watch out for in 2026",
+            "text": "",
+            "link": "https://cycode.com/blog/ai-security-vulnerabilities/",
+            "snippet": "AI risk in cybersecurity refers to the security gaps and failure modes that arise from the development, deployment, and integration of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What Are the Risks and Benefits of Artificial Intelligence (AI) ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-risks-and-benefits-in-cybersecurity",
+            "snippet": "AI-driven systems can automatically trigger response actions upon detecting a threat, such as isolating infected endpoints or blocking malicious IP addresses.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Blockchain for secure and decentralized artificial intelligence in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S209672092400006X",
+            "snippet": "This systematic literature review focuses on the integration of blockchain technology with decentralized AI within cybersecurity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI Creates Security Risks and Attack Vectors. Can Blockchain Help?",
+            "text": "",
+            "link": "https://finance.yahoo.com/news/ai-creates-security-risks-attack-211622746.html",
+            "snippet": "In the security context, AI introduces new security risks across organizations, while blockchain technology could present itself as a solution ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Blockchain Security: Common Vulnerabilities and How to Protect ...",
+            "text": "",
+            "link": "https://hacken.io/insights/blockchain-security-vulnerabilities/",
+            "snippet": "Each layer of the blockchain is susceptible to one attack or the other. This explains the reason blackhat would always find blockchain security loopholes to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Exploring Security Risks in AI Blockchain Projects | by ChainLight",
+            "text": "",
+            "link": "https://blog.chainlight.io/ecosystem-explorer-exploring-security-risks-in-ai-blockchain-projects-2c490a726d13",
+            "snippet": "We will examine the problems with the existing centralized AI ecosystem, analyze how decentralized infrastructure aims to solve these issues, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Blockchain Security: Protecting Decentralized Systems in ... - Medium",
+            "text": "",
+            "link": "https://medium.com/@vishaluttammane/blockchain-security-protecting-decentralized-systems-in-the-modern-digital-era-e5213e036ba0",
+            "snippet": "Blockchain security focuses on protecting decentralized networks, smart contracts, and digital assets from vulnerabilities, attacks, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI and blockchain technology for secure and transparent financial ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/385381940_AI_and_blockchain_technology_for_secure_and_transparent_financial_transactions",
+            "snippet": "Blockchain's decentralized and immutable ledger system ensures that transaction records are tamper-proof and transparent, significantly reducing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Blockchain Security: Common Vulnerabilities and How to Protect ...",
+            "text": "",
+            "link": "https://hacken.io/insights/blockchain-security-vulnerabilities/",
+            "snippet": "A liveness attack is an extremely serious high-severity vulnerability that can lead to a temporal or permanent shutdown of a blockchain network.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Decentralized AI: A Secure and Equitable Future for Artificial ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/decentralized-ai-secure-equitable-future-artificial-shardorn-kpxve",
+            "snippet": "Decentralized AI mitigates these risks by distributing data and computational processes, making it harder for attackers to compromise the system ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Digital assets: risks, regulations, mitigation - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12883517/",
+            "snippet": "In addition to risks arising from contract complexity, a general lack of user familiarity with the technological aspects of blockchain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Blockchain for secure and decentralized artificial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S209672092400006X",
+            "snippet": "by AMS Saleh \u00b7 2024 \u00b7 Cited by 189 \u2014 This systematic literature review focuses on the integration of blockchain technology with decentralized AI within cybersecurity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Blockchain Security: Common Issues & Vulnerabilities",
+            "text": "",
+            "link": "https://nordlayer.com/blog/blockchain-security-issues/",
+            "snippet": "Threats include man-in-the-middle, Sybil, and 51 attack types that exploit insecure nodes. Blockchains are vulnerable to traditional phishing and endpoint ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "AI-Blockchain Integration for Real-Time Cybersecurity",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/5/3/59",
+            "snippet": "by S Goundar \u00b7 2025 \u00b7 Cited by 8 \u2014 This paper proposes and evaluates a novel real-time cybersecurity framework integrating artificial intelligence (AI) and blockchain technology to enhance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "What Is Blockchain Security? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/blockchain-security",
+            "snippet": "Blockchain security is a comprehensive risk management system for a blockchain network. It uses cybersecurity frameworks, assurance services and best practices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Inventory of Security Incidents Caused by AI Protocol Vulnerabilities ...",
+            "text": "",
+            "link": "https://www.kucoin.com/blog/inventory-of-security-incidents-caused-by-ai-protocol-vulnerabilities-in-the-crypto-ecosystem",
+            "snippet": "A deep, evidence-based look at security incidents in the AI crypto ecosystem during 2025, covering exploits, vulnerabilities, and real-world ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "The Dark Side of AI: Data Security Threats & How to Prevent Them",
+            "text": "",
+            "link": "https://zylo.com/blog/ai-data-security/",
+            "snippet": "For companies with decentralized SaaS portfolios, managing AI-related compliance adds another layer of complexity. GDPR and AI-Based Systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Digital assets: risks, regulations, mitigation - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12883517/",
+            "snippet": "Digital assets (DAs) such as cryptocurrencies, tokenized securities, stablecoins, non-fungible tokens (NFTs), and central bank digital ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Blockchain for secure and decentralized artificial intelligence in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S209672092400006X",
+            "snippet": "AI systems are susceptible to numerous attacks that can damage their availability, confidentiality, and integrity, including adversarial attacks, model stealing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability and What ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "AI attacks exist because there are fundamental limitations in the underlying AI algorithms that adversaries can exploit in order to make the system fail. Unlike ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
+            "text": "",
+            "link": "https://cryptonews.net/news/security/32657847/",
+            "snippet": "... AI tools make it faster and cheaper to attack systems. \"Finding vulnerabilities and exploiting them becomes really, really easy,\" Guillemet ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=kibPRUG9yKE",
+            "snippet": "systems stay secure. Crypto platforms \u2014 and investors \u2014 have long suffered from hacker attacks and exploits. Now, artificial intelligence (AI) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Decentralized finance security: A survey of attacks, defenses, and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667295226000024",
+            "snippet": "This survey provides a comprehensive systematization of DeFi security, categorizing vulnerabilities across three distinct layers: technical and code layer, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "AI cybersecurity in web3 - Blockchain Council",
+            "text": "",
+            "link": "https://www.blockchain-council.org/ai/ai-cybersecurity-in-web3/",
+            "snippet": "AI cybersecurity in Web3 is becoming a foundational layer for protecting decentralized ecosystems such as DeFi, NFTs, bridges, and DAOs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_0",
+            "title": "[PDF] Building trust in AI through a cyber risk-based approach",
+            "text": "",
+            "link": "https://messervices.cyber.gouv.fr/documents-guides/high_level_risks_analysis_ai_paris_summit.pdf",
+            "snippet": "The deployment of AI systems can open new paths of attack for malicious actors if adequate security measures are not implemented. Such a deployment should ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_1",
+            "title": "Trust in AI: progress, challenges, and future directions - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-024-04044-8",
+            "snippet": "Trust in AI heavily depends on the user's perception of an AI system's ability, which depends on the quality of the input data, the mathematical problem ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_2",
+            "title": "What Are the Risks and Benefits of Artificial Intelligence (AI) in ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-risks-and-benefits-in-cybersecurity",
+            "snippet": "This can lead to AI systems failing to detect threats or, worse, classifying legitimate activity as malicious. Such attacks undermine the reliability of AI- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_4",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/",
+            "snippet": "AI's increasing capabilities at deception pose serious risks, ranging from short-term risks, such as fraud and election tampering, to long-term risks, such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI and Blockchain, Enhancing Security, Transparency, and Integrity",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392626580_AI_and_Blockchain_Enhancing_Security_Transparency_and_Integrity",
+            "snippet": "By making use of AI algorithms, Blockchain systems can attain heightened levels of data security through advanced encryption methods and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Revolutionizing Cybersecurity with AI and Blockchain: The SecureAI ...",
+            "text": "",
+            "link": "https://medium.com/@secureai/revolutionizing-cybersecurity-with-ai-and-blockchain-the-secureai-way-f54f80308745",
+            "snippet": "Its decentralized, immutable ledger system provides an unprecedented level of security and transparency, which is crucial in cybersecurity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Bolstering Cybersecurity and Blockchain Networks Through AI ...",
+            "text": "",
+            "link": "https://rsisinternational.org/journals/ijriss/uploads/vol10-iss3-pg4403-4425-202604_pdf.pdf",
+            "snippet": "This study explores the role of Artificial Intelligence (AI) technologies in optimizing threat detection, enhancing network resilience, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Digital assets: risks, regulations, mitigation - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12883517/",
+            "snippet": "Underpinned by blockchain, distributed ledger technology, and smart contracts, digital innovations are reshaping the financial ecosystem.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999942,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a6": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 7,
+        "num_contexts": 35,
+        "num_true_atoms": 7,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 6.399831496765444e-05,
+        "norm_entropy": 0.0010281875423516545,
+        "avg_entropy": 9.142616423950634e-06,
+        "avg_norm_entropy": 0.00014688393462166494,
+        "avg_prob": 0.9999908571428572,
+        "avg_logprob": -9.143097866459601e-06,
+        "avg_explogprob": 0.9999908569439315,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    5.8e-05,
+                    0.999942
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S",
+            "a6": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 7,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null,
+            "a6": null
+        },
+        "avg_brier": 0.9999831433378572,
+        "topic": "",
+        "query": " AI system security vulnerabilities and attacks is a risk associated with A decentralized system utilizes blockchain technology to facilitate secure and transparent transactions, enabling the creation of autonomous organizations. It aims to provide a robust and resilient framework for managing digital assets, ensuring the integrity and security of all transactions. The system relies on advanced cryptographic techniques to protect user funds and maintain the trust of its participants.",
+        "response": " AI system security vulnerabilities and attacks is a risk associated with A decentralized system utilizes blockchain technology to facilitate secure and transparent transactions, enabling the creation of autonomous organizations. It aims to provide a robust and resilient framework for managing digital assets, ensuring the integrity and security of all transactions. The system relies on advanced cryptographic techniques to protect user funds and maintain the trust of its participants.",
+        "elapsed_time": 45.487390958000105
+    }
+}

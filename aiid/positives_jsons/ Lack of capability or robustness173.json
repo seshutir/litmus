@@ -1,0 +1,212 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+    "output": " Lack of capability or robustness is a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in an autonomous delivery robot",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an autonomous delivery robot is a risk in navigating through various environments, including roads and intersections, to deliver food to users",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robot Hype vs. Real Risk: Is Your Business Truly Ready for ...",
+            "text": "",
+            "link": "https://www.roboticstomorrow.com/story/2025/10/robot-hype-vs-real-risk-is-your-business-truly-ready-for-autonomous-food-delivery/25664/",
+            "snippet": "Autonomous delivery is inevitable, but long-term profitability and stability hinge entirely on preparedness, not just performance metrics. A ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Consumer acceptance of the autonomous robot in last-mile delivery",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0965856424000569",
+            "snippet": "This study investigates the factors influencing customers' acceptance of ADRs in LMD and aid in resource allocation to encourage acceptance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Autonomous Robots for Services\u2014State of the Art, Challenges, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10223107/",
+            "snippet": "This article reviews the current state of development of this technology and highlights the evolution of interest in it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Why Autonomous Robots Fail in Real Environments",
+            "text": "",
+            "link": "https://www.cyberworksrobotics.com/post/why-autonomous-robots-fail-in-real-environments",
+            "snippet": "Sensor failures \u00b7 Temporary navigation loss \u00b7 Environmental interference \u00b7 Software anomalies \u00b7 Mechanical disruptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Navigating Liability In Autonomous Robots: Legal And Ethical ...",
+            "text": "",
+            "link": "https://yris.yira.org/column/navigating-liability-in-autonomous-robots-legal-and-ethical-challenges-in-manufacturing-and-military-applications/",
+            "snippet": "A fundamental issue underlying AI liability is responsibility fragmentation. Unlike traditional tools that function under direct human control, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Robot Hype vs. Real Risk: Is Your Business Truly Ready for ...",
+            "text": "",
+            "link": "https://www.roboticstomorrow.com/story/2025/10/robot-hype-vs-real-risk-is-your-business-truly-ready-for-autonomous-food-delivery/25664/",
+            "snippet": "This post moves businesses past the novelty of robot adoption and into the necessary preparation phase of risk mitigation and compliance review.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "(PDF) Risk-Mitigation Strategies for Autonomous Delivery Vehicles ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387091968_Risk-Mitigation_Strategies_for_Autonomous_Delivery_Vehicles_in_the_Last_Mile_A_Comprehensive_Overview_of_the_Current_State_and_Future_Potential_of_Autonomous_Delivery_Technologies_in_the_Supply_Chain",
+            "snippet": "The objective of this research is to investigate the potential for ADV last-mile delivery while minimizing associated risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Cities need to get ahead of autonomous delivery robots",
+            "text": "",
+            "link": "https://policyoptions.irpp.org/2025/01/sidewalk-robot-delivery-safety/",
+            "snippet": "Autonomous delivery robots are increasingly appearing on sidewalks as a solution to the last-mile delivery challenges of online shopping, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robust route planning for sidewalk delivery robots - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0968090X26001580",
+            "snippet": "Sidewalk delivery robots are a promising solution for last-mile freight distribution. Yet, they operate in dynamic environments characterized by pedestrian ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Infrastructure Can Limit Delivery Robots as Much as Tech - GovTech",
+            "text": "",
+            "link": "https://www.govtech.com/fs/infrastructure-can-limit-delivery-robots-as-much-as-tech",
+            "snippet": "Four coordinated pilot projects that deployed small delivery bots in cities around the country found the issues to be as basic as incomplete or damaged ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Impacts of Autonomous Delivery Robots (ADRs) on Pedestrians and ...",
+            "text": "",
+            "link": "https://3rev.ucdavis.edu/ADRs-Pedestrians-Vehicle-Traffic",
+            "snippet": "Autonomous robots have been operating inside warehouses and factories (controlled environments) for more than three decades, demonstrating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "How Do Autonomous Delivery Robots Navigate City Sidewalks?",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=diMSas6xd-E",
+            "snippet": "How Do Autonomous Delivery Robots Navigate City Sidewalks? Curious about how autonomous delivery robots move safely through busy city ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Solving The Last-Mile Delivery Problem - Semiconductor Engineering",
+            "text": "",
+            "link": "https://semiengineering.com/solving-the-last-mile-delivery-problem/",
+            "snippet": "Designing autonomous delivery robots also comes with several challenges that must be addressed to ensure their safe and efficient operation. \u201c ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+        "response": " Lack of capability or robustness is a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+        "elapsed_time": 31.016958791000434
+    }
+}

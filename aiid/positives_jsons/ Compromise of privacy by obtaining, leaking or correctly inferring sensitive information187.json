@@ -1,0 +1,464 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in a social media platform",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in utilizing a recommendation algorithm to curate a personalized feed for users of a social media platform",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk in analyzing user behavior",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Compromise of privacy is a risk in analyzing user preferences on a social media platform",
+            "contexts": [
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Compromise of privacy is a risk in training the algorithm on user-generated content",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Compromise of privacy is a risk in training the algorithm on user profiles of the social media platform",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Social Media Privacy - Epic.org",
+            "text": "",
+            "link": "https://epic.org/issues/consumer-privacy/social-media-privacy/",
+            "snippet": "The massive stores of personal data that social media platforms collect and retain are vulnerable to hacking, scraping, and data breaches, particularly if ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Risks to Privacy of Using Social Media - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6602849/",
+            "snippet": "We explored privacy risks of using social media for mental health from the perspectives of social media users with serious mental illness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Privacy Risks and Social Media",
+            "text": "",
+            "link": "https://digitalprivacy.ieee.org/publications/topics/privacy-risks-and-social-media/",
+            "snippet": "The core privacy risks on platforms like Facebook and Twitter include data collection, targeted advertising, tracking user behavior, security breaches and more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Social Media Privacy: The Risks, Responsibilities, and Regulations",
+            "text": "",
+            "link": "https://com.miami.edu/projects/social-media-privacy-the-risks-responsibilities-and-regulations/",
+            "snippet": "This paper investigates the privacy risks social media users face, the responsibilities of the platforms, and the regulations surrounding these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Impact of Social Media on Personal Privacy and Ways to Protect It",
+            "text": "",
+            "link": "https://cloudtweaks.com/2023/06/social-media-personal-privacy-protect-it/",
+            "snippet": "Risks of oversharing: Oversharing on social media can compromise your privacy and put you at risk for identity theft, fraud, and other cyber ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "(PDF) Privacy Risk in Recommender Systems",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/385163341_Privacy_Risk_in_Recommender_Systems",
+            "snippet": "The results indicated that better user privacy can be achieved if privacy is considered by design and by default. Moreover, prediction accuracy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Privacy-Preserving Personalized Recommender Systems",
+            "text": "",
+            "link": "https://pubsonline.informs.org/doi/10.1287/msom.2023.0271",
+            "snippet": "Problem definition: Personalized product recommendations are crucial for online platforms but pose privacy risks. To address these concerns ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://www.bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "by D Draper \u00b7 Cited by 6 \u2014 Algorithmic recommendations entice users to remain on the platform longer, and studies found that increased time spent online is correlated with increased ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What are the privacy concerns with recommender systems?",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/what-are-the-privacy-concerns-with-recommender-systems",
+            "snippet": "Recommender systems raise privacy concerns primarily due to their reliance on collecting and analyzing large amounts of user data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Privacy in an AI Era: How Do We Protect Our Personal ...",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information",
+            "snippet": "Privacy in an AI Era: How Do We Protect Our Personal Information? Date March 18, 2024 A new report analyzes the risks of AI and offers potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Infer Sensitive Information - an overview | ScienceDirect Topics",
+            "text": "",
+            "link": "https://www.sciencedirect.com/topics/computer-science/infer-sensitive-information",
+            "snippet": "Infer sensitive information refers to the process by which a hacker deduces private data from the outcomes of authorized queries, potentially revealing user ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Inference Risks in Data Privacy - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/data-privacy-issues-with-ai/inference-risks-in-data-privacy/",
+            "snippet": "Inference risks in data privacy refer to the possibility that sensitive information can be reconstructed or identified from internal model states, outputs, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Behavioral Data Leakage: Why Privacy Risk No Longer Looks Like ...",
+            "text": "",
+            "link": "https://www.verbat.com/blog/behavioral-data-leakage-why-privacy-risk-no-longer-looks-like-exfiltration-2/",
+            "snippet": "Behavioral data leakage occurs when systems unintentionally reveal sensitive information through patterns of behavior rather than explicit data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "A Survey on Privacy Risks and Protection in Large Language Models",
+            "text": "",
+            "link": "https://arxiv.org/html/2505.01976v1",
+            "snippet": "We investigate the mechanisms of privacy leakage, including the unauthorized extraction of training data and the potential exploitation of these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Detect, Respond to, and Recover from Data Breaches",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-29.pdf",
+            "snippet": "An organization must protect its information from unauthorized access and disclosure. Data breaches large and small can have far-reaching operational, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Social Media Privacy - Epic.org",
+            "text": "",
+            "link": "https://epic.org/issues/consumer-privacy/social-media-privacy/",
+            "snippet": "Too many social media platforms are built on excessive collection, algorithmic processing, and commercial exploitation of users' personal data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "the relationship between privacy concerns and social media usage",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/13527266.2024.2424922",
+            "snippet": "This paper suggests that there is a direct and positive relationship between privacy concerns and social media usage, but there are some mediating pathways.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Privacy Issues with Social Media - Kaspersky",
+            "text": "",
+            "link": "https://www.kaspersky.com/resource-center/definitions/social-media-privacy",
+            "snippet": "More susceptibility to hacking: One of the biggest problems with social media privacy is that scammers and cybercriminals can mine profiles for personal details ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Privacy in an AI Era: How Do We Protect Our Personal Information?",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information",
+            "snippet": "The AI boom, including the advent of large language models (LLMs) and their associated chatbots, poses new challenges for privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Exploring privacy issues in the age of AI - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/insights/ai-privacy",
+            "snippet": "AI arguably poses a greater data privacy risk than earlier technological advancements, but the right software solutions can address AI privacy concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Artificial Intelligence and Privacy \u2013 Issues and Challenges",
+            "text": "",
+            "link": "https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/",
+            "snippet": "For instance, training a machine learning algorithm on massive amounts of data in a secure environment before being released could in turn allow for increased ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Privacy considerations for Generative AI",
+            "text": "",
+            "link": "https://www.cybersecurity.illinois.edu/privacy-considerations-for-generative-ai/",
+            "snippet": "Training data may include data that was collected in violation of copyright and privacy laws, among other laws or ethical considerations, which ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "The growing data privacy concerns with AI: What you need to know",
+            "text": "",
+            "link": "https://www.dataguard.com/blog/growing-data-privacy-concerns-ai/",
+            "snippet": "Some of the risks include the misuse of personal data, algorithmic bias, and the potential for the technology to be hacked or manipulated.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "View of The Dark Side of Algorithms: How Ethical and Privacy ...",
+            "text": "",
+            "link": "https://ijoc.org/index.php/ijoc/article/view/25987/5155",
+            "snippet": "Drawing on communication privacy management (CPM) theory, this study examines how users' ethical considerations of algorithm-driven social media ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Privacy in an AI Era: How Do We Protect Our Personal Information?",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information",
+            "snippet": "First, AI systems pose many of the same privacy risks ... Second, there's the risk of others using our data and AI tools for anti-social purposes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Robustness of privacy-preserving collaborative recommenders ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10403214/",
+            "snippet": "The key findings of our analysis reveal that privacy-sensitive users receive unbiased and fairer recommendations that are qualified in diversity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "On the User Behavior Leakage from Recommender System Exposure",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/364616679_On_the_User_Behavior_Leakage_from_Recommender_System_Exposure",
+            "snippet": "Experimental evaluation reveals a trade-off effect between the recommendation accuracy and the privacy disclosure risk, which is an interesting and important ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "On content-based recommendation and user privacy in social ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0920548915000161",
+            "snippet": "Recommendation and information-filtering systems have been developed to predict users' preferences, and to eventually use the resulting predictions for a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "The algorithms driving social media are called recommender systems. These algorithms are the engine that makes Facebook and YouTube what they are.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] The Right to Know Social Media Algorithms",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/lpr/wp-content/uploads/sites/89/2024/08/18.1-Right-to-Know-Social-Media-Algorithms.pdf",
+            "snippet": "In this article, I will discuss how we should deal with this essential con- flict between the public interest in algorithmic transparency and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 6,
+        "num_contexts": 30,
+        "num_true_atoms": 6,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999997000171535e-06,
+        "norm_entropy": 0.00012824557733663114,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 6,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+        "elapsed_time": 62.44404874999964
+    }
+}

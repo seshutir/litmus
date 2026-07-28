@@ -1,0 +1,395 @@
+{
+    "input": " False or misleading information is a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+    "output": " False or misleading information is a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "False or misleading information is a risk in a social media platform's content",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "False or misleading information is a risk in a social media platform's content curation for users",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "False or misleading information is a risk in a social media platform's content recommendation algorithm learning user preferences quickly",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "False or misleading information is a risk in providing relevant and engaging content through a social media platform's content recommendation algorithm",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "False or misleading information is a risk in a social media platform's filtering and prioritizing of content",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Study reveals key reason why fake news spreads on social media",
+            "text": "",
+            "link": "https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/",
+            "snippet": "Surprisingly, the researchers found that users' social media habits doubled and, in some cases, tripled the amount of fake news they shared.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Misinformation on Social Media \u2013 Guidance, Impact and Support",
+            "text": "",
+            "link": "https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/",
+            "snippet": "Misinformation is a more technical term for 'fake news' and is something that can spread quickly across various platforms such as social media channels.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The impact of fake news on social media and its influence on health ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8502082/",
+            "snippet": "When analyzing the potential risks of misinformation, panic, depression, fear, fatigue, and the risk of infection influence psychological distress and emotional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Misinformation and Disinformation in the Digital Age: A Rising Risk ...",
+            "text": "",
+            "link": "https://corpgov.law.harvard.edu/2025/05/12/misinformation-and-disinformation-in-the-digital-age-a-rising-risk-for-business-and-investors/",
+            "snippet": "Current threats include \u201cmisinformation,\u201d defined as inaccurate information shared without the intent to cause harm; and \u201cdisinformation,\u201d ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How misinformation on social media has changed news - PIRG",
+            "text": "",
+            "link": "https://pirg.org/edfund/articles/misinformation-on-social-media/",
+            "snippet": "Misinformation is incorrect or misleading information. Sometimes it can be as simple as an error in reporting. Other times, misinformation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How misinformation on social media has changed news - PIRG",
+            "text": "",
+            "link": "https://pirg.org/edfund/articles/misinformation-on-social-media/",
+            "snippet": "Misinformation that seems real - but isn't - rapidly circulates through social media. The problem is only getting worse.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Misinformation and Disinformation: The Potential Disadvantages of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9384020/",
+            "snippet": "The purpose of this article is to inform the infectious diseases community of the history and dangers of health misinformation and disinformation in social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Misinformation on social media - statistics & facts - Statista",
+            "text": "",
+            "link": "https://www.statista.com/topics/9713/misinformation-on-social-media/?srsltid=AfmBOorKzovDDsjeJdDPvfStA9NPa5de8gmZId1awqPohSg_0x4GtkD9",
+            "snippet": "From deepfakes and false claims about extreme weather to politically charged unrest, misleading content is eroding trust and raising urgent questions about ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Social media and the spread of misinformation - Oxford Academic",
+            "text": "",
+            "link": "https://academic.oup.com/heapro/article/40/2/daaf023/8100645",
+            "snippet": "These factors suggest that many social media users are exposed to misleading marketing content, which puts them at risk of purchasing health ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Mixed views about social media companies using algorithms to find ...",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2022/03/17/mixed-views-about-social-media-companies-using-algorithms-to-find-false-information/",
+            "snippet": "Overall, majorities of Americans believe that the algorithms companies use to find false information are not helping the social media ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "[PDF] The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://www.bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "With the rise of false information, hate speech, and violent threats online, it is vital that platforms continue to invest in the research and development of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "The algorithms driving social media are called recommender systems. These algorithms are the engine that makes Facebook and YouTube what they are.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Social Drivers and Algorithmic Mechanisms on Digital Media - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/",
+            "snippet": "First, algorithms could contribute to increasing depression, anxiety, loneliness, body dissatisfaction, and even suicides by facilitating unhealthy social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The role of recommendation algorithms in the formation of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0306457325001840",
+            "snippet": "Our findings reveal that certain recommendation approaches can significantly reinforce the cohesion and visibility of disinformation networks, thereby ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "[PDF] The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "Overexposure to harmful content poses serious mental health risks to children and adolescents, particularly for vulnerable groups. Lastly, algorithmic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Misinformation on Social Media: Social Media Algorithms",
+            "text": "",
+            "link": "https://library.queens.edu/misinformation-on-social-media/algorithms",
+            "snippet": "Social media algorithms refer to a variety of processes that rank user-provided signals to determine what type of content and advertisements to display to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Mixed views about social media companies using algorithms to find ...",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2022/03/17/mixed-views-about-social-media-companies-using-algorithms-to-find-false-information/",
+            "snippet": "The companies also use these algorithms to scale up efforts to identify false information on their sites \u2013 recognizing the pressing challenge of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Social media, misinformation and harmful algorithms - Parliament UK",
+            "text": "",
+            "link": "https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html",
+            "snippet": "Internet users are exposed to large volumes of harmful and misleading content which can deceive, damage mental health, normalise extremist views, undermine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "How and why does misinformation spread?",
+            "text": "",
+            "link": "https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads",
+            "snippet": "Algorithms that track user engagement to prioritize what is shown tend to favor content that spurs negative emotions like anger and outrage.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Fake news on Social Media: the Impact on Society - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8767040/",
+            "snippet": "FN is increasingly affecting societal values, changing opinions on critical issues and topics as well as redefining facts, truths, and beliefs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Study reveals key reason why fake news spreads on social media",
+            "text": "",
+            "link": "https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/",
+            "snippet": "Habitual sharing of misinformation is not inevitable. Users could be incentivized to build sharing habits that make them more sensitive to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "How misinformation spreads on social media\u2014And what to do about it",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/",
+            "snippet": "Most users who generate misinformation do not share accurate information too, so it can be difficult to tease out the effect of misinformation itself. For ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A scoping review of personalized user experiences on social media",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958822000872",
+            "snippet": "This scoping review presents an overview of the current state of knowledge of social media personalization from different research domains.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Social Drivers and Algorithmic Mechanisms on Digital Media - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/",
+            "snippet": "Algorithms are designed to optimize certain metrics, which are used to rank content in user feeds or to suggest relevant accounts. Yet these optimization ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] The Right to Know Social Media Algorithms",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/lpr/wp-content/uploads/sites/89/2024/08/18.1-Right-to-Know-Social-Media-Algorithms.pdf",
+            "snippet": "For example, the amplification of fake news by social media algorithms has caused tremendous harm to democratic governance and undermined ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " False or misleading information is a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+        "response": " False or misleading information is a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+        "elapsed_time": 58.91927679199944
+    }
+}

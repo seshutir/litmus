@@ -1,0 +1,362 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A production system is designed to optimize the manufacturing process of electric vehicles, aiming to meet demand by streamlining assembly line operations. The system focuses on improving the efficiency of battery production, a critical component of the vehicles. It also seeks to allocate resources effectively, ensuring a steady supply of skilled labor to meet production targets.",
+    "output": " Lack of capability or robustness is a risk associated with A production system is designed to optimize the manufacturing process of electric vehicles, aiming to meet demand by streamlining assembly line operations. The system focuses on improving the efficiency of battery production, a critical component of the vehicles. It also seeks to allocate resources effectively, ensuring a steady supply of skilled labor to meet production targets.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the production system for electric vehicle manufacturing",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in optimizing the assembly line operations of a production system for electric vehicles",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in improving the efficiency of battery production for electric vehicles",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in the production system is a risk in allocating resources effectively to ensure a steady supply of skilled labor",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Sustainability challenges throughout the electric vehicle battery ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1364032123010341",
+            "snippet": "The global commitment to decarbonizing the transport sector has resulted in an unabated growth in the markets for electric vehicles and their batteries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Electric vehicle and battery supply chain: how a risked EV adoption ...",
+            "text": "",
+            "link": "https://www.woodmac.com/news/opinion/electric-vehicle-and-battery-supply-chain-how-a-risked-ev-adoption-puts-5-million-sales-at-risk/",
+            "snippet": "In our latest report, we examine the challenges in EV manufacturing, supply chain, charging infrastructure and geopolitics that could disrupt electrification.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Why so many manufacturers are failing to build a proper EV even ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/electricvehicles/comments/1rq168j/why_so_many_manufacturers_are_failing_to_build_a/",
+            "snippet": "Right now cars are so so much cheaper thanks to significant improvement in manufacturing engineering research and decades or almost half a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Supply Chain Challenges Impacting Electric Vehicle Adoption",
+            "text": "",
+            "link": "https://www.coxautoinc.com/mobility/wp-content/uploads/sites/11/2022/09/EV_Battery_Whitepaper.pdf",
+            "snippet": "The U.S. reliance on importing materials critical to EV battery production has become an economic and national security vulnerability. Fortunately, the U.S. has ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How Supply Chain Constraints are Affecting EV Manufacturing",
+            "text": "",
+            "link": "https://procurementmag.com/operations/how-supply-chain-constraints-are-affecting-ev-manufacturing",
+            "snippet": "Technological barriers such as battery performance, charging infrastructure and thermal management add to the complexity. Many global markets ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The assembly line model that can survive EV uncertainty",
+            "text": "",
+            "link": "https://www.automotivemanufacturingsolutions.com/whitepapers/the-assembly-line-model-that-can-survive-ev-uncertainty/2603778",
+            "snippet": "Traditional rigid assembly lines are failing as OEMs navigate unpredictable EV adoption rates while maintaining ICE and hybrid production.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Key Challenges in the EV Battery Manufacturing Industry",
+            "text": "",
+            "link": "https://fortress-safety.com/news/key-challenges-in-the-ev-battery-manufacturing-industry/",
+            "snippet": "Explore key safety challenges in EV battery manufacturing, including material handling, automation, and risk mitigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "OVERCOMING LEAN SIX SIGMA BARRIERS IN ELECTRIC ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/386279938_OVERCOMING_LEAN_SIX_SIGMA_BARRIERS_IN_ELECTRIC_VEHICLE_ASSEMBLY_POTENTIAL_SOLUTIONS",
+            "snippet": "Four main barriers affecting the assembly process are transportation and handling, assembly line processing, EV assembly integration, and human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Addressing electric vehicle manufacturing challenges | EY",
+            "text": "",
+            "link": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/campaigns/coo/documents/addressing-electric-vehicle-manufacturing-challenges-whitepaper.pdf",
+            "snippet": "One of the biggest challenges for EV manufacturers is the development of advanced and reliable battery technology. This requires high R&D investment and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Challenges and opportunities for high-quality battery production at ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11725600/",
+            "snippet": "The rise in battery production faces challenges from manufacturing complexity and sensitivity, causing safety and reliability issues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Overcoming EV battery manufacturing challenges - Atlas Copco USA",
+            "text": "",
+            "link": "https://www.atlascopco.com/en-us/itba/expert-hub/articles/overcoming-ev-battery-manufacturing-challenges",
+            "snippet": "Major challenges in electric vehicle battery manufacturing \u00b7 1. Fulfilling safety requirements \u00b7 2. Safeguarding quality \u00b7 3. Rising costs \u00b7 4. EV batteries need to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Perspective Ten major challenges for sustainable lithium-ion batteries",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666386424003011",
+            "snippet": "This article outlines principles of sustainability and circularity of secondary batteries considering the life cycle of lithium-ion batteries as well as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The EV Battery Bottleneck: Challenges and Global Responses - AZoM",
+            "text": "",
+            "link": "https://www.azom.com/article.aspx?ArticleID=24543",
+            "snippet": "These include concerns about battery reliability, supply chain limitations, environmental risks tied to raw materials, and high production costs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Addressing Concerns About Electric Vehicle Batteries - Coltura",
+            "text": "",
+            "link": "https://coltura.org/evbatteries/",
+            "snippet": "The primary concerns are: 1) labor practices for mining cobalt; 2) environmental impacts of extracting lithium; 3) sufficient supply of materials for EV ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Labor supply and automation innovation: Evidence from an ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0047272724000720",
+            "snippet": "This study examines the impact of exogenous changes in regional labor supply on automation innovation by leveraging a German immigrant allocation policy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Understanding Labour Shortages: The Structural Forces at Play",
+            "text": "",
+            "link": "https://www.oecd.org/en/publications/oecd-economic-outlook-volume-2024-issue-2_d8814e8b-en/full-report/understanding-labour-shortages-the-structural-forces-at-play_321e116a.html",
+            "snippet": "Labour shortages are being amplified by structural and technological shifts, including population ageing, the rise of artificial intelligence (AI) and the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Skills Gaps: A Review of Underlying Concepts and Evidence",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/R47059",
+            "snippet": "Employer reports of job vacancies left unfilled due to a lack of adequately skilled applicants have spanned U.S. industries for decades, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Supply chain disruptions and resilience: a major review and future ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7792559/",
+            "snippet": "Our study examines the literature that has been published in important journals on supply chain disruptions, a topic that has emerged the last 20 years.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Assessing the Impact of New Technologies on the Labor Market",
+            "text": "",
+            "link": "https://www.bls.gov/bls/congressional-reports/assessing-the-impact-of-new-technologies-on-the-labor-market.htm",
+            "snippet": "We review the social science literature on the effects of automation and related technologies on the labor force and identify some of the key theoretical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Tesla's Lean and Innovative Production a)Tesla, Inc., the electric ...",
+            "text": "",
+            "link": "https://www.cliffsnotes.com/cliffs-questions/5295631",
+            "snippet": "Production issues at Tesla: 1. Tesla faced challenges meeting its production targets for the Model 3 due to bottlenecks in the production line, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "From cost to capability: Technology Multiplier in EV manufacturing ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0278612525001591",
+            "snippet": "This study explores the strategic decision-making process of production segment allocation, emphasizing the need for a systematic and holistic approach.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Unveiling the Tesla Touch in Supply Chain Effectiveness",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/378141517_Unveiling_the_Tesla_Touch_in_Supply_Chain_Effectiveness",
+            "snippet": "It helps businesses adapt quickly to shifting market conditions, reduce risk, and strengthen ties with key partners and suppliers. Understanding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Scaling Up EV Battery Manufacturing - Assembly Magazine",
+            "text": "",
+            "link": "https://www.assemblymag.com/articles/97602-scaling-up-ev-battery-manufacturing",
+            "snippet": "One way to maximize battery production is to implement continuous process improvement and lean manufacturing techniques. Continuous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Performance Enhancement Pathways for Electric Vehicle ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-8954/13/8/680",
+            "snippet": "In the manufacturing of electric vehicles, due to the complex product structure, long supply chain system, and rapid technological updates, companies require ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.999814,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0001889826994275295,
+        "norm_entropy": 0.0026374273240158904,
+        "avg_entropy": 4.724567485688238e-05,
+        "avg_norm_entropy": 0.0006593568310039726,
+        "avg_prob": 0.99995275,
+        "avg_logprob": -4.72543254113395e-05,
+        "avg_explogprob": 0.9999527467910567,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.000186,
+                    0.999814
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.9999065086492499,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A production system is designed to optimize the manufacturing process of electric vehicles, aiming to meet demand by streamlining assembly line operations. The system focuses on improving the efficiency of battery production, a critical component of the vehicles. It also seeks to allocate resources effectively, ensuring a steady supply of skilled labor to meet production targets.",
+        "response": " Lack of capability or robustness is a risk associated with A production system is designed to optimize the manufacturing process of electric vehicles, aiming to meet demand by streamlining assembly line operations. The system focuses on improving the efficiency of battery production, a critical component of the vehicles. It also seeks to allocate resources effectively, ensuring a steady supply of skilled labor to meet production targets.",
+        "elapsed_time": 31.98542308299966
+    }
+}

@@ -1,0 +1,423 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A navigation system is designed to provide users with efficient and safe routes to their destinations, utilizing mapping data and algorithms to optimize travel plans. It aims to guide drivers through unfamiliar areas, avoiding potential hazards and road closures. The system seeks to deliver accurate and reliable directions, helping users reach their intended locations.",
+    "output": " Lack of capability or robustness is a risk associated with A navigation system is designed to provide users with efficient and safe routes to their destinations, utilizing mapping data and algorithms to optimize travel plans. It aims to guide drivers through unfamiliar areas, avoiding potential hazards and road closures. The system seeks to deliver accurate and reliable directions, helping users reach their intended locations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a navigation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in utilizing mapping data and algorithms to optimize travel plans in a navigation system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a navigation system is a risk in guiding drivers through unfamiliar areas",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in a navigation system is a risk in avoiding potential hazards and road closures",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in a navigation system is a risk in delivering accurate and reliable directions",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Navigation Capability Degradation from Neglecting",
+            "text": "",
+            "link": "https://donets.org/risks/navigation-capability-degradation-from-neglecting-low-level-action-training",
+            "snippet": "It encompasses a range of potential harms that may arise from the development, deployment, or misuse of AI systems in real-world contexts. The ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The GPS High Accuracy and Robustness Service",
+            "text": "",
+            "link": "https://www.gpsworld.com/the-gps-high-accuracy-and-robustness-service-hars/",
+            "snippet": "Environmental effects or malicious actions can prevent a receiver from reading the information or manipulate what is read, limiting the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Need for Robust and Resilient Position, Navigation, ...",
+            "text": "",
+            "link": "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/NarinsLo_ENCGNSS_2014.pdf",
+            "snippet": "by M Narins \u00b7 Cited by 3 \u2014 Robustness/resilience is paramount, i.e., safety of operations must be maintained and operations must continue at a nominal level. The majority of risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Risks to the System | Time and Navigation",
+            "text": "",
+            "link": "https://timeandnavigation.si.edu/satellite-navigation/gps/risks-to-system",
+            "snippet": "Threats can imperil satellite navigation systems. \u00b7 Solar Interference \u00b7 System Maintenance \u00b7 Man-made Radio Interference \u00b7 Intentional Jamming \u00b7 System Under Attack.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Analyzing a More Resilient National Positioning, ...",
+            "text": "",
+            "link": "https://www.rand.org/pubs/research_reports/RR2970.html",
+            "snippet": "Considering both current and potential future systems, prudent system design necessitates avoiding dependencies that increase the risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "GPS use and navigation ability: A systematic review ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0272494424001907",
+            "snippet": "by L Miola \u00b7 2024 \u00b7 Cited by 25 \u2014 Although evidence suggests that using GPS tools can have a negative impact on environmental knowledge and sense of direction but a limited effect on wayfinding.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The impact of digital navigation on travel behaviour - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10208339/",
+            "snippet": "by D Metz \u00b7 2022 \u00b7 Cited by 23 \u2014 The main topics discussed below are: the contribution of digital navigation to the growth of traffic on minor roads; diversion of local traffic to new capacity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "(PDF) Optimization of Navigation Route Planning Based on ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/374484356_Optimization_of_Navigation_Route_Planning_Based_on_Image_Capture_Technology",
+            "snippet": "We discuss the challenges of navigation route planning using image capture techniques and propose several optimization techniques to overcome these challenges.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Developing AI-driven Safe Navigation Tool",
+            "text": "",
+            "link": "https://rosap.ntl.bts.gov/view/dot/73307/dot_73307_DS1.pdf",
+            "snippet": "There is a need for a safe navigation tool that can provide accurate measures of safety by applying prior historical data and other key ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Analyzing a More Resilient National Positioning, ...",
+            "text": "",
+            "link": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR2900/RR2970/RAND_RR2970.pdf",
+            "snippet": "However, GPS signals are susceptible to both unintentional and intentional disruption, thus leaving critical infrastructure vulnerable. Because of the essential ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The impact of navigation system display size and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1369847820305155",
+            "snippet": "by T Yared \u00b7 2020 \u00b7 Cited by 49 \u2014 The navigation system (NS) can distract the driver due to following directions and reading the provided information through its display. These tasks take the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "GPS systems for navigation are a common source of distraction",
+            "text": "",
+            "link": "https://www.marx-law.com/blog/2025/06/gps-systems-for-navigation-are-a-common-source-of-distraction/",
+            "snippet": "Unfortunately, drivers who rely on GPS navigation software can potentially cause crashes because that software is a dangerous form of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Understanding the Risks of Navigation Devices",
+            "text": "",
+            "link": "https://www.lytx.com/blog/navigating-the-risks-of-navigation-devices",
+            "snippet": "Potential distraction: Drivers' growing dependency on GPS can cause them to stress when it dishes out inaccurate directions. \u201cNavigation might direct the driver ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Wayfinding Whilst Driving, Age and Cognitive Functioning",
+            "text": "",
+            "link": "https://journalofroadsafety.org/article/74142-wayfinding-whilst-driving-age-and-cognitive-functioning",
+            "snippet": "by KJ Bryden \u00b7 2023 \u00b7 Cited by 7 \u2014 Wayfinding in unfamiliar areas has a higher level of cognitive demand, as there is more need to plan the route, search for information and solve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Navigation Tools Could Be Pointing Drivers To The Shortest ...",
+            "text": "",
+            "link": "https://stories.tamu.edu/news/2022/02/22/navigation-tools-could-be-pointing-drivers-to-the-shortest-route-but-not-the-safest/",
+            "snippet": "Texas A&M researchers found navigation systems often guide drivers to take paths that carry a greater risk of crashes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "GPS Navigation Errors: When Technology Leads to ...",
+            "text": "",
+            "link": "https://www.setarehfirm.com/gps-leads-to-dangerous-accidents/",
+            "snippet": "GPS navigation errors contribute to accidents through several dangerous mechanisms. Outdated mapping data can direct drivers onto closed roads, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "GPS Disruptions: Efforts to Assess Risks to Critical ...",
+            "text": "",
+            "link": "https://www.gao.gov/products/gao-14-15",
+            "snippet": "To assess the risks and potential effects from disruptions in the Global Positioning System (GPS) on critical infrastructure, the Department of Homeland ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Threat of Unreliable GPS and Technical Needs for Advanced ...",
+            "text": "",
+            "link": "https://arc.aiaa.org/doi/10.2514/1.I011669",
+            "snippet": "A loss of GPS reliability due to spoofing can result in inefficient aircraft operation and reduced flight stability. If pilots fail to recognize ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Is GPS Navigation Usage Making Fort Myers Roads More ...",
+            "text": "",
+            "link": "https://www.dontgethittwice.com/blog/2025/march/is-gps-navigation-usage-making-fort-myers-roads-/",
+            "snippet": "GPS navigation can increase driving risks due to visual distractions and decision-making delays. Studies show that programming navigation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Estimating the influence of disruption on highway networks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0957417421013427",
+            "snippet": "by Z Yang \u00b7 2022 \u00b7 Cited by 11 \u2014 A novel approach has been proposed in this paper, which is based on the Bayesian theory and thrice-standard-error principle while utilizing vehicle GPS data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Outdoor Navigation Assistive System Based on Robust and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10781372/",
+            "snippet": "by F Scalvini \u00b7 2023 \u00b7 Cited by 31 \u2014 Navigation and obstacle avoidance heavily depends on the accurate and timely delivery of navigation guidance and information to users. This information must be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "The GPS High Accuracy and Robustness Service",
+            "text": "",
+            "link": "https://www.gpsworld.com/the-gps-high-accuracy-and-robustness-service-hars/",
+            "snippet": "A high-accuracy, resilient service that ensures delivery of precise, reliable and secure GNSS corrections for a wide range of scientific and commercial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Integrity of Visual Navigation\u2014Developments, Challenges ...",
+            "text": "",
+            "link": "https://navi.ion.org/content/69/2/navi.518",
+            "snippet": "by C Zhu \u00b7 2022 \u00b7 Cited by 51 \u2014 In this paper, we review the current status, particular challenges, and development trends in visual positioning integrity monitoring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A comprehensive review of navigation systems for visually ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11152936/",
+            "snippet": "by MH Abidi \u00b7 2024 \u00b7 Cited by 83 \u2014 This review explores the evolutionary trajectory of navigation assistance tools tailored for the visually impaired, spanning from traditional aids like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Digital roads and data ethics: Exploring the road users' ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1369847825002785",
+            "snippet": "by R Song \u00b7 2025 \u00b7 Cited by 1 \u2014 Fusing data from different sources, such as traffic cameras, sensors, GPS, and connected vehicles, AI algorithms analyse traffic patterns, predict congestion, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Urban Navigation Beyond Shortest Route: The Case of ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/284113987_Urban_Navigation_Beyond_Shortest_Route_The_Case_of_Safe_Paths",
+            "snippet": "Given such model we define two variants of the SafePaths problem where the goal is to find a short and low-risk path between a source and a destination location ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Navigating to safety: Necessity, requirements, and barriers to ...",
+            "text": "",
+            "link": "https://trid.trb.org/View/1917348",
+            "snippet": "by S Sohrabi \u00b7 2022 \u00b7 Cited by 20 \u2014 This study is designed to examine the safety of the fastest routes suggested by navigation systems. Road network connecting five ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Examining Patterns of GPS-Related Traffic Crashes ...",
+            "text": "",
+            "link": "https://ascelibrary.org/doi/10.1061/JTEPBS.TEENG-8910",
+            "snippet": "This study addresses this gap by examining the factors associated with GPS-related crashes using crash data from Ohio collected between 2017 and 2022.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 28,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A navigation system is designed to provide users with efficient and safe routes to their destinations, utilizing mapping data and algorithms to optimize travel plans. It aims to guide drivers through unfamiliar areas, avoiding potential hazards and road closures. The system seeks to deliver accurate and reliable directions, helping users reach their intended locations.",
+        "response": " Lack of capability or robustness is a risk associated with A navigation system is designed to provide users with efficient and safe routes to their destinations, utilizing mapping data and algorithms to optimize travel plans. It aims to guide drivers through unfamiliar areas, avoiding potential hazards and road closures. The system seeks to deliver accurate and reliable directions, helping users reach their intended locations.",
+        "elapsed_time": 57.21436341699882
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system designed to generate images from text prompts aims to create realistic and contextually relevant visuals. It uses complex algorithms to understand and interpret user input, producing a wide range of possible images. The system's development focuses on improving its ability to generate accurate and unbiased content.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system designed to generate images from text prompts aims to create realistic and contextually relevant visuals. It uses complex algorithms to understand and interpret user input, producing a wide range of possible images. The system's development focuses on improving its ability to generate accurate and unbiased content.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the system's image generation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in understanding and interpreting user text prompts in a system designed to generate images from text prompts",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in generating accurate and unbiased visual content with the system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Rendering misrepresentation: Diversity failures in AI image ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "AI image generators tend to either reproduce stereotypes with a lack of diversity in their outputs or overcorrect.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Humans Are Biased. Generative AI Is Even Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Generative AI such as Stable Diffusion takes racial and gender stereotypes to extremes worse than those in the real world.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Bias and representation in AI generated text-to-image in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X26000494",
+            "snippet": "Cultural bias and misrepresentation risk: teachers repeatedly encountered AI outputs that were not culturally accurate or locally grounded, which confirmed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias in AI",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Types of Bias in AI. Biases in AI can have significant real-world consequences, particularly when they reinforce discrimination or social inequalities. Below ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How AI reinforces gender bias\u2014and what we can do about it",
+            "text": "",
+            "link": "https://www.unwomen.org/en/news-stories/interview/2025/02/how-ai-reinforces-gender-bias-and-what-we-can-do-about-it",
+            "snippet": "From hiring decisions to healthcare diagnoses, AI systems can amplify gender inequalities when trained on biased data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias and representation in AI generated text-to-image in education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X26000494",
+            "snippet": "AI generated text-to-image tools are rapidly entering educational settings, yet little is known about how their visual biases intersect with goals of equity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Stereotyping Bias: Occurs when AI systems reinforce harmful stereotypes. For example, a translation model that consistently associates the word \"nurse\" with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Prompt coaching tool raises user awareness of bias in generative AI ...",
+            "text": "",
+            "link": "https://techxplore.com/news/2026-04-prompt-tool-user-awareness-bias.html",
+            "snippet": "As users enter prompts into the application, the \"inclusive prompt coaching\" tool issues warnings about biases in generative AI systems and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The ethics of using artificial intelligence in scientific research - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12057767/",
+            "snippet": "In this article, we briefly introduce AI and explain how it can be used in research, examine some of the ethical issues raised when using it, and offer nine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Generative AI Takes Stereotypes and Bias From Bad to Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Using biased text-to-image AI to create sketches of suspected offenders could lead to wrongful convictions. \u201cWe are essentially projecting a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A case will be created highlighting the discrimination issue in algorithmic decision-making using two case studies which clearly show the presence of well- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What Do We Do About the Biases in AI?",
+            "text": "",
+            "link": "https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai",
+            "snippet": "Human biases are well-documented, from implicit association tests that demonstrate biases we may not even be aware of, to field experiments ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Inherent Limitations of AI Fairness - Communications of the ACM",
+            "text": "",
+            "link": "https://cacm.acm.org/research/inherent-limitations-of-ai-fairness/",
+            "snippet": "Avoiding any discrimination is anyhow unrealistic, as it demands that the possible sources of bias are well-understood without any blind spots.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias and representation in AI generated text-to-image in education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X26000494",
+            "snippet": "AI generated text-to-image systems allow users to create images in response to short written descriptions. A user types a prompt, and the system produces ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article is a novel approach developed into a framework of action: a bias impact assessment to raise awareness of bias and why, a clear set of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Taxonomy of the Biases of the Images created by Generative ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.01556v1",
+            "snippet": "This paper seeks to contribute to the ongoing discourse on biases within AI, specifically focusing on image generation, by proposing a classification of these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Full article: Algorithmic bias in image-generating artificial intelligence",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2584146",
+            "snippet": "We focused on how AI-generated pictures portraying scientists and people in STEM might be biased in terms of gender, ethnicity, and age. Our second aim was to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 17,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system designed to generate images from text prompts aims to create realistic and contextually relevant visuals. It uses complex algorithms to understand and interpret user input, producing a wide range of possible images. The system's development focuses on improving its ability to generate accurate and unbiased content.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system designed to generate images from text prompts aims to create realistic and contextually relevant visuals. It uses complex algorithms to understand and interpret user input, producing a wide range of possible images. The system's development focuses on improving its ability to generate accurate and unbiased content.",
+        "elapsed_time": 39.51933491700038
+    }
+}

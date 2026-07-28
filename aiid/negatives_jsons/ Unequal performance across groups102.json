@@ -1,0 +1,352 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+    "output": " Unequal performance across groups is a not a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a geographic information system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in allocating resources based on location-based data",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in identifying areas of need and prioritizing resource allocation in the geographic information system.",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in promoting equity and access by considering demographic and socioeconomic factors",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Geographic Bias and Diversity in AI Evaluation",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.05187v1",
+            "snippet": "First, we identify a range of geographic biases. These biases span from representation bias in the training data and regional disparities in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Sociodemographic Biases in Machine Learning Algorithms - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11204917/",
+            "snippet": "by G Franklin \u00b7 2024 \u00b7 Cited by 103 \u2014 The biases include those related to some sociodemographic characteristics such as race, ethnicity, gender, age, insurance, and socioeconomic status.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 851 \u2014 biases remain endemic across technology processes and can lead to harmful impacts regardless of intent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Dissecting racial bias in an algorithm used to manage the health of ...",
+            "text": "",
+            "link": "https://www.science.org/doi/10.1126/science.aax2342",
+            "snippet": "by Z Obermeyer \u00b7 2019 \u00b7 Cited by 10169 \u2014 The bias arises because the algorithm predicts health care costs rather than illness, but unequal access to care the materials and methods).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 When inputs are incomplete, model performance declines, and fairness across demographic groups is compromised.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Fair and diverse allocation of scarce resources",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0038012121001853",
+            "snippet": "by H Anahideh \u00b7 2022 \u00b7 Cited by 40 \u2014 We aim to design a fairness-aware allocation approach to maximize the geographical diversity and avoid unfairness in the sense of demographic disparity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "This issue brief explores the topic of discrimination in machine learning algorithms and artificial intelligence. (AI) algorithms, and the underlying data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What Is AI Bias? Causes, Types, & Real-World Impacts",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias",
+            "snippet": "Data bias appears when outputs reflect distortions in the underlying dataset. It shows up as uneven performance across groups or tasks when training data fails",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Multi-Location Resource Allocation: Mastering Shift Management ...",
+            "text": "",
+            "link": "https://www.myshyft.com/blog/resource-allocation-across-locations/",
+            "snippet": "Organizations with multiple sites, branches, or stores face unique challenges in ensuring optimal staffing levels while maintaining operational efficiency",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Bias recognition and mitigation strategies in artificial ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11897215/",
+            "snippet": "by F Hasanzadeh \u00b7 2025 \u00b7 Cited by 345 \u2014 This review examines the origins of bias in healthcare AI, strategies for mitigation, and responsibilities of relevant stakeholders towards achieving fair and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Geographic Information Systems",
+            "text": "",
+            "link": "https://www.measureevaluation.org/our-work/gis.html",
+            "snippet": "MEASURE Evaluation provided guidance and technical assistance in using and adapting geographic information systems to governments, NGOs, and other decision ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Dissecting racial bias in an algorithm used to manage the ...",
+            "text": "",
+            "link": "https://www.science.org/doi/10.1126/science.aax2342",
+            "snippet": "by Z Obermeyer \u00b7 2019 \u00b7 Cited by 10169 \u2014 Reformulating the algorithm so that it no longer uses costs as a proxy for needs eliminates the racial bias in predicting who needs extra care.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 Clinical use of AI systems should demonstrate equitable performance across a spectrum of demographic groups to ensure performant generalizability,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Bias recognition and mitigation strategies in artificial intelligence ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11897215/",
+            "snippet": "by F Hasanzadeh \u00b7 2025 \u00b7 Cited by 345 \u2014 Fairness, equality, and equity are core principles of healthcare delivery that are directly influenced by bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Fairness and Bias in Artificial Intelligence: A Brief Survey of ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2413-4155/6/1/3",
+            "snippet": "by E Ferrara \u00b7 2024 \u00b7 Cited by 1610 \u2014 This survey study offers a succinct, comprehensive overview of fairness and bias in AI, addressing their sources, impacts, and mitigation strategies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Addressing AI bias: a human-centric approach to fairness",
+            "text": "",
+            "link": "https://www.ey.com/en_us/insights/emerging-technologies/addressing-ai-bias-a-human-centric-approach-to-fairness",
+            "snippet": "Remediating AI bias is essential for fostering responsible AI development and driving equitable outcomes. Read our report to learn more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Education and Socioeconomic Status Factsheet",
+            "text": "",
+            "link": "https://www.apa.org/pi/ses/resources/publications/education",
+            "snippet": "Research continues to link lower SES to lower academic achievement and slower rates of academic progress as compared with higher SES communities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Assessing spatial disparities and urban facility accessibility ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S259019822400112X",
+            "snippet": "by P Iamtrakul \u00b7 2024 \u00b7 Cited by 42 \u2014 The study focuses on spatial disparities and accessibility to urban facilities, with a specific case study conducted in Pathum Thani Province, Thailand.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Geographic Information Systems",
+            "text": "",
+            "link": "https://www.measureevaluation.org/our-work/gis.html",
+            "snippet": "By thinking spatially, program managers can identify trends that could be difficult or impossible to detect on spreadsheets or in official reports. By thinking ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Using spatial analysis and GIS to improve planning and ...",
+            "text": "",
+            "link": "https://gh.bmj.com/content/4/Suppl_5/e000832",
+            "snippet": "by TA Robin \u00b7 2019 \u00b7 Cited by 60 \u2014 This assessment explored how effectively local government health managers used maps with spatial data for planning, resource allocation and programme ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Experiences in State and Local Health Departments",
+            "text": "",
+            "link": "https://www.cdc.gov/pcd/issues/2019/18_0674.htm",
+            "snippet": "by I Brissette \u00b7 2019 \u00b7 Cited by 18 \u2014 We asked 4 state and local health departments about their experiences using GIS to address chronic disease priorities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Geographic Information Systems - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2921721/",
+            "snippet": "by WF Wieczorek \u00b7 2009 \u00b7 Cited by 138 \u2014 A geographic information system (GIS) facilitates the collection, analysis, and reporting of spatial data and related phenomena.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.986486,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.013425271758763476,
+        "norm_entropy": 0.10334221861349935,
+        "avg_entropy": 0.003356317939690869,
+        "avg_norm_entropy": 0.025835554653374837,
+        "avg_prob": 0.9966207499999999,
+        "avg_logprob": -0.0034022863020213177,
+        "avg_explogprob": 0.996603494915708,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.013514,
+                    0.986486
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.993288657049,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+        "response": " Unequal performance across groups is a not a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+        "elapsed_time": 39.62261729198508
+    }
+}

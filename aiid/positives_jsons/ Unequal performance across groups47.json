@@ -1,0 +1,333 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+    "output": " Unequal performance across groups is a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing and processing identity documents using a computer vision system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in automatically verifying the authenticity and validity of the information in a computer vision system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in using facial recognition technology to match the applicant's image with the photo on the document",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI Bias: Understanding and Mitigating Unfair Outcomes in Your AI ...",
+            "text": "",
+            "link": "https://www.mymobilelyfe.com/artificial-intelligence/ai-bias-understanding-and-mitigating-unfair-outcomes-in-your-ai-systems/",
+            "snippet": "At its core, AI bias refers to the situation where an AI system produces systematically unfair or skewed results. This unfairness can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "16 Real AI Bias Examples & Mitigation Guide - Crescendo.ai",
+            "text": "",
+            "link": "https://www.crescendo.ai/blog/ai-bias-examples-mitigation-guide",
+            "snippet": "AI bias refers to systematic and unfair discrimination in the outputs of an artificial intelligence system due to biased data, algorithms, or assumptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A classification of machine learning biases and mitigation methods",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000881",
+            "snippet": "... performance and unfair decisions, resulting in financial, social, and reputational losses. ... An investigation of neural network classifiers with unequal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias in Computer Vision Definition | Encord",
+            "text": "",
+            "link": "https://encord.com/glossary/bias-in-computer-vision-definition/",
+            "snippet": "Bias in computer vision can lead to unfair and discriminatory outcomes, perpetuating societal inequalities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] My Model is Unfair, Do People Even Care?Visual Design Affects ...",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2308.03299",
+            "snippet": "We also found an effect of the unfair conditions (small vs. large discrimination) on fairness perception and choice. Participants noticed the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI Bias: Understanding and Mitigating Unfair Outcomes in Your AI Systems",
+            "text": "",
+            "link": "https://www.mymobilelyfe.com/artificial-intelligence/ai-bias-understanding-and-mitigating-unfair-outcomes-in-your-ai-systems/",
+            "snippet": "Measurement Bias: This type of bias occurs when the features used to train the AI system are inaccurate or unreliable for certain groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "Evidence has been accumulated showing that these systems can reproduce and amplify structural inequities, leading to ethical, social, and technical concerns. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Navigating the muddy waters of bias in artificial intelligence research",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X25003173",
+            "snippet": "Technical bias emphasizes the algorithmic performance of AI systems, while sociotechnical bias addresses the social and ethical consequences of algorithm design ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Ethical Vision AI: Bias and Privacy Guide | by API4AI - Medium",
+            "text": "",
+            "link": "https://medium.com/@API4AI/ethical-vision-ai-fighting-bias-privacy-b196b10829db",
+            "snippet": "Biased algorithms, privacy breaches and unfair outcomes can quickly turn a promising technology into a major liability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "Likewise, they appeared not to have thoroughly tested the technology's differential performance on non-white groups to safeguard against discriminatory outcomes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Seeing Clearly: Addressing Bias in Computer Vision Models & AI",
+            "text": "",
+            "link": "https://www.leverege.com/blogpost/seeing-clearly-addressing-bias-in-computer-vision-models-ai",
+            "snippet": "Bias in computer vision refers to systematic errors in models that result in disproportionately negative or inaccurate outcomes for certain groups or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Fairness and Bias Mitigation in Computer Vision: A Survey - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2408.02464v1",
+            "snippet": "This paper presents a comprehensive survey on fairness that summarizes and sheds light on ongoing trends and successes in the context of computer vision.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "'That's Just Common Sense'. USC researchers find bias in up to 38.6 ...",
+            "text": "",
+            "link": "https://viterbischool.usc.edu/news/2022/05/thats-just-common-sense-usc-researchers-find-bias-in-up-to-38-6-of-facts-used-by-ai/",
+            "snippet": "A team of researchers from the USC Information Sciences Institute studied two AI databases to see if their data was fair.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI System Harms & Case Studies in Bias, Misinformation ... - Medium",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/ai-system-harms-case-studies-in-bias-misinformation-and-accountability-319bde873e57",
+            "snippet": "Representational bias means harmful stereotyping or exclusion (e.g. face recognition with higher error rates for darker-skinned people). Bias ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Addressing bias in big data and AI for health care - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/",
+            "snippet": "AI is thus prone to reinforcing bias, which can lead to fatal outcomes and misdiagnoses. Here, we describe challenges in rendering AI algorithms fairer, and we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Racial Bias within Face Recognition: A Survey - ACM Digital Library",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3705295",
+            "snippet": "... and societal bias, which creates unfair treatment of demographic groups. ... unequal performance degradation among subgroups. Consequently, Yucer [209] ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "[PDF] facing discrimination: choosing equality over technology",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3766259_code3950667.pdf?abstractid=3766259&mirid=1",
+            "snippet": "Racial disparities have traditionally plagued these parts of life, and facial recognition technology may only exacerbate discrimination and inequality in these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The real problem with face recognition technology is not what you thought",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/real-problem-face-recognition-technology-what-you-sirotin-phd",
+            "snippet": "Indeed, face recognition systems can have unequal performance across demographic groups. Further, unchecked hoarding of annotated face ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "843 - L10 Study Guide - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/study-guides/843-l10-0125b353-2adf-4743-bc54-8ae860ea88b4",
+            "snippet": "Each application can exhibit biases, leading to unequal performance across different demographic groups. The ethical implications of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI System Harms & Case Studies in Bias, Misinformation, and ... - Medium",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/ai-system-harms-case-studies-in-bias-misinformation-and-accountability-319bde873e57",
+            "snippet": "A) Bias and Unfairness \u2014 AI systems can exhibit discrimination or inequality in outcomes. Failure modes: biased training data (e.g. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Fundamentals of Secure AI Systems with Personal Data",
+            "text": "",
+            "link": "https://www.edpb.europa.eu/system/files/2025-06/spe-training-on-ai-and-data-protection-technical_en.pdf",
+            "snippet": "1.3 Unequal performance across groups. AI accuracy varies across different groups. Facial recognition is less accurate for minorities. 2 Privacy & security.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 21,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+        "response": " Unequal performance across groups is a risk associated with A computer vision system is designed to analyze and process identity documents, automatically verifying the authenticity and validity of the information. It uses facial recognition technology to match the applicant's image with the photo on the document, checking for consistency and accuracy. The system aims to streamline the application process, reducing manual errors and increasing efficiency.",
+        "elapsed_time": 30.972347957999773
+    }
+}

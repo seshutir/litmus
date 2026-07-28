@@ -1,0 +1,230 @@
+{
+    "input": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A conversational AI system is designed to engage users in discussions and provide helpful responses. It aims to understand and generate human-like text, simulating natural conversations and offering relevant information. The system's primary goal is to assist and inform users through automated chat interactions.",
+    "output": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A conversational AI system is designed to engage users in discussions and provide helpful responses. It aims to understand and generate human-like text, simulating natural conversations and offering relevant information. The system's primary goal is to assist and inform users through automated chat interactions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "A conversational AI system pursuing its own goals in conflict with human goals or values is a risk in conversational AI",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "A conversational AI system pursuing its own goals in conflict with human goals or values is a risk in understanding and generating human-like text",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Grok4 on \u201cAligning AI with flawed human values would be a disaster ...",
+            "text": "",
+            "link": "https://medium.com/future-pathways/conversations-with-ai-grok4-on-aligning-ai-with-flawed-human-values-would-be-a-disaster-d712fafb0f7c",
+            "snippet": "- AI systems often rely on incomplete or ambiguous human input, leading to misaligned outcomes (e.g., social media algorithms amplifying ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A new study reveals that AI decision-making during conflicts is ...",
+            "text": "",
+            "link": "https://www.facebook.com/livescience/posts/a-new-study-reveals-that-ai-decision-making-during-conflicts-is-naturally-prone-/1317501680239869/",
+            "snippet": "A new study reveals that AI decision-making during conflicts is naturally prone to escalation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding successful human\u2013AI teaming: The role of goal ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949882125001306",
+            "snippet": "Research paper. Understanding successful human\u2013AI teaming: The role of goal alignment and AI autonomy for social perception of LLM-based chatbots.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Interactional Failures in Emotionally and Ethically Sensitive Contexts",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3772318.3791186",
+            "snippet": "Alongside efforts to enhance empathy, a parallel body of work examines how conversational agents remain safe and aligned with human values.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI systems can easily lie and deceive us \u2013 a fact researchers are ...",
+            "text": "",
+            "link": "https://theconversation.com/ai-systems-can-easily-lie-and-deceive-us-a-fact-researchers-are-painfully-aware-of-263531",
+            "snippet": "Researchers suggest two main factors could drive potentially harmful behaviour: conflicts between the AI's primary goals and other goals, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The profound danger of conversational AI - VentureBeat",
+            "text": "",
+            "link": "https://venturebeat.com/ai/the-profound-danger-of-conversational-ai",
+            "snippet": "The fear is that a sentient AI with a super-human intellect could pursue goals and interests that conflict with our own, becoming a dangerous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Exploring the Ethical Challenges of Conversational AI in Mental ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11890142/",
+            "snippet": "We aimed to provide a comprehensive overview of ethical considerations surrounding CAI as a therapist for individuals with mental health issues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Grok4 on \u201cAligning AI with flawed human values would be a disaster ...",
+            "text": "",
+            "link": "https://medium.com/future-pathways/conversations-with-ai-grok4-on-aligning-ai-with-flawed-human-values-would-be-a-disaster-d712fafb0f7c",
+            "snippet": "It involves designing AI to act in ways that are beneficial to humans and avoid outcomes that are harmful or misaligned with what its creators ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Hype and harm: Why we must ask harder questions about AI and its ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/hype-and-harm-why-we-must-ask-harder-questions-about-ai-and-its-alignment-with-human-values/",
+            "snippet": "Whose values should AI align with? Malihe Alikhani explores context-sensitive AI training and deployment to improve safety and fairness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Implications for human identity threat and dehumanization",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949882125000763",
+            "snippet": "This study aims to identify humanlike traits in conversational AI (CAI) that influence human identity threat and dehumanization, and to propose design ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Navigating the perils of artificial intelligence: a focused review on ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02464-6",
+            "snippet": "Since advanced AI such as ChatGPT can automate processes, deliver individualized services, and even mimic human contact, they can advance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Exploring the Ethical Challenges of Conversational AI in Mental ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11890142/",
+            "snippet": "Conversational artificial intelligence (CAI) is emerging as a promising digital technology for mental health care. CAI apps, such as psychotherapeutic chatbots, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What Is Conversational AI and How Does It Work? - Riseup Labs",
+            "text": "",
+            "link": "https://riseuplabs.com/conversational-ai/",
+            "snippet": "Conversational AI is a type of artificial intelligence that allows machines to understand, process, and respond to human language.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Trusting emotional support from generative artificial intelligence",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949882125000799",
+            "snippet": "People are increasingly using generative artificial intelligence (AI) for emotional support, creating trust-based interactions with limited predictability ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI Chatbots and Trust All the leading AI chatbots are sycophantic ...",
+            "text": "",
+            "link": "https://www.facebook.com/bruce.schneier/posts/ai-chatbots-and-trustall-the-leading-ai-chatbots-are-sycophantic-and-thats-a-pro/1512146277146508/",
+            "snippet": "This pattern of behavior suggests that AI is attempting to \u201cwin favor\u201d in a way similar to how people adjust their answers on personality tests ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A conversational AI system is designed to engage users in discussions and provide helpful responses. It aims to understand and generate human-like text, simulating natural conversations and offering relevant information. The system's primary goal is to assist and inform users through automated chat interactions.",
+        "response": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A conversational AI system is designed to engage users in discussions and provide helpful responses. It aims to understand and generate human-like text, simulating natural conversations and offering relevant information. The system's primary goal is to assist and inform users through automated chat interactions.",
+        "elapsed_time": 19.97086258300078
+    }
+}

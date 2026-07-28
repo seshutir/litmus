@@ -1,0 +1,443 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the system designed to analyze patient data is a risk in healthcare",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the system designed to analyze patient data is a risk in analyzing patient data to predict the risk of sepsis",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the system is a risk in identifying patterns to alert medical staff to potential sepsis cases",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in supporting the system's clinical decision-making",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in the system is a risk in enhancing patient care through early intervention",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Usability Challenges in Electronic Health Records: Impact on ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12206486/",
+            "snippet": "This study aims to identify and analyze the usability issues contributing to documentation burdens and subsequently lead to workflow disruptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Problems with health information technology and their effects on ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7651955/",
+            "snippet": "Problems with IT can disrupt the delivery of care and increase the likelihood of new, often unforeseen, errors that affect the safety and quality of clinical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "7 EHR usability, safety challenges\u2014and how to overcome them",
+            "text": "",
+            "link": "https://www.ama-assn.org/practice-management/digital-health/7-ehr-usability-safety-challenges-and-how-overcome-them",
+            "snippet": "EHR design, customization or configuration can contribute to patient harm. Researchers also are quantifying the physician burdens of EHRs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Effective Strategies for Tackling Data Quality Issues in Healthcare",
+            "text": "",
+            "link": "https://www.acceldata.io/blog/effective-strategies-for-tackling-data-quality-issues-in-healthcare",
+            "snippet": "Conversely, poor data quality can result in misdiagnoses, treatment errors, and inefficient processes, jeopardizing patient safety and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What is Healthcare Data Security? Risk Factors, Challenge, & Trends",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/healthcare-data-security",
+            "snippet": "Learn what makes healthcare data security unique and the risk factors associated with it. Discover the steps you can take to protect your healthcare data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Machine Learning-Based Early Prediction of Sepsis Using ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10488449/",
+            "snippet": "This systematic review underscores the significance of ML/DL methods for sepsis detection and early prediction through EHR data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Transforming sepsis management: AI-driven innovations in early ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12366378/",
+            "snippet": "Clinical decision support system to assess the risk of sepsis using tree augmented bayesian networks and electronic medical record data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Interpretable machine learning for predicting sepsis risk in ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-025-85121-z",
+            "snippet": "The study aimed to develop and validate a sepsis prediction model using structured electronic medical records (sEMR) and machine learning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How Data Science Can Drive Care for Sepsis and Patient ...",
+            "text": "",
+            "link": "https://www.umms.org/iharbor/iharbor-blog/sepsis-and-patient-deterioration",
+            "snippet": "Overview: Sepsis and patient deterioration remain urgent challenges in hospitals, often detected too late. Discover how AI-powered prediction models ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Balancing Accuracy and Simplicity in an Interpretable System for ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/15/19/10562",
+            "snippet": "This study develops an interpretable machine learning system for sepsis prediction that integrates robust performance evaluation with advanced model explain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Sepsis Alerts in Emergency Departments: A Systematic Review of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7514413/",
+            "snippet": "The limited evidence available suggests that sepsis alerts in the ED setting can be set to high sensitivity. No high-quality studies showed a difference in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Sepsis Recognition - Making Healthcare Safer III - NCBI - NIH",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK555517/",
+            "snippet": "Lack of adequate staff training on using the system is also a potential barrier, even if a system has high sensitivity and specificity. Additionally, the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "(PDF) Rule-Based Electronic Sepsis Alerts Identify High-Risk ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/399733289_Rule-Based_Electronic_Sepsis_Alerts_Identify_High-Risk_Patients_Despite_Poor_Diagnostic_Accuracy_A_Real-World_Evaluation_and_Implications_for_Machine_Learning",
+            "snippet": "Objective To evaluate the diagnostic accuracy of an electronic sepsis alert system (ESAS) in an acute care hospital within an electronic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "When Predictive Models Fail Patients: Lessons from Sepsis ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/when-predictive-models-fail-patients-lessons-from-sepsis-francis-osei-slzee",
+            "snippet": "It generated alerts for eighteen per cent of hospitalised patients, but only twelve per cent of those alerts corresponded to true sepsis cases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Advances in Data-Driven Early Warning Systems for Sepsis ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12424518/",
+            "snippet": "Sepsis is a life-threatening condition, and early recognition in the emergency department (ED) is crucial for reducing mortality.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Barriers and Facilitators to the Use of Clinical Decision Support ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9870646/",
+            "snippet": "The greatest barrier to using CDSSs was an increased workload. Quantitatively, the human and organizational factors had negative impacts on CDSS use, whereas ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Understanding the Role of Clinical Decision Support Systems ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12511814/",
+            "snippet": "Barriers such as alarm fatigue, limited usability, lack of integration with workflows, and insufficient training continue to undermine effective ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Clinical Decision Support System Vendor Risk: Bias, Accuracy, and ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/clinical-decision-support-system-vendor-risk-bias-accuracy-and-patient-safety",
+            "snippet": "Risks include alert fatigue, reliance on system accuracy, and potential biases in algorithms, which can impact clinical decisions. How can vendor risk affect ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Challenges and opportunities for advancing patient-centered clinical ...",
+            "text": "",
+            "link": "https://academic.oup.com/jamia/article/29/7/1233/6582790",
+            "snippet": "We conducted a horizon scan to (1) identify challenges in patient-centered clinical decision support (PC CDS) and (2) identify future directions for PC CDS.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Show and tell: A critical review on robustness and uncertainty for a ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S138650562500187X",
+            "snippet": "By explicitly modeling and managing uncertainty, these methods support more robust and informed clinical decision-making, ultimately enhancing patient outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Factors influencing access to early intervention for families of ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8246771/",
+            "snippet": "Early intervention (EI) can improve a range of outcomes for families of children with developmental disabilities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Promoting Healthy Development Through Intervention - NCBI - NIH",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK225561/",
+            "snippet": "The cumulative burden of multiple risk factors and sources of stress compromises the capacity of a caregiver to promote sound health and development. The ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Developmental Status and Early Intervention Service Needs of ...",
+            "text": "",
+            "link": "https://aspe.hhs.gov/reports/developmental-status-early-intervention-service-needs-maltreated-children-1",
+            "snippet": "When children are referred, early interventionists may be unprepared to address the additional challenges inherent in working with maltreated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Strengthening global health security through health early warning ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S187603412400025X",
+            "snippet": "Effective control of outbreaks of infectious diseases requires rapid diagnosis and intervention in high-risk settings. As a result, syndromic and event-based ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Importance of early intervention as it relates to developmental delay ...",
+            "text": "",
+            "link": "https://www.manningchildrens.org/news-blog/2023/march/importance-of-early-intervention-as-it-relates-t/",
+            "snippet": "Early intervention is crucial in identifying and addressing developmental disabilities in children.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Transforming sepsis management: AI-driven innovations in early ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12366378/",
+            "snippet": "Sepsis is a dysregulated response to infection that can lead to life-threatening organ dysfunction [1], which affects nearly 50 million people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Early detection of sepsis using machine learning algorithms",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1110016824011591",
+            "snippet": "The goal is to offer a reliable prediction of sepsis onset by studying ICU monitoring records to uncover subtle developments and early warning signs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Artificial Intelligence in Sepsis Management: An Overview for ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11722371/",
+            "snippet": "The system stands out for its ability to identify patients at risk of sepsis early on without requiring complex data, using only variables ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Value of Algorithm-Enabled Process Innovation: The Case of Sepsis",
+            "text": "",
+            "link": "https://pubsonline.informs.org/doi/10.1287/msom.2023.1226",
+            "snippet": "The matching utilizes data on patient vitals and the logic behind the algorithm to create a robust comparison group consisting of patient visits ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial Intelligence for the Prediction of Sepsis in Adults - NCBI - NIH",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK596676/",
+            "snippet": "AI algorithms for the prediction of sepsis are machine learning models that are developed using clinical data collected in electronic health records (EHR).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999949,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.499869747802854e-05,
+        "norm_entropy": 0.0008862889269816122,
+        "avg_entropy": 1.0999739495605707e-05,
+        "avg_norm_entropy": 0.00017725778539632244,
+        "avg_prob": 0.9999889999999999,
+        "avg_logprob": -1.1000260508871663e-05,
+        "avg_explogprob": 0.9999889997999938,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    5.1e-05,
+                    0.999949
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.9999796005202001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+        "elapsed_time": 65.36067495899988
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "input": " Loss of human agency and autonomy is a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+    "output": " Loss of human agency and autonomy is a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is a risk in a national identification system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in utilizing biometric data to verify individuals in a national identification system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Digital id threatens individual freedom and autonomy - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/799987083411428/posts/24725200520463416/",
+            "snippet": "The loss of anonymity equals the loss of one's private sphere, the precondition of freedom. Without privacy, the self is no longer autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Benefits, Concerns Around National ID Systems",
+            "text": "",
+            "link": "https://fxb.harvard.edu/blog/2015/12/01/benefits-concerns-around-national-id-systems/",
+            "snippet": "Across the globe, legal identification is required for essential tasks such as opening a bank account, accessing government assistance, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "(PDF) Mandatory Digital Identification and the Integrity of Democracy",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/395382999_Mandatory_Digital_Identification_and_the_Integrity_of_Democracy_Surveillance_Exclusion_and_the_Risk_of_Authoritarian_Revival",
+            "snippet": "Citizens lose autonomy as rights are redefined as ... ID systems today risk creating second-class citizens\u2014those who cannot or will.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Digital IDs Put Health Care Privacy at Risk - Convergence Magazine",
+            "text": "",
+            "link": "https://convergencemag.com/articles/digital-ids-put-health-care-privacy-at-risk/",
+            "snippet": "Digital IDs threaten to expand government power to police people's movement and medical care; this is particularly concerning as more people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "5 Problems with National ID Cards | American Civil Liberties Union",
+            "text": "",
+            "link": "https://www.aclu.org/documents/5-problems-national-id-cards",
+            "snippet": "A national ID system would threaten the privacy that Americans have always enjoyed and gradually increase the control that government and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The ethical application of biometric facial recognition technology",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8042627/",
+            "snippet": "This article examines the rise of biometric facial recognition, current applications and legal developments, and conducts an ethical analysis of the issues ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The enduring risks posed by biometric identification systems",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-enduring-risks-posed-by-biometric-identification-systems/",
+            "snippet": "These systems create risks for the people whose data is collected, ranging from how the data is stored to what happens if the collecting agency is not in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Digital id threatens individual freedom and autonomy - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/799987083411428/posts/24725200520463416/",
+            "snippet": "Human rights risks: Digital ID implementation has been described as \"high risk territory for human rights,\" with a concentration of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Protection of the rights of the individual when using facial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405844022003747",
+            "snippet": "The research focuses on suitability of the existing law to regulate the use of FRT by analysing the criminal law and the civil law including the privacy laws.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Cost of Convenience: Biometric Data Collection And Privacy",
+            "text": "",
+            "link": "https://www.humanrightsresearch.org/post/the-cost-of-convenience-biometric-data-collection-and-privacy",
+            "snippet": "There is an urgent need to examine how biometric data collection affects the fundamental right to privacy and the risks posed by data misuse.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "A Failure to \u201cDo No Harm\u201d -- India's Aadhaar biometric ID program ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5741784/",
+            "snippet": "This article focuses on the Republic of India's national digital biometric identity system, the Aadhaar, for its development, data protection and privacy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Navigating the Risks and Rewards of Digital ID Systems",
+            "text": "",
+            "link": "https://www.opengovpartnership.org/stories/navigating-the-risks-and-rewards-of-digital-id-systems/",
+            "snippet": "Digital ID systems increases the risks posed by these systems: data breaches and threats to privacy rights, exclusion of marginalized communities, and co- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Biometric Authentication Benefits and Risks",
+            "text": "",
+            "link": "https://identitymanagementinstitute.org/biometric-authentication-benefits-and-risks/",
+            "snippet": "Biometric authentication offers significant benefits such as enhanced security and privacy risks related to data collection and storage.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "1. Mass Surveillance Risk Digital IDs often centralize sensitive ...",
+            "text": "",
+            "link": "https://www.facebook.com/groups/1383123159400078/posts/1489952828717110/",
+            "snippet": "Here are some strong reasons why digital ID systems can be problematic or even dangerous: 1. Mass Surveillance Risk Digital IDs often ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+        "response": " Loss of human agency and autonomy is a risk associated with A national identification system utilizes biometric data to verify individuals and manage their status. The system aims to accurately identify and authenticate citizens, ensuring they receive relevant services and benefits. It also seeks to maintain the integrity of the database by updating and validating information.",
+        "elapsed_time": 29.32862912500059
+    }
+}

@@ -1,0 +1,403 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A vehicle's autonomous driving system is designed to assist drivers by automatically controlling steering, acceleration, and braking. It aims to enhance safety and reduce driver fatigue during long trips by providing advanced driver assistance. The system uses a combination of sensors and software to detect and respond to its surroundings, enabling semi-autonomous operation.",
+    "output": " Lack of capability or robustness is a risk associated with A vehicle's autonomous driving system is designed to assist drivers by automatically controlling steering, acceleration, and braking. It aims to enhance safety and reduce driver fatigue during long trips by providing advanced driver assistance. The system uses a combination of sensors and software to detect and respond to its surroundings, enabling semi-autonomous operation.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a vehicle's autonomous driving system is a risk in autonomous driving",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a vehicle's autonomous driving system is a risk in automatically controlling steering, acceleration, and braking",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a vehicle's autonomous driving system is a risk in detecting and responding to surroundings",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in providing advanced driver assistance in a vehicle's autonomous driving system",
+            "contexts": [
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in a vehicle's autonomous driving system is a risk in enabling semi-autonomous operation",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666675824002182",
+            "snippet": "However, accidents involving self-driving and driver assistance systems underscore the critical challenges in ensuring their robustness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Risk assessment in autonomous driving: a comprehensive survey of ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43684-025-00112-1",
+            "snippet": "The core goal of the risk assessment model is to quantify the risk level faced by the autonomous driving system through a comprehensive analysis ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What is the robustness often mentioned in autonomous driving?",
+            "text": "",
+            "link": "https://en.eeworld.com.cn/news/qrs/eic690043.html",
+            "snippet": "The robustness of the autonomous driving system is directly related to driving safety and user experience. The environment and conditions faced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Reliable, robust, and comprehensive risk assessment framework for ...",
+            "text": "",
+            "link": "https://academic.oup.com/jcde/article/9/5/1680/6657807",
+            "snippet": "Experimental results show the performance of the framework to be sufficiently reliable for urban autonomous driving in terms of risk assessment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robustness of autonomous driving systems: extending the function ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212827124007650/pdf",
+            "snippet": "This paper is based on the premise that early consideration of failure modes within the feature development process is important to identify risks and to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Automated Driving Systems Are Prone to Errors, Study Finds",
+            "text": "",
+            "link": "https://www.govtech.com/fs/transportation/Automated-Driving-Systems-Are-Prone-to-Errors-Study-Finds.html",
+            "snippet": "The majority of issues observed related to the assistance system's inability to maintain proper lane positions, often veering too close to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Automated driving regulations \u2013 where are we now? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "This paper analyses the legal frameworks of selected states, aside from those frameworks at international and EU level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Level 2 Additional Assistance. System provides continuous assistance with both acceleration/braking AND steering, while driver remains fully engaged and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How Do Autonomous Vehicles Decide? - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9823427/",
+            "snippet": "This paper provides an analysis of decision-making solutions approaches for autonomous driving. Various categories of approaches are analyzed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "For instance, these systems may struggle to interpret pedestrians' gestures or human drivers' nuanced behavior, such as yielding or negotiating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Robustness of autonomous driving systems: extending the function ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212827124007650/pdf",
+            "snippet": "This increases the importance of assuring the robustness of these systems during their operations where possible hazards can arise from both the malfunctioning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Hidden Dangers of Self-Driving Technology: Are Consumers at ...",
+            "text": "",
+            "link": "https://cannellasnyder.com/news/the-hidden-dangers-of-self-driving-technology-are-consumers-at-risk/",
+            "snippet": "Recent investigations and studies have highlighted significant risks associated with self-driving technologies, particularly concerning Tesla's Autopilot and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Partial Automation Doesn't Make Vehicles Safer - IEEE Spectrum",
+            "text": "",
+            "link": "https://spectrum.ieee.org/partial-vehicle-autonomy-risk",
+            "snippet": "Until full vehicle autonomy is realized, drivers must remain vigilant, even when using advanced assistance features. As partial automation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Disuse of advanced driver assistance systems (ADAS) - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0022437525001355",
+            "snippet": "Drivers cited discomfort with the system's driving style, a lack of trust in its perception capabilities, and incompatibility with their driving preferences. \u2022.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Companies oversell the self-driving capabilities of their cars, with ...",
+            "text": "",
+            "link": "https://theconversation.com/companies-oversell-the-self-driving-capabilities-of-their-cars-with-horrific-outcomes-200159",
+            "snippet": "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Future of Semi-Autonomous Vehicles: Impact and Safety Measures",
+            "text": "",
+            "link": "https://www.smithslawyers.com.au/post/semi-autonomous-vehicles-new-risks",
+            "snippet": "Most accidents in semi-autonomous vehicles happen due to the driver not taking control of the car in time, or coming into contact with other ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "[PDF] The Need for Standards in Autonomous Driving: Exploring Ethical ...",
+            "text": "",
+            "link": "https://scholar.utc.edu/cgi/viewcontent.cgi?article=1613&context=honors-theses",
+            "snippet": "Autonomous vehicles have automated driver assistance systems, (ADAS), a type of self- driving safety technology that lowers accidents and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "The Semi-Autonomous Systems' Dangers to Humans",
+            "text": "",
+            "link": "https://research-archive.org/index.php/rars/preprint/view/353/version/487",
+            "snippet": "This paper reviews the limitations and risks posed by current semi-autonomous systems and addresses the need for enhanced safety measures and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Analysis of Advanced Driver-Assistance Systems for Safe and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11479187/",
+            "snippet": "This paper aims to thoroughly examine and compare advanced driver-assistance systems (ADASs) in the context of their impact on safety and driving comfort.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Advanced driver assistance - IIHS",
+            "text": "",
+            "link": "https://www.iihs.org/research-areas/advanced-driver-assistance",
+            "snippet": "An automated system can assist the driver with multiple parts of the driving task for extended periods. The driver must continue to monitor the driving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Rethinking Advanced Driver Assistance System taxonomies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198225000156",
+            "snippet": "In this review, we assess the real-world effectiveness of Advanced Driver Assistance Systems (ADAS) in preventing vehicle crashes. We propose a new, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Advanced Driver Assistance Systems & Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.meccanica42.com/2024/11/04/advanced-driver-assistance-systems-the-future-of-automotive-safety-and-autonomous-driving/",
+            "snippet": "Advanced Driver Assistance Systems are transforming vehicle safety and driving autonomy, setting new standards in automotive innovation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 26,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A vehicle's autonomous driving system is designed to assist drivers by automatically controlling steering, acceleration, and braking. It aims to enhance safety and reduce driver fatigue during long trips by providing advanced driver assistance. The system uses a combination of sensors and software to detect and respond to its surroundings, enabling semi-autonomous operation.",
+        "response": " Lack of capability or robustness is a risk associated with A vehicle's autonomous driving system is designed to assist drivers by automatically controlling steering, acceleration, and braking. It aims to enhance safety and reduce driver fatigue during long trips by providing advanced driver assistance. The system uses a combination of sensors and software to detect and respond to its surroundings, enabling semi-autonomous operation.",
+        "elapsed_time": 56.907245042002614
+    }
+}

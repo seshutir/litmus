@@ -1,0 +1,362 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A vehicle's computer vision system is designed to detect and recognize traffic signals, enabling the vehicle to respond accordingly. It aims to accurately identify and interpret visual information from the environment, such as traffic lights and signs. The system relies on machine learning algorithms to improve its ability to detect and respond to various road features.",
+    "output": " Lack of capability or robustness is a risk associated with A vehicle's computer vision system is designed to detect and recognize traffic signals, enabling the vehicle to respond accordingly. It aims to accurately identify and interpret visual information from the environment, such as traffic lights and signs. The system relies on machine learning algorithms to improve its ability to detect and respond to various road features.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a vehicle's computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a vehicle's computer vision system is a risk in detecting and recognizing traffic signals",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a vehicle's computer vision system is a risk in identifying and interpreting visual information from the environment",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in relying on machine learning algorithms to improve the vehicle's computer vision system's ability to detect and respond to various road features",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robust Vision Systems for Connected and Autonomous Vehicles",
+            "text": "",
+            "link": "https://arxiv.org/html/2602.09740v2",
+            "snippet": "This article investigates the robustness of vision systems in Connected and Autonomous Vehicles (CAVs), which is critical for developing Level-5 autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "7 challenges of Computer Vision in self-driving cars - Tooploox",
+            "text": "",
+            "link": "https://tooploox.com/7-challenges-of-computer-vision-in-self-driving-cars",
+            "snippet": "In autonomous vehicles the quality and reliability of computer vision solutions can be a matter of life or death, either of the driver or of others on the road.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "When AI takes the wheel: AI-defined vehicles principles and pitfalls",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12989590/",
+            "snippet": "This article contributes a first conceptualization of AIDVs, outlines their defining principles, and distinguishes them from existing vehicle classes. Then, it ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Computer vision in automotive: safer, faster, and more intelligent ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/computer-vision-automotive-safer-faster-more-intelligent-mobility-ojlrf",
+            "snippet": "Quality failures, inspection bottlenecks, and safety risks all have one thing in common: they start with something no one saw in time.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Traffic sign detection and recognition using deep learning-based ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S277267112400024X",
+            "snippet": "Removing haze and detecting traffic signs can improve the vehicle's performance in various scenarios, leading to safer and more reliable autonomous driving.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Robust Vision Systems for Connected and Autonomous Vehicles",
+            "text": "",
+            "link": "https://arxiv.org/html/2602.09740v2",
+            "snippet": "Safe and reliable CAV navigation undeniably depends on robust vision systems that enable accurate detection of objects, lane markings, and traffic signage. We ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Vision-Based Traffic Sign Detection and Recognition Systems - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6539654/",
+            "snippet": "This paper provides a comprehensive survey on traffic sign detection, tracking and classification. The details of algorithms, methods and their specifications",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] Automated Traffic Sign Recognition Using Computer Vision and ...",
+            "text": "",
+            "link": "https://depts.washington.edu/trac/bulkdisk/pdf/946.1.pdf",
+            "snippet": "This study presents an automated approach to traffic sign detection, recognition, and condition assessment using computer vision and deep learning methodologies ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "(PDF) Computer Vision Systems in Road Vehicles: A Review",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/257247132_Computer_Vision_Systems_in_Road_Vehicles_A_Review",
+            "snippet": "In this paper a review on computer vision systems in vehicles from the stand point of traffic engineering is given. Safety problems of road vehicles are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Robust Vision Systems for Connected and Autonomous Vehicles",
+            "text": "",
+            "link": "https://arxiv.org/html/2602.09740v1",
+            "snippet": "A robust vision system in CAVs is essential for accurately identifying objects, lanes, and traffic signs, facilitating safe and accident-free navigation [57] .",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "A qualitative AI security risk assessment of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0968090X24003188",
+            "snippet": "This paper systematically analyzes the security risks associated with artificial intelligence (AI) components in autonomous vehicles (AVs).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Computer Vision Applications in Intelligent Transportation Systems",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051529/",
+            "snippet": "This survey examines CV applications in the literature, the machine learning and deep learning methods used in ITS applications, the applicability of computer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Robust Vision Systems for Connected and Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/400661477_Robust_Vision_Systems_for_Connected_and_Autonomous_Vehicles_Security_Challenges_and_Attack_Vectors",
+            "snippet": "This article investigates the robustness of vision systems in Connected and Autonomous Vehicles (CAVs), which is critical for developing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Survey on Adversarial Robustness of LiDAR-based Machine ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.13778v1",
+            "snippet": "This survey focuses on the intersection of Adversarial Machine Learning (AML) and autonomous systems, with a specific focus on LiDAR-based systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Machine vision-based autonomous road hazard avoidance system ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-024-62629-4",
+            "snippet": "This paper aims to optimize the YOLOv5s object detection model and employ an optimized camera visual ranging strategy to address the challenges mentioned above.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Testing autonomous vehicles and AI: perspectives and challenges ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s12544-025-00732-x",
+            "snippet": "This study aims to comprehensively explore the complexities of integrating Artificial Intelligence (AI) into Autonomous Vehicles (AVs), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Advances In Computer Vision Propel Transportation Autonomy",
+            "text": "",
+            "link": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
+            "snippet": "Computer vision is revolutioning the autonomy game - in movement automation, security, smart building monitoring, fraud detection and and traffic management.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "(PDF) A Study to Investigate the Role and Challenges Associated to ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/382153239_A_Study_to_Investigate_the_Role_and_Challenges_Associated_to_the_Use_of_Deep_Learning_in_Autonomous_Vehicles",
+            "snippet": "The study concludes that deep learning plays a crucial role in enhancing the safety and reliability of AV navigation. This study contributes to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Computer Vision Applications in Intelligent Transportation Systems",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051529/",
+            "snippet": "Another function performed using CV techniques is object detection. The detection of traffic objects such as vehicles and pedestrians in an image plays a vital ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Robust Perception and Visual Understanding of Traffic Signs in the ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/372644070_Robust_Perception_and_Visual_Understanding_of_Traffic_Signs_in_the_Wild",
+            "snippet": "In this work, we propose a robust and scalable traffic sign perception system that seamlessly integrates the essential sensor signal processing components, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Transforming Transportation with Computer Vision for Autonomous ...",
+            "text": "",
+            "link": "https://www.rapidinnovation.io/post/computer-vision-for-road-and-lane-detection",
+            "snippet": "Autonomous vehicles: Machine learning algorithms help in recognizing road signs, pedestrians, and other vehicles, which is critical for self-driving cars.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Vehicle Detection - an overview | ScienceDirect Topics",
+            "text": "",
+            "link": "https://www.sciencedirect.com/topics/computer-science/vehicle-detection",
+            "snippet": "Vehicle detection refers to the task of robustly and efficiently identifying vehicles in monocular vision using computer vision techniques and video image data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Automated Traffic Sign Recognition Using Computer Vision and ...",
+            "text": "",
+            "link": "https://depts.washington.edu/trac/bulkdisk/pdf/946.1.pdf",
+            "snippet": "Deep learning has transformed traffic sign identification by enabling robust and accurate recognition. However, deploying these models requires systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A vehicle's computer vision system is designed to detect and recognize traffic signals, enabling the vehicle to respond accordingly. It aims to accurately identify and interpret visual information from the environment, such as traffic lights and signs. The system relies on machine learning algorithms to improve its ability to detect and respond to various road features.",
+        "response": " Lack of capability or robustness is a risk associated with A vehicle's computer vision system is designed to detect and recognize traffic signals, enabling the vehicle to respond accordingly. It aims to accurately identify and interpret visual information from the environment, such as traffic lights and signs. The system relies on machine learning algorithms to improve its ability to detect and respond to various road features.",
+        "elapsed_time": 47.50191312499919
+    }
+}

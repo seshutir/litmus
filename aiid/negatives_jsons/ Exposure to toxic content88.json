@@ -1,0 +1,211 @@
+{
+    "input": " Exposure to toxic content is a not a risk associated with A video recommendation system is designed to suggest content to users based on their viewing history and preferences. The system aims to provide a personalized experience, offering users videos that align with their interests. It also seeks to promote engagement and discovery of new content, while striving to maintain a safe and respectful environment for all users.",
+    "output": " Exposure to toxic content is a not a risk associated with A video recommendation system is designed to suggest content to users based on their viewing history and preferences. The system aims to provide a personalized experience, offering users videos that align with their interests. It also seeks to promote engagement and discovery of new content, while striving to maintain a safe and respectful environment for all users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is not a risk in a video recommendation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is not a risk in a video recommendation system suggesting content based on viewing history and preferences",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "the role of recommender algorithms for young people's mental health ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12630993/",
+            "snippet": "by K Regehr \u00b7 2025 \u00b7 Cited by 24 \u2014 First, recommendation systems amplify and subsequently normalize harmful ideologies, increasing users' exposure to radical material. Second, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Systematic review: YouTube recommendations and problematic ...",
+            "text": "",
+            "link": "https://policyreview.info/articles/analysis/systematic-review-youtube-recommendations-and-problematic-content",
+            "snippet": "by M Yesilada \u00b7 2022 \u00b7 Cited by 146 \u2014 This systematic review explored 23 studies to establish whether the YouTube recommender system facilitates pathways to problematic content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A binding Code against toxic algorithms",
+            "text": "",
+            "link": "https://www.iccl.ie/wp-content/uploads/2023/09/ICCL-submission-on-Video-Code-of-Conduct-September-2023.pdf",
+            "snippet": "Users must be able to use a platform without being exposed to toxic algorithms that inject poison into their feeds.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Recommendation Systems in Social Media - Youth AI Safety Institute",
+            "text": "",
+            "link": "https://institute.commonsensemedia.org/risk-assessments/recommendation-systems-in-social-media",
+            "snippet": "Research and documented cases show that these systems can unintentionally steer users toward narrow, repetitive, or even harmful content, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Toxic recommender algorithms: immunities, liabilities and the ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/17577632.2024.2408912",
+            "snippet": "by U Kohl \u00b7 2024 \u00b7 Cited by 18 \u2014 With focus on toxic recommender algorithms, the article argues that the platform immunities granted in the early 2000s are incompatible with the regulated self- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "An overview of video recommender systems: state-of-the-art and ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10642507/",
+            "snippet": "by S Lubos \u00b7 2023 \u00b7 Cited by 37 \u2014 This article presents a comprehensive overview of the current state of video recommender systems (VRS), exploring the algorithms used, their applications, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "On YouTube's recommendation system",
+            "text": "",
+            "link": "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/",
+            "snippet": "They connect viewers to high-quality information and minimize the chances they'll see problematic content. And they complement the work done",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "YouTube Recommendations Reinforce Negative Emotions",
+            "text": "",
+            "link": "https://arxiv.org/html/2501.15048v1",
+            "snippet": "Our findings reveal reveal that YouTube amplifies negative emotions, such as anger and grievance, by increasing their prevalence and prominence in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "YouTube's recommendation system is really bad : r/datascience",
+            "text": "",
+            "link": "https://www.reddit.com/r/datascience/comments/11m2a99/youtubes_recommendation_system_is_really_bad/",
+            "snippet": "It's typically weighted on what you're most likely to click on and watch, and that's often content from the same channel as the video you're ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "On YouTube's recommendation system",
+            "text": "",
+            "link": "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/",
+            "snippet": "Our recommendation system is built on the simple principle of helping people find the videos they want to watch and that will give them value.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "YouTube's Recommendation System",
+            "text": "",
+            "link": "https://support.google.com/youtube/answer/16533387?hl=en",
+            "snippet": "The system analyzes each viewer's profile in real time, which considers device, time of day, and past habits to surface and rank the most relevant content,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Recommendation Systems in Social Media - Youth AI Safety Institute",
+            "text": "",
+            "link": "https://institute.commonsensemedia.org/risk-assessments/recommendation-systems-in-social-media",
+            "snippet": "Recommendation systems, often referred to as recommenders, are algorithmic systems designed to suggest relevant content or products to users ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Recommendation Systems: Ethical Challenges and the Regulatory ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/recommendation-systems",
+            "snippet": "As recommendation systems leverage large quantities of user data to carry out their functions, they may be prone to privacy risks. Data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a not a risk associated with A video recommendation system is designed to suggest content to users based on their viewing history and preferences. The system aims to provide a personalized experience, offering users videos that align with their interests. It also seeks to promote engagement and discovery of new content, while striving to maintain a safe and respectful environment for all users.",
+        "response": " Exposure to toxic content is a not a risk associated with A video recommendation system is designed to suggest content to users based on their viewing history and preferences. The system aims to provide a personalized experience, offering users videos that align with their interests. It also seeks to promote engagement and discovery of new content, while striving to maintain a safe and respectful environment for all users.",
+        "elapsed_time": 249.1799719579867
+    }
+}

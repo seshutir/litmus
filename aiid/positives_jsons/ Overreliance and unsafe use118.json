@@ -1,0 +1,443 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with A text generation system is designed to create human-like content, including stories and discussions on various topics. It aims to engage users in conversations and explore different themes, using natural language processing to generate responses. The system's purpose is to facilitate online interactions and stimulate thought-provoking discussions.",
+    "output": " Overreliance and unsafe use is a risk associated with A text generation system is designed to create human-like content, including stories and discussions on various topics. It aims to engage users in conversations and explore different themes, using natural language processing to generate responses. The system's purpose is to facilitate online interactions and stimulate thought-provoking discussions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is a risk associated with a text generation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use of a text generation system is a risk associated with generating human-like content, including stories and discussions",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Overreliance and unsafe use is a risk associated with engaging users in conversations with a text generation system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Overreliance and unsafe use of a text generation system is a risk associated with exploring different themes using natural language processing",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Overreliance and unsafe use is a risk associated with facilitating online interactions and stimulating thought-provoking discussions through a text generation system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "LLM09: Overreliance - OWASP Gen AI Security Project",
+            "text": "",
+            "link": "https://genai.owasp.org/llmrisk2023-24/llm09-overreliance/",
+            "snippet": "Explore the dangers of overreliance on LLMs, where excessive trust in AI-generated outputs can lead to flawed decisions, misinformation, or security ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Risks of Overreliance on Large Language Models (LLMs)",
+            "text": "",
+            "link": "https://coralogix.com/ai-blog/the-risks-of-overreliance-on-large-language-models-llms/",
+            "snippet": "Explore the potential pitfalls and challenges associated with an overdependence on large language models in various industries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Generative AI security risks: what enterprises need to know right now",
+            "text": "",
+            "link": "https://www.proofpoint.com/us/blog/information-protection/generative-ai-security-risks",
+            "snippet": "By injecting malicious or misleading data, they can cause models to generate biased, incorrect, or unsafe recommendations. Fine-tuned or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "An experimental study on the extent and costs of overreliance on AI",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0747563224002206",
+            "snippet": "Yet, excessive trust, known as overtrust, can lead people to misuse technology, blindly relying on systems that do not warrant that trust. Such overtrust, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What is overreliance on LLMs? | Tutorial & examples - Snyk Learn",
+            "text": "",
+            "link": "https://learn.snyk.io/lesson/overreliance-on-llms/",
+            "snippet": "Learn how you can introduce vulnerabilities into your code by overreliance on LLMs. We'll look at examples and mitigation techniques.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Generative AI personas considered harmful? Putting forth twenty ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925002149",
+            "snippet": "Research suggests that purely automated approaches to persona generation, while producing impressive outputs, cannot fully substitute for human interpretation, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Generating Terror: The Risks of Generative AI Exploitation",
+            "text": "",
+            "link": "https://ctc.westpoint.edu/generating-terror-the-risks-of-generative-ai-exploitation/",
+            "snippet": "In this paper, the authors offer an early exploration of how these large language models could be exploited by terrorists or other violent extremists.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "10 Risks of Generative AI & How to Mitigate Them - AIMultiple",
+            "text": "",
+            "link": "https://aimultiple.com/risks-of-generative-ai",
+            "snippet": "In this article, we will explain the top 5 risks of generative AI and will provide steps to mitigate them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Dangers of Generative AI and Extremism",
+            "text": "",
+            "link": "https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/ctec-publications/dangers-generative-ai-and-extremism",
+            "snippet": "This research note explores how these problems are especially acute in the extremism and disinformation domains.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Benefits and Risks of Generative Artificial Intelligence Report",
+            "text": "",
+            "link": "https://www.govops.ca.gov/wp-content/uploads/sites/11/2023/11/GenAI-EO-1-Report_FINAL.pdf",
+            "snippet": "GenAI models use human-generated content as part of their underlying data, and they can respond to free-text human queries with human-sounding output.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Why AI companions and young people can make for a dangerous mix",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/08/ai-companions-chatbots-teens-young-people-risks-dangers-study",
+            "snippet": "A new study reveals how AI chatbots exploit teenagers' emotional needs, often leading to inappropriate and harmful interactions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Balancing risks and benefits: clinicians' perspectives on the use of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12158938/",
+            "snippet": "This paper aimed to explore the perspectives of mental health clinicians regarding the risks and benefits of integrating generative-AI chatbots into the mental ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "New study: AI chatbots systematically violate mental health ethics ...",
+            "text": "",
+            "link": "https://www.brown.edu/news/2025-10-21/ai-mental-health-ethics",
+            "snippet": "Researchers at Brown University found that AI chatbots routinely violate core mental health ethics standards, underscoring the need for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Generative AI: Risks and opportunities for children - Unicef",
+            "text": "",
+            "link": "https://www.unicef.org/innocenti/generative-ai-risks-and-opportunities-children",
+            "snippet": "At the same time, there are clear risks that the technology could be used by bad actors, or inadvertently cause harm or society-wide disruptions at the cost of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Risks of 'sycophantic' AI chatbots: Study reveals AI validates more ...",
+            "text": "",
+            "link": "https://www.facebook.com/WIONews/posts/gravitas-risks-of-sycophantic-ai-chatbots-study-reveals-ai-validates-more-often-/1302863205286184/",
+            "snippet": "\u2192 More emotional dependence, especially for heavy users. 3. Too Much Chat = Bad News The more you use it, the worse it gets \u2014 across the board.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI Risks: Understanding How Natural Language Processing ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/ai-risks-understanding-how-natural-language-became-powerful-thiele-om9ze",
+            "snippet": "AI Risks: Understanding How Natural Language Processing Became Powerful and Potentially Dangerous ... risks\u2014from deepfake text to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Ethical concerns of generative AI and mitigation strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1568494626002371",
+            "snippet": "... related to how AI systems, particularly virtual assistants (VAs), process and respond to language, including inappropriate or harmful speech. In P10, a key ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "[PDF] Mitigating Covertly Unsafe Text within Natural Language Systems",
+            "text": "",
+            "link": "https://aclanthology.org/2022.findings-emnlp.211.pdf",
+            "snippet": "Ultimately, our work defines the problem of covertly unsafe language that causes physical harm and argues that this subtle yet dangerous issue needs to be.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Risks of Overreliance on Large Language Models (LLMs)",
+            "text": "",
+            "link": "https://coralogix.com/ai-blog/the-risks-of-overreliance-on-large-language-models-llms/",
+            "snippet": "... insecure code. A Stanford and Rice University study identified a phenomenon called Model Autophagy Disorder (MAD), where AI output quality ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The effects of over-reliance on AI dialogue systems on students ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40561-024-00316-7",
+            "snippet": "(2023) explore the potential advantages and drawbacks of ChatGPT and other Natural Language ... harmful outcomes, and \"judicial transparency,\" ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Experts discuss the potential dangers of over-reliance on AI, along ...",
+            "text": "",
+            "link": "https://www.facebook.com/parents/posts/experts-discuss-the-potential-dangers-of-over-reliance-on-ai-along-with-guidance/1425331412964275/",
+            "snippet": "BREAKING: Scientists say whatever safeties we create may be useless in preventing harmful AI from taking over the world. ... And we see some bad ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "AI tools can be misused to target children through games, chats, and ...",
+            "text": "",
+            "link": "https://www.facebook.com/ADIB/posts/ai-tools-can-be-misused-to-target-children-through-games-chats-and-fake-contenta/1288999529929161/",
+            "snippet": "That means your child could be unintentionally exposed to harmful content like online grooming, pornography, or risky conversations, often ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "AI Pitfalls Now: Scams, Misinformation & Overreliance - Swept AI",
+            "text": "",
+            "link": "https://www.swept.ai/post/does-ai-pose-an-existential-risk-examining-current-threats-and-limitations-048ne",
+            "snippet": "Moreover, overreliance on AI can lead to complacency and reduced human oversight. This scenario becomes dangerous in critical industries like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Utah experts say AI companions blur lines between help and harm",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=dAMTqoee_fY",
+            "snippet": "Anthropic CEO warns that without guardrails, AI could be on dangerous path. 60 Minutes\u2022921K views \u00b7 9:19. Go to channel The Young Turks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "The real risks of artificial intelligence are structural - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/703007927897194/posts/1319444392920208/",
+            "snippet": "So no, AI isn't dangerous because it is alive or plotting. In my view, it is risky because it is opaque, concentrated, resource-intensive, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Ethical concerns of generative AI and mitigation strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1568494626002371",
+            "snippet": "This paper aims to identify and categorise the key ethical concerns associated with using LLMs, examine existing mitigation strategies, and assess the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The effects of over-reliance on AI dialogue systems on students ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40561-024-00316-7",
+            "snippet": "The study specifically examines the contributing factors of over-reliance, such as AI hallucination, algorithmic bias, plagiarism, privacy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Balancing risks and benefits: clinicians' perspectives on the use of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12158938/",
+            "snippet": "This paper aimed to explore the perspectives of mental health clinicians regarding the risks and benefits of integrating generative-AI chatbots ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] AI Privacy Risks & Mitigations \u2013 Large Language Models (LLMs)",
+            "text": "",
+            "link": "https://www.edpb.europa.eu/system/files/2025-04/ai-privacy-risks-and-mitigations-in-llms.pdf",
+            "snippet": "The risk management methodology outlined in this document is designed to help developers and users systematically identify, assess, and mitigate privacy and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Risks of Large Language Models in Education - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.21972v1",
+            "snippet": "When learners interact with LLMs, these risks extend to cognitive and behavioural outcomes, including reduced neural activity, over-reliance, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with A text generation system is designed to create human-like content, including stories and discussions on various topics. It aims to engage users in conversations and explore different themes, using natural language processing to generate responses. The system's purpose is to facilitate online interactions and stimulate thought-provoking discussions.",
+        "response": " Overreliance and unsafe use is a risk associated with A text generation system is designed to create human-like content, including stories and discussions on various topics. It aims to engage users in conversations and explore different themes, using natural language processing to generate responses. The system's purpose is to facilitate online interactions and stimulate thought-provoking discussions.",
+        "elapsed_time": 63.62912574999973
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+    "output": " Lack of capability or robustness is a not a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an image classification system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing visual characteristics to distinguish between different types of objects in an image classification system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with learning patterns and features that uniquely identify each object in an image classification system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing machine learning algorithms to improve the image classification system's classification abilities over time",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v2",
+            "snippet": "In fact, model robustness is a cornerstone of safety because robust AI systems are able to deal with unexpected inputs and perturbations without compromising ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "CANARY: An Adversarial Robustness Evaluation Platform ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/12/17/3665",
+            "snippet": "by J Sun \u00b7 2023 \u00b7 Cited by 5 \u2014 The vulnerability of deep-learning-based image classification models to erroneous conclusions in the presence of small perturbations crafted by attackers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 this study identifies the risk that despite high performances, the system does not provide a real benefit for the users, or lead to a blind trust in a AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "Currently, most AI systems are far from robust. They often fail when exposed to new environments and can easily be exploited by adversaries. These weaknesses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Adversarial Attacks and Countermeasures on Image ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3691625",
+            "snippet": "This systematic review offers a comprehensive overview of the most recent literature on adversarial attacks and countermeasures on image classification DL ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Adversarial Examples Are Not Bugs, They Are Features",
+            "text": "",
+            "link": "https://gradientscience.org/adv/",
+            "snippet": "Conversely, non-robust features correspond to patterns that while predictive, can be \u201cflipped\u201d by an adversary within a pre-defined perturbation set to be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Is Image Classification? - Machine learning",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/image-classification",
+            "snippet": "Learn what image classification is and how it works. Discover the difference between rule-based methods and machine learning statistical approaches.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robust image classification against adversarial attacks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0893608020301581",
+            "snippet": "by I Oregi \u00b7 2020 \u00b7 Cited by 12 \u2014 The reason for the imperceptibility of the attack is that the human visual system fails to detect minor variations in color space, but excels at detecting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What is image classification? Basics you need to know",
+            "text": "",
+            "link": "https://www.superannotate.com/blog/image-classification-basics",
+            "snippet": "Image classification is a branch of computer vision that deals with categorizing images using a set of predetermined tags on which an algorithm has been ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Exploratory Research on Defense against Natural ...",
+            "text": "",
+            "link": "https://www.techscience.com/cmc/v82n2/59458/html",
+            "snippet": "The emergence of adversarial examples has revealed the inadequacies in the robustness of image classification models based on Convolutional Neural Networks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Adversarial Examples Are Not Bugs, They Are Features",
+            "text": "",
+            "link": "https://gradientscience.org/adv/",
+            "snippet": "both robust and non-robust features are predictive on the training set, but only non-robust features will yield generalization to the original test set:",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v2",
+            "snippet": "This chapter explores the foundational concept of robustness in Machine Learning (ML) and its integral role in establishing trustworthiness in Artificial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Article Exploratory Research on Defense against Natural ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/org/science/article/pii/S1546221825001146",
+            "snippet": "by Y Zhu \u00b7 2025 \u00b7 Cited by 3 \u2014 The emergence of adversarial examples has revealed the inadequacies in the robustness of image classification models based on Convolutional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Learning Discriminative Features for Adversarial Robustness",
+            "text": "",
+            "link": "https://scholarworks.indianapolis.iu.edu/bitstreams/243437be-5884-4e4a-883c-6fefa23590a6/download",
+            "snippet": "by R Hosler \u00b7 2022 \u00b7 Cited by 1 \u2014 Abstract\u2014Deep Learning models have shown incredible image classification capabilities that extend beyond humans. However, they remain susceptible to image ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A comparative study of machine learning and deep ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590005625000335",
+            "snippet": "by A Alharthi \u00b7 2025 \u00b7 Cited by 66 \u2014 This study evaluates and compares the performance of machine learning (ML) and deep learning (DL) models for network intrusion detection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Robustness in deep learning models for medical diagnostics",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-024-11005-9",
+            "snippet": "by H Javed \u00b7 2024 \u00b7 Cited by 258 \u2014 The current study investigates the robustness of deep learning models for accurate medical diagnosis systems with a specific focus on their ability to maintain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Deep Learning: A Comprehensive Overview on Techniques ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8372231/",
+            "snippet": "by IH Sarker \u00b7 2021 \u00b7 Cited by 4053 \u2014 This article presents a structured and comprehensive view on DL techniques including a taxonomy considering various types of real-world tasks like supervised ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What is Image Recognition? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/image-recognition",
+            "snippet": "By annotating objects of interest within images, the models can more easily recognize and classify specific objects such as \u201ccat\u201d or \u201cdog.\u201d",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "A Review of Machine Learning and Deep ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2227-7080/12/2/15",
+            "snippet": "by N Manakitsa \u00b7 2024 \u00b7 Cited by 408 \u2014 This study focuses on the objectives of computer vision systems: replicating human visual capabilities including recognition, comprehension, and interpretation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What is image classification? Basics you need to know",
+            "text": "",
+            "link": "https://www.superannotate.com/blog/image-classification-basics",
+            "snippet": "Feature extraction is a substantial process in image classification for identifying visual patterns within an image that will be used to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What Is Deep Learning?",
+            "text": "",
+            "link": "https://www.zebra.com/us/en/resource-library/faq/what-is-deep-learning.html",
+            "snippet": "Deep learning mimics how our brains work. It helps computers get better at recognizing things and doing difficult tasks with more accuracy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Exploratory Research on Defense against Natural ...",
+            "text": "",
+            "link": "https://www.techscience.com/cmc/v82n2/59458/html",
+            "snippet": "Experimental results indicate that the robustness of nearly all widely-used convolutional network classification models is reduced on ImageNet-A.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+        "response": " Lack of capability or robustness is a not a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+        "elapsed_time": 170.4047644159873
+    }
+}

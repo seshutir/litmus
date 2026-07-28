@@ -1,0 +1,230 @@
+{
+    "input": " Exposure to toxic content is a risk associated with An automated content moderation system is designed to detect and flag videos that promote harmful behavior, using natural language processing to identify prohibited keywords and hashtags. The system aims to prevent the spread of such content by recognizing and filtering out violating material. It also seeks to stay ahead of attempts to bypass its detection capabilities through creative spelling or coding of search terms.",
+    "output": " Exposure to toxic content is a risk associated with An automated content moderation system is designed to detect and flag videos that promote harmful behavior, using natural language processing to identify prohibited keywords and hashtags. The system aims to prevent the spread of such content by recognizing and filtering out violating material. It also seeks to stay ahead of attempts to bypass its detection capabilities through creative spelling or coding of search terms.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk associated with content moderation.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in detecting and flagging videos that promote harmful behavior using an automated content moderation system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "For detecting toxicity, we employ Detoxify [80], a model designed to quantify toxic language in online interactions. It provides scores across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Content moderation is what a 21st century hazardous job looks like",
+            "text": "",
+            "link": "https://www.equaltimes.org/content-moderation-is-what-a-21st",
+            "snippet": "Content moderation may, however, qualify as the new exception. Just as exposure to silica dust caused lung diseases in miners, endless toxic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Toxic By Design: The FTC and FCC's New Plans to Sabotage ...",
+            "text": "",
+            "link": "https://progresschamber.org/research/toxic-by-design-ftc-fcc-content-moderation-230/",
+            "snippet": "Both outcomes would make the Internet toxic for everyone. The Supreme Court Affirms Content Moderation Rights. In 2021, Texas and Florida passed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "A critical reflection on the use of toxicity detection algorithms in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "This approach to moderation has the benefit of limiting human exposure to toxic content ... They also push the responsibility of dealing with toxic content away ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What Is Harmful Content? Examples, Risks & Detection",
+            "text": "",
+            "link": "https://getstream.io/blog/harmful-content/",
+            "snippet": "Abuse that flares after public moderation actions, new feature launches, or user bans. The team at CollX addressed this by flagging toxic chat ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Battling Online Harm: AI vs. Toxicity in Content Moderation",
+            "text": "",
+            "link": "https://deepgram.com/learn/battling-online-harm-with-automated-ai-moderation",
+            "snippet": "In order to maintain a relatively safe online environment, content moderators have to look through content containing graphic violence, hate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI Content Moderation: For Responsible Social Media Practices",
+            "text": "",
+            "link": "https://labelyourdata.com/articles/ai-content-moderation",
+            "snippet": "AI content moderation reduces exposure to harmful material like violence, hate speech, and explicit content. Leading platforms (Facebook ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "A critical reflection on the use of toxicity detection algorithms in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "Toxicity detection algorithms, originally designed for reactive content moderation systems, are being deployed into proactive end-user interventions to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Automated Content Moderation: What You Need to Know - Imagga",
+            "text": "",
+            "link": "https://imagga.com/blog/automated-content-moderation/",
+            "snippet": "Automated systems can instantly detect and act on harmful content as it is uploaded, preventing it from reaching audiences in the first place.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "The toxic language is used in form of comments which include rude ... words like extremists, toxic and violent content (Bender et al. 2021) This kind ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Flag harmful content using Amazon Comprehend toxicity detection",
+            "text": "",
+            "link": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-content-using-amazon-comprehend-toxicity-detection/",
+            "snippet": "Amazon Comprehend now provides a straightforward, NLP-based solution for toxic content detection in text. The Amazon Comprehend Toxicity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Toxicity Detection is NOT all you Need: Measuring the Gaps ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2311.07879v4",
+            "snippet": "... detecting \u201cundesired\u201d content, they primarily focus on toxic content. Yet, content moderation encompasses more than toxicity detection, 2 22We use \u201ctoxicity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Tackling Toxicity: Leveraging NLP for Content Moderation - Cohere",
+            "text": "",
+            "link": "https://cohere.com/blog/toxic-language-use-case",
+            "snippet": "Identify toxic language in online communities using NLP. Toxicity pervades every online community, creating unsafe spaces and driving people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The unappreciated role of intent in algorithmic moderation of ...",
+            "text": "",
+            "link": "https://misinforeview.hks.harvard.edu/article/the-unappreciated-role-of-intent-in-algorithmic-moderation-of-abusive-content-on-social-media/",
+            "snippet": "ToxicBERT (Hanu & Unitary team, 2020), for example, can label sentences as hateful or toxic but lacks the ability to interpret context in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.99927,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0007307334846401947,
+        "norm_entropy": 0.008680622761428313,
+        "avg_entropy": 0.00036536674232009737,
+        "avg_norm_entropy": 0.004340311380714157,
+        "avg_prob": 0.9996345,
+        "avg_logprob": -0.000365633290121704,
+        "avg_explogprob": 0.9996344335455837,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.00073,
+                    0.99927
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9992702664499999,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with An automated content moderation system is designed to detect and flag videos that promote harmful behavior, using natural language processing to identify prohibited keywords and hashtags. The system aims to prevent the spread of such content by recognizing and filtering out violating material. It also seeks to stay ahead of attempts to bypass its detection capabilities through creative spelling or coding of search terms.",
+        "response": " Exposure to toxic content is a risk associated with An automated content moderation system is designed to detect and flag videos that promote harmful behavior, using natural language processing to identify prohibited keywords and hashtags. The system aims to prevent the spread of such content by recognizing and filtering out violating material. It also seeks to stay ahead of attempts to bypass its detection capabilities through creative spelling or coding of search terms.",
+        "elapsed_time": 31.328117125000063
+    }
+}

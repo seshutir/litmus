@@ -1,0 +1,230 @@
+{
+    "input": " False or misleading information is a not a risk associated with A system is designed to generate synthetic video content, allowing for the creation of realistic audio-visual simulations of public figures. The technology aims to produce convincing speech and facial expressions, mimicking the mannerisms of the individual being replicated. This capability enables the generation of immersive and realistic video sequences.",
+    "output": " False or misleading information is a not a risk associated with A system is designed to generate synthetic video content, allowing for the creation of realistic audio-visual simulations of public figures. The technology aims to produce convincing speech and facial expressions, mimicking the mannerisms of the individual being replicated. This capability enables the generation of immersive and realistic video sequences.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "False or misleading information is a risk in synthetic video content generation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "False or misleading information is a risk in generating synthetic audio-visual simulations of public figures.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Dangers of Manipulated Media and Video: Deepfakes ...",
+            "text": "",
+            "link": "https://www.adl.org/resources/article/dangers-manipulated-media-and-video-deepfakes-and-more",
+            "snippet": "Extremists and conspiracy theorists are using deepfakes, AI-generated audio and other forms of synthetic media to spread harmful, hateful and misleading ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Moderating Synthetic Content: the Challenge of Generative AI",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11561028/",
+            "snippet": "by SA Fisher \u00b7 2024 \u00b7 Cited by 30 \u2014 TikTok's Community Guideline on 'Misinformation' bans misinformation (defined as false or misleading content) that \u201cmay cause significant ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Deepfakes and Synthetic Media: What are they and how ...",
+            "text": "",
+            "link": "https://www.techuk.org/resource/synthetic-media-what-are-they-and-how-are-techuk-members-taking-steps-to-tackle-misinformation-and-fraud.html",
+            "snippet": "Deepfakes are a specific subset of synthetic media that focus on manipulating or altering visual or auditory information, to create convincing fake content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Verification experts warn that unlabeled AI content on ...",
+            "text": "",
+            "link": "https://www.facebook.com/CBSNewsTexas/posts/verification-experts-warn-that-unlabeled-ai-content-on-social-media-can-mislead-/1483340303823918/",
+            "snippet": "Verification experts warn that unlabeled AI content on social media can mislead viewers following high\u2011profile cases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Understanding AI-Generated Misinformation and ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581318",
+            "snippet": "by J Zhou \u00b7 2023 \u00b7 Cited by 585 \u2014 AI-generated content is increasingly indistinguishable from human-written information, and in certain cases even perceived to be more credible. AI-generated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Regulating AI Deepfakes and Synthetic Media in the ...",
+            "text": "",
+            "link": "https://www.brennancenter.org/our-work/research-reports/regulating-ai-deepfakes-and-synthetic-media-political-arena",
+            "snippet": "Specious content can be especially dangerous in the lead-up to an election, when time is short to debunk it before voters go to the polls. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Deepfakes: regulatory challenges for the synthetic society",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364922000632",
+            "snippet": "by B van der Sloot \u00b7 2022 \u00b7 Cited by 190 \u2014 Deepfakes can be used to spread fake news, influence elections, introduce highly realistic fake evidence in courts and make fake porno movies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Deepfakes and the crisis of knowing",
+            "text": "",
+            "link": "https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing",
+            "snippet": "Research confirms humans cannot consistently identify AI-generated voices, often perceiving them as identical to real to deepfakes increases ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Deepfakes. Disinformation. Digital manipulation. As AI ...",
+            "text": "",
+            "link": "https://www.facebook.com/TempletonFoundation/posts/deepfakes-disinformation-digital-manipulation-as-ai-grows-more-powerful-so-do-th/1345971120901455/",
+            "snippet": "Top 10 risks of artificial intelligence when it comes to false information, fake news, and deepfake content: 1. Spreading Wrong Information: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Contextualizing Deepfake Threats to Organizations",
+            "text": "",
+            "link": "https://media.defense.gov/2023/sep/12/2003298925/-1/-1/0/csi-deepfake-threats.pdf",
+            "snippet": "In 2022, malicious actors reportedly employed synthetic audio and video during online interviews, although the content was often unaligned or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI can now mimic a person's face and voice with startling ...",
+            "text": "",
+            "link": "https://www.facebook.com/CanadainMexico/posts/ai-can-now-mimic-a-persons-face-and-voice-with-startling-accuracy-deepfakes-can-/1260334996289751/",
+            "snippet": "A deepfake is an AI-generated video, image, or audio that convincingly mimics real people. Cybercriminals use machine learning to analyze ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The public mental representations of deepfake technology",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11684586/",
+            "snippet": "by B Caci \u00b7 2024 \u00b7 Cited by 13 \u2014 This study delves into the psychological literature surrounding deepfakes, focusing on people's public representation of this emerging technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Understanding Deepfake AI: Risks and Defenses Explained",
+            "text": "",
+            "link": "https://www.adaptivesecurity.com/blog/deepfake-ai-what-is-how-it-works",
+            "snippet": "Deepfake AI is machine learning technology that fabricates hyper-realistic videos, audio, and images of real people, and it has become one of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI-generated faces, voices and full-body performances ...",
+            "text": "",
+            "link": "https://www.facebook.com/WCIA3News/posts/ai-generated-faces-voices-and-full-body-performances-that-mimic-real-people-incr/1302816925217342/",
+            "snippet": "If \"fake\" information whether it's conveyed in text, photos, audio or video is dispersed and seen as real, it could be used for evil purposes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Are Deepfakes? A Comprehensive Overview",
+            "text": "",
+            "link": "https://www.identity.org/what-are-deepfakes/",
+            "snippet": "Deepfakes are highly realistic AI-generated media (images, videos, and audio) that can manipulate content to deceive audiences or spread ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " False or misleading information is a not a risk associated with A system is designed to generate synthetic video content, allowing for the creation of realistic audio-visual simulations of public figures. The technology aims to produce convincing speech and facial expressions, mimicking the mannerisms of the individual being replicated. This capability enables the generation of immersive and realistic video sequences.",
+        "response": " False or misleading information is a not a risk associated with A system is designed to generate synthetic video content, allowing for the creation of realistic audio-visual simulations of public figures. The technology aims to produce convincing speech and facial expressions, mimicking the mannerisms of the individual being replicated. This capability enables the generation of immersive and realistic video sequences.",
+        "elapsed_time": 21.228917583997827
+    }
+}

@@ -1,0 +1,435 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A risk assessment algorithm is designed to predict the likelihood of reoffense by analyzing various factors and assigning a risk score to individuals. The algorithm aims to provide accurate and unbiased predictions to support informed decision-making in the penal system. Its primary goal is to identify high-risk individuals and provide insights for rehabilitation and reintegration programs.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A risk assessment algorithm is designed to predict the likelihood of reoffense by analyzing various factors and assigning a risk score to individuals. The algorithm aims to provide accurate and unbiased predictions to support informed decision-making in the penal system. Its primary goal is to identify high-risk individuals and provide insights for rehabilitation and reintegration programs.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the penal system's risk assessment algorithm",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in predicting the likelihood of reoffense by analyzing various factors in a risk assessment algorithm",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in assigning a risk score to individuals using a risk assessment algorithm.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing accurate and unbiased predictions by a risk assessment algorithm",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying high-risk individuals using a risk assessment algorithm",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing insights for the algorithm's rehabilitation and reintegration programs",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Justice served? Discrimination in algorithmic risk assessment",
+            "text": "",
+            "link": "https://researchoutreach.org/articles/justice-served-discrimination-in-algorithmic-risk-assessment/",
+            "snippet": "Algorithmic risk assessment plays a pivotal part in determining an offender's future, but it isn't without its flaws. Dr Melissa Hamilton of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Risk Assessment Tools",
+            "text": "",
+            "link": "https://www.aclukansas.org/risk-assessment-tools/",
+            "snippet": "Algorithms shed light on racial biases and discrimination in the criminal legal system that stems from the historical context of white supremacy, slavery ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithms in the Criminal Justice System: Assessing the Use of Risk ...",
+            "text": "",
+            "link": "https://dash.harvard.edu/bitstreams/7312037e-362a-6bd4-e053-0100007fdf3b/download",
+            "snippet": "by D Kehl \u00b7 2017 \u00b7 Cited by 331 \u2014 We then delve into the legal and policy questions raised by the use of risk assessment software in sentencing decisions, including the potential for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Establishing Discriminatory Purpose in Algorithmic Risk Assessment",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-134/beyond-intent-establishing-discriminatory-purpose-in-algorithmic-risk-assessment/",
+            "snippet": "This Note argues that transitioning to a test rooted primarily in evaluation of effect for equal protection challenges to the use of algorithmic risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Are Algorithms Reinforcing Disparities in the Criminal Justice ...",
+            "text": "",
+            "link": "https://tcf.org/content/facts/algorithms-reinforcing-disparities-criminal-justice-system/",
+            "snippet": "Furthermore, risk assessments are not consistent between raters using the same test. The data-driven nature of algorithms gives the false ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How We Analyzed the COMPAS Recidivism Algorithm - ProPublica",
+            "text": "",
+            "link": "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm",
+            "snippet": "We set out to assess one of the commercial tools made by Northpointe, Inc. to discover the underlying accuracy of their recidivism algorithm.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Age of Secrecy and Unfairness in Recidivism Prediction",
+            "text": "",
+            "link": "https://hdsr.mitpress.mit.edu/pub/7z10o269",
+            "snippet": "We argue that the focus on the question of fairness is misplaced, as these algorithms fail to meet a more important and yet readily obtainable goal: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Reprogramming Fairness: Affirmative Action in Algorithmic Criminal ...",
+            "text": "",
+            "link": "https://hrlr.law.columbia.edu/hrlr-online/reprogramming-fairness-affirmative-action-in-algorithmic-criminal-sentencing/",
+            "snippet": "This Note examines the problems underlying risk assessment algorithms used in sentencing and analyzes two key definitions of fairness that can be used in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The predictive performance of criminal risk assessment tools used ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755051/",
+            "snippet": "Risk assessment tools are widely used to inform sentencing decisions for individuals convicted of crimes in many high-income countries (van Ginneken, 2019).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Risk Assessment Instruments and Predictive Sentencing in the ...",
+            "text": "",
+            "link": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1834&context=theses_open",
+            "snippet": "Tools for predicting an individual's risk of recidivism are implemented throughout the criminal legal system, from informing decisions about release ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "How Actuarial Risk Assessment Instruments Perpetuate Social ...",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/hrj/2025/10/digitalizing-discrimination-how-actuarial-risk-assessment-instruments-perpetuate-social-inequality/",
+            "snippet": "This algorithmic bias has the potential to exacerbate social inequality in two main ways. First, it will overpredict criminality for ethno- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Risk Assessment: Explained - The Appeal",
+            "text": "",
+            "link": "https://theappeal.org/risk-assessment-explained/",
+            "snippet": "The reality of risk assessment algorithms is complicated. Critics say bias can creep in at every stage, from development to implementation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Addressing bias in big data and AI for health care - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8515002/",
+            "snippet": "by N Norori \u00b7 2021 \u00b7 Cited by 1182 \u2014 AI is prone to reinforcing bias, which can lead to fatal outcomes, misdiagnoses, and lack of generalization.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The development of bias in algorithms over time through such feedback loops risks reinforcing or creating dis- criminatory practices that affect groups with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 An algorithm that correctly predicts the costs for individual ethnic groups inevitably provides biased predictions about health conditions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Digitalizing Discrimination: How Actuarial Risk Assessment ...",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/hrj/2025/10/digitalizing-discrimination-how-actuarial-risk-assessment-instruments-perpetuate-social-inequality/",
+            "snippet": "This algorithmic bias raises serious human rights concerns particularly the right to equality and the right to liberty of defendants within the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Understanding risk assessment instruments in criminal ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/understanding-risk-assessment-instruments-in-criminal-justice/",
+            "snippet": "One class of algorithmic tools, called risk assessment instruments (RAIs), are designed to predict a defendant's future risk for misconduct.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Are Algorithms Reinforcing Disparities in the Criminal Justice ...",
+            "text": "",
+            "link": "https://tcf.org/content/facts/algorithms-reinforcing-disparities-criminal-justice-system/",
+            "snippet": "Risk assessment algorithms can provide an avenue for prejudice to slip through in the guise of an innocuous, agendaless number.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Prisoner risk algorithm could program in racism",
+            "text": "",
+            "link": "https://www.thebureauinvestigates.com/stories/2019-11-14/prisoner-risk-algorithm-could-program-in-racism",
+            "snippet": "A new algorithmic tool for categorising prisoners in UK jails risks automating and embedding racism in the system, experts and advocacy groups have warned.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Algorithmic discrimination: examining its types and regulatory measures ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 72 \u2014 This paper aims to provide an indepth analysis of the types of algorithmic discrimination, exploring both the challenges and potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Algorithms in the Criminal Justice System: Assessing the Use of Risk ...",
+            "text": "",
+            "link": "https://dash.harvard.edu/bitstreams/7312037e-362a-6bd4-e053-0100007fdf3b/download",
+            "snippet": "by D Kehl \u00b7 2017 \u00b7 Cited by 331 \u2014 by expressing concerns about the potential for unfairness and discrimination in using COMPAS but still approving it in this case, the court may ultimately fail",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The Age of Secrecy and Unfairness in Recidivism Prediction",
+            "text": "",
+            "link": "https://hdsr.mitpress.mit.edu/pub/7z10o269",
+            "snippet": "by C Rudin \u00b7 2020 \u00b7 Cited by 348 \u2014 We argue that the focus on the question of fairness is misplaced, as these algorithms fail to meet a more important and yet readily obtainable goal: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Sentence by Numbers: The Scary Truth Behind Risk ...",
+            "text": "",
+            "link": "https://www.luc.edu/digitalethics/researchinitiatives/essays/archive/2018/sentencebynumbersthescarytruthbehindriskassessmentalgorithms/",
+            "snippet": "Improperly validated or invalidated risk assessments can contribute to racial disparity in sentencing. Many risk assessment algorithms take into ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The predictive performance of criminal risk assessment tools ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755051/",
+            "snippet": "by S Fazel \u00b7 2022 \u00b7 Cited by 115 \u2014 Predictive performance of sentencing risk tools range from poor to moderate. Studies with smaller sample sizes report higher AUCs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "COMPAS : Unfair Algorithm",
+            "text": "",
+            "link": "https://medium.com/@lamdaa/compas-unfair-algorithm-812702ed6a6a",
+            "snippet": "The tool generates a risk score for an individual, predicting the likelihood of them committing a crime in the future. This score is then used ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.8333333333333334,
+        "num_atoms": 6,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.8815508058107214e-05,
+        "norm_entropy": 0.00012824557733609948,
+        "avg_entropy": 3.1359180096845355e-06,
+        "avg_norm_entropy": 2.1374262889349913e-05,
+        "avg_prob": 0.8333326666666666,
+        "avg_logprob": -2.302585926327796,
+        "avg_explogprob": 0.0999999166666597,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 0.8333333333333334,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A risk assessment algorithm is designed to predict the likelihood of reoffense by analyzing various factors and assigning a risk score to individuals. The algorithm aims to provide accurate and unbiased predictions to support informed decision-making in the penal system. Its primary goal is to identify high-risk individuals and provide insights for rehabilitation and reintegration programs.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A risk assessment algorithm is designed to predict the likelihood of reoffense by analyzing various factors and assigning a risk score to individuals. The algorithm aims to provide accurate and unbiased predictions to support informed decision-making in the penal system. Its primary goal is to identify high-risk individuals and provide insights for rehabilitation and reintegration programs.",
+        "elapsed_time": 124.4100300000282
+    }
+}

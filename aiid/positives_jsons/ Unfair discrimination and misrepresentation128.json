@@ -1,0 +1,383 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An automated proctoring system is designed to monitor and analyze exam taker behavior, aiming to detect and prevent cheating during online assessments. The system uses artificial intelligence to identify suspicious activity and flag potential violations. Its goal is to ensure the integrity and fairness of the examination process.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An automated proctoring system is designed to monitor and analyze exam taker behavior, aiming to detect and prevent cheating during online assessments. The system uses artificial intelligence to identify suspicious activity and flag potential violations. Its goal is to ensure the integrity and fairness of the examination process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in online assessment using an automated proctoring system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in monitoring and analyzing exam taker behavior using an automated proctoring system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in detecting and preventing cheating in an automated proctoring system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying suspicious activity in an automated proctoring system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in flagging potential violations by an automated proctoring system",
+            "contexts": [
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "How Automated Test Proctoring Software Discriminates Against ...",
+            "text": "",
+            "link": "https://cdt.org/insights/how-automated-test-proctoring-software-discriminates-against-disabled-students/",
+            "snippet": "The presence of an invisible virtual proctor or a known remote proctor can trigger anxiety in nondisabled students, and exacerbate it for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Good Proctor or \u201cBig Brother\u201d? Ethics of Online Exam Supervision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407138/",
+            "snippet": "Such technologies have alarmed some students who see them as a \u201cBig Brother-like\u201d threat to liberty and privacy, and as potentially unfair and discriminatory.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Racial, skin tone, and sex disparities in automated proctoring software",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.881449/full",
+            "snippet": "This study is novel as it is the first to quantitatively examine biases in facial detection software at the intersection of race and sex.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI-Powered Remote Proctoring Causes Privacy Violations and ...",
+            "text": "",
+            "link": "https://oecd.ai/en/incidents/2020-11-06-3b67",
+            "snippet": "AI-based remote proctoring tools used in online education have led to significant harms, including invasive surveillance, biometric data collection without ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The problems of online proctored exam - FeedbackFruits",
+            "text": "",
+            "link": "https://feedbackfruits.com/blog/online-proctoring-alternative-assessment",
+            "snippet": "Online proctoring allows teachers to facilitate remote examination and minimize academic misconduct.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Good Proctor or \u201cBig Brother\u201d? Ethics of Online Exam Supervision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407138/",
+            "snippet": "The face and body of the candidate can also be monitored, either by means of automated or live human proctoring. Some AI algorithms can conduct voice and facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "How Automated Test Proctoring Software Discriminates Against ...",
+            "text": "",
+            "link": "https://cdt.org/insights/how-automated-test-proctoring-software-discriminates-against-disabled-students/",
+            "snippet": "Video recording software with AI analysis risks flagging disabled students as suspicious based on disability-specific movement, speech, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Remote testing monitored by AI is failing the students forced to ...",
+            "text": "",
+            "link": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+            "snippet": "Remote schooling and virtual testing using new software with AI to monitor students discriminates and adds unnecessary stress.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How AI Proctoring Detects Cheating in High-Stakes Exams",
+            "text": "",
+            "link": "https://www.providencejournal.com/press-release/story/52524/how-ai-proctoring-detects-cheating-in-high-stakes-exams/",
+            "snippet": "AI systems assign risk scores based on detected behavior. \u2013 Real-time alerts for suspicious activity \u2013 Post-exam reports with flagged incidents",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Proctoring software raises significant fairness concerns",
+            "text": "",
+            "link": "https://studyinternational.com/news/proctoring-universities-using-ai/",
+            "snippet": "Automated proctoring programs offer tools for examiners to prevent cheating. The programs can capture system information, block web access and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "How Automated Test Proctoring Software Discriminates Against ...",
+            "text": "",
+            "link": "https://cdt.org/insights/how-automated-test-proctoring-software-discriminates-against-disabled-students/",
+            "snippet": "Schools, colleges, and universities turn to virtual proctoring because they want to prevent cheating and increase the efficiency of exam ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Good Proctor or \u201cBig Brother\u201d? Ethics of Online Exam Supervision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407138/",
+            "snippet": "Unfairness can relate to inequitable outcomes and unjust processes. This may play out in different ways. For example, false-negative identification of cheating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "[PDF] Academic Panopticon? The Ethics of Proctoring Technologies",
+            "text": "",
+            "link": "https://www.sunyufs.us/uploads/1/1/6/9/116933050/183_eiic_prtoctoring.pdf",
+            "snippet": "The ethical problem of cheating seems obvious and includes: a) cheating is disrespectful to other students who do not cheat, and, if a test is graded to a curve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Software that monitors students during tests perpetuates inequality ...",
+            "text": "",
+            "link": "https://www.technologyreview.com/2020/08/07/1006132/software-algorithms-proctoring-online-tests-ai-ethics/",
+            "snippet": "Algorithmic proctoring is a modern surveillance technology that reinforces white supremacy, sexism, ableism, and transphobia.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "How Automated Test Proctoring Software Discriminates Against ...",
+            "text": "",
+            "link": "https://cdt.org/insights/how-automated-test-proctoring-software-discriminates-against-disabled-students/",
+            "snippet": "Virtual proctoring software algorithmically profiles students for suspicious behavior, creating anxiety and fears about surveillance in the exam ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Proctoring Software May Perpetuate Racism - Avast Blog",
+            "text": "",
+            "link": "https://blog.avast.com/proctoring-software-may-perpetuate-racism-avast",
+            "snippet": "An academic explains why the automated software is alarmingly incompetent. Plus, more news bytes of the week including an op-ed written by a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Surveillance and Disability in Online Proctored Exams - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.10826v1",
+            "snippet": "The technologies used in OPS have been shown to unfairly flag students with disabilities. Our reflexive thematic analysis of interviews with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "AI Proctoring Software Causes Discrimination and Privacy Concerns ...",
+            "text": "",
+            "link": "https://oecd.ai/en/incidents/2020-11-10-05ff",
+            "snippet": "The proctoring platforms use AI systems for facial recognition and cheating detection, which have demonstrably caused harm by misidentifying or unfairly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Automated proctoring software: a threat to students' privacy and IT ...",
+            "text": "",
+            "link": "https://digitalfreedomfund.org/blog/automated-proctoring-software-a-threat-to-students-privacy-and-it-security/",
+            "snippet": "At first glance, automated proctoring software that relies on artificial intelligence (AI) algorithms to indicate potential attempts of cheating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "How AI Proctoring Detects Cheating in High-Stakes Exams",
+            "text": "",
+            "link": "https://www.clarionledger.com/press-release/story/134700/how-ai-proctoring-detects-cheating-in-high-stakes-exams/",
+            "snippet": "Instead of simply flagging events, it analyzes context, helping distinguish between genuine behavior and suspicious activity. This is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Good Proctor or \u201cBig Brother\u201d? Ethics of Online Exam Supervision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407138/",
+            "snippet": "Online proctoring technologies purport to effectively oversee students sitting online exams by using artificial intelligence (AI) systems supplemented by human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI Online Proctoring Explained: How It Works & Detects Cheating",
+            "text": "",
+            "link": "https://www.speedexam.net/blog/ai-online-proctoring-explained/",
+            "snippet": "A complete guide to AI-based online proctoring. Learn how it works, detects cheating, and ensures secure online exams.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Secure Online Proctoring in the Age of AI Assisted Cheating",
+            "text": "",
+            "link": "https://proctortrack.com/online-proctoring-ai-assisted-cheating/",
+            "snippet": "Learn how online proctoring software detects AI cheating, second devices, and hidden collaborators with advanced remote exam monitoring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Surveillance and Disability in Online Proctored Exams - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.10826v1",
+            "snippet": "Online proctoring systems (OPS) are technologies and services that are used to monitor students during an online exam to deter cheating. However ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 24,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An automated proctoring system is designed to monitor and analyze exam taker behavior, aiming to detect and prevent cheating during online assessments. The system uses artificial intelligence to identify suspicious activity and flag potential violations. Its goal is to ensure the integrity and fairness of the examination process.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An automated proctoring system is designed to monitor and analyze exam taker behavior, aiming to detect and prevent cheating during online assessments. The system uses artificial intelligence to identify suspicious activity and flag potential violations. Its goal is to ensure the integrity and fairness of the examination process.",
+        "elapsed_time": 58.53572383299979
+    }
+}

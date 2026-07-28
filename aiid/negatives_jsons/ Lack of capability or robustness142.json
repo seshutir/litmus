@@ -1,0 +1,333 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A vehicle's autonomous driving system is designed to detect and respond to traffic signals, providing a safe and efficient driving experience. It utilizes advanced sensors and algorithms to identify and interpret visual cues, such as traffic lights, and adjust the vehicle's speed accordingly. The system aims to enable smooth and controlled navigation through various traffic scenarios.",
+    "output": " Lack of capability or robustness is a not a risk associated with A vehicle's autonomous driving system is designed to detect and respond to traffic signals, providing a safe and efficient driving experience. It utilizes advanced sensors and algorithms to identify and interpret visual cues, such as traffic lights, and adjust the vehicle's speed accordingly. The system aims to enable smooth and controlled navigation through various traffic scenarios.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a vehicle's autonomous driving system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a vehicle's autonomous driving system detecting and responding to traffic signals",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing advanced sensors and algorithms to identify and interpret visual cues in a vehicle's autonomous driving system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with adjusting the vehicle's speed accordingly in a vehicle's autonomous driving system",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Reliable, robust, and comprehensive risk assessment ...",
+            "text": "",
+            "link": "https://academic.oup.com/jcde/article/9/5/1680/6657807",
+            "snippet": "by S Noh \u00b7 2022 \u00b7 Cited by 19 \u2014 In this paper, we propose a risk assessment framework capable of reliably predicting and assessing the possibility of collision in urban environments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Evaluating the potential risks posed by autonomous ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666691X25000715",
+            "snippet": "by M Aslantas \u00b7 2025 \u00b7 Cited by 7 \u2014 Storms, rain, fog, icy roads, and snow may compromise the security of an autonomous vehicle driving system comprised of numerous software and hardware ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Navigating Liability in the Age of Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.wshblaw.com/publication-navigating-liability-in-the-age-of-autonomous-vehicles",
+            "snippet": "AVs are more capable than human drivers to avoid mishaps on the road. With this mindset, potentially any accident could be blamed on the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Safety First for Autonomous Vehicles: Where Do We Stand ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=UxJK7Jv-1hA",
+            "snippet": "safety hazards may occur without internal malfunctioning of components or the entire system simply due to improper self-driving behavior.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Survey on an Emerging Safety Challenge for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2095809924000274",
+            "snippet": "by H Wang \u00b7 2024 \u00b7 Cited by 102 \u2014 This study offers a comprehensive exploration of the SOTIF landscape by reviewing academic research, practical activities, challenges, and perspectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Testing autonomous vehicles and AI: perspectives and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s12544-025-00732-x",
+            "snippet": "by D Fern\u00e1ndez Llorca \u00b7 2025 \u00b7 Cited by 47 \u2014 This study aims to comprehensively explore the complexities of integrating Artificial Intelligence (AI) into Autonomous Vehicles (AVs), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Safety First for Autonomous Vehicles: Where Do We Stand ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=UxJK7Jv-1hA",
+            "snippet": "Safety is concerned with mitigating risk due to system failure only. With the advent of assisted and automated driving, automobiles need a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Safety Argument Considerations for Public Road Testing of ...",
+            "text": "",
+            "link": "https://users.ece.cmu.edu/~koopman/pubs/koopman19_TestingSafetyCase_SAEWCX.pdf",
+            "snippet": "by P Koopman \u00b7 2019 \u00b7 Cited by 64 \u2014 While a robust autonomy system should be able to detect violations of its ODD assumptions, a system under test might well have defects in that capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Perception and sensing for autonomous vehicles under ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0924271622003367",
+            "snippet": "by Y Zhang \u00b7 2023 \u00b7 Cited by 876 \u2014 This paper assesses the influences and challenges that weather brings to ADS sensors in a systematic way, and surveys the solutions against inclement weather ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11360603/",
+            "snippet": "by F Matos \u00b7 2024 \u00b7 Cited by 93 \u2014 This survey covers 108 publications and presents an overview of the sensors used in AVs today, categorizes the sensor's failures that can occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Improving Autonomous Vehicle Safety through Advanced ...",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/5220611.pdf?abstractid=5220611&mirid=1&type=2",
+            "snippet": "Computer Vision \u2013 The use of camera-based systems and. AI algorithms to interpret and understand visual inputs from the vehicle's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "How Autonomous Vehicles Work: the Self-Driving Stack",
+            "text": "",
+            "link": "https://www.mobileye.com/blog/autonomous-vehicle-day-the-self-driving-stack/",
+            "snippet": "Once sensor data has been received, allowing the car to detect lane markings, street signs, traffic lights, and other objects in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Towards a Systematic Risk Assessment of Deep Neural ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2604.20895v1",
+            "snippet": "These insufficiencies can pose significant risks to autonomous driving systems. ... While risks arising from some limitations, including the lack of robustness ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "NHTSA Federal Automated Vehicles Policy",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/docs/AV%20policy%20guidance%20PDF.pdf",
+            "snippet": "This Guidance targets vehicles that incorporate HAV systems, such as those for which there is no human driver at all, or for which the human driver can give ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The 6 Levels of Vehicle Autonomy Explained",
+            "text": "",
+            "link": "https://www.synopsys.com/blogs/chip-design/autonomous-driving-levels.html",
+            "snippet": "The Society of Automotive Engineers (SAE) defines 6 levels of driving automation ranging from 0 (fully manual) to 5 (fully autonomous).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Perception and sensing for autonomous vehicles under ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0924271622003367",
+            "snippet": "by Y Zhang \u00b7 2023 \u00b7 Cited by 876 \u2014 An autonomous vehicle, also known as a self-driving car, is a vehicle that has the ability to sense its surrounding environment and navigate safely with little ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "ADAS capabilities are quickly becoming baseline safety ...",
+            "text": "",
+            "link": "https://www.facebook.com/Mobileye/posts/adas-capabilities-are-quickly-becoming-baseline-safety-requirements-not-premium-/1455234786647361/",
+            "snippet": "One of the dangers of ADAS technology is that it can lead to driver overreliance. The confusion between automated driving and autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Analysis of Advanced Driver-Assistance Systems for Safe and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11479187/",
+            "snippet": "by T Neumann \u00b7 2024 \u00b7 Cited by 97 \u2014 This paper aims to thoroughly examine and compare advanced driver-assistance systems (ADASs) in the context of their impact on safety and driving comfort.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What is an Autonomous Vehicle: A Comprehensive Guide ...",
+            "text": "",
+            "link": "https://www.wevolver.com/article/what-is-an-autonomous-vehicle-a-comprehensive-guide-to-its-engineering-principles-and-applications",
+            "snippet": "These sensors work together to provide a comprehensive understanding of the vehicle's surroundings, detect obstacles, identify traffic lights, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 5e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 5e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 21,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0005838357619703859,
+        "norm_entropy": 0.0009245287529438264,
+        "avg_entropy": 0.00014595894049259647,
+        "avg_norm_entropy": 0.0002311321882359566,
+        "avg_prob": 1.4249999999999999e-05,
+        "avg_logprob": -12.435145328498713,
+        "avg_explogprob": 3.976353643835251e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.99995,
+                    5e-05
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.999995,
+                    5e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 6.3125e-10,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A vehicle's autonomous driving system is designed to detect and respond to traffic signals, providing a safe and efficient driving experience. It utilizes advanced sensors and algorithms to identify and interpret visual cues, such as traffic lights, and adjust the vehicle's speed accordingly. The system aims to enable smooth and controlled navigation through various traffic scenarios.",
+        "response": " Lack of capability or robustness is a not a risk associated with A vehicle's autonomous driving system is designed to detect and respond to traffic signals, providing a safe and efficient driving experience. It utilizes advanced sensors and algorithms to identify and interpret visual cues, such as traffic lights, and adjust the vehicle's speed accordingly. The system aims to enable smooth and controlled navigation through various traffic scenarios.",
+        "elapsed_time": 48.164066791010555
+    }
+}

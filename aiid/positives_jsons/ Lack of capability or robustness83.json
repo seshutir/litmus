@@ -1,0 +1,363 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to analyze and identify misinformation on online platforms, aiming to accurately label false information and prevent its spread. The system's primary goal is to detect and flag misleading content, ensuring users are presented with reliable and trustworthy information. This AI-powered tool seeks to improve the overall quality of online discourse and promote fact-based discussions.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to analyze and identify misinformation on online platforms, aiming to accurately label false information and prevent its spread. The system's primary goal is to detect and flag misleading content, ensuring users are presented with reliable and trustworthy information. This AI-powered tool seeks to improve the overall quality of online discourse and promote fact-based discussions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the system designed for online platforms",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the system is a risk in analyzing and identifying misinformation",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the system is a risk in accurately labeling false information",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in the system is a risk in detecting and flagging misleading content",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Systemic risks of dominant online platforms: A scoping review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000039",
+            "snippet": "At its core, the DSA lays down rules and obligations for online platforms and search engines to identify, assess and mitigate \u201csystemic risk\u201d arising from their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "International AI Safety Report 2026",
+            "text": "",
+            "link": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+            "snippet": "Current systems lack the capabilities to pose such risks, but they ... AI systems can be made more robust by layering multiple ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI Risks that Could Lead to Catastrophe - Center for AI Safety (CAIS)",
+            "text": "",
+            "link": "https://safe.ai/ai-risk",
+            "snippet": "We also recommend advancing AI safety research in areas such as adversarial robustness, model honesty, transparency, and removing undesired capabilities. 1.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Online platforms fail to assess risks in annual reports, study says",
+            "text": "",
+            "link": "https://www.euronews.com/next/2025/03/17/online-platforms-fail-to-assess-risks-in-annual-reports-study-says",
+            "snippet": "Reports that major online platforms must draw up under EU rules designed to assess risks on their platforms, including features that could influence users' ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "(Why) Is Misinformation a Problem? - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/",
+            "snippet": "Most studies made reference to the effects of misinformation or fake news in their introduction as motivation for their research, or in the conclusion to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Full article: What Is the Problem with Misinformation? Fact-checking ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316",
+            "snippet": "KEYWORDS: Fact-checking \u00b7 misinformation \u00b7 disinformation\u200c \u00b7 sociotechnical \u00b7 platforms \u00b7 problem-solving.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How to identify misinformation, disinformation, and malinformation ...",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/how-identify-misinformation-disinformation-and-malinformation-itsap00300",
+            "snippet": "misinformation refers to false information that is not intended to cause harm; disinformation refers to false information that is intended to manipulate, cause ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The issues caused by misinformation\u2014How workers and ...",
+            "text": "",
+            "link": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.25016",
+            "snippet": "However, articles that discussed both misinformation and disinformation or misinformation and fake news were included. However, it was ensured ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Risk Analysis in Automated Misinformation Detection - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403440976_Risk_Analysis_in_Automated_Misinformation_Detection",
+            "snippet": "Accessed June 26, 2025. S\u00f8e, S. (2018). Algorithmic detection of misinformation and disinformation: Gricean perspectives. Jour-.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "(Why) Is Misinformation a Problem? - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/",
+            "snippet": "Paskin (2018) argued that fake news has no factual basis, which implies that truth is equated simply to facts. Other scholars make reference to ideas such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "(How) Should security authorities counter false information on social ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212420924008550",
+            "snippet": "False information on social media accompanies most crises and exacerbates their complexity and consequences. If security authorities and organisations (SAO) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Future of Truth and Misinformation Online - Pew Research Center",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2017/10/19/the-future-of-truth-and-misinformation-online/",
+            "snippet": "Experts are evenly split on whether the coming decade will see a reduction in false and misleading narratives online.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Full article: What Is the Problem with Misinformation? Fact-checking ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316",
+            "snippet": "Misinformation is a complex and global problem of social and technical dimensions. Misinformation can mislead people, contributing to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "a systematic review and meta-analysis of news judgements - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41562-024-02086-1",
+            "snippet": "If people lack the skills to detect false news, interventions should focus on improving these skills. However, if people have the ability to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Health Misinformation Detection: Approaches, Challenges and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12589804/",
+            "snippet": "To mitigate the rapid spread of health misinformation and its negative impact, this study presents a comprehensive literature review on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S266638992400103X",
+            "snippet": "AI's increasing capabilities at deception pose serious risks, ranging from short-term risks, such as fraud and election tampering, to long-term risks, such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "There's More to AI Bias Than Biased Data, NIST Report Highlights",
+            "text": "",
+            "link": "https://www.nist.gov/news-events/news/2022/03/theres-more-ai-bias-biased-data-nist-report-highlights",
+            "snippet": "The NIST report acknowledges that a great deal of AI bias stems from human biases and systemic, institutional biases as well.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Discerning Individual Preferences for Identifying and Flagging ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3627043.3659545",
+            "snippet": "This study probes the influence of warning flags on user perceptions, assessing their effect on the perceived accuracy of information, the propensity to share ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Countering Disinformation Effectively: An Evidence-Based Policy ...",
+            "text": "",
+            "link": "https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide",
+            "snippet": "A high-level, evidence-informed guide to some of the major proposals for how democratic governments, platforms, and others can counter disinformation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Detecting fake news and disinformation using artificial intelligence ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9628472/",
+            "snippet": "Fake news and disinformation (FNaD) are increasingly being circulated through various online and social networking platforms, causing widespread ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S266638992400103X",
+            "snippet": "AI's increasing capabilities at deception pose serious risks, ranging from short-term risks, such as fraud and election tampering, to long-term ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) An AI-Driven Framework for Real-Time Fake News Detection",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/394465669_An_AI-Driven_Framework_for_Real-Time_Fake_News_Detection_Developing_a_Machine_Learning-Based_Filter_for_News_Platforms_in_the_United_States",
+            "snippet": "Manual fact-checking and traditional moderation approaches are increasingly inadequate due to the scale, speed, and sophistication of misinformation campaigns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Future of Truth and Misinformation Online - Pew Research Center",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2017/10/19/the-future-of-truth-and-misinformation-online/",
+            "snippet": "Those trying to stop the spread of false information are working to design technical and human systems that can weed it out and minimize the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to analyze and identify misinformation on online platforms, aiming to accurately label false information and prevent its spread. The system's primary goal is to detect and flag misleading content, ensuring users are presented with reliable and trustworthy information. This AI-powered tool seeks to improve the overall quality of online discourse and promote fact-based discussions.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to analyze and identify misinformation on online platforms, aiming to accurately label false information and prevent its spread. The system's primary goal is to detect and flag misleading content, ensuring users are presented with reliable and trustworthy information. This AI-powered tool seeks to improve the overall quality of online discourse and promote fact-based discussions.",
+        "elapsed_time": 50.189763750000566
+    }
+}

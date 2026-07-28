@@ -1,0 +1,210 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+    "output": " Lack of capability or robustness is a not a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a factory robot manufacturing",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a factory robot manipulating and processing materials",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Substantial capabilities of robotics in enhancing industry ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667241321000057",
+            "snippet": "by M Javaid \u00b7 2021 \u00b7 Cited by 815 \u2014 Robotics is an important technology of Industry 4.0, which provides extensive capabilities in the field of manufacturing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Safety Risks and Accident Causes with Workplace Robots",
+            "text": "",
+            "link": "https://keninstitute.com/safety-risks-and-accident-causes-with-workplace-robots/",
+            "snippet": "A mechanical failure might cause a robot to lose control, drop objects, or move erratically, potentially harming workers. Robot at Workplace. Real-World Example ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "A new study measures the actual impact of robots on jobs. ...",
+            "text": "",
+            "link": "https://mitsloan.mit.edu/ideas-made-to-matter/a-new-study-measures-actual-impact-robots-jobs-its-significant",
+            "snippet": "Industrial robots negatively affect jobs and wages. The impact varies by region and industry. By. Sara Brown. Jul 29, 2020.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Automation and the Future of Work",
+            "text": "",
+            "link": "https://ifr.org/post",
+            "snippet": "We find that the increase in robot adoption is associated with a reduction in fatality and injury rates of about 4.3% and 3.2%, respectively. Importantly, this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Trends and challenges in robot manipulation",
+            "text": "",
+            "link": "https://www.science.org/doi/10.1126/science.aat8414",
+            "snippet": "by A Billard \u00b7 2019 \u00b7 Cited by 1392 \u2014 Dexterous manipulation is one of the primary goals in robotics. Robots with this capability could sort and package objects, chop vegetables, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "TRI Taking on the Hard Problems in Manipulation ...",
+            "text": "",
+            "link": "http://www.tri.global/news/tri-taking-hard-problems-manipulation-research-toward-making-human-assist-robots-reliable",
+            "snippet": "A major barrier for bringing robots into the home are core unsolved problems in manipulation that prevent reliability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Learning of Robot Safety Policies via Adversarial Synthetic ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.05952v1",
+            "snippet": "The main result reveals a significant safety vulnerability, with most models achieving safety rates below 55%, and shows that strong performance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Substantial capabilities of robotics in enhancing industry ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667241321000057",
+            "snippet": "by M Javaid \u00b7 2021 \u00b7 Cited by 815 \u2014 Autonomous robots in development are required for repetitive operations of high volume, where a robot has unrivalled advantages in its speed, precision, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Robotics Levels of Autonomy",
+            "text": "",
+            "link": "https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy",
+            "snippet": "General-purpose robots that can accurately perform any task in any domain is now an inevitability, and mass labor replacement is on the horizon.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "Industrial robots are used in place of a worker to perform dangerous or repetitive tasks with a high degree of accuracy.1",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Robotics In Manufacturing: Shaping The Future Of Production",
+            "text": "",
+            "link": "https://www.uti.edu/blog/robotics-and-automation/robotics-in-manufacturing",
+            "snippet": "Robots perform tasks with high precision and repeatability, ensuring uniformity in product quality. This level of consistency minimizes errors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What is Robotics? A Comprehensive Guide to its ...",
+            "text": "",
+            "link": "https://www.wevolver.com/article/what-is-robotics-a-comprehensive-guide-to-its-engineering-principles-and-applications",
+            "snippet": "Industrial Robots. Industrial robots are automated, programmable machines designed to perform repetitive tasks with high precision and speed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.340183,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.348596,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.7341746313106797,
+        "norm_entropy": 1.8578016259561632,
+        "avg_entropy": 0.36708731565533986,
+        "avg_norm_entropy": 0.9289008129780816,
+        "avg_prob": 0.3443895,
+        "avg_logprob": -1.0660565956529142,
+        "avg_explogprob": 0.34436380917279913,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.659817,
+                    0.340183
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.651404,
+                    0.348596
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.11862182235250002,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+        "response": " Lack of capability or robustness is a not a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+        "elapsed_time": 115.47339662502054
+    }
+}

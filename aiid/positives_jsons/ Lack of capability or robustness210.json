@@ -1,0 +1,352 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze online advertisements related to politics, aiming to identify and flag potentially policy-violating content. The system's primary goal is to ensure adherence to advertising policies and maintain a fair online environment. It uses various signals and machine learning algorithms to classify and review ads in real-time.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze online advertisements related to politics, aiming to identify and flag potentially policy-violating content. The system's primary goal is to ensure adherence to advertising policies and maintain a fair online environment. It uses various signals and machine learning algorithms to classify and review ads in real-time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the system designed to detect and analyze online political advertisements is a risk.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a system designed to detect and analyze online advertisements related to politics is a risk.",
+            "contexts": [
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the system is a risk in identifying and flagging potentially policy-violating content",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in classifying and reviewing ads in real-time using the system's machine learning algorithms",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "What makes online political ads unacceptable? Interrogating public ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-025-05114-1",
+            "snippet": "Online political advertising is often portrayed negatively, yet there is limited evidence regarding what exactly the public deems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Generative AI in Political Advertising | Brennan Center for Justice",
+            "text": "",
+            "link": "https://www.brennancenter.org/our-work/research-reports/generative-ai-political-advertising",
+            "snippet": "Political campaigns should be watchful of the risks and opportunities of using generative AI to engage with voters. Christina LaChapelle.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Spotting the Signs? How a Boosting Intervention Can Improve ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958826001089",
+            "snippet": "Highlights. \u2022. The study examines the effectiveness of an online political advertising boosting intervention on the recognition of these ads.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Unregulated online political ads pose a threat to democracy - Yahoo",
+            "text": "",
+            "link": "https://www.yahoo.com/news/unregulated-online-political-ads-pose-122230056.html",
+            "snippet": "Political ad transparency \u2013 who's paying for ads and whether candidates stand behind them \u2013 is well-regulated for TV and radio. Online ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "On or off topic? Understanding the effects of issue-related political ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11265581/",
+            "snippet": "This study investigates, from an individual perspective, the effect of issue congruency in political ads on immediate responses and voting behaviors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI-driven disinformation: policy recommendations for democratic ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "The increasing integration of artificial intelligence (AI) into digital communication platforms has significantly transformed the landscape ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Artificial Intelligence (AI) in Elections and Campaigns",
+            "text": "",
+            "link": "https://www.ncsl.org/elections-and-campaigns/artificial-intelligence-ai-in-elections-and-campaigns",
+            "snippet": "Candidates, campaign staff and election administrators have always adapted to new technologies, from political TV ads in the mid-20th century to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI in Political Advertising: State Laws and Compliance Risks",
+            "text": "",
+            "link": "https://www.bakerlaw.com/insights/ai-in-political-advertising-state-laws-and-compliance-risks/",
+            "snippet": "Key Takeaways: States are adopting their own laws on AI in political ads, creating new obligations for campaigns, committees, vendors and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Your prompt was flagged as potentially violating our usage policy - API",
+            "text": "",
+            "link": "https://community.openai.com/t/your-prompt-was-flagged-as-potentially-violating-our-usage-policy/1060163",
+            "snippet": "It always shows \u201cInvalid prompt: your prompt was flagged as potentially violating our usage policy. Please try again with a different prompt.\u201d",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "\"This prompt may violate our content policy\" when attempting to do ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/ChatGPT/comments/zxey11/this_prompt_may_violate_our_content_policy_when/",
+            "snippet": "Your request was flagged as potentially violating our usage policy. ... The content policy makes this tool unable to achieve it's full potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Rethinking Content Moderation in the Age of Large Language Models",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.18695v1",
+            "snippet": "Once trained, the model can be deployed to evaluate new, real-world content, autonomously flagging potential policy violations. Report issue ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "ChatGPT Security Risks: All You Need to Know - SentinelOne",
+            "text": "",
+            "link": "https://www.sentinelone.com/cybersecurity-101/data-and-ai/chatgpt-security-risks/",
+            "snippet": "Discover the key ChatGPT security risks, threats from third-party integrations, and best practices to secure your ChatGPT implementations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Reading the Systemic Risk Assessments for Major Speech Platforms",
+            "text": "",
+            "link": "https://techpolicy.press/reading-the-systemic-risk-assessments-for-major-speech-platforms-notes-and-observations",
+            "snippet": "The introduction to the assessment declares: \u201c[r]isks can arise on our service when users share policy violating content or engage in policy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A classification of machine learning biases and mitigation methods",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000881",
+            "snippet": "This paper offers a systematic, interdisciplinary literature review of machine learning biases as well as methods to avoid and mitigate these biases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Drawbacks of Artificial Intelligence and Their Potential Solutions in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908503/",
+            "snippet": "This study enlightens the possible drawbacks of AI in the implementation of healthcare sector and their solutions to overcome these situations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Meta Machine Learning System Design: Reducing Misleading Ad ...",
+            "text": "",
+            "link": "https://medium.com/@bugfreeai/meta-machine-learning-system-design-reducing-misleading-ad-content-1ee391a44455",
+            "snippet": "Reducing harmful or misleading ad content is a classic machine learning system design question, often posed in interviews at companies like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Artificial Intelligence in Advertising: Advancements, Challenges, and ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/21582440231210759",
+            "snippet": "This pioneering study provides an in-depth review of AI's application in advertising, focusing especially on four key elements: Targeting, Personalization, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Inside the AI systems that catch fake clicks in real time",
+            "text": "",
+            "link": "https://pctechmag.com/2026/03/inside-the-ai-systems-that-catch-fake-clicks-in-real-time/",
+            "snippet": "Ad fraud is no longer a fringe issue. It is a systemic threat to digital advertising, and its scale demands a technological response.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Full article: Advertising and the Online Safety Act 2023",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/17577632.2025.2606428",
+            "snippet": "Advertising is a significant element of the online environment, yet concerns persist about the extent to which it is adequately regulated.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI-driven disinformation: policy recommendations for democratic ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "This policy and practice review has three primary aims: (1) to document and analyze the role of AI in recent disinformation campaigns, (2) to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Policy Recommendations: Internet Freedom",
+            "text": "",
+            "link": "https://freedomhouse.org/policy-recommendations/internet-freedom",
+            "snippet": "Ensure political advertisements are transparent and adhere to strict content standards. Companies should rigorously vet political advertisements before they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Online Behavioral Ads Fuel the Surveillance Industry\u2014Here's How",
+            "text": "",
+            "link": "https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how",
+            "snippet": "This process does more than deliver ads\u2014it fuels government surveillance, poses national security risks, and gives data brokers easy access to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "This paper investigates current state-of-the-art methods for bias mitigation and contrasts them with the legal requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.997628,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.998484,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.994598,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.75,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 3,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 1,
+        "entropy": 0.35584500800553504,
+        "norm_entropy": 1.0889464640789726,
+        "avg_entropy": 0.08896125200138376,
+        "avg_norm_entropy": 0.27223661601974314,
+        "avg_prob": 0.8726775,
+        "avg_logprob": -0.17561394801533337,
+        "avg_explogprob": 0.8389417959741524,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.002372,
+                    0.997628
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.001516,
+                    0.998484
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.005402,
+                    0.994598
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.807864276561,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze online advertisements related to politics, aiming to identify and flag potentially policy-violating content. The system's primary goal is to ensure adherence to advertising policies and maintain a fair online environment. It uses various signals and machine learning algorithms to classify and review ads in real-time.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze online advertisements related to politics, aiming to identify and flag potentially policy-violating content. The system's primary goal is to ensure adherence to advertising policies and maintain a fair online environment. It uses various signals and machine learning algorithms to classify and review ads in real-time.",
+        "elapsed_time": 50.818377542000235
+    }
+}

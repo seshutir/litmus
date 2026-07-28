@@ -1,0 +1,433 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and alert users to potential hazards, utilizing advanced sensors and algorithms to identify threats. It aims to provide timely warnings and notifications to ensure user safety, while also reducing false alarms. The system's goal is to accurately distinguish between genuine hazards and non-threatening conditions.",
+    "output": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and alert users to potential hazards, utilizing advanced sensors and algorithms to identify threats. It aims to provide timely warnings and notifications to ensure user safety, while also reducing false alarms. The system's goal is to accurately distinguish between genuine hazards and non-threatening conditions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the system's hazard detection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing advanced sensors to identify threats in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing algorithms to identify threats in the system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with providing timely warnings and notifications",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with the system's ability to accurately distinguish between genuine hazards and non-threatening conditions",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "From hallucinations to hazards: benchmarking LLMs for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0925753525002814",
+            "snippet": "Hazard analysis is a systematic process for identifying potential hazards and evaluating their associated risks. It traditionally involves substantial effort by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "View of You Don't Need Robust Machine Learning ...",
+            "text": "",
+            "link": "https://ojs.aaai.org/index.php/AIES/article/view/36698/38836",
+            "snippet": "by E Raff \u00b7 2025 \u00b7 Cited by 8 \u2014 You Don't Need Robust Machine Learning to Manage Adversarial Attack Risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "3.3: Robustness | AI Safety, Ethics, and Society Textbook",
+            "text": "",
+            "link": "https://www.aisafetybook.com/textbook/robustness",
+            "snippet": "Simply achieving high accuracy on a test set doesn't ensure a system's robustness. is not without its downsides, as it often harms performance elsewhere.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Risks and Trustworthiness - AIRC - NIST AI Resource Center",
+            "text": "",
+            "link": "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/",
+            "snippet": "The underlying assumption is that perceptions of negative risk stem from a lack of ability to make sense of, or contextualize, system output appropriately.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Detection of sensors used for adversarial examples against ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590123024012763",
+            "snippet": "by A Kurniawan \u00b7 2024 \u00b7 Cited by 3 \u2014 This study addresses the critical issue of safeguarding these systems by identifying and mitigating compromised sensors, thereby enhancing their resilience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Digital Transformation and Cybersecurity Challenges ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10422504/",
+            "snippet": "by S Saeed \u00b7 2023 \u00b7 Cited by 641 \u2014 This systematic literature review explores the digital transformation (DT) and cybersecurity implications for achieving business resilience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Risks and Mitigation Strategies for Adversarial Artificial ...",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/2023-12/23_1222_st_risks_mitigation_strategies.pdf",
+            "snippet": "The focus of this analysis is on the risks presented by adversarial artificial intelligence. (AAI)\u2014a threat that can undermine the trust we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "NSA and CISA Red and Blue Teams Share Top Ten ...",
+            "text": "",
+            "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a",
+            "snippet": "Using software or hardware that is no longer supported by the vendor poses a significant security risk because new and existing vulnerabilities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "Artificial intelligence systems can be attacked. The methods underpinning the state-of-the-art artificial intelligence systems are systematically vulnerable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Challenges and efforts in managing AI trustworthiness risks",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11119750/",
+            "snippet": "by N Polemi \u00b7 2024 \u00b7 Cited by 73 \u2014 AI systems, particularly those employing machine learning algorithms, can be susceptible to vulnerabilities that enable behavioral manipulation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 Reliability of models: it concerns the capacity of the models to avoid failures or malfunction, either because of edge cases or because of malicious intentions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Explainable AI for cybersecurity automation, intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405959524000572",
+            "snippet": "by IH Sarker \u00b7 2024 \u00b7 Cited by 261 \u2014 This article provides an extensive study of explainable AI (XAI) based cybersecurity modeling through a taxonomy of AI and XAI methods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Is the Role of AI in Threat Detection?",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/ai-in-threat-detection",
+            "snippet": "Discover how AI enhances threat detection through machine learning, real-time analysis, and predictive security, enabling you to stay ahead of evolving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Opportunities and challenges for people-centered multi ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004225006145",
+            "snippet": "by M Budimir \u00b7 2025 \u00b7 Cited by 13 \u2014 This paper focuses on early warning systems (EWSs), regarded as a key strategy for risk reduction and resilience building, provide timely ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "TIMELY WARNINGS & EMERGENCY NOTIFICATIONS",
+            "text": "",
+            "link": "https://www.clerycenter.org/assets/docs/NCSAM19_TW-vs-EN.pdf",
+            "snippet": "Use this resource to understand which alert should be sent depending on the circumstances of the incident in question. Timely Warning. Emergency Notification.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Public alert and warning system literature review in the USA",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10098234/",
+            "snippet": "by AA Sadiq \u00b7 2023 \u00b7 Cited by 68 \u2014 Their results showed no significant differences in individuals' risk perceptions and severity for different warning message types.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "What are early warning systems and why do they matter for ...",
+            "text": "",
+            "link": "https://climatepromise.undp.org/news-and-stories/what-are-early-warning-systems-and-why-do-they-matter-climate-action",
+            "snippet": "Early warning systems are integrated systems designed to provide timely and actionable warnings of impending hazards such as cyclones, floods, droughts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Topics - Early Warning Systems",
+            "text": "",
+            "link": "https://preparecenter.org/topic/early-warning-systems/",
+            "snippet": "Early warning systems are an essential tool for risk management and disaster preparedness that help save lives and minimize the potential impact of disasters.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "The Safety Failures We Are Not Instrumenting",
+            "text": "",
+            "link": "https://arxiv.org/html/2607.19292v1",
+            "snippet": "We propose a five-layer framework for diagnosing these hidden risks: (1) epistemic integrity, concerning whether evidence and uncertainty are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Frontier Capability Assessments",
+            "text": "",
+            "link": "https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/",
+            "snippet": "Frontier Capability Assessments are procedures conducted on frontier models with the goal of determining whether they have capabilities that could increase ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Dangerous Capability Evaluations - Chapter 5",
+            "text": "",
+            "link": "https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/",
+            "snippet": "Dangerous capability evaluations aim to establish the upper bounds of what an AI system can achieve. helps identify potential risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Robustness in deep learning models for medical diagnostics",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-024-11005-9",
+            "snippet": "by H Javed \u00b7 2024 \u00b7 Cited by 258 \u2014 The current study investigates the robustness of deep learning models for accurate medical diagnosis systems with a specific focus on their ability to maintain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Robustness (AI): How Well an AI System Maintains ...",
+            "text": "",
+            "link": "https://www.sandgarden.com/learn/robustness",
+            "snippet": "Robustness in AI refers to a system's ability to maintain reliable performance even when faced with unexpected inputs, Robustness isn't the same as accuracy, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Towards Intelligent Safety: A Systematic Review on Assault ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251837/",
+            "snippet": "by VSSS Bhuvaneswari \u00b7 2025 \u00b7 Cited by 7 \u2014 This review of literature discusses the use of emerging technologies in the prevention of assault, specifically Artificial Intelligence (AI), the Internet ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How Does an Intrusion Detection System (IDS) Work?",
+            "text": "",
+            "link": "https://securityscorecard.com/blog/how-does-an-intrusion-detection-system-ids-work/",
+            "snippet": "An Intrusion Detection System (IDS) monitors your network or host activity to identify potential threats and policy violations across your ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Why Detection Rules Fail: Causes, Effects, and Corrective ...",
+            "text": "",
+            "link": "https://www.picussecurity.com/resource/blog/why-detection-rules-fail",
+            "snippet": "This blog explains the risks of broken detection rules in cybersecurity, explores causes and solutions for rule failures, and emphasizes the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Proactive Defense: Understanding Threat Detection & ...",
+            "text": "",
+            "link": "https://www.stamus-networks.com/blog/proactive-defense-understanding-threat-detection-response",
+            "snippet": "Threat detection and response is a proactive approach to cybersecurity that involves continuously monitoring networks, systems, and digital assets.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "How to Minimize Alert Fatigue in Cybersecurity",
+            "text": "",
+            "link": "https://ridgesecurity.ai/blog/how-to-minimize-alert-fatigue-in-cybersecurity/",
+            "snippet": "Various alerts are crucial in detecting and responding to potential threats and unusual activities. Each alert needs at least 10 minutes to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 2.4e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.3e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0004430027887432202,
+        "norm_entropy": 0.0006968251884838031,
+        "avg_entropy": 8.860055774864405e-05,
+        "avg_norm_entropy": 0.0001393650376967606,
+        "avg_prob": 8e-06,
+        "avg_logprob": -12.666909920402377,
+        "avg_explogprob": 3.1537765439285276e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999976,
+                    2.4e-05
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.999987,
+                    1.3e-05
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.49e-10,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and alert users to potential hazards, utilizing advanced sensors and algorithms to identify threats. It aims to provide timely warnings and notifications to ensure user safety, while also reducing false alarms. The system's goal is to accurately distinguish between genuine hazards and non-threatening conditions.",
+        "response": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and alert users to potential hazards, utilizing advanced sensors and algorithms to identify threats. It aims to provide timely warnings and notifications to ensure user safety, while also reducing false alarms. The system's goal is to accurately distinguish between genuine hazards and non-threatening conditions.",
+        "elapsed_time": 170.76452262501698
+    }
+}

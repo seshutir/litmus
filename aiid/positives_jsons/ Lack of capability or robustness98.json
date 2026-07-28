@@ -1,0 +1,291 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the system is a risk in benefit case evaluation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the system is a risk in analyzing individual cases to determine eligibility for benefits",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the system is a risk in generating notifications and updates for beneficiaries",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "States of Uncertainty, Risk\u2013Benefit Assessment and Early Clinical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9747817/",
+            "snippet": "This paper aims to develop a category system of different epistemic states of uncertainty which, although not exclusively, is primarily intended to be applied ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Show and tell: A critical review on robustness and uncertainty for a ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S138650562500187X",
+            "snippet": "This critical review explores two interrelated trends: the rapid increase in studies on machine learning (ML) applications within health informatics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robustness tests for biomedical foundation models should tailor to ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-025-01926-2",
+            "snippet": "The versatility of use cases and exposure to complex distribution shifts are two major challenges of robustness evaluation (or testing) for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Responsible Scaling Policy v3 - LessWrong",
+            "text": "",
+            "link": "https://www.lesswrong.com/posts/HzKuzrKfaDJvQqmjh/responsible-scaling-policy-v3",
+            "snippet": "It seemed to me that there was an enormous amount of pressure to declare our systems to lack relevant capabilities, to declare our risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] The Case for Harmful Capability Uplift: Why AI Safety Evaluation ...",
+            "text": "",
+            "link": "https://miba.dev/assets/publications/2025_hcu/harmful_capability_uplift.pdf",
+            "snippet": "Current AI safety evaluations rarely measure how much frontier models amplify harmful human capabilities beyond conventional tools. Robust, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Risk information in decision-making: definitions, requirements and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0950423021001820",
+            "snippet": "The objective of this work is to investigate what types of risk information is needed for risk-related decisions in various decision-making processes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Capability Approach in Risk Analysis | Springer Nature Link",
+            "text": "",
+            "link": "https://link.springer.com/rwe/10.1007/978-94-007-1433-5_39",
+            "snippet": "Risk analysis is the process of determining the probability of occurrence and consequences as well as evaluating the determined risks. Capability refers to the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "7 Flashcards - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/990652159/7-flash-cards/",
+            "snippet": "Key risk indicators are highly relevant and possess a high probability of predicting or indicating important risk. They are not used after a loss event occurs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Capability Approach - Stanford Encyclopedia of Philosophy",
+            "text": "",
+            "link": "https://plato.stanford.edu/entries/capability-approach/",
+            "snippet": "The capability approach is a theoretical framework that entails two normative claims: first, the claim that the freedom to achieve well-being is of primary ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Usability Flaws in Medication Alerting Systems: Impact on Usage ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4587050/",
+            "snippet": "Usability flaws in medication alerting systems impede users, and ultimately their work system, and negatively impact patient safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Optimization of alert notifications in electronic patient-reported ...",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38771558/",
+            "snippet": "An algorithm can identify remote symptom monitoring alerts likely to be considered non-urgent by nurses, and may assist in fostering nurse acceptance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Cyber insurers face a growing crisis of alert fatigue",
+            "text": "",
+            "link": "https://www.insurancebusinessmag.com/ca/news/cyber/cyber-insurers-face-a-growing-crisis-of-alert-fatigue-571573.aspx",
+            "snippet": "Cyber insurers are rethinking automated alerts as false positives - noisy signals and 'alert fatigue' undermine trust, prevention and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What are the Consequences of Alert Fatigue? - Stamus Networks",
+            "text": "",
+            "link": "https://www.stamus-networks.com/blog/what-are-the-consequences-of-alert-fatigue",
+            "snippet": "Reduced Efficiency: The high volume of medium-to-low priority alerts, false positives, or otherwise harmless activity causes the analyst to waste valuable time ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Accountability of Robust and Reliable AI-Enabled Systems - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.16831v1",
+            "snippet": "The ability of a system to perform its requested functions under stated conditions whenever required - having a long mean time between failures.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Artificial Intelligence and Decision-Making in Healthcare - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10916499/",
+            "snippet": "The purpose of this study was to determine the scope of applications of AI tools in the decision-making process in healthcare service delivery networks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial intelligence (AI) in point-of-care testing - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0009898125002207",
+            "snippet": "AI-powered POCT offers significant advantages over traditional methods, including higher accuracy, faster results, and improved workflow efficiency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Implementing Benefits Eligibility + Enrollment Systems: Key Context",
+            "text": "",
+            "link": "https://digitalgovernmenthub.org/publications/implementing-benefits-eligibility-enrollment-systems-key-context/",
+            "snippet": "This publication explains the fundamentals of state IEE systems\u2014including the technology, opportunities, risks, and stakeholders involved.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Public Benefits and AI - HHS.gov",
+            "text": "",
+            "link": "https://www.hhs.gov/sites/default/files/public-benefits-and-ai.pdf",
+            "snippet": "Quality assurance of automated or algorithmic systems: lack of standards, technologies, expertise, processes to assess quality and risk of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] using ai to manage minimum income benefits and unemployment ...",
+            "text": "",
+            "link": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/using-ai-to-manage-minimum-income-benefits-and-unemployment-assistance_b11ccde4/718c93a1-en.pdf",
+            "snippet": "Importantly, AI systems' ability to process and learn from vast amounts of data can help to determine what social benefits people are eligible for based on pre- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999998,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 19,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.9999970000023335e-06,
+        "norm_entropy": 8.349705011289826e-05,
+        "avg_entropy": 1.3333323333341112e-06,
+        "avg_norm_entropy": 2.7832350037632754e-05,
+        "avg_prob": 0.9999986666666666,
+        "avg_logprob": -1.333334333335778e-06,
+        "avg_explogprob": 0.9999986666665556,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    2e-06,
+                    0.999998
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 0.9999986666680001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+        "elapsed_time": 49.285008332999496
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "input": " Governance failure is a not a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+    "output": " Governance failure is a not a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Governance failure is not a risk associated with an autonomous vehicle system.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Governance failure is not a risk associated with an autonomous vehicle system navigating through various road environments",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Governance failure is not a risk associated with using advanced sensors and algorithms to detect and respond to obstacles in an autonomous vehicle system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Governance failure is not a risk associated with an autonomous vehicle system's automatic steering, accelerating, and braking",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Governance failure is not a risk associated with an autonomous vehicle system that continuously learns and improves its performance through real-world testing and data analysis",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Integrating Technical Failures, Ethical Dilemmas, and Policy Frameworks",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2606.06396",
+            "snippet": "autonomous driving risks should not be evaluated solely through technical, ethical, or regulatory lenses \u2026 a governance failure if testing, reporting, or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Risk and Opportunity Governance of Autonomous Cars - IRGC",
+            "text": "",
+            "link": "https://irgc.org/risk-and-opportunity-governance-of-autonomous-cars/",
+            "snippet": "The objectiveof this workshop was to improve the understanding of the risk and opportunities related to automated and autonomous cars.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Evaluating the potential risks posed by autonomous vehicles by using a ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666691X25000715",
+            "snippet": "by M Aslantas \u00b7 2025 \u00b7 Cited by 7 \u2014 This research introduces a new method for evaluating potential risks linked to Autonomous Vehicles (AVs) by employing an integrated Decomposed Fuzzy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Self-driving cars promise enormous benefits including greater road safety, increased mobility for people unable to drive themselves, more convenience for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Governing autonomous vehicles: emerging responses for safety ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/01441647.2018.1494640",
+            "snippet": "by A Taeihagh \u00b7 2019 \u00b7 Cited by 908 \u2014 In this article, we first examine AVs and different categories of the technological risks associated with them. We then explore strategies that can be adopted ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Public Health, Ethics, and Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5343691/",
+            "snippet": "by J Fleetwood \u00b7 2017 \u00b7 Cited by 324 \u2014 I have delineated the important public health implications of autonomous vehicles and provided a brief analysis of a critically important ethical issue.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What Autonomous Vehicle Failures Can Tell Us About Engineering ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=so-30c2oUVA",
+            "snippet": "This talk will address the AI-related issues that have emerged with pilot testing and operations of autonomous vehicles and what lessons can be\u00a0...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues, Challenges ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "by A Giannaros \u00b7 2023 \u00b7 Cited by 308 \u2014 LiDAR systems in autonomous vehicles can be vulnerable to security attacks, which can have serious implications for road safety. Here are some examples of how ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "What Self-Driving Cars Tell Us About AI Risks",
+            "text": "",
+            "link": "https://spectrum.ieee.org/self-driving-cars-2662494269",
+            "snippet": "Automotive AI in the United States has been linked to at least 25 confirmed deaths and to hundreds of injuries and instances of property damage.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11360603/",
+            "snippet": "by F Matos \u00b7 2024 \u00b7 Cited by 93 \u2014 This survey covers 108 publications and presents an overview of the sensors used in AVs today, categorizes the sensor's failures that can occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "When engaged, the system can perform either steering OR acceleration/braking. provides continuous assistance with both acceleration/braking AND steering,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 This paper analyses the legal frameworks of selected states, aside from those frameworks at international and EU level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Setting the standard of liability for self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/setting-the-standard-of-liability-for-self-driving-cars/",
+            "snippet": "Mark MacCarthy discusses maintaining the traditional negligence product liability standard for self-driving cars.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "What Self-Driving Cars Tell Us About AI Risks",
+            "text": "",
+            "link": "https://spectrum.ieee.org/self-driving-cars-2662494269",
+            "snippet": "One failure mode not previously anticipated is phantom braking. For no obvious reason, a self-driving car will suddenly brake hard, perhaps causing a rear-end ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. Hackers might take control of crucial systems like steering or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "A Survey on an Emerging Safety Challenge for Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2095809924000274",
+            "snippet": "by H Wang \u00b7 2024 \u00b7 Cited by 102 \u2014 This study offers a comprehensive exploration of the SOTIF landscape by reviewing academic research, practical activities, challenges, and perspectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Safety and Liability: Key Challenges in Regulating Self-Driving Cars",
+            "text": "",
+            "link": "https://www.urbansdk.com/resources/safety-and-liability-key-challenges-in-regulating-self-driving-cars",
+            "snippet": "Regulators also insist that AVs reach something called a \u201cminimal risk condition\u201d if they experience a failure. Many U.S. state laws and guidelines from across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Autonomous Vehicles Enabled by the Integration of IoT, Edge Intelligence ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9963447/",
+            "snippet": "by A Biswas \u00b7 2023 \u00b7 Cited by 374 \u2014 AVs can mitigate accidents caused by human errors such as speeding, and distracted driving due to the effect of alcohol or other substances, which account for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "NVIDIA Autonomous Vehicles Safety Report",
+            "text": "",
+            "link": "https://images.nvidia.com/aem-dam/en-zz/Solutions/auto-self-driving-safety-report.pdf",
+            "snippet": "Autonomous vehicle simulation requires extremely tight timing, repeatability, and real-time performance, and it must be able to operate at scale. Additionally,.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "How Do Autonomous Vehicles Decide? - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9823427/",
+            "snippet": "by S Malik \u00b7 2022 \u00b7 Cited by 57 \u2014 This paper provides an analysis of decision-making solutions approaches for autonomous driving. Various categories of approaches are analyzed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Self-Driving Cars Explained",
+            "text": "",
+            "link": "https://www.ucs.org/resources/self-driving-cars-101",
+            "snippet": "Widespread adoption of autonomous vehicles could displace millions of people employed as drivers, negatively impact public transportation funding, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "A comprehensive review on safe reinforcement learning for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772671124003905",
+            "snippet": "by R Inamdar \u00b7 2024 \u00b7 Cited by 50 \u2014 The ultimate objective is to ensure the safe and reliable operation of autonomous vehicles in diverse real-world scenarios, optimizing for efficiency and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1e-06,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 5e-06,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 9.8e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.003522,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 9.8e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 0.021778846236421588,
+        "norm_entropy": 0.036783857451788485,
+        "avg_entropy": 0.004355769247284318,
+        "avg_norm_entropy": 0.007356771490357697,
+        "avg_prob": 0.0007448,
+        "avg_logprob": -10.026279126197995,
+        "avg_explogprob": 4.4222399280308704e-05,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999999,
+                    1e-06
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999995,
+                    5e-06
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.999902,
+                    9.8e-05
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.996478,
+                    0.003522
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.999902,
+                    9.8e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 2.4847436e-06,
+        "topic": "",
+        "query": " Governance failure is a not a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+        "response": " Governance failure is a not a risk associated with An autonomous vehicle system is designed to navigate through various road environments, using advanced sensors and algorithms to detect and respond to obstacles. The system aims to provide a safe and efficient driving experience by automatically steering, accelerating, and braking. It also seeks to continuously learn and improve its performance through real-world testing and data analysis.",
+        "elapsed_time": 36.02363950002473
+    }
+}

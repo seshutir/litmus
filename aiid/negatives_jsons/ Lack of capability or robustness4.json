@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+    "output": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with robotic-assisted surgeries",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing data to identify and track complications in surgical procedures",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robotic Surgery-Safety and Effectiveness, in Comparison with ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7714869/",
+            "snippet": "by KK Boyina \u00b7 2020 \u00b7 Cited by 9 \u2014 Robotic surgeries come with inherent benefits; this technology is being shown as safe and effective compared with traditional surgical approaches.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Robotic Surgery: Risks vs. Rewards",
+            "text": "",
+            "link": "https://psnet.ahrq.gov/web-mm/robotic-surgery-risks-vs-rewards",
+            "snippet": "by T Kirkpatrick \u00b7 Cited by 17 \u2014 Robotic surgery is generally safe with low complication rates. However, as with every surgical procedure, there are some risks that should be considered.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Potential Risks of Robotic Surgery",
+            "text": "",
+            "link": "https://digitalassets.jointcommission.org/api/public/content/6ad56d4f89c24078aa6e6a5d6801214f",
+            "snippet": "All mechanical and electronic devices are subject to failure; surgical robots are no exception. Such features include system redundancy, fault tolerance, just- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Dangers of Robotic-Assisted Surgery",
+            "text": "",
+            "link": "https://zaggocare.org/dangers-robotic-assisted-surgery/",
+            "snippet": "What kinds of patient harm can come from robotic-assisted surgery? Certainly, no surgical procedure, with or without robots, is risk-proof.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Disadvantages of Robotic Surgery: Crucial Things to Know",
+            "text": "",
+            "link": "https://int.livhospital.com/disadvantages-of-robotic-surgery-crucial-things-to-know/",
+            "snippet": "the disadvantages of robotic surgery include higher costs, potential technical malfunctions, longer operating times, loss of tactile feedback for surgeons,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Artificial Intelligence and Machine Learning in Prediction of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9653510/",
+            "snippet": "by AM Hassan \u00b7 2022 \u00b7 Cited by 167 \u2014 This article aims to provide an overview of AI in predicting surgical complications using common machine learning and deep learning algorithms",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Artificial intelligence and machine learning approaches for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12648791/",
+            "snippet": "by MM Ahmed \u00b7 2025 \u00b7 Cited by 7 \u2014 Preoperatively, ML models consistently outperformed traditional risk scores in identifying high-risk patients and anticipating technical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Study identifies human errors associated with surgical errors",
+            "text": "",
+            "link": "https://www.bcm.edu/news/human-errors-adverse-surgical-events",
+            "snippet": "The researchers found that more than half of the human performance deficiencies were cognitive errors, such as lack of attention, lack of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Development and Validation of a Machine-learning Risk ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/323460447_MySurgeryRisk_Development_and_Validation_of_a_Machine-learning_Risk_Algorithm_for_Major_Complications_and_Death_After_Surgery",
+            "snippet": "Objective: To accurately calculate the risk for postoperative complications and death after surgery in the preoperative period using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Diagnostic Challenges and Patient Safety: The Critical Role of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12134007/",
+            "snippet": "by TAF Alharbi \u00b7 2025 \u00b7 Cited by 54 \u2014 Accurate diagnosis was found to improve treatment efficacy, enhances patient safety, and reduces unnecessary procedures.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Role of Robotic-Assisted Surgery in Public Health - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11265954/",
+            "snippet": "by A Handa \u00b7 2024 \u00b7 Cited by 59 \u2014 RAS offers increased surgical precision, less discomfort after surgery, shorter hospital stays, and faster recovery time, all of which improve patient outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Underreporting of Robotic Surgery Complications",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/256187440_Underreporting_of_Robotic_Surgery_Complications",
+            "snippet": "Purpose This study aimed to analyze adverse events associated with Mazor X surgical guidance robots, focusing on parameters such as root causes, vertebral ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI-assisted robotic surgery: The future of safer, faster ...",
+            "text": "",
+            "link": "https://www.openaccessgovernment.org/ai-assisted-robotic-surgery-the-future-of-safer-faster-operations/197578/",
+            "snippet": "Systematic review finds AI-assisted robotic surgery delivers higher precision, fewer complications, and quicker patient recovery.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Adverse Events in Robotic Surgery: A Retrospective Study of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4838256/",
+            "snippet": "by H Alemzadeh \u00b7 2016 \u00b7 Cited by 542 \u2014 This study focuses on assessing the safety and effectiveness of robotic surgical systems used in minimally invasive surgery, by analyzing safety ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.828095,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 0.3059880178960799,
+        "norm_entropy": 0.9484410713316165,
+        "avg_entropy": 0.15299400894803994,
+        "avg_norm_entropy": 0.47422053566580824,
+        "avg_prob": 0.43904750000000003,
+        "avg_logprob": -1.5921798352164138,
+        "avg_explogprob": 0.20348157164716418,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.95,
+                    0.05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.171905,
+                    0.828095
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.3441206645125,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+        "response": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze data on surgical procedures to identify and track complications. The primary goal is to monitor and report on issues related to robotic-assisted surgeries, aiming to improve safety and efficacy. This data-driven approach seeks to enhance the overall quality of surgical care.",
+        "elapsed_time": 71.47615100000985
+    }
+}

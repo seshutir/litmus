@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to offer personalized pricing based on user characteristics, with the goal of providing tailored experiences. It aims to analyze various factors to determine optimal pricing for each individual, ensuring a unique interaction with the service. The system seeks to balance user needs with fair and equitable treatment.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to offer personalized pricing based on user characteristics, with the goal of providing tailored experiences. It aims to analyze various factors to determine optimal pricing for each individual, ensuring a unique interaction with the service. The system seeks to balance user needs with fair and equitable treatment.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in personalized pricing based on user characteristics",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing user characteristics to determine optimal pricing in a personalized pricing system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "New research finds discriminatory personalised pricing is a global ...",
+            "text": "",
+            "link": "https://www.euroconsumers.org/new-research-finds-discriminatory-personalised-pricing-is-a-global-problem/",
+            "snippet": "A new report from Consumers International has found that personalised pricing is not being implemented fairly, transparently or with proper oversight.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Consumer responses to personalized price discrimination in e ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S014829632100727X",
+            "snippet": "This paper presents an empirical analysis of propositions concerning the consequences of price (un)fairness perceptions in personalized pricing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Discrimination grounds and personalised pricing: Consumer ...",
+            "text": "",
+            "link": "https://policyreview.info/articles/analysis/discrimination-grounds-and-personalised-pricing",
+            "snippet": "This article explores consumer perceptions of different grounds by which online prices can be personalised.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Personalized Pricing: What Business Lawyers Need to Know",
+            "text": "",
+            "link": "https://www.jdsupra.com/legalnews/personalized-pricing-what-business-4164905/",
+            "snippet": "Discrimination and Bias: Personalized pricing creates a risk\u2014even if unintended\u2014that certain consumer demographics consistently receive worse ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ask a Data Ethicist: How Is Price Optimization a Data Ethics Issue?",
+            "text": "",
+            "link": "https://www.dataversity.net/articles/ask-a-data-ethicist-how-is-price-optimization-a-data-ethics-issue/",
+            "snippet": "Should companies be allowed to charge a person more for a product or service based on gender, race, age, ability, or other protected categories?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Personalized pricing with imperfect customer recognition",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167624525000034",
+            "snippet": "by S Colombo \u00b7 2025 \u00b7 Cited by 1 \u2014 We consider a duopoly model where firms charge personalized prices to the consumers they can recognize and a uniform price to the rest of consumers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Personalized Pricing: What Business Lawyers Need to Know",
+            "text": "",
+            "link": "https://www.jdsupra.com/legalnews/personalized-pricing-what-business-4164905/",
+            "snippet": "Companies use personalized pricing to make pricing decisions efficiently and competitively by analyzing large volumes of data that retailers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Personalized Pricing and Price Fairness - Jura Liaukonyte",
+            "text": "",
+            "link": "http://liaukonyte.dyson.cornell.edu/wp-content/uploads/2018/07/personalized_Pricing_IJIO.pdf",
+            "snippet": "by TJ Richards \u00b7 2015 \u00b7 Cited by 176 \u2014 Defined generally, discriminatory pricing involves varying prices for the same product across different consumers according to their willingness-to-pay, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Impact of Algorithmic Price Discrimination on Consumers ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9152318/",
+            "snippet": "by Z Wu \u00b7 2022 \u00b7 Cited by 41 \u2014 Such a pricing strategy can lead to advanced forms of price discrimination based on the individual characteristics of consumers, which can be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Personalized Pricing: Antitrust and Policy Considerations ...",
+            "text": "",
+            "link": "https://www.cornerstone.com/wp-content/uploads/2025/07/Personalized-Pricing-Antitrust-and-Policy-Considerations-in-the-Age-of-Personalization.pdf",
+            "snippet": "In this data-rich environment, pricing surveillance, price discrimination, and algorithmic pricing are distinct yet intertwined phenomena. Pricing surveillance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Algorithmic pricing: Implications for marketing strategy and regulation",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167811625000473",
+            "snippet": "This paper discusses the implementation of algorithmic pricing in the context of firms' marketing strategies and regulatory frameworks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI-Driven Personalized Pricing May Not Help Consumers",
+            "text": "",
+            "link": "https://www.cmu.edu/tepper/news/stories/2025/0602-ai-driven-personalized-pricing-may-not-help-consumers",
+            "snippet": "The study's findings suggest that even absent price discrimination, personalized ranking systems may not benefit consumers. \u201cWe examined the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What Is the Problem with Price Personalization? (Chapter 1)",
+            "text": "",
+            "link": "https://www.cambridge.org/core/books/cambridge-handbook-of-algorithmic-price-personalization-and-the-law/what-is-the-problem-with-price-personalization/BF13DE3F8F575D746EE0FD7C69A0205A",
+            "snippet": "A second theory of deception casts price personalization as a matter of exploitation of consumer vulnerability, one that stems from asymmetric information ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Personalised Pricing in the Digital Era | OECD",
+            "text": "",
+            "link": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/10/personalised-pricing-in-the-digital-era_7313c12d/db4d9c9c-en.pdf",
+            "snippet": "individual consumers are charged different prices based on their personal characteristics and conduct. Personalised pricing thus results in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to offer personalized pricing based on user characteristics, with the goal of providing tailored experiences. It aims to analyze various factors to determine optimal pricing for each individual, ensuring a unique interaction with the service. The system seeks to balance user needs with fair and equitable treatment.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to offer personalized pricing based on user characteristics, with the goal of providing tailored experiences. It aims to analyze various factors to determine optimal pricing for each individual, ensuring a unique interaction with the service. The system seeks to balance user needs with fair and equitable treatment.",
+        "elapsed_time": 30.453053917000943
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+    "output": " Lack of capability or robustness is a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in AI-powered medical data analysis",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in AI-powered predictive models is a risk in forecasting patient outcomes",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Drawbacks of Artificial Intelligence and Their Potential Solutions in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908503/",
+            "snippet": "This study enlightens the possible drawbacks of AI in the implementation of healthcare sector and their solutions to overcome these situations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Show and tell: A critical review on robustness and uncertainty for a ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S138650562500187X",
+            "snippet": "This critical review explores two interrelated trends: the rapid increase in studies on machine learning (ML) applications within health informatics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Risks of Artificial Intelligence (AI) in Medicine",
+            "text": "",
+            "link": "https://www.pneumon.org/Risks-of-Artificial-Intelligence-AI-in-Medicine,191736,0,2.html",
+            "snippet": "This process is at great risk, as far as the security, privacy, and confidentiality of the sensitive individual patient's data, is concerned.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI-driven healthcare: Fairness in AI healthcare: A survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12091740/",
+            "snippet": "This review paper examines the integration of AI in healthcare, highlighting critical challenges related to bias and exploring strategies for mitigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Third-Party AI Problem: Vendor Risk in an Algorithm-Driven World",
+            "text": "",
+            "link": "https://censinet.com/perspectives/third-party-ai-problem-vendor-risk-algorithm-driven-world",
+            "snippet": "Some AI analytics tools have inadvertently sent protected health information (PHI) to unsecured cloud platforms, increasing the likelihood of ransomware attacks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Unveiling the Influence of AI Predictive Analytics on Patient Outcomes",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11161909/",
+            "snippet": "This comprehensive literature review explores the transformative impact of artificial intelligence (AI) predictive analytics on healthcare.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Patient perspective on predictive models in healthcare - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11751774/",
+            "snippet": "The model demonstrated that predictive analytics could lead to early interventions that reduce mortality rates and improve patient outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "expert reaction to study suggesting potential patient harms ...",
+            "text": "",
+            "link": "https://www.sciencemediacentre.org/expert-reaction-to-study-suggesting-potential-patient-harms-associated-with-use-of-ai-medical-outcome-prediction-models/",
+            "snippet": "A study published in Patterns looks at potential patient harms linked to the use of AI medical outcome prediction models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Why relying on AI outcome models may not be a good idea",
+            "text": "",
+            "link": "https://pharmaphorum.com/news/why-relying-ai-outcome-models-may-not-be-good-idea",
+            "snippet": "\"Patients labelled by the algorithm as having a 'poor predicted recovery' receive less attention, fewer physiotherapy sessions, and less ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Confronting the Mirror: Reflecting on Our Biases Through AI in ...",
+            "text": "",
+            "link": "https://learn.hms.harvard.edu/insights/all-insights/confronting-mirror-reflecting-our-biases-through-ai-health-care",
+            "snippet": "Biases are inadvertently programmed into AI systems and, as a result, can have a negative impact on patient care.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Intelligence in Predictive Healthcare: A Systematic Review",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12525484/",
+            "snippet": "Artificial intelligence (AI) and machine learning (ML) are revolutionizing predictive analytics in healthcare, offering the potential for swift and accurate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI and Machine Learning: The Future of Predictive Analytics in ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/390461495_AI_and_Machine_Learning_The_Future_of_Predictive_Analytics_in_Healthcare",
+            "snippet": "AI-driven predictive models can identify patterns and risk factors in patient data, enabling healthcare providers to make more informed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Ensuring Accuracy in AI Healthcare Models: A Necessity for Better ...",
+            "text": "",
+            "link": "https://uniqueminds.ai/ensuring-accuracy-in-ai-healthcare-models-a-necessity-for-better-outcomes/",
+            "snippet": "In this blog, we'll explore why accuracy in AI healthcare models is so crucial, how it directly impacts patient care, and what healthcare ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI predictive analytics in healthcare: from data to proactive decisions",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/ai-predictive-analytics-healthcare-from-data-proactive-decisions-czunf",
+            "snippet": "AI predictive analytics in healthcare helps close this gap by analyzing clinical, operational, and behavioral data to anticipate risk and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999962,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.8999277490865576e-05,
+        "norm_entropy": 0.0006341739929274108,
+        "avg_entropy": 1.9499638745432788e-05,
+        "avg_norm_entropy": 0.0003170869964637054,
+        "avg_prob": 0.9999804999999999,
+        "avg_logprob": -1.9500361259151384e-05,
+        "avg_explogprob": 0.9999804998288716,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    3.8e-05,
+                    0.999962
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.999962000722,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+        "response": " Lack of capability or robustness is a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+        "elapsed_time": 31.09094054200068
+    }
+}

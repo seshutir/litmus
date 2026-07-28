@@ -1,0 +1,230 @@
+{
+    "input": " Lack of transparency or interpretability is a not a risk associated with A tax calculation system is designed to automate the process of generating fines and penalties, utilizing complex algorithms to determine accurate assessments. The system aims to provide efficient and consistent calculations, reducing the need for manual intervention. It also seeks to ensure transparency and accountability in tax calculations, although the underlying methodology may not be immediately apparent.",
+    "output": " Lack of transparency or interpretability is a not a risk associated with A tax calculation system is designed to automate the process of generating fines and penalties, utilizing complex algorithms to determine accurate assessments. The system aims to provide efficient and consistent calculations, reducing the need for manual intervention. It also seeks to ensure transparency and accountability in tax calculations, although the underlying methodology may not be immediately apparent.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of transparency or interpretability is not a risk associated with a tax calculation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of transparency or interpretability is a risk in utilizing complex algorithms to determine accurate assessments of fines and penalties in a tax calculation system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Explainability in the Wild, or Wild Explanations? Evidence ...",
+            "text": "",
+            "link": "https://hdsr.mitpress.mit.edu/pub/w0l9k3gr",
+            "snippet": "by IO Gallegos \u00b7 2026 \u00b7 Cited by 1 \u2014 Our findings reveal that in the IRS tax audit setting, these local explanations often fall short of accurately representing individuals' true ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Stop Explaining Black Box Machine Learning Models for High ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122117/",
+            "snippet": "by C Rudin \u00b7 2019 \u00b7 Cited by 15178 \u2014 The lack of transparency and accountability of predictive models can have (and has already had) severe consequences; there have been cases of people incorrectly",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Transparency and explainability of AI systems: From ethical ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0950584923000514",
+            "snippet": "by N Balasubramaniam \u00b7 2023 \u00b7 Cited by 589 \u2014 This paper provides insights into what organizations consider important in the transparency and, in particular, explainability of AI systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Interpreting Black-Box Models: A Review on Explainable ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12559-023-10179-8",
+            "snippet": "by V Hassija \u00b7 2024 \u00b7 Cited by 2734 \u2014 GPTs are notorious for their lack of interpretability and transparency, despite achieving remarkable results in several applications. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How constitutional principles pave the way to explainable AI in ...",
+            "text": "",
+            "link": "https://digi-con.org/how-constitutional-principles-pave-the-way-to-explainable-ai-in-tax-law/",
+            "snippet": "From a purely legal perspective, it follows that the execution of tax law must be as transparent and precise as possible for taxpayers. Even if the transparency ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Stop Explaining Black Box Machine Learning Models for High ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122117/",
+            "snippet": "by C Rudin \u00b7 2019 \u00b7 Cited by 15178 \u2014 The lack of transparency and accountability of predictive models can have (and has already had) severe consequences; there have been cases of people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Predictive Analytics & the Tax Code",
+            "text": "",
+            "link": "https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1705&context=faculty_publications",
+            "snippet": "by JA Soled \u00b7 2024 \u00b7 Cited by 6 \u2014 Incorporating the use of predictive analytics into the civil tax penalty regime would also raised concerns about privacy, bias, accuracy and due process, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Black box algorithms and the rights of individuals: no easy ...",
+            "text": "",
+            "link": "https://policyreview.info/articles/analysis/black-box-algorithms-and-rights-individuals-no-easy-solution-explainability",
+            "snippet": "by J Gryz \u00b7 2021 \u00b7 Cited by 85 \u2014 The aim of this article is twofold. First, to demonstrate that the interpretability of \u201cblack box\u201d machine learning algorithms is a challenging technical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Accuracy-related penalty | Internal Revenue Service",
+            "text": "",
+            "link": "https://www.irs.gov/payments/accuracy-related-penalty",
+            "snippet": "The accuracy-related penalty is 20% of the portion of the underpayment of tax that is attributable to negligence or disregard of rules or regulations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI Hallucinations in Tax: The Risks and How to Mitigate Them",
+            "text": "",
+            "link": "https://pro.bloombergtax.com/insights/artificial-intelligence/ai-hallucinations-in-tax-the-risks-and-how-to-mitigate-them/",
+            "snippet": "Risks: AI hallucinations in tax can lead to fabricated citations, outdated legal information, and compounding errors, posing significant risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Tax Automation with AI: How to Eliminate Errors, Ensure ...",
+            "text": "",
+            "link": "https://www.abstra.io/en/articles/tax-automation-ai-compliance-processes",
+            "snippet": "This intelligent approach allows automating complex tax calculations like VAT, sales tax, income tax, and corporate tax, eliminating the need ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "(PDF) Explainable Artificial Intelligence in Tax Administration",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403347426_Explainable_Artificial_Intelligence_in_Tax_Administration_Enhancing_Transparency_and_Legal_Accountability",
+            "snippet": "Without such transparency, taxpayers may to understand why they were flagged for audit or assessed a particular liability. This lack of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Reviewing the explainable artificial intelligence (XAI) and ...",
+            "text": "",
+            "link": "https://www.ciat.org/reviewing-the-explainable-artificial-intelligence-xai-and-its-importance-in-tax-administration/?lang=en",
+            "snippet": "Explainable AI or XAI deals with the development of techniques/models that make the operation of an AI system understandable to a certain audience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI in tax administration: Governing with Artificial Intelligence",
+            "text": "",
+            "link": "https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-tax-administration_30724e43.html",
+            "snippet": "Challenges regarding the transparency, explainability and interpretability of complex AI systems can pose risks to rule of law and a taxpayer's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Explainability in the Wild, or Wild Explanations? Evidence ...",
+            "text": "",
+            "link": "https://hdsr.mitpress.mit.edu/pub/w0l9k3gr",
+            "snippet": "by IO Gallegos \u00b7 2026 \u00b7 Cited by 1 \u2014 AI decisions be explainable to ensure transparency and interpretability in automated decisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.4815510057992861e-05,
+        "norm_entropy": 4.2748525778345386e-05,
+        "avg_entropy": 7.4077550289964305e-06,
+        "avg_norm_entropy": 2.1374262889172693e-05,
+        "avg_prob": 0.5,
+        "avg_logprob": -6.907755778982387,
+        "avg_explogprob": 0.0009999994999998752,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.5,
+        "topic": "",
+        "query": " Lack of transparency or interpretability is a not a risk associated with A tax calculation system is designed to automate the process of generating fines and penalties, utilizing complex algorithms to determine accurate assessments. The system aims to provide efficient and consistent calculations, reducing the need for manual intervention. It also seeks to ensure transparency and accountability in tax calculations, although the underlying methodology may not be immediately apparent.",
+        "response": " Lack of transparency or interpretability is a not a risk associated with A tax calculation system is designed to automate the process of generating fines and penalties, utilizing complex algorithms to determine accurate assessments. The system aims to provide efficient and consistent calculations, reducing the need for manual intervention. It also seeks to ensure transparency and accountability in tax calculations, although the underlying methodology may not be immediately apparent.",
+        "elapsed_time": 63.64971762499772
+    }
+}

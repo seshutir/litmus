@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to utilize facial recognition technology for identity verification purposes, aiming to provide a secure and efficient check-in experience. It intends to authenticate users through facial comparisons with provided photos, ensuring accurate verification. The system's goal is to facilitate a seamless and unbiased verification process for all users.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to utilize facial recognition technology for identity verification purposes, aiming to provide a secure and efficient check-in experience. It intends to authenticate users through facial comparisons with provided photos, ensuring accurate verification. The system's goal is to facilitate a seamless and unbiased verification process for all users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in the system's facial recognition technology for identity verification",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in authenticating users through facial comparisons with provided photos in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition technology is biased. The error rate for light-skinned men is 0.8%, compared to 34.7% for darker-skinned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The ethics of facial recognition technologies, surveillance, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320316/",
+            "snippet": "by D Almeida \u00b7 2021 \u00b7 Cited by 375 \u2014 The rapid development of facial recognition technologies (FRT) has led to complex ethical choices in terms of balancing individual privacy rights",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Civil Rights Implications of the Federal Use of Facial ...",
+            "text": "",
+            "link": "https://www.usccr.gov/files/2024-09/civil-rights-implications-of-frt_0.pdf",
+            "snippet": "Wrongful arrests. No one disputes that facial recognition technology has led to wrongful arrests. Few dispute that it should never be the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Civil Rights Implications of the Federal Use of Facial ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=yVs8MGHgQSw",
+            "snippet": "This project will review the use of facial recognition technology by the Departments of Justice, Homeland Security and Housing and Urban Development.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Comments of EPIC to U.S. Commission on Civil Rights ...",
+            "text": "",
+            "link": "https://epic.org/documents/comments-of-epic-to-u-s-commission-on-civil-rights-on-facial-recognition-technology/",
+            "snippet": "Although the use of facial recognition technology for identity verification may not seem as dangerous as using the technology for law ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Face Facts: Dispelling Common Myths Associated With Facial Recognition ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/report/face-facts-dispelling-common-myths-associated-with-facial-recognition-technology/",
+            "snippet": "Recent calls for bans on facial recognition are based on a misleading picture of how the technology works. SIA addresses these myths.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "When facial recognition does not 'recognise': erroneous ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-023-01634-z",
+            "snippet": "by VL Raposo \u00b7 2024 \u00b7 Cited by 50 \u2014 This paper analyzes cases in which the use of FR to identify individuals leads to mistaken identifications, exploring its causes and legal consequences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Facial Authentication vs. Facial Recognition: What's the Difference?",
+            "text": "",
+            "link": "https://www.alcatraz.ai/blog/face-recognition-vs-face-authentication-security-privacy-implications",
+            "snippet": "Authentication empowers. Facial recognition systems identify or attempt to identify unknown individuals by comparing their facial features against a database ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Facial Verification vs. Facial Recognition",
+            "text": "",
+            "link": "https://www.idtheftcenter.org/post/facial-verification-vs-facial-recognition/",
+            "snippet": "Facial verification is a biometric authentication process used to confirm that a person is who they claim to be by comparing two images of the same person.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Protection of the rights of the individual when using facial recognition ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405844022003747",
+            "snippet": "by J Sarabdeen \u00b7 2022 \u00b7 Cited by 45 \u2014 The research focuses on suitability of the existing law to regulate the use of FRT by analysing the criminal law and the civil law including the privacy laws.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Face Facts: Dispelling Common Myths Associated With Facial Recognition ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/report/face-facts-dispelling-common-myths-associated-with-facial-recognition-technology/",
+            "snippet": "The Security Industry Association (SIA) believes all technology products, including facial recognition, must only be used for purposes that are lawful, ethical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Facial Verification vs. Facial Recognition",
+            "text": "",
+            "link": "https://www.idtheftcenter.org/post/facial-verification-vs-facial-recognition/",
+            "snippet": "Facial verification is commonly used for identity verification and fraud prevention, while facial recognition is often used for surveillance or locating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face recognition ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 118 \u2014 This program involved passengers using an automated system to verify their identities by scanning their ID and matching it with their facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Facial Authentication: How It Works, Benefits & Best Practices",
+            "text": "",
+            "link": "https://www.oloid.com/blog/enhancing-security-with-facial-based-authentication-a-comprehensive-guide",
+            "snippet": "Facial authentication is a biometric security method that verifies a person's identity by analyzing their unique facial features.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "GAO-20-522, Facial Recognitions Technology: Privacy and Accuracy ...",
+            "text": "",
+            "link": "https://www.gao.gov/assets/gao-20-522.pdf",
+            "snippet": "Facial recognition technology may collect or store facial images, posing varying levels of risk. Some federal and state laws and the European ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999999,
+                    1e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 5e-13,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to utilize facial recognition technology for identity verification purposes, aiming to provide a secure and efficient check-in experience. It intends to authenticate users through facial comparisons with provided photos, ensuring accurate verification. The system's goal is to facilitate a seamless and unbiased verification process for all users.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to utilize facial recognition technology for identity verification purposes, aiming to provide a secure and efficient check-in experience. It intends to authenticate users through facial comparisons with provided photos, ensuring accurate verification. The system's goal is to facilitate a seamless and unbiased verification process for all users.",
+        "elapsed_time": 41.698628333047964
+    }
+}

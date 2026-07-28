@@ -1,0 +1,394 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the system's benefit distribution",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with analyzing application data to detect potential fraud in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with identifying risk factors in the system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with assessing eligibility in the system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with automatically processing applications using the system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Section 3 Employee Benefits",
+            "text": "",
+            "link": "https://www.eeoc.gov/laws/guidance/section-3-employee-benefits",
+            "snippet": "These laws require that all employee benefits be provided in a non-discriminatory manner unless a statutory exception provides otherwise. Many ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Oregon Revised Statutes",
+            "text": "",
+            "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors746.html",
+            "snippet": "An insurer shall not unfairly discriminate in the allocation of dividends among the participants in such a dividend grouping.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "NRS: CHAPTER 686A - TRADE PRACTICES AND FRAUDS",
+            "text": "",
+            "link": "https://www.leg.state.nv.us/nrs/NRS-686A.html",
+            "snippet": "No person may make or permit any unfair discrimination between persons of the same class and of essentially the same hazard in the amount of premium, policy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Chapter 704 - Unfair and Prohibited Practices",
+            "text": "",
+            "link": "https://cga.ct.gov/2025/pub/chap_704.htm",
+            "snippet": "Misrepresents the benefits, advantages, conditions or terms of any insurance policy; the dividends or share of the surplus to be received,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Diversity and Discrimination in Health Care - StatPearls - NCBI Bookshelf",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK568721/",
+            "snippet": "by BM Togioka \u00b7 2024 \u00b7 Cited by 160 \u2014 Discrimination against individuals and groups belonging to minority identities persists, leading to negative outcomes for patients and healthcare professionals.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A global scoping review on the patterns of medical fraud and abuse",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11831774/",
+            "snippet": "by AV Najar \u00b7 2025 \u00b7 Cited by 26 \u2014 The aim of this study is to provide a comprehensive scoping review of the patterns and strategies for combating medical fraud and abuse.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Unfair, Deceptive, or Abusive Acts or Practices (UDAAP)",
+            "text": "",
+            "link": "https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/unfair-deceptive-or-abusive-acts-or-practices-udaap",
+            "snippet": "Unfair, deceptive, or abusive acts and practices (UDAAP) can cause significant financial injury to consumers, erode consumer confidence, and undermine the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias and Fairness of AI-based systems within Financial Crime",
+            "text": "",
+            "link": "https://www.niceactimize.com/blog/fraud-bias-and-fairness-of-ai-based-systems-within-financial-crime",
+            "snippet": "In this NICE Actimize blog, we take a look at inherent bias in AI-based systems, and how to instill more fairness within them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives of fairness in AI",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "by M Kattnig \u00b7 2024 \u00b7 Cited by 56 \u2014 This paper investigates current state-of-the-art methods for bias mitigation and contrasts them with the legal requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Perceived Discrimination and Health: A Meta-Analytic Review - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2747726/",
+            "snippet": "by EA Pascoe \u00b7 2009 \u00b7 Cited by 7055 \u2014 Perceived discrimination has also been linked to specific types of physical health problems, such as hypertension, self-reported poor health, and breast cancer, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "How Actuarial Risk Assessment Instruments Perpetuate Social ...",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/hrj/2025/10/digitalizing-discrimination-how-actuarial-risk-assessment-instruments-perpetuate-social-inequality/",
+            "snippet": "ARAIs perpetuate systemic biases, disproportionately labelling ethno-racial minorities, such as Black individuals, as high-risk, while ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "DISCRIMINATION IS \"UNFAIR\"",
+            "text": "",
+            "link": "https://protectborrowers.org/wp-content/uploads/2021/04/Discrimination_is_Unfair.pdf",
+            "snippet": "by UDA Interpreting \u00b7 2021 \u00b7 Cited by 1 \u2014 The unfairness-discrimination theory would require identifying protected classes because they are not enumerated in the FTC or Dodd-Frank Acts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "It may identify potential unfair discrimination that is occurring in the model and utilize third-party auditing software or consultants to check the algorithm.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Discrimination Risk Assessment",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/recruitment-hr/diversity-metrics-tracking/discrimination-risk-assessment/",
+            "snippet": "Discrimination risk assessment is a process used by organizations to identify and reduce the potential for unfair treatment or bias\u2014often in AI systems, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "What You Should Know About DEI-Related Discrimination at Work",
+            "text": "",
+            "link": "https://www.eeoc.gov/wysk/what-you-should-know-about-dei-related-discrimination-work",
+            "snippet": "Under Title VII, DEI initiatives, policies, programs, or practices may be unlawful if they involve an employer or other covered entity taking an employment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "by M Kattnig \u00b7 2024 \u00b7 Cited by 56 \u2014 Achieving fairness in AI decision-making is not only crucial to avoid discriminatory outcomes and unfair treatment, but it is also essential to promote social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "How and why algorithms discriminate",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/how-and-why-algorithms-discriminate/",
+            "snippet": "Automated decision-making systems contain hidden discriminatory prejudices. We'll explain the causes, possible consequences, and the reasons why existing laws ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Eliminating all bias and discrimination from AI systems may ...",
+            "text": "",
+            "link": "https://www.facebook.com/WomensAgenda/posts/eliminating-all-bias-and-discrimination-from-ai-systems-may-not-be-achievable-bu/1063443999552852/",
+            "snippet": "These AI applications, which help evaluate resumes and assess candidates, often reinforce discrimination because of flawed algorithms and data, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Algorithmic discrimination: examining its types and regulatory ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 72 \u2014 This paper aims to provide an indepth analysis of the types of algorithmic discrimination, exploring both the challenges and potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Biases and Blind Spots of Risk Scoring Algorithms",
+            "text": "",
+            "link": "https://www.flagright.com/post/the-biases-and-blind-spots-of-risk-scoring-algorithms",
+            "snippet": "Risk scoring algorithms are complex computational procedures designed to predict the likelihood of a specific event or outcome.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Bias and ethics of AI systems applied in auditing - A systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "by W Murikah \u00b7 2024 \u00b7 Cited by 236 \u2014 This study aimed to investigate the sources of bias and risks posed by AI systems applied in auditing and the complex downstream interactions and effects they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 374 \u2014 FairTest, a tool designed to test the ML model, assisting developers in checking data-driven applications to detect unfairness in outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial Intelligence Flashcards",
+            "text": "",
+            "link": "https://quizlet.com/831997215/artificial-intelligence-flash-cards/",
+            "snippet": "Machine learning systems improve their accuracy gradually through a continual process of learning. Machine learning uses data and algorithms to emulate the way ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+        "elapsed_time": 38.86217008304084
+    }
+}

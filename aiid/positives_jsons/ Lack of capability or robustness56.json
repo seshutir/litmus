@@ -1,0 +1,354 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+    "output": " Lack of capability or robustness is a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the automated debt assessment and verification system is a risk",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the automated system is a risk in identifying and processing debt claims",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the automated system is a risk in providing accurate and efficient notifications to individuals",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in streamlining the debt assessment process in an automated system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Due Diligence Gap: Why AI Capability Claims Cannot Be ...",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135766",
+            "snippet": "Until verification is explicitly instantiated, valuations necessarily rest on architectural assumption rather than demonstrable capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Pros and Cons of using artificial intelligence to assess debt risks ...",
+            "text": "",
+            "link": "https://www.developmentaid.org/news-stream/post/202431/the-pros-and-cons-of-using-ai-to-assess-debt-risks",
+            "snippet": "A major worry is the opacity and lack of explanation in AI models. This can weaken accountability and transparency, especially in sovereign ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Credit Trends: AI Risks Vary Widely Among North A - S&P Global",
+            "text": "",
+            "link": "https://www.spglobal.com/ratings/en/regulatory/article/credit-trends-ai-risks-vary-widely-among-north-american-software-subsectors-s101676119",
+            "snippet": "Persistent revenue declines, weak FOCF, and high leverage underpin credit risk; AI-driven alternatives are directly pressuring demand across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How to avoid algorithmic decision-making mistakes",
+            "text": "",
+            "link": "https://stories.uq.edu.au/momentum-magazine/robodebt-algorithmic-decision-making-mistakes/index.html",
+            "snippet": "Robodebt was an automated debt assessment and recovery program that relied solely on a data-matching system to issue debt notices to welfare recipients.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Vulnerability Security Debt: Risks, Causes, and Strategies",
+            "text": "",
+            "link": "https://www.armorcode.com/blog/vulnerability-security-debt-risks-causes-and-strategies",
+            "snippet": "Learn how vulnerability security debt compounds and increases cyber risk over time. Discover strategies to manage it effectively.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Automated Debt Collection Management: 6 Rules for Process ...",
+            "text": "",
+            "link": "https://www.riverty.com/en/business/insights/blog/automated-debt-collection-management/",
+            "snippet": "Using automated debt collection management effectively: 6 clear rules for efficiency, responsibility, and stable collections processes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Algorithmic decision-making and system destructiveness: A case of ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2021.1960905",
+            "snippet": "In this paper, we report on a case study of the Australian government's \u201cRobodebt\u201d programme that was designed to automatically calculate and collect welfare ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI Debt Collection: Benefits, Challenges, Implementation (2025)",
+            "text": "",
+            "link": "https://rtslabs.com/ai-debt-collection/",
+            "snippet": "AI debt collection improves recovery rates beyond the 20\u201330% industry average through predictive analytics and automated outreach.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Inefficiencies and Errors in Manual Risk Management - NeuAnalytics",
+            "text": "",
+            "link": "https://www.neuanalytics.com/blog/inefficiencies-and-errors-in-manual-risk-management",
+            "snippet": "Manual risk management is labor-intensive, and often inefficient, leading to errors that can be mediated with a fully automated risk management system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Intelligent financial system: How AI is transforming finance",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1572308925001019",
+            "snippet": "In general, AI has enhanced the ability of the financial system to process information, analyze data, identify patterns and make predictions. Early rule ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The Important Role of Automated Notification Systems in an Effective ...",
+            "text": "",
+            "link": "https://www.securitymagazine.com/articles/101595-the-important-role-of-automated-notification-systems-in-an-effective-security-solution",
+            "snippet": "Automated notifications reduce the likelihood of mistakes by providing clear, predetermined instructions on how to respond to specific threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Efficacy and unintended consequences of hard-stop alerts in ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6915824/",
+            "snippet": "To inform the appropriate application of alerts, we sought to characterize the risks and benefits of hard stops by asking 3 key questions: (1) To what extent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The blended future of automation and AI: Examining some long-term ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X23000374",
+            "snippet": "This study investigates a variety of connected primary impacting potentials, including job losses, employees' well-being, dehumanisation of jobs, fear of AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "How Automated Systems Prevent Compliance Failures | Censinet, Inc.",
+            "text": "",
+            "link": "https://censinet.com/perspectives/automated-systems-prevent-compliance-failures",
+            "snippet": "Automated systems are transforming how organizations manage compliance by ensuring real-time monitoring, reducing manual errors, and improving risk detection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What is Alert Fatigue in Cyber Security, How to Avoid It and Reduce ...",
+            "text": "",
+            "link": "https://www.metomic.io/resource-centre/alert-fatigue",
+            "snippet": "Security tools create alert overload for cybersecurity teams. Learn how to prioritise threats, automate tasks & reduce fatigue to stop missing breaches.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Credit Trends: AI Risks Vary Widely Among North A - S&P Global",
+            "text": "",
+            "link": "https://www.spglobal.com/ratings/en/regulatory/article/credit-trends-ai-risks-vary-widely-among-north-american-software-subsectors-s101676119",
+            "snippet": "AI is broadly affecting all software companies, although the exact disruption and displacement risks, as well as their timing, will vary ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The True Impact of Test Debt - PractiTest",
+            "text": "",
+            "link": "https://www.practitest.com/resource-center/blog/test-debt-impact-qa-leaders/",
+            "snippet": "Lack of automation: Without proper test automation integration, regression testing is done manually, in a slow process, causing backlogs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "COMMENTARY: Implementation gap in technology-driven debt ...",
+            "text": "",
+            "link": "https://www.autoremarketing.com/autofinjournal/commentary-implementation-gap-in-technology-driven-debt-collection-the-challenges-risks-and-strategic-implications/",
+            "snippet": "The integration of automated systems introduces new compliance risks. Errors in communication, such as incorrect messaging, excessive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Intelligent financial system: How AI is transforming finance",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1572308925001019",
+            "snippet": "Inadequate risk assessment, Automated risk assessments might parse more information but be correlated, biased, or manipulated, The extent to which different ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "AI Technical Debt: The Silent Cybersecurity Crisis - Forcepoint",
+            "text": "",
+            "link": "https://www.forcepoint.com/blog/x-labs/ai-technical-debt",
+            "snippet": "As AI usage surges in 2026, technical debt continues to drive hidden data risk. See how aging architectures and fragmented discovery ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI in debt collection: Use cases, benefits, development and future ...",
+            "text": "",
+            "link": "https://www.leewayhertz.com/ai-for-debt-collection/",
+            "snippet": "AI systems monitor real-time payment transactions to identify overdue debts and notify collectors about collectible accounts, thereby streamlining the initial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Why Is the Electronic Health Record So Challenging for Research ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9295893/",
+            "snippet": "We provide here a set of perspectives on the challenges posed by the EHR to clinical and research users. Keywords: electronic health records, user-computer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "\u00a7 1006.34 Notice for validation of debts. | Consumer Financial ...",
+            "text": "",
+            "link": "https://www.consumerfinance.gov/rules-policy/regulations/1006/34",
+            "snippet": "A debt collector must provide a consumer with the validation information required by paragraph (c) of this section either:",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+        "response": " Lack of capability or robustness is a risk associated with An automated system is designed to assess and verify debt information, aiming to provide accurate and efficient notifications to individuals. The system's primary goal is to identify and process debt claims, ensuring fairness and transparency in the process. It also seeks to streamline the debt assessment process, reducing errors and improving overall outcomes.",
+        "elapsed_time": 44.23086674999922
+    }
+}

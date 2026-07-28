@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+    "output": " Lack of capability or robustness is a not a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an industrial robot",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with an industrial robot performing tasks that require precision and physical strength, such as assembly and material handling",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Industrial robots, Workers' safety, and health",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0927537122000963",
+            "snippet": "by R Gihleb \u00b7 2022 \u00b7 Cited by 240 \u2014 This study explores the relationship between the adoption of industrial robots and workplace injuries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Do Industrial Robots Mitigate Supply Chain Risks ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2071-1050/17/24/11340",
+            "snippet": "by J Wang \u00b7 2025 \u00b7 Cited by 2 \u2014 Our findings reveal that industrial robots, beyond enhancing productivity, function as a risk-mitigating technology that strengthens supply chain stability",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Safety Risks and Accident Causes with Workplace Robots",
+            "text": "",
+            "link": "https://keninstitute.com/safety-risks-and-accident-causes-with-workplace-robots/",
+            "snippet": "Inadequate safety measures can increase the likelihood of accidents involving workplace robots.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Safety requirements for industrial robots: guarantee of ...",
+            "text": "",
+            "link": "https://www.roboticstomorrow.com/news/2025/02/10/safety-requirements-for-industrial-robots-guarantee-of-collaboration-and-efficiency/24093/",
+            "snippet": "Unexpected robot movements, system failures, collisions or electrical hazards pose significant risks in industrial environments and require ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "Industrial robots are used in place of a worker to perform dangerous or repetitive tasks with a high degree of accuracy.1. Hazards can result in slipping ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Substantial capabilities of robotics in enhancing industry ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667241321000057",
+            "snippet": "by M Javaid \u00b7 2021 \u00b7 Cited by 815 \u2014 The Industry 4.0-enabled robots aim to achieve optimum performance and zero downtimes. When robots use more sensors, they become even less vulnerable to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Opportunities challenges and roadmap for humanoid robots in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12783740/",
+            "snippet": "by T Uthai \u00b7 2025 \u00b7 Cited by 10 \u2014 The unique challenges of construction humanoid robots are outlined such as perceptual robustness, adaptive locomotion, human-level dexterity, continual learning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "As humanoid robots become smarter, stronger, and more ...",
+            "text": "",
+            "link": "https://www.facebook.com/TechnologyInnovation1/posts/as-humanoid-robots-become-smarter-stronger-and-more-advanced-experts-say-the-nex/1340099758276667/",
+            "snippet": "As humanoid robots become smarter, stronger, and more advanced, experts say the next big challenge is making sure they can work safely around people. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Advantages & disadvantages of using industrial robots in ...",
+            "text": "",
+            "link": "https://www.wipfli.com/insights/articles/mad-pros-and-cons-of-using-industrial-robots-in-manufacturing",
+            "snippet": "Using robots for repetitive tasks means fewer risks of injury for workers, especially when manufacturing has to take place under hostile ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What Are Industrial Robots? Learn the What's and Why's Now",
+            "text": "",
+            "link": "https://mobile-industrial-robots.com/blog/what-are-industrial-robots-learn-the-what-s-and-why-s-now",
+            "snippet": "Industrial robotics systems are designed to operate in conditions that may be dangerous for human workers. They can handle toxic materials, work in extreme ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "Industrial robots are used in place of a worker to perform dangerous or repetitive tasks with a high degree of accuracy.1",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Safety Guide to Industrial Robotics Hazards",
+            "text": "",
+            "link": "https://safesitehq.com/industrial-robotics/",
+            "snippet": "This guide can help you perform a safety risk assessment pertaining to industrial robots. Let's dive into the fundamentals of industrial robotics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Case Studies of Robots and Automation as Health/Safety ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10191138/",
+            "snippet": "by BD Lowe \u00b7 2022 \u00b7 Cited by 37 \u2014 This paper summarizes the experiences of employers receiving Ohio Safety Intervention Grants to implement industrial robots and other advanced programmable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.25771,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 1,
+        "entropy": 0.6960078255507122,
+        "norm_entropy": 1.8232710323814794,
+        "avg_entropy": 0.3480039127753561,
+        "avg_norm_entropy": 0.9116355161907397,
+        "avg_prob": 0.378855,
+        "avg_logprob": -1.0245337689124268,
+        "avg_explogprob": 0.3589637864743462,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.74229,
+                    0.25771
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.15820722204999998,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+        "response": " Lack of capability or robustness is a not a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+        "elapsed_time": 90.87152633297956
+    }
+}

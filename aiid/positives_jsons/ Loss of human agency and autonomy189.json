@@ -1,0 +1,404 @@
+{
+    "input": " Loss of human agency and autonomy is a risk associated with A video interview assessment tool is designed to evaluate candidate responses using artificial intelligence, aiming to provide objective and unbiased evaluations. The system analyzes verbal and non-verbal cues to assess a candidate's fit for a role, seeking to streamline the recruitment process. This technology intends to support hiring decisions by identifying top candidates based on their interview performance.",
+    "output": " Loss of human agency and autonomy is a risk associated with A video interview assessment tool is designed to evaluate candidate responses using artificial intelligence, aiming to provide objective and unbiased evaluations. The system analyzes verbal and non-verbal cues to assess a candidate's fit for a role, seeking to streamline the recruitment process. This technology intends to support hiring decisions by identifying top candidates based on their interview performance.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is a risk in recruitment using artificial intelligence-based video interview assessment tools",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in evaluating candidate responses using artificial intelligence in a video interview assessment tool",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Loss of human agency and autonomy is a risk in analyzing verbal cues in a video interview assessment tool",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Loss of human agency and autonomy is a risk in analyzing non-verbal cues in a video interview assessment tool",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Loss of human agency and autonomy is a risk in identifying top candidates based on their interview performance using a video interview assessment tool",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective on the ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9309597/",
+            "snippet": "by AL Hunkenschroer \u00b7 2022 \u00b7 Cited by 174 \u2014 ... use of AI tools conflicts with applicants' autonomy. By interacting with an AI instead of humans, applicants lose the opportunity to get to know the company ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI hiring tools may be filtering out the best job applicants",
+            "text": "",
+            "link": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+            "snippet": "AI screening technology, such as one-way video interviews, can leave some highly qualified candidates without the interviews they deserve.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI's threat to individual autonomy in hiring decisions",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/ais-threat-to-individual-autonomy-in-hiring-decisions/",
+            "snippet": "Our study offers evidence of how harms related to discrimination and autonomy can intersect and reinforce each other in the hiring domain. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Ethics of AI in Hiring: What to Look for",
+            "text": "",
+            "link": "https://vidcruiter.com/interview/intelligence/ethics-of-ai-hiring/",
+            "snippet": "Ethical AI recruitment requires mitigating risks including AI bias, lack of explainability, inaccuracy, data privacy, and dehumanizing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Risks of Using AI in Recruitment",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/navigating-ai-risks/risks-of-using-ai-in-recruitment/",
+            "snippet": "While AI can streamline hiring, it can also introduce bias, reduce transparency, and compromise the human touch that's crucial for fair and thoughtful hiring ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective on the use of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9309597/",
+            "snippet": "... use of AI tools conflicts with applicants' autonomy. By interacting with an AI instead of humans, applicants lose the opportunity to get to know the company ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI's threat to individual autonomy in hiring decisions | Brookings",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/ais-threat-to-individual-autonomy-in-hiring-decisions/",
+            "snippet": "We found that interacting with biased AI made respondents more likely to make biased decisions themselves, regardless of whether the bias ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "On the potential of supporting autonomy in online video interview ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581924001101",
+            "snippet": "We present InterviewApp, an online interview training tool aiming to support interview motivation through autonomy, relatedness and competence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "\u201cInvitation to Complete Video interview\u201d: The Hidden Dangers of AI ...",
+            "text": "",
+            "link": "https://www.youngausint.org.au/post/invitation-to-complete-video-interview-the-hidden-dangers-of-ai-interviews",
+            "snippet": "The basic premise is that AI treats every applicant the same way, where a human interviewer might not. This line of thinking, however, is misguided.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Ethical Use of AI and Automation in Recruitment",
+            "text": "",
+            "link": "https://www.assesscandidates.com/ethical-ai-automation-in-recruitment/",
+            "snippet": "... Candidates video interview tool, to evaluate candidate skills. These tools utilize AI to analyze responses based on speech, tone, facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "(PDF) Nonverbal Cue Analysis in Video Interviews - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392404491_Nonverbal_Cue_Analysis_in_Video_Interviews",
+            "snippet": "nonverbal cue analysis tools. 6. To identify directions for future ... These tools offer an opportunity to support human. judgment with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Future of Human Agency | Imagining the Internet - Elon University",
+            "text": "",
+            "link": "https://www.elon.edu/u/imagining/surveys/xv2023/the-future-of-human-agency-2035/",
+            "snippet": "... autonomy to digital tools. That's the issue we explore in this survey. Some worry that humans are going to turn the keys to nearly everything \u2013 including ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Future of Work with AI Agents: Auditing Automation and ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.06576v2",
+            "snippet": "This paper uses the following packages that are not yet supported by the HTML conversion tool. Feedback on these issues are not necessary; they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "chapter 29. educational programs - Texas Constitution and Statutes",
+            "text": "",
+            "link": "https://statutes.capitol.texas.gov/docs/ED/htm/ED.29.htm",
+            "snippet": "The agency shall develop tools to assist school districts and open ... assessment instrument or who is at risk of dropping out of school. (b-1) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Personality Traits Estimation Based on Job Interview Video ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2504-2289/8/12/173",
+            "snippet": "by K Kassab \u00b7 2024 \u00b7 Cited by 6 \u2014 It is possible to estimate the personality profiles of sales professionals by using well-respected instruments for personality evaluation, such as the Big Five ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "On the potential of supporting autonomy in online video ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581924001101",
+            "snippet": "by PSB Rao \u00b7 2024 \u00b7 Cited by 3 \u2014 We present InterviewApp, an online interview training tool aiming to support interview motivation through autonomy, relatedness and competence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Automated Video Analysis of Non-verbal Communication in a ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4993763/",
+            "snippet": "by Y Hart \u00b7 2016 \u00b7 Cited by 41 \u2014 Such tools are labor intensive and hence limit the scale of possible studies. Here, we present an automated video analysis tool for non-verbal interactions in a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "AUTOMATED VIDEO INTERVIEWING AS THE NEW ...",
+            "text": "",
+            "link": "https://btlj.org/wp-content/uploads/2023/01/0008-36-3-Ajunwa_Web.pdf",
+            "snippet": "by I Ajunwa \u00b7 2021 \u00b7 Cited by 61 \u2014 screening tool that systematically discriminated against women,43 there is ... especially difficult to prove in cases where video interview tools take steps to.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "How AI Assessment Tools Affect Job Candidates' Behavior",
+            "text": "",
+            "link": "https://hbr.org/2025/07/how-ai-assessment-tools-affect-job-candidates-behavior",
+            "snippet": "When considering AI assessment tools, most companies focus on the gains the tools bring in terms of efficiency and quality.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "AI Video Interviews May Be Unreliable and Hurt Diversity",
+            "text": "",
+            "link": "https://www.acumaxindex.com/artificial-intelligence-video-interviews-may-be-unreliable-and-hurt-diversity-2/",
+            "snippet": "In the tools, the candidates are interviewed by an artificial intelligence platform which requires them to use the tool to record themselves answering questions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Examining the assumptions of AI hiring assessments and their ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11968453/",
+            "snippet": "In fact, a recent study auditing two personality-assessing algorithms used in hiring concluded that both tools failed to exhibit sufficient ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Why AI Interview Tools Fail to Accurately Assess Candidates",
+            "text": "",
+            "link": "https://www.crosschq.com/blog/why-ai-interview-tools-fail-to-accurately-assess-candidates-the-300-million-problem-costing-companies-top-talent",
+            "snippet": "... Tools Fail to Accurately Assess Candidates: The $300 Million Problem Costing Companies Top Talent ... tool flagged their \"low enthusiasm\" during a video interview ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective on the use of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9309597/",
+            "snippet": "Increasingly, companies are using artificial intelligence (AI) recruiting tools to enhance the speed and efficiency of the applicant recruiting process.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Experience and Adaptation in AI-mediated Hiring Systems - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.02775v1",
+            "snippet": "I worked with P&G years ago and their AI interview tool looked fancy but gave zero context. I expected today's tools to interact at least a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective on the use of ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/362240224_Is_AI_recruiting_unethical_A_human_rights_perspective_on_the_use_of_AI_for_hiring",
+            "snippet": "... AI is used. as an additional recommendation tool, but human recruit- ... approach to ensure the ethical use of AI recruiting tools. 6 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI for hiring in context: a perspective on overcoming the unique ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-022-00208-x",
+            "snippet": "... screening tools, it is not especially ... in platforms that might assess different candidate characteristics using different instruments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 26,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a risk associated with A video interview assessment tool is designed to evaluate candidate responses using artificial intelligence, aiming to provide objective and unbiased evaluations. The system analyzes verbal and non-verbal cues to assess a candidate's fit for a role, seeking to streamline the recruitment process. This technology intends to support hiring decisions by identifying top candidates based on their interview performance.",
+        "response": " Loss of human agency and autonomy is a risk associated with A video interview assessment tool is designed to evaluate candidate responses using artificial intelligence, aiming to provide objective and unbiased evaluations. The system analyzes verbal and non-verbal cues to assess a candidate's fit for a role, seeking to streamline the recruitment process. This technology intends to support hiring decisions by identifying top candidates based on their interview performance.",
+        "elapsed_time": 57.40482708299896
+    }
+}

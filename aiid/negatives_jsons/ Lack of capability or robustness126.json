@@ -1,0 +1,324 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+    "output": " Lack of capability or robustness is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with autonomous driving technology",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a vehicle controlling steering and staying within lane markings using autonomous driving technology",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with a vehicle equipped with autonomous driving technology continuously monitoring the environment and adjusting its position on the road",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with automating certain driving tasks",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A Survey on an Emerging Safety Challenge for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2095809924000274",
+            "snippet": "by H Wang \u00b7 2024 \u00b7 Cited by 102 \u2014 This study offers a comprehensive exploration of the SOTIF landscape by reviewing academic research, practical activities, challenges, and perspectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Testing autonomous vehicles and AI: perspectives and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s12544-025-00732-x",
+            "snippet": "by D Fern\u00e1ndez Llorca \u00b7 2025 \u00b7 Cited by 47 \u2014 This study aims to comprehensively explore the complexities of integrating Artificial Intelligence (AI) into Autonomous Vehicles (AVs), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Self-Driving Cars Tell Us About AI Risks",
+            "text": "",
+            "link": "https://spectrum.ieee.org/self-driving-cars-2662494269",
+            "snippet": "a self-driving car can kill you. That can be blamed in part on industry overclaims and pressure, but also on a lack of capability on the part of regulators.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Toward the robustness of autonomous vehicles in the AI era",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "by S Chen \u00b7 2024 \u00b7 Cited by 10 \u2014 Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A comprehensive review on safe reinforcement learning for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772671124003905",
+            "snippet": "by R Inamdar \u00b7 2024 \u00b7 Cited by 50 \u2014 The complexities of autonomous driving require a robust strategy for managing uncertainties arising from factors such as sensor noise, dynamically changing road ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Autonomous driving goes beyond core functions like safety ...",
+            "text": "",
+            "link": "https://www.facebook.com/Mobileye/posts/autonomous-driving-goes-beyond-core-functions-like-safety-and-traffic-law-compli/1335137411990433/",
+            "snippet": "Autonomous driving goes beyond core functions like safety and traffic law compliance. In level 1, either braking or steering can be assisted. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Risks of hands-off driving and system-initiated lane ...",
+            "text": "",
+            "link": "https://etsc.eu/risks-of-hands-off-driving-and-system-initiated-lane-changes-in-level-2-driver-assistance-systems/",
+            "snippet": "Autopilot could result in cars making manoeuvres like lane changes without the driver's consent and allowing drivers to take their hands off ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Perception and sensing for autonomous vehicles under ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0924271622003367",
+            "snippet": "by Y Zhang \u00b7 2023 \u00b7 Cited by 876 \u2014 This paper assesses the influences and challenges that weather brings to ADS sensors in a systematic way, and surveys the solutions against inclement weather ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Risk assessment in autonomous driving: a comprehensive ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43684-025-00112-1",
+            "snippet": "by D Lu \u00b7 2025 \u00b7 Cited by 12 \u2014 The core goal of the risk assessment model is to quantify the risk level faced by the autonomous driving system through a comprehensive analysis ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Safety First for Autonomous Vehicles: Where Do We Stand ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=UxJK7Jv-1hA",
+            "snippet": "Functional Safety is concerned with mitigating risk due to system failure only. safety hazards may occur without internal malfunctioning of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Are Self-Driving Cars Safe? (Pros & Cons) | The Wolf Pack\u00ae",
+            "text": "",
+            "link": "https://wolfpacklawyers.com/are-self-driving-cars-safe/",
+            "snippet": "Self-driving cars, equipped with advanced sensors and data processing, are not prone to these human errors. They can continuously monitor the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The Challenges of Partially Automated Driving - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7370972/",
+            "snippet": "by SM CASNER \u00b7 2016 \u00b7 Cited by 364 \u2014 We discuss a variety of challenges we expect to arise as automation assumes increasing responsibility for driving tasks once performed solely by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Safety First for Autonomous Vehicles: Where Do We Stand ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=UxJK7Jv-1hA",
+            "snippet": "Safety is concerned with mitigating risk due to system failure only. With the advent of assisted and automated driving, automobiles need a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Toward Fully Autonomous Driving: AI, Challenges ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.22927v1",
+            "snippet": "Efficient scalability of automated driving (AD) is key to reducing costs, enhancing safety, conserving resources, and maximizing impact.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A comprehensive review on safe reinforcement learning for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772671124003905",
+            "snippet": "by R Inamdar \u00b7 2024 \u00b7 Cited by 50 \u2014 To operate safely in a dynamic environment, autonomous vehicles must possess the same level of predictive driving abilities as human drivers and must be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its ...",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Exploring the implications of autonomous vehicles - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8885781/",
+            "snippet": "by K Othman \u00b7 2022 \u00b7 Cited by 289 \u2014 This study shows that many roads in India lack the stop lines, pedestrian crosswalks, lane marking, and edge marking.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 20,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+        "response": " Lack of capability or robustness is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+        "elapsed_time": 65.24996358400676
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous technology is designed to navigate roads and interact with surroundings without human intervention. It utilizes a combination of sensors and artificial intelligence to detect and respond to objects, including pedestrians, in its environment. The system aims to provide a safe and efficient transportation experience by making decisions in real-time.",
+    "output": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous technology is designed to navigate roads and interact with surroundings without human intervention. It utilizes a combination of sensors and artificial intelligence to detect and respond to objects, including pedestrians, in its environment. The system aims to provide a safe and efficient transportation experience by making decisions in real-time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in autonomous vehicle technology",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in utilizing a combination of sensors and artificial intelligence to detect and respond to objects in a vehicle equipped with autonomous technology",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666675824002182",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Toward the robustness of autonomous vehicles in the AI era",
+            "text": "",
+            "link": "https://www.the-innovation.org/article/id/67c170b07cc19947ed5037f4",
+            "snippet": "The criticality of robustness in ensuring public trust and the practical viability on a global scale can never be underestimated. Developing AD systems that can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Concerns About Autonomous Vehicle Risks - Verisk",
+            "text": "",
+            "link": "https://core.verisk.com/Insights/Emerging-Issues/Articles/2025/February/Week-1/Concerns-About-Autonomous-Vehicle-Risks",
+            "snippet": "Difficulty in determining crash liability is the greatest potential risk of AVs, according to respondents. For instance, a Level 3 autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The Safety Risks of AI-Driven Solutions in Autonomous Road Vehicles",
+            "text": "",
+            "link": "https://www.mdpi.com/2032-6653/15/10/438",
+            "snippet": "This paper focuses on the potential safety risks of deploying DNN classifiers in Advanced Driver Assistance System (ADAS) systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Problems with Autonomous Vehicles and Object Recognition",
+            "text": "",
+            "link": "https://www.thedoanlawfirm.com/blog/2019/april/problems-with-autonomous-vehicles-and-object-rec/",
+            "snippet": "Specifically, we believe that problems with object detection and object recognition are the \u201cAchilles Heel\u201d of autonomous vehicle technology. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Assessing the barriers and implications of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666188825001340",
+            "snippet": "This paper explores recent AV developments, highlights key challenges, and discusses their broader implications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Testing autonomous vehicles and AI: perspectives and challenges ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s12544-025-00732-x",
+            "snippet": "This study aims to comprehensively explore the complexities of integrating Artificial Intelligence (AI) into Autonomous Vehicles (AVs), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "(PDF) A Critical AI View on Autonomous Vehicle Navigation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384068538_A_Critical_AI_View_on_Autonomous_Vehicle_Navigation_The_Growing_Danger",
+            "snippet": "This review critically examines the potential dangers associated with the increasing reliance on AI in AV navigation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Vulnerable Road Users and Connected Autonomous Vehicles ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9229412/",
+            "snippet": "Autonomous vehicles are being visualized as a viable alternative to solve road accidents providing a general safe environment for all the users on the road ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] The Need for Standards in Autonomous Driving: Exploring Ethical ...",
+            "text": "",
+            "link": "https://scholar.utc.edu/cgi/viewcontent.cgi?article=1613&context=honors-theses",
+            "snippet": "Autonomous vehicle (AV) technology uses sensors, AI, and algorithms to enable GPS-enabled navigation of this newly advanced technology. Today, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 12,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999990000004999,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous technology is designed to navigate roads and interact with surroundings without human intervention. It utilizes a combination of sensors and artificial intelligence to detect and respond to objects, including pedestrians, in its environment. The system aims to provide a safe and efficient transportation experience by making decisions in real-time.",
+        "response": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous technology is designed to navigate roads and interact with surroundings without human intervention. It utilizes a combination of sensors and artificial intelligence to detect and respond to objects, including pedestrians, in its environment. The system aims to provide a safe and efficient transportation experience by making decisions in real-time.",
+        "elapsed_time": 19.032734041000367
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An autonomous vehicle system is designed to navigate through various environments using sensors that provide critical data for safe and efficient travel. These sensors enable the vehicle to detect and respond to its surroundings, allowing for autonomous operation. The system relies on accurate sensor input to make informed decisions and ensure a smooth journey.",
+    "output": " Lack of capability or robustness is a risk associated with An autonomous vehicle system is designed to navigate through various environments using sensors that provide critical data for safe and efficient travel. These sensors enable the vehicle to detect and respond to its surroundings, allowing for autonomous operation. The system relies on accurate sensor input to make informed decisions and ensure a smooth journey.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in an autonomous vehicle system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an autonomous vehicle system's sensors is a risk in navigating through various environments using sensors",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in an autonomous vehicle system is a risk in detecting and responding to surroundings",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in an autonomous vehicle system's sensors is a risk in making informed decisions based on sensor input",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666675824002182",
+            "snippet": "Enhancing AD system robustness requires a critical reassessment of guidance and navigation methodologies, ensuring reliable and adaptable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Autonomous Vehicles That Include Risk in Their Decision Making",
+            "text": "",
+            "link": "https://www.volpe.dot.gov/news/autonomous-vehicles-include-risk-their-decision-making",
+            "snippet": "Referred to as model-based autonomy, Prof. Williams' focus is on risk-aware systems whose actions operate within user-specified risk tolerances.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "System and Sensor Failures. An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11360603/",
+            "snippet": "This survey covers 108 publications and presents an overview of the sensors used in AVs today, categorizes the sensor's failures that can occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Sensor systems for autonomous vehicles: functionality and reliability ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0263224125025746",
+            "snippet": "Integrating multiple sensors is associated with several challenges in adverse climatic circumstances, impacting the performance in perception ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What are the limitations of current sensor technology in self-driving ...",
+            "text": "",
+            "link": "https://www.linkedin.com/advice/3/what-limitations-current-sensor-technology-qlbnc",
+            "snippet": "Autonomous vehicles must be able to operate reliably in all weather conditions, but achieving this level of robustness requires sensors that can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "An Overview of Autonomous Vehicles Sensors and Their ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/1424-8220/21/16/5397",
+            "snippet": "This paper specifically addresses the effects of different weather conditions (precipitation, fog, lightning, etc.) on the perception systems of AVs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "For instance, these systems may struggle to interpret pedestrians' gestures or human drivers' nuanced behavior, such as yielding or negotiating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Assessing the barriers and implications of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666188825001340",
+            "snippet": "Additionally, AVs' safety depends on their ability to communicate with other vehicles and infrastructure and detect and respond to cyber-attacks and hacking ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "On the Assessment of Sensitivity of Autonomous Vehicle Perception",
+            "text": "",
+            "link": "https://csrc.nist.gov/pubs/other/2026/01/30/on-the-assessment-of-sensitivity-of-autonomous-veh/final",
+            "snippet": "Hence, it is essential to measure the robustness of the perception systems of autonomous vehicles (AVs) and explore strategies for making ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Survey on Sensor Failures in Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11360603/",
+            "snippet": "However, these sensors have weaknesses, and are prone to failure, resulting in decision errors by vehicle controllers that pose significant ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Roadside sensor networks for robust perception and decision ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590005626001074",
+            "snippet": "Autonomous vehicles face critical perception limitations in adverse weather and dense traffic, where onboard sensors frequently deliver ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Assessing the Quality of Decision-making by Autonomous Systems",
+            "text": "",
+            "link": "https://www.ida.org/-/media/feature/publications/a/as/assessing-the-quality-of-decision-making-by-autonomous-systems/p-9116.ashx",
+            "snippet": "Not all autonomous capabilities, such as some standard practices for testing systems that make decisions by simple thresholding or that fuse ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Simulating the Effects of Sensor Failures on Autonomous Vehicles ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2227-9709/12/3/94",
+            "snippet": "However, sensor failures, whether due to noise, malfunction, or degradation, can compromise this perception and lead to incorrect localization or unsafe ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What are the limitations of current sensor technology in self-driving ...",
+            "text": "",
+            "link": "https://www.linkedin.com/advice/3/what-limitations-current-sensor-technology-qlbnc",
+            "snippet": "Explore the limitations hindering sensor technology in self-driving cars and how they impact the future of autonomous travel.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation: The Growing ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "While AI has undoubtedly enabled remarkable capabilities in AVs, it also introduces significant risks and challenges that must be addressed to ensure the safe ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "How will the autonomous vehicles of the future handle the failures of ...",
+            "text": "",
+            "link": "https://www.quora.com/How-will-the-autonomous-vehicles-of-the-future-handle-the-failures-of-the-hardware-sensors-computers-or-software-As-these-vehicles-age-some-owners-will-not-repair-the-failed-equipment",
+            "snippet": "There are a few common techniques for detecting failures that I've seen. One is to monitor for values outside an expected range.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) Safety Challenges for Autonomous Vehicles in the Absence of ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384746578_Safety_Challenges_for_Autonomous_Vehicles_in_the_Absence_of_Connectivity",
+            "snippet": "This article examines the critical safety challenges faced by autonomous vehicles (AVs) operating in environments without connectivity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An autonomous vehicle system is designed to navigate through various environments using sensors that provide critical data for safe and efficient travel. These sensors enable the vehicle to detect and respond to its surroundings, allowing for autonomous operation. The system relies on accurate sensor input to make informed decisions and ensure a smooth journey.",
+        "response": " Lack of capability or robustness is a risk associated with An autonomous vehicle system is designed to navigate through various environments using sensors that provide critical data for safe and efficient travel. These sensors enable the vehicle to detect and respond to its surroundings, allowing for autonomous operation. The system relies on accurate sensor input to make informed decisions and ensure a smooth journey.",
+        "elapsed_time": 29.24225962499986
+    }
+}

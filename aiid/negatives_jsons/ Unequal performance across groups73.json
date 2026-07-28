@@ -1,0 +1,394 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+    "output": " Unequal performance across groups is a not a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is not a risk associated with a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing and comparing facial features to identify individuals in a facial recognition system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in leveraging advanced algorithms and machine learning techniques for a facial recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in assisting to identify people using a facial recognition system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2",
+                "c_a3_3"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unequal performance across groups is a risk in a facial recognition system when verifying identities to enhance security and law enforcement efforts",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Addressing Inclusion in Face Recognition",
+            "text": "",
+            "link": "https://www.paravision.ai/news/addressing-critical-inclusion-questions-for-face-recognition-technology-buyers/",
+            "snippet": "Ethical Risk: Face recognition systems with poor performance on a range of demographics can perpetuate discrimination and inequality, undermining an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Biased Face Recognition Technology Used by Government: A Problem for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 60 \u2014 This paper presents a novel philosophical analysis of the problem of law enforcement's use of biased face recognition technology (FRT) in liberal democracies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "HP technologists neglected to reflectively anticipate the risks of harm to various impacted communities in cases of algorithmic failure.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Face Recognition Performance, Bias, and the Limits of Technical Fixes",
+            "text": "",
+            "link": "https://fas.org/publication/face-recognition-bias/",
+            "snippet": "As face recognition use grows, so will its benefits and harms, making it bias against certain demographic groups if it makes more errors on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The real problem with face recognition technology is not what you thought",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/real-problem-face-recognition-technology-what-you-sirotin-phd",
+            "snippet": "face recognition systems can have unequal performance across demographic groups. Further, unchecked hoarding of annotated face images greatly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "NIST Study Evaluates Effects of Race, Age, Sex on Face ...",
+            "text": "",
+            "link": "https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software",
+            "snippet": "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Why Racial Bias is Prevalent in Facial Recognition ...",
+            "text": "",
+            "link": "https://jolt.law.harvard.edu/digest/why-racial-bias-is-prevalent-in-facial-recognition-technology",
+            "snippet": "Collectively, these problems lead to facial recognition technology that performs unevenly across races\u2014typically worse for darker skin tones.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Racial Bias within Face Recognition: A Survey",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3705295",
+            "snippet": "This comprehensive survey examines racial bias across every stage of facial recognition technology. The research addresses a critical gap in computer vision, as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Top 5 Facial Recognition Challenges & Solutions",
+            "text": "",
+            "link": "https://aimultiple.com/facial-recognition-challenges",
+            "snippet": "Even when a model performs well on average, its errors can be unevenly distributed across demographic groups, creating real-world risks in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Countermeasures against bias and spoofing in modern ...",
+            "text": "",
+            "link": "https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2025-0011.pdf",
+            "snippet": "Bias in facial recognition stems from imbalanced training datasets, leading to disparities in recognition accuracy across gender, ethnicity, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Bias in AI systems: integrating formal and socio-technical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Facial recognition deploy predictive tools with life-altering consequences. These systems risk institutionalizing historical inequities through three ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Face Recognition Performance, Bias, and the Limits ...",
+            "text": "",
+            "link": "https://fas.org/publication/face-recognition-bias/",
+            "snippet": "One way that bias can occur is through training FRT models using unbalanced data that better represents some groups. When this occurs, bias can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "AI systems based on incomplete or biased data can lead to inaccurate outcomes that infringe on people's fundamental rights, including non-discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Why Racial Bias is Prevalent in Facial Recognition ...",
+            "text": "",
+            "link": "https://jolt.law.harvard.edu/digest/why-racial-bias-is-prevalent-in-facial-recognition-technology",
+            "snippet": "Many of these algorithms were found to be between 10 and 100 times more likely to misidentify a Black or East Asian face than a white face.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Using technology that has documented problems with correctly identifying people of color is dangerous. The ACLU-MN has an appalling ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Face Recognition Performance, Bias, and the Limits of Technical Fixes",
+            "text": "",
+            "link": "https://fas.org/publication/face-recognition-bias/",
+            "snippet": "FRT have consistently shown worse performance on women than men and worse performance on Black people than on white people, and many FRT display ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "Imbalanced datasets with less representation of marginalised demographic groups would train FDRTs to be less accurate for them, and, up to very recently, pretty ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Face Recognition Performance, Bias, and the Limits ...",
+            "text": "",
+            "link": "https://fas.org/publication/face-recognition-bias/",
+            "snippet": "Improper development or use of face recognition technology (FRT) can lead to serious harms. One such example occurred in 2020 when Christopher ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Chapter: 5 Conclusions and Recommendations",
+            "text": "",
+            "link": "https://www.nationalacademies.org/read/27397/chapter/7",
+            "snippet": "Facial recognition technology (FRT) has matured into a powerful technology for identification and identity verification. Some uses offer convenience, efficiency ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "The Civil Rights Implications of the Federal Use of Facial ...",
+            "text": "",
+            "link": "https://www.usccr.gov/files/2024-09/civil-rights-implications-of-frt_0.pdf",
+            "snippet": "Using facial recognition in this manner creates serious risk of fishing investigations, disparate treatment, and outright abuse.323",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "What Science Really Says About Facial Recognition ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/2022/07/23/what-science-really-says-about-facial-recognition-accuracy-and-bias-concerns/",
+            "snippet": "facial recognition is inherently less accurate in matching photos of Black and female subjects is simply false.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Facial Recognition Algorithms: A Systematic Literature Review",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11856072/",
+            "snippet": "by NEL Fadel \u00b7 2025 \u00b7 Cited by 66 \u2014 This systematic literature review aims to understand new developments and challenges in facial recognition technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Face Recognition Performance, Bias, and the Limits ...",
+            "text": "",
+            "link": "https://fas.org/publication/face-recognition-bias/",
+            "snippet": "Bias can occur due to training FRT using biased datasets that do not accurately reflect the demographics of the overall population.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Comparison of Human and Machine Learning Errors in ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.11337v1",
+            "snippet": "They documented instances where facial recognition algorithms did not achieve any successful matches, while humans outperformed random chance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Face Recognition Technology Accuracy and Performance",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/article/frt-accuracy-performance/",
+            "snippet": "Some research suggests that face recognition technology results may bias human reviewers' analysis of face similarity\u2013at least when the human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.8,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 4,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.7815508558078626e-05,
+        "norm_entropy": 0.00010687131444666094,
+        "avg_entropy": 3.563101711615725e-06,
+        "avg_norm_entropy": 2.137426288933219e-05,
+        "avg_prob": 0.7999993999999999,
+        "avg_logprob": -2.763102911593255,
+        "avg_explogprob": 0.0630956839714267,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.8,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+        "response": " Unequal performance across groups is a not a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+        "elapsed_time": 190.286013541976
+    }
+}

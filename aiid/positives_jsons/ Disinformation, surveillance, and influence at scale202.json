@@ -1,0 +1,413 @@
+{
+    "input": " Disinformation, surveillance, and influence at scale is a risk associated with A system is designed to detect and mitigate online disinformation campaigns by identifying fake user profiles and suspicious activity. It utilizes AI-powered image analysis to recognize generated profile pictures and flag potential security threats. The system aims to protect users from manipulated information and maintain a safe online environment.",
+    "output": " Disinformation, surveillance, and influence at scale is a risk associated with A system is designed to detect and mitigate online disinformation campaigns by identifying fake user profiles and suspicious activity. It utilizes AI-powered image analysis to recognize generated profile pictures and flag potential security threats. The system aims to protect users from manipulated information and maintain a safe online environment.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with the online environment",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with detecting and mitigating online disinformation campaigns",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with identifying fake user profiles in online disinformation campaigns",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with recognizing generated profile pictures using AI-powered image analysis",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Disinformation, surveillance, and influence at scale is a risk associated with flagging potential security threats in the system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Disinformation Is a Global Risk. So Why Are We Still Treating It Like ...",
+            "text": "",
+            "link": "https://un-dco.org/stories/disinformation-global-risk-so-why-are-we-still-treating-it-tech-problem",
+            "snippet": "Disinformation is a top global threat and a crisis of trust that technology alone cannot solve. The UN is leading a systemic response by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The disaster of misinformation: a review of research in social media",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/",
+            "snippet": "The spread of misinformation in social media has become a severe threat to public interests. For example, several incidents of public health ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Exploring the impact of online misinformation on ideological ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43545-026-01349-0",
+            "snippet": "This review streamlines the larger concerns associated with online misinformation towards two issues (ideological polarisation and institutional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Platforms recognize that disinformation is a big systemic risk. Now ...",
+            "text": "",
+            "link": "https://efcsn.com/news/2025-12-04_platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/",
+            "snippet": "The law is clear in the EU: disinformation is a systemic risk on the biggest digital services. However, platforms have been retreating from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Disinformation and misinformation - OECD",
+            "text": "",
+            "link": "https://www.oecd.org/en/topics/disinformation-and-misinformation.html",
+            "snippet": "The spread of false and misleading information poses significant risks to the well-being of people and society. While such content is not necessarily ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Countering Disinformation Effectively: An Evidence-Based Policy ...",
+            "text": "",
+            "link": "https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide",
+            "snippet": "A high-level, evidence-informed guide to some of the major proposals for how democratic governments, platforms, and others can counter disinformation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Preventive Strategies Against Disinformation: A Study on Digital and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12457897/",
+            "snippet": "In 2018, the first Eurobarometer survey on fake news and online disinformation identified both as a threat to 83% of respondents. In 2023, a new survey , ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How to combat fake news and disinformation - Brookings Institution",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/how-to-combat-fake-news-and-disinformation/",
+            "snippet": "The news industry must provide high-quality journalism in order to build public trust and correct fake news and disinformation without legitimizing them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Managing disinformation on social media platforms - Springer Nature",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12525-025-00796-6",
+            "snippet": "Modern disinformation campaigns use individuals' private personal information to craft stories carefully designed to manipulate specific readers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Fake social media news and distorted campaign detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405844024120804",
+            "snippet": "This research presents a framework to use sentiment analysis based on emotions to investigate news, posts, and opinions on social media.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI in Disinformation Detection",
+            "text": "",
+            "link": "https://www.acigjournal.com/AI-in-Disinformation-Detection%2C200200%2C0%2C2.html",
+            "snippet": "The potential harm from such attacks has been proven to be even more extreme. Such threats require international collaboration to identify and effectively ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Online Influence Campaigns: Strategies and Vulnerabilities - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2501.10387v1",
+            "snippet": "Inauthentic societal-scale manipulation involves the development and operation of largely digital information campaigns by malicious actors. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Assessing the risks and opportunities posed by AI-enhanced ...",
+            "text": "",
+            "link": "https://portal.research.lu.se/en/publications/assessing-the-risks-and-opportunities-posed-by-ai-enhanced-influe/",
+            "snippet": "They can generate persuasive, tailored content at scale, making campaigns using falsified content, such as disinformation and fake accounts, easier to produce.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "How AI-generated images (AIGIs) are fooling social media users",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0747563225003231",
+            "snippet": "This study investigates the deceptive impact of AI-generated images [AIGIs] on social media, focusing on content features, user engagement, and underlying ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "How spammers and scammers leverage AI-generated images on ...",
+            "text": "",
+            "link": "https://misinforeview.hks.harvard.edu/article/how-spammers-and-scammers-leverage-ai-generated-images-on-facebook-for-audience-growth/",
+            "snippet": "We show that spammers and scammers\u2014seemingly motivated by profit or clout, not ideology\u2014are already using AI-generated images to gain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI-driven disinformation: policy recommendations for democratic ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "Illustrates rapid scale-up in misinformation production. Virality benchmarks show systemic threat to information integrity. Synthetic identities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Analyzing Harms from AI-Generated Images and ... - RAND",
+            "text": "",
+            "link": "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3100/PEA3131-1/RAND_PEA3131-1.pdf",
+            "snippet": "The rise of image generation tools has introduced synthetic forms of such safety harms as mis- and disinformation, extremism, and nonconsensual intimate imagery ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "AI-Generated Faces in the Real World: A Large-Scale Case Study of ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384462786_AI-Generated_Faces_in_the_Real_World_A_Large-Scale_Case_Study_of_Twitter_Profile_Images",
+            "snippet": "A systematic, large-scale study of AI-generated profile images on X. They propose a multi-stage pipeline based on a ResNet50 [168] to distinguish real from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Why Misinformation and Disinformation is a Cybersecurity Problem?",
+            "text": "",
+            "link": "https://www.sentinelone.com/blog/the-truth-crisis-the-rising-threat-of-online-misinformation-and-disinformation/",
+            "snippet": "Discover the dangers of misinformation and disinformation, and how threat actors leverage these tactics to achieve their goals.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "What is Disinformation Security? - Blackbird.AI",
+            "text": "",
+            "link": "https://blackbird.ai/blog/disinformation-security/",
+            "snippet": "Government and industry frameworks are catching up to the threat: EU Digital Services Act requires platforms to mitigate systemic risks from disinformation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "The disaster of misinformation: a review of research in social media",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/",
+            "snippet": "Rumors, misinformation, disinformation, and mal-information are common challenges confronting media of all types. It is, however, worse in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Social media, misinformation and harmful algorithms - Parliament UK",
+            "text": "",
+            "link": "https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html",
+            "snippet": "... issues from the year, and setting out successes and ... risks of frontier AI being used to generate mis/disinformation and threats online.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI and the Future of Disinformation Campaigns",
+            "text": "",
+            "link": "https://cset.georgetown.edu/publication/ai-and-the-future-of-disinformation-campaigns-2/",
+            "snippet": "This report describes how AI can supercharge current techniques to increase the speed, scale, and personalization of disinformation campaigns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI-driven disinformation: policy recommendations for ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "by A Romanishyn \u00b7 2025 \u00b7 Cited by 38 \u2014 ... AI-driven tools to detect, verify, and mitigate false content online. These systems are being used not only to trace nefarious actions but ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Detecting and countering misuse of AI: August 2025",
+            "text": "",
+            "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+            "snippet": "Cybercriminals and fraudsters have embedded AI throughout all stages of their operations. This includes profiling victims, analyzing stolen data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Countering AI Disinformation and Implications for the US- ...",
+            "text": "",
+            "link": "https://www.stimson.org/project/ai-disinformation-for-us-rok/",
+            "snippet": "This project seeks to deepen understanding of how AI can be weaponized for misinformation and disinformation campaigns, the vulnerabilities that creates for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Deepfake disruption: A cybersecurity-scale challenge and ...",
+            "text": "",
+            "link": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/gen-ai-trust-standards.html",
+            "snippet": "Deepfakes\u2014photos, videos, and audio clips that seem real but are generated by artificial intelligence tools\u2014are making it harder for audiences ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.958394,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.923306,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.11440601741879777,
+        "norm_entropy": 0.6400937175377228,
+        "avg_entropy": 0.022881203483759556,
+        "avg_norm_entropy": 0.12801874350754455,
+        "avg_prob": 0.9763394,
+        "avg_logprob": -0.0244587767742458,
+        "avg_explogprob": 0.9758379152759524,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.041606,
+                    0.958394
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.076694,
+                    0.923306
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.9542026057744,
+        "topic": "",
+        "query": " Disinformation, surveillance, and influence at scale is a risk associated with A system is designed to detect and mitigate online disinformation campaigns by identifying fake user profiles and suspicious activity. It utilizes AI-powered image analysis to recognize generated profile pictures and flag potential security threats. The system aims to protect users from manipulated information and maintain a safe online environment.",
+        "response": " Disinformation, surveillance, and influence at scale is a risk associated with A system is designed to detect and mitigate online disinformation campaigns by identifying fake user profiles and suspicious activity. It utilizes AI-powered image analysis to recognize generated profile pictures and flag potential security threats. The system aims to protect users from manipulated information and maintain a safe online environment.",
+        "elapsed_time": 56.37905137499911
+    }
+}

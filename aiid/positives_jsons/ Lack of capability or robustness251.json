@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide timely and accurate alerts to law enforcement. The technology intends to help authorities respond quickly to potential violent incidents, ultimately enhancing public safety. It utilizes machine learning algorithms to analyze audio signals and identify patterns consistent with gunshot noises.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide timely and accurate alerts to law enforcement. The technology intends to help authorities respond quickly to potential violent incidents, ultimately enhancing public safety. It utilizes machine learning algorithms to analyze audio signals and identify patterns consistent with gunshot noises.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the gunshot detection system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in analyzing audio signals to identify patterns consistent with gunshot noises in the system designed to detect and locate gunshots",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection System | ACLU",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/four-problems-with-the-shotspotter-gunshot-detection-system",
+            "snippet": "A new investigation points to yet another problematic outcome of the technology's use and the company's lack of transparency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "ShotSpotter is a Failure. What's Next? - MacArthur Justice Center",
+            "text": "",
+            "link": "https://www.macarthurjustice.org/blog2/shotspotter-is-a-failure-whats-next/",
+            "snippet": "A study on the dangerous inaccuracy of ShotSpotter, a surveillance system that purports to detect the sounds and location of gunfire.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "U-M policy brief raises concerns about acoustic gunshot detection ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "Research at the University of Michigan finds law enforcement technology aimed at detecting gunshot sounds and notifying police in close to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection System",
+            "text": "",
+            "link": "https://www.aclunv.org/news/four-problems-shotspotter-gunshot-detection-system/",
+            "snippet": "The report questioned the \u201coperational value\u201d of the technology and found that it increases the incidence of stop and frisk tactics by police ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Informational Report Regarding ShotSpotter Technology",
+            "text": "",
+            "link": "https://www.nashville.gov/sites/default/files/2022-10/ShotSpotter-Informational-Report.pdf?ct=1666884022",
+            "snippet": "There is currently a lack of robust, peer-reviewed research that examines the impact of. [gun detection technology] in general, or ShotSpotter technology ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Gun identification from gunshot audios for secure public places ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9345922/",
+            "snippet": "This research focuses on gun-type (rifle, handgun, none) detection based on the audio of its shot. Mel-frequency-based audio features have been used.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "[PDF] SoundThinking's Black-Box Gunshot Detection Method",
+            "text": "",
+            "link": "https://law.stanford.edu/wp-content/uploads/2023/06/Publish_26-STLR-193-2023_SoundThinkings-Black-Box-Gunshot-Detection-Method.pdf",
+            "snippet": "SoundThinking markets their ShotSpotter black-box gunshot detection method to local governments and police departments as both a real-time alert.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Gunshot Detection: Reducing Gunfire through Acoustic Technology",
+            "text": "",
+            "link": "https://www.ojp.gov/library/publications/gunshot-detection-reducing-gunfire-through-acoustic-technology",
+            "snippet": "This guide describes best practices for the implementation and uses of acoustic gunshot detection systems, covering the basic principles that drive the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Deciphering GunType Hierarchy through Acoustic Analysis of ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.20609v1",
+            "snippet": "By analyzing acoustic signatures from smartphones and other common recording devices, our system can detect gunshots and classify firearm types ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "US20210233555A1 - Systems and methods for detecting a gunshot",
+            "text": "",
+            "link": "https://patents.google.com/patent/US20210233555A1/en",
+            "snippet": "A gunshot detection false negative is an event in which a gunshot actually did occur, but the gunshot event was not detected. These gunshot detection ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Does Acoustic Gunshot Detection Technology Reduce Crime? A ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12103-025-09883-y",
+            "snippet": "Gun violence has led many police agencies to adopt acoustic gunshot detection technology (GDT) to identify gunshots and provide precise ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Impact of ShotSpotter Technology on Firearm Homicides and Arrests ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8566613/",
+            "snippet": "Results suggest that implementing ShotSpotter technology has no significant impact on firearm-related homicides or arrest outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection System | ACLU",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/four-problems-with-the-shotspotter-gunshot-detection-system",
+            "snippet": "The company's sensors automatically send audio files to human analysts when those sensors detect gunshot-like sounds. Those analysts then decide ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "ShotSpotter\u00ae Gunshot Detection Impact on Public Safety",
+            "text": "",
+            "link": "https://www.soundthinking.com/shotspotter-public-safety-results/",
+            "snippet": "ShotSpotter, an acoustic gunshot detection system that alerts officers of virtually all gunfire within a city's ShotSpotter coverage area.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Critics of ShotSpotter gunfire detection system say it's ineffective ...",
+            "text": "",
+            "link": "https://www.cnn.com/2024/02/24/us/shotspotter-cities-choose-not-to-use",
+            "snippet": "ShotSpotter \u2013 a system intended to detect gunfire and cut police response times \u2013 has run into sharp criticism from officials and community groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999267,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0007337312893371388,
+        "norm_entropy": 0.008711870160854,
+        "avg_entropy": 0.0003668656446685694,
+        "avg_norm_entropy": 0.004355935080427,
+        "avg_prob": 0.999633,
+        "avg_logprob": -0.0003671343881749186,
+        "avg_explogprob": 0.9996329329974079,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.000733,
+                    0.999267
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9992672686445,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide timely and accurate alerts to law enforcement. The technology intends to help authorities respond quickly to potential violent incidents, ultimately enhancing public safety. It utilizes machine learning algorithms to analyze audio signals and identify patterns consistent with gunshot noises.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide timely and accurate alerts to law enforcement. The technology intends to help authorities respond quickly to potential violent incidents, ultimately enhancing public safety. It utilizes machine learning algorithms to analyze audio signals and identify patterns consistent with gunshot noises.",
+        "elapsed_time": 29.61074191700027
+    }
+}

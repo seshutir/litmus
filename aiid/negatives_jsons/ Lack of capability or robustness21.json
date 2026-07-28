@@ -1,0 +1,433 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A navigation system is designed to provide users with optimal traffic routes and real-time updates, helping them avoid congestion and reach their destinations efficiently. It utilizes advanced algorithms to analyze traffic patterns and suggest alternative routes. The system aims to assist users in safely navigating through uncertain road conditions.",
+    "output": " Lack of capability or robustness is a not a risk associated with A navigation system is designed to provide users with optimal traffic routes and real-time updates, helping them avoid congestion and reach their destinations efficiently. It utilizes advanced algorithms to analyze traffic patterns and suggest alternative routes. The system aims to assist users in safely navigating through uncertain road conditions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a navigation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing traffic patterns in a navigation system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with suggesting alternative routes in a navigation system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with providing real-time updates in a navigation system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with a navigation system assisting users in safely navigating through uncertain road conditions",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Threat of Unreliable GPS and Technical Needs for Advanced ...",
+            "text": "",
+            "link": "https://arc.aiaa.org/doi/10.2514/1.I011669",
+            "snippet": "by J Boo \u00b7 2025 \u00b7 Cited by 1 \u2014 A loss of GPS reliability due to spoofing can result in inefficient aircraft operation and reduced flight stability. If pilots fail to recognize ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "America's Asymmetric Vulnerability to Navigation Warfare",
+            "text": "",
+            "link": "https://nssaspace.org/wp-content/uploads/2024/07/NAVWAR-FINAL.pdf",
+            "snippet": "by MJ Berkowitz \u00b7 2024 \u00b7 Cited by 2 \u2014 GPS was designed for survivability, endurance, and operational continuity. It is among the most resilient U.S. national security space systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Webinar - GPS under attack: preparing for a world of ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=3LEDdBboZ6g",
+            "snippet": "GNSS interference is no longer an edge case. With unreliable positioning and distorted AIS, crews are forced to operate with limited visibility.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "A Risk-Aware Robust Navigation Framework for UAVs in ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2504-446X/10/5/317",
+            "snippet": "As the mainstream positioning technology, Global Navigation Satellite Systems (GNSS) are susceptible to multipath effects, signal blockage, and intentional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Analysis of Urban Road Network Robustness under ...",
+            "text": "",
+            "link": "https://press.ierek.com/index.php/ESSD/article/view/1131",
+            "snippet": "The robustness of a transportation network refers to its ability to maintain its initial state in the face of disturbances, typically measured ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Machine learning for predictions of road traffic accidents ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590123024009927",
+            "snippet": "by Y Berhanu \u00b7 2024 \u00b7 Cited by 59 \u2014 This study combined spatial crash rate, RF ML, and network analyses to predict accidents, and suggest safer routes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Understanding AI Risks in Transportation | September 2024",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/2024-09/HASS_COE_AI_Assurance_Whitepaper_AI_Risk_Sep2024.pdf",
+            "snippet": "by H Yu \u00b7 2024 \u00b7 Cited by 2 \u2014 For example, safety hazards related to AI may include misdetection of pedestrians and other vehicles, incorrect vehicle localization, and imprecise.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI-based prediction of traffic crash severity for improving road ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12304350/",
+            "snippet": "by AM Mostafa \u00b7 2025 \u00b7 Cited by 49 \u2014 ML has proven itself as an advanced predictive tool for traffic crashes through its ability to process extensive datasets and complex patterns ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Improve road safety by analyzing traffic patterns with no- ...",
+            "text": "",
+            "link": "https://aws.amazon.com/blogs/publicsector/improve-road-safety-by-analyzing-traffic-patterns-with-no-code-ml-using-amazon-sagemaker-canvas/",
+            "snippet": "In this blog post, we discuss how transportation organizations can analyze the factors contributing to road accidents and predict accident severity using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Navigating to safety: Necessity, requirements, and barriers ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005246",
+            "snippet": "by S Sohrabi \u00b7 2022 \u00b7 Cited by 24 \u2014 This study is designed to examine the safety of the fastest routes suggested by navigation systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Navigation Tools Could Be Pointing Drivers To The Shortest ...",
+            "text": "",
+            "link": "https://stories.tamu.edu/news/2022/02/22/navigation-tools-could-be-pointing-drivers-to-the-shortest-route-but-not-the-safest/",
+            "snippet": "Texas A&M researchers found navigation systems often guide drivers to take paths that carry a greater risk of crashes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Developing AI-driven Safe Navigation Tool",
+            "text": "",
+            "link": "https://rosap.ntl.bts.gov/view/dot/73307/dot_73307_DS1.pdf",
+            "snippet": "Maps provide distance-based or travel time- based alternative routes with no real-time risk scoring. not necessarily the safest. lack of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "[WEBINAR] When GPS Lies & AIS Goes Dark: Rethinking ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=uh0S0uR8X38",
+            "snippet": "Today's topic will discuss the elusive world of GPS and AIS spoofing and jamming in maritime operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Customized recursive model for drivers' navigation ...",
+            "text": "",
+            "link": "https://www.sciopen.com/article/10.1016/j.commtr.2025.100187",
+            "snippet": "by K Zou \u00b7 2025 \u00b7 Cited by 1 \u2014 A key question arises: How do drivers choose routes when guided by navigation systems? This study addresses that question by modeling drivers' ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Integrity of Visual Navigation\u2014Developments, Challenges ...",
+            "text": "",
+            "link": "https://navi.ion.org/content/69/2/navi.518",
+            "snippet": "by C Zhu \u00b7 2022 \u00b7 Cited by 61 \u2014 In this paper, we review the current status, particular challenges, and development trends in visual positioning integrity monitoring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The GPS High Accuracy and Robustness Service",
+            "text": "",
+            "link": "https://www.gpsworld.com/the-gps-high-accuracy-and-robustness-service-hars/",
+            "snippet": "A high-accuracy, resilient service that ensures delivery of precise, reliable and secure GNSS corrections for a wide range of scientific and commercial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Webinar - GPS under attack: preparing for a world of ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=3LEDdBboZ6g",
+            "snippet": "GNSS interference is no longer an edge case. With unreliable positioning and distorted AIS, crews are forced to operate with limited visibility ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "America's Asymmetric Vulnerability to Navigation Warfare",
+            "text": "",
+            "link": "https://nssaspace.org/wp-content/uploads/2024/07/NAVWAR-FINAL.pdf",
+            "snippet": "by MJ Berkowitz \u00b7 2024 \u00b7 Cited by 2 \u2014 Such shortfalls involve system performance, survivability, and resilience. GPS is not necessarily survivable against all dangers. GPS satellite ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "A robust and adaptive framework for GNSS/INS integrated ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S100093612600018X",
+            "snippet": "by W Zhipeng \u00b7 2026 \u00b7 Cited by 4 \u2014 The results confirm that the framework provides a highly effective and robust solution for continuous navigation in GNSS outage environments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "by T Miller \u00b7 2024 \u00b7 Cited by 41 \u2014 The lack of adequate redundancy can lead to uncontrolled vehicle behavior in the event of a failure, posing significant safety risks [5,45,77].",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Developing AI-driven Safe Navigation Tool",
+            "text": "",
+            "link": "https://rosap.ntl.bts.gov/view/dot/73307/dot_73307_DS1.pdf",
+            "snippet": "Since the 1960s, road navigation systems have been recognized as a driving assistance technology that enhances safety (Auer et al., 2016).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Perception and sensing for autonomous vehicles under ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0924271622003367",
+            "snippet": "by Y Zhang \u00b7 2023 \u00b7 Cited by 874 \u2014 It can be inferred from the previous section that an individual sensor is not going to navigate through adverse weather conditions with enough safety assurance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Outdoor Navigation Assistive System Based on Robust and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10781372/",
+            "snippet": "by F Scalvini \u00b7 2023 \u00b7 Cited by 37 \u2014 This article proposes a new navigation aid to help people with severe blindness reach their destination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Artificial intelligence, machine learning and deep ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772586325000565",
+            "snippet": "by S Saki \u00b7 2025 \u00b7 Cited by 65 \u2014 By adapting to live conditions, these systems minimize delays, reduce wait times, and improve overall service reliability",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Advancements in accident-aware traffic management - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12508076/",
+            "snippet": "by HM Zohir \u00b7 2025 \u00b7 Cited by 19 \u2014 A critical application of V2X technology is accident-aware traffic management, which integrates real-time accident reports, road congestion data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI in transportation",
+            "text": "",
+            "link": "https://www.ptvgroup.com/en-us/application-areas/ai-in-transportation",
+            "snippet": "The system integrates live data from traffic sensors, GPS probes, and signal controllers to continuously monitor road conditions. Using AI-powered algorithms ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Unstoppable Rise of AI in Transportation",
+            "text": "",
+            "link": "https://numalis.com/ai-in-transportation/",
+            "snippet": "Improved safety and accident reduction: AI-driven systems can alert drivers of potential hazards and provide real-time updates on traffic conditions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Case Study in Batam City, Indonesia",
+            "text": "",
+            "link": "https://library.acadlore.com/IJCMEM/2025/13/2/IJCMEM_13.02_08.pdf",
+            "snippet": "by AA Dermawan \u00b7 2025 \u00b7 Cited by 1 \u2014 GPS-based navigation systems commonly used by drivers mostly rely on conventional route-finding algorithms that do not consider real-time ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A navigation system is designed to provide users with optimal traffic routes and real-time updates, helping them avoid congestion and reach their destinations efficiently. It utilizes advanced algorithms to analyze traffic patterns and suggest alternative routes. The system aims to assist users in safely navigating through uncertain road conditions.",
+        "response": " Lack of capability or robustness is a not a risk associated with A navigation system is designed to provide users with optimal traffic routes and real-time updates, helping them avoid congestion and reach their destinations efficiently. It utilizes advanced algorithms to analyze traffic patterns and suggest alternative routes. The system aims to assist users in safely navigating through uncertain road conditions.",
+        "elapsed_time": 125.43975570902694
+    }
+}

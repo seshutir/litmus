@@ -1,0 +1,221 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with A system utilizes AI to estimate vehicle speeds through video analysis, enabling users to report traffic violations. The technology is designed to process visual data and provide accurate speed assessments. This capability can be used to support traffic management and enforcement efforts.",
+    "output": " Overreliance and unsafe use is a risk associated with A system utilizes AI to estimate vehicle speeds through video analysis, enabling users to report traffic violations. The technology is designed to process visual data and provide accurate speed assessments. This capability can be used to support traffic management and enforcement efforts.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use of a traffic management system utilizing AI is a risk associated with traffic management",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use of a system that utilizes AI to estimate vehicle speeds through video analysis is a risk associated with utilizing AI to estimate vehicle speeds through video analysis",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "[PDF] Understanding AI Risks in Transportation | September 2024",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/2024-09/HASS_COE_AI_Assurance_Whitepaper_AI_Risk_Sep2024.pdf",
+            "snippet": "For instance, due to low trust, an air traffic controller may not use an AI-based traffic management system that aims to reduce the employee's workload. \u2022 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI Traffic Management Systems | Whitepaper - Antaira Technologies",
+            "text": "",
+            "link": "https://www.antaira.com/Whitepaper-Avoiding-Bumps-Designing-AI-Powered-Traffic-Management-Systems?srsltid=AfmBOorK8hqo5BoEILcfGJHH2nZqffcrZWABrKbryN-FE3sy4HiolATa",
+            "snippet": "AI's skeptics fret that if we run the transportation playbook forward, there is the real possibility that data safety and privacy will be compromised. To ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How Artificial Intelligence Is Changing Traffic Management",
+            "text": "",
+            "link": "https://kustomsignals.com/blog/how-artificial-intelligence-is-changing-traffic-management",
+            "snippet": "By analyzing historical crash data and live traffic patterns, AI systems can identify high-risk intersections, times of day, and driver behaviors that are most ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The usefulness of artificial intelligence for safety assessment of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001457523000817",
+            "snippet": "This paper reviews the ML and AI methods used in different transport modes (road, rail, maritime and aviation) to address safety problems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How AI-Powered Systems Are Reducing Traffic Accidents - AITUDE",
+            "text": "",
+            "link": "https://www.aitude.com/how-ai-powered-systems-are-reducing-traffic-accidents/",
+            "snippet": "This broader use of AI creates a safety net that goes beyond prevention and addresses what happens in the critical minutes after an accident. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI Traffic Analysis System Identifies Safety Risks Automatically",
+            "text": "",
+            "link": "https://www.resultsense.com/news/2025-11-24-ai-vision-models-traffic-safety-analysis",
+            "snippet": "NYU researchers created SeeUnsafe, an AI system that automatically analyses traffic video to identify collisions and near-misses using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "It's Not a Speed Camera. It's AI Surveillance - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/instituteforjustice/posts/its-not-a-speed-camera-its-ai-surveillance/1402715075234019/",
+            "snippet": "There have been tons of false alerts from these cameras that resulted in families being held at gun point. These cameras have been used to track ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI Speed Cameras - What Drivers Need to Know - Inshur",
+            "text": "",
+            "link": "https://inshur.com/en-gb/blog/ai-speed-cameras-what-drivers-need-to-know",
+            "snippet": "AI cameras can identify a larger range of offences such as tailgating, mobile phone usage, and not wearing seatbelts. These cameras use advanced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI-based prediction of traffic crash severity for improving road safety ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12304350/",
+            "snippet": "The classification of crashes into three severity levels by ML models enables the identification of dangerous areas and key accident patterns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Understanding AI Risks in Transportation | September 2024",
+            "text": "",
+            "link": "https://www.transportation.gov/sites/dot.gov/files/2024-09/HASS_COE_AI_Assurance_Whitepaper_AI_Risk_Sep2024.pdf",
+            "snippet": "For example, safety hazards related to AI may include misdetection of pedestrians and other vehicles, incorrect vehicle localization, and imprecise.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Analyzing road traffic crashes through multidisciplinary video data ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12738921/",
+            "snippet": "In this study, we propose a novel computational framework designed to enhance the analysis of traffic safety through a multidisciplinary lens.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What AI Vision Brings: Traditional vs. Modern Traffic Enforcement",
+            "text": "",
+            "link": "https://www.e-consystems.com/blog/camera/applications/what-ai-vision-brings-traditional-vs-modern-traffic-enforcement/",
+            "snippet": "AI vision systems analyze moving scenes in real time, identifying vehicles and behavior patterns that create violations or near misses. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Improve Traffic Safety with AI Video Analytics | ISS Insights",
+            "text": "",
+            "link": "https://issivs.com/blog/how-to-improve-traffic-safety-with-ai-analytics/",
+            "snippet": "Learn how AI-driven video analytics and intelligent surveillance systems from ISS help enhance traffic safety and streamline urban mobility.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI Traffic Enforcement Minimizes Crashes Without Shifting Risk ...",
+            "text": "",
+            "link": "https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/AI-Traffic-Enforcement-Minimizes-Crashes-Without-Shifting-Risk-Study-Finds",
+            "snippet": "Our study shows that AI-powered traffic cameras don't just document violations \u2013 they promote safer driving behavior and significantly reduce accidents.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.95,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.95,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0974572593363461,
+        "norm_entropy": 0.5727939142319126,
+        "avg_entropy": 0.04872862966817305,
+        "avg_norm_entropy": 0.2863969571159563,
+        "avg_prob": 0.95,
+        "avg_logprob": -0.05129329438755058,
+        "avg_explogprob": 0.95,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.05,
+                    0.95
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.05,
+                    0.95
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9025,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with A system utilizes AI to estimate vehicle speeds through video analysis, enabling users to report traffic violations. The technology is designed to process visual data and provide accurate speed assessments. This capability can be used to support traffic management and enforcement efforts.",
+        "response": " Overreliance and unsafe use is a risk associated with A system utilizes AI to estimate vehicle speeds through video analysis, enabling users to report traffic violations. The technology is designed to process visual data and provide accurate speed assessments. This capability can be used to support traffic management and enforcement efforts.",
+        "elapsed_time": 31.442872750001698
+    }
+}

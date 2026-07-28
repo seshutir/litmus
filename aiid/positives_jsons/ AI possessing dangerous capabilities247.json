@@ -1,0 +1,221 @@
+{
+    "input": " AI possessing dangerous capabilities is a risk associated with A system is being designed to utilize unmanned aerial vehicles for potential defense applications, incorporating advanced technologies to assess and respond to situations. The system aims to develop autonomous or remote-operated devices that can deploy non-lethal deterrents at close range. Its purpose is to explore innovative solutions for mitigating threats and enhancing safety in various scenarios.",
+    "output": " AI possessing dangerous capabilities is a risk associated with A system is being designed to utilize unmanned aerial vehicles for potential defense applications, incorporating advanced technologies to assess and respond to situations. The system aims to develop autonomous or remote-operated devices that can deploy non-lethal deterrents at close range. Its purpose is to explore innovative solutions for mitigating threats and enhancing safety in various scenarios.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "AI possessing dangerous capabilities is a risk associated with defense applications",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "AI possessing dangerous capabilities is a risk associated with utilizing unmanned aerial vehicles to assess and respond to situations",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Military AI: Operational dangers and the regulatory void - Diplo",
+            "text": "",
+            "link": "https://www.diplomacy.edu/blog/why-military-ai-needs-urgent-regulation/",
+            "snippet": "Fueled by widening regulatory gaps and operational risks, the challenges and risks of military AI are already visible in contemporary conflicts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A.I. Joe: The Dangers of Artificial Intelligence and the Military",
+            "text": "",
+            "link": "https://www.citizen.org/article/ai-joe-report/",
+            "snippet": "This report outlines some of the primary concerns around military applications of AI use. It begins with a brief overview of the Pentagon's AI policy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Artificial Intelligence, Real Risks: Understanding\u2014and Mitigating ...",
+            "text": "",
+            "link": "https://mwi.westpoint.edu/artificial-intelligence-real-risks-understanding-and-mitigating-vulnerabilities-in-the-military-use-of-ai/",
+            "snippet": "In this article, we will use the problem of target identification as the base example and explore how an AI system's learning and thinking can be attacked.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Risks and Mitigation Strategies for Adversarial Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/2023-12/23_1222_st_risks_mitigation_strategies.pdf",
+            "snippet": "The focus of this analysis is on the risks presented by adversarial artificial intelligence. (AAI)\u2014a threat that can undermine the trust we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Studies reveal risks of relying on AI systems for military combat",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=kgHwrOhwe04",
+            "snippet": "... risks of bias in medical AI and why inclusive data is critical to ensuring these tools work for every skin tone. For more Local News from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A qualitative AI security risk assessment of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0968090X24003188",
+            "snippet": "We reason that attacks relying on fewer resources are easier to mount and thus potentially more dangerous to an AV. ... 5(b)\u2013(d) using examples from the papers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Risks of Artificial Intelligence in Weapons Design",
+            "text": "",
+            "link": "https://hms.harvard.edu/news/risks-artificial-intelligence-weapons-design",
+            "snippet": "The Risks of Artificial Intelligence in Weapons Design. Researchers outline dangers of developing AI-powered autonomous weapons. Research 6 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI drones - the unknown risk that's already here",
+            "text": "",
+            "link": "https://www.crawco.com/blog/ai-drones-the-unknown-risk-thats-already-here",
+            "snippet": "Drones can be weaponised to carry explosives, deliver dangerous substances, or launch direct attacks on infrastructure and populated areas.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The ethical concerns of AI-driven drone surveillance - Aithor",
+            "text": "",
+            "link": "https://aithor.com/essay-examples/the-ethical-concerns-of-ai-driven-drone-surveillance",
+            "snippet": "Unfortunately, the existing drone technologies come with a number of other, more serious, ethical and legal impediments that keep any of them ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Ethical Implications of AI-Driven Drones in Combat Operations",
+            "text": "",
+            "link": "https://orbotix.tech/ethical-implications-ai-drones-combat-operations/",
+            "snippet": "... from the danger area. We are still focusing on having operator-first drones, where the final decision rests with the operator, not the drone. Accountability ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI and the Dangers of Lethal Autonomous Weapons Systems - Unric",
+            "text": "",
+            "link": "https://unric.org/en/un-addresses-ai-and-the-dangers-of-lethal-autonomous-weapons-systems/",
+            "snippet": "Commonly called \"killer robots\", what are the dangers of AI and the use of Lethal Autonomous Weapons Systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Military AI: Operational dangers and the regulatory void - Diplo",
+            "text": "",
+            "link": "https://www.diplomacy.edu/blog/why-military-ai-needs-urgent-regulation/",
+            "snippet": "Military AI: Operational dangers and the regulatory void \u00b7 Operational risks. While military AI is intended to increase precision, efficiency, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Dangerous intelligence - Royal Aeronautical Society",
+            "text": "",
+            "link": "https://www.aerosociety.com/news/dangerous-intelligence/",
+            "snippet": "Dangerous intelligence. A new report has been published which examines the potential risks posed by the use of artificial intelligence (AI) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI-Powered Autonomous Weapons Risk Geopolitical Instability and ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2405.01859v2",
+            "snippet": "Beyond visa restrictions, attempts to stem the proliferation of potentially dangerous AI capabilities ... risky from a military procurement perspective.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.99998,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.0999799498715245e-05,
+        "norm_entropy": 0.0003624206846553345,
+        "avg_entropy": 1.0499899749357622e-05,
+        "avg_norm_entropy": 0.00018121034232766725,
+        "avg_prob": 0.9999895,
+        "avg_logprob": -1.05001002513579e-05,
+        "avg_explogprob": 0.9999894999548745,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    2e-05,
+                    0.99998
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999800002,
+        "topic": "",
+        "query": " AI possessing dangerous capabilities is a risk associated with A system is being designed to utilize unmanned aerial vehicles for potential defense applications, incorporating advanced technologies to assess and respond to situations. The system aims to develop autonomous or remote-operated devices that can deploy non-lethal deterrents at close range. Its purpose is to explore innovative solutions for mitigating threats and enhancing safety in various scenarios.",
+        "response": " AI possessing dangerous capabilities is a risk associated with A system is being designed to utilize unmanned aerial vehicles for potential defense applications, incorporating advanced technologies to assess and respond to situations. The system aims to develop autonomous or remote-operated devices that can deploy non-lethal deterrents at close range. Its purpose is to explore innovative solutions for mitigating threats and enhancing safety in various scenarios.",
+        "elapsed_time": 27.51985033299934
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+    "output": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with optimizing the allocation of caretaker visit hours for beneficiaries",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing individual needs and providing tailored recommendations for caretaker visits.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "World guidelines for falls prevention and management ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9523684/",
+            "snippet": "by M Montero-Odasso \u00b7 2022 \u00b7 Cited by 2141 \u2014 Preventative: focused on intention to prevent falls and related injuries whilst optimising functional ability. ability to get up after the fall without help ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Visit-Associated Logistics Framework Describing Challenges ...",
+            "text": "",
+            "link": "https://academic.oup.com/gerontologist/article/65/6/gnaf090/8052781",
+            "snippet": "by V Ngo \u00b7 2025 \u00b7 Cited by 3 \u2014 The Visit-Associated Logistics (VAL) framework includes domains of scheduling, preparing for the visit, visit-related time and travel, caregiver independence, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "An organizing framework for informal caregiver interventions ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/1471-2318-11-77",
+            "snippet": "by CH Van Houtven \u00b7 2011 \u00b7 Cited by 136 \u2014 The framework stipulates that caregiver interventions seek to change caregiving activities, which in turn affect caregiver and care recipient ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Caring for Carers: Positive and Normative Challenges ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1098301519300385",
+            "snippet": "by P Dixon \u00b7 2019 \u00b7 Cited by 34 \u2014 We explore the positive and normative issues to which the inclusion of carer spillover effects in economic evaluation may give rise.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Long hours, lack of social support undermine caregivers ...",
+            "text": "",
+            "link": "https://www.facebook.com/McGillMedHealthSci/posts/long-hours-lack-of-social-support-undermine-caregivers-well-being-study-finds-fm/1641977124435906/",
+            "snippet": "Studies have found that elderly caregivers experiencing mental or emotional strain have a mortality risk that is 63% higher than non-caregivers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Family Caregiving Roles and Impacts - NCBI - NIH",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK396398/",
+            "snippet": "by R Schulz \u00b7 2016 \u00b7 Cited by 231 \u2014 This chapter examines the multiple and evolving roles of family caregivers of older adults and the impact of assuming these roles on caregivers' health and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Shifting Attention to the Family Caregiver",
+            "text": "",
+            "link": "https://austinpublishinggroup.com/family-medicine/fulltext/jfm-v3-id1080.php",
+            "snippet": "This article shifts the attention of health care professionals to family caregivers. It moves family caregivers out of the shadow of the patient to more fully ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Urgent needs of caregiving in ageing populations with ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1568163723001605",
+            "snippet": "by JW Culberson \u00b7 2023 \u00b7 Cited by 116 \u2014 Our critical analysis strongly suggests that there is an urgent need for caregiving in aged populations and support from local, state, and federal agencies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "If you don't schedule rest as a caregiver, your body will ...",
+            "text": "",
+            "link": "https://www.facebook.com/nealkshahcareyaya/posts/if-you-dont-schedule-rest-as-a-caregiver-your-body-will-schedule-a-health-crisis/122117888852848350/",
+            "snippet": "Caregivers also carry a 50% higher risk of clinical depression and a 60% higher risk of anxiety disorders. These are not personality traits.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Child Protective Services Safety Intervention Standards",
+            "text": "",
+            "link": "https://dcf.wisconsin.gov/child-protective-services/child-protective-services-safety-intervention-standards",
+            "snippet": "Parent/caregiver allows others to parent or provide care to the child without concern for the other person's ability or capacity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Decision Support Framework for Home Health Caregiver ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2311.00696v2",
+            "snippet": "Firstly, the agency aims to increase the amount of time caregivers spend providing direct care to patients, called 'actual' working time ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Exploring caregiver challenges, digital health technologies ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179185/",
+            "snippet": "by H Zainal \u00b7 2025 \u00b7 Cited by 30 \u2014 This study investigates the challenges caregivers face when using DHTs in Singapore and identifies resources needed to optimize their use in everyday ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Care for Caregivers",
+            "text": "",
+            "link": "https://uu.diva-portal.org/smash/get/diva2:1886625/FULLTEXT01.pdf",
+            "snippet": "by S Premanandan \u00b7 2024 \u2014 This thesis draws on six studies, utilizing semi-structured interviews and focus groups with informal caregivers, alongside discussions with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Chapter 4 Access to Home- and Community-Based Services",
+            "text": "",
+            "link": "https://www.macpac.gov/wp-content/uploads/2023/06/Chapter-4-Access-to-Home-and-Community-Based-Services.pdf",
+            "snippet": "Some of the key challenges include limited provider availability, state budgetary constraints, waiver waiting lists, and gaps in beneficiary knowledge about the.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Exploring the Needs and Requirements of Informal Caregivers ...",
+            "text": "",
+            "link": "https://aging.jmir.org/2023/1/e49319/",
+            "snippet": "by N Sharma \u00b7 2023 \u00b7 Cited by 8 \u2014 Objective: This comprehensive study with informal caregivers of older adults with cognitive impairment aims to (1) highlight current experiences ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 2,
+        "entropy": 0.6931471805599453,
+        "norm_entropy": 2.0,
+        "avg_entropy": 0.34657359027997264,
+        "avg_norm_entropy": 1.0,
+        "avg_prob": 0.5,
+        "avg_logprob": -0.6931471805599453,
+        "avg_explogprob": 0.5,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.25,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+        "response": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to optimize the allocation of caretaker visit hours for beneficiaries, aiming to improve efficiency and provide personalized support. The system aims to analyze individual needs and provide tailored recommendations for caretaker visits. It seeks to ensure that beneficiaries receive appropriate levels of care and assistance.",
+        "elapsed_time": 36.54221687500831
+    }
+}

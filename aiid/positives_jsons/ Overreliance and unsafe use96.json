@@ -1,0 +1,230 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+    "output": " Overreliance and unsafe use is a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is a risk associated with robotic systems designed for exploration and inspection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use of a robotic system is a risk associated with navigating challenging environments, capturing data, and providing insights to support decision-making",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4 - OSHA",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "... dangerous high-pressure cutting streams and injury hazards from whipping hoses. ... robot application is operating in hazardous conditions or handling hazardous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Proactive safety reasoning in human-robot collaboration in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736584525002169",
+            "snippet": "Disassembly tasks in human\u2013robot collaboration (HRC) environments present safety challenges due to hazardous materials, control system variability, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Negatives of Robots: 5 Crucial and Worrying Drawbacks - Liv Hospital",
+            "text": "",
+            "link": "https://int.livhospital.com/negatives-of-robots-5-crucial-and-worrying-drawbacks/",
+            "snippet": "Robots can break down like any machine. Their failures can be dangerous, mainly when they're near people. A broken robot can hurt someone, damage things, or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Inspection Robots for Hazardous Environments \u2013 A Deep Dive",
+            "text": "",
+            "link": "https://robotcenter.co.uk/insights/inspection-robots-for-hazardous-environments-a-deep-dive/",
+            "snippet": "Traditional inspection methods in hazardous environments have long posed significant risks to human personnel. Whether it's radiation exposure in nuclear ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Safety Challenges in Industrial Robotics - iLearn Engineering\u00ae",
+            "text": "",
+            "link": "https://www.ilearnengineering.com/electronical-and-electronic/safety-challenges-in-industrial-robotics",
+            "snippet": "Automation has improved efficiency and safety in manufacturing, handling repetitive and hazardous tasks. However, it also brings safety concerns for workers, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The Dilemma of Decision-Making in the Real World: When Robots ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2412.01744v2",
+            "snippet": "It departs from traditional reliability-based models, focusing on design flaws and unsafe interactions among non-failing components. This comprehensive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "New Research Helps Robots Make Safer Decisions Around Humans",
+            "text": "",
+            "link": "https://www.newswise.com/articles/robot-regret-new-research-helps-robots-make-safer-decisions-around-humans",
+            "snippet": "New and emerging research could change the way robots handle the uncertainty that comes hand-in-hand with human interactions. Morteza Lahijanian ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Surgeons blame AI for botched surgeries - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/WIONews/posts/surgeons-blame-ai-for-botched-surgeries-is-ai-making-surgeries-more-dangerous-fr/1262303466008825/",
+            "snippet": "Surgeons blame AI for botched surgeries | Is AI making surgeries more dangerous? From misidentified body parts to critical navigation errors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "risk analysis in human-robot interactive environments - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387722636_RISK_ANALYSIS_IN_HUMAN-ROBOT_INTERACTIVE_ENVIRONMENTS",
+            "snippet": "or dangerous movements by robots. Pakistan Journal of Scientific Research ... used. today to assess the risks associated with human-robot. collaboration ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Can we use autonomous robotic systems in hazardous environments?",
+            "text": "",
+            "link": "https://blog.policy.manchester.ac.uk/posts/2022/03/can-we-use-autonomous-robotic-systems-in-hazardous-environments/",
+            "snippet": "When deployed in hazardous environments, autonomous systems bring new challenges to system assurance. But they also bring new opportunities; if ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Survey on Reconnaissance Autonomous Robotic Systems for ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12986560/",
+            "snippet": "This survey provides a systematic review of research published primarily from 2020 to 2025, focusing on autonomous systems designed for disaster ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Safety Considerations in Deployment of Robotic Systems \u2013 A ...",
+            "text": "",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1002/rob.70022?af=R",
+            "snippet": "An in-depth understanding of the risks related to robotic systems is crucial to guarantee safety throughout all stages of robot design and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Expert views on integrating robots, drones, cameras, and AI into ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s11365-026-01177-x",
+            "snippet": "Overreliance on robotic solutions poses a further risk. Although UGVs can relieve humans from hazardous duties, an excessive transition towards ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "(PDF) Safety Considerations in Deployment of Robotic Systems",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/394065804_Safety_Considerations_in_Deployment_of_Robotic_Systems_-_A_Systematic_Review",
+            "snippet": "An in\u2010depth understanding of the risks related to robotic systems is crucial to guarantee safety throughout all stages of robot design and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Comprehensive Review of Situational Awareness: Theory ...",
+            "text": "",
+            "link": "https://medium.com/prompt-engineering/a-comprehensive-review-of-situational-awareness-theory-application-measurement-and-future-6c6980f6da94",
+            "snippet": "This report provides a comprehensive synthesis of the academic literature on Situational Awareness. It delves into the foundational definitions and core ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.973549,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999715,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.026383005800117793,
+        "norm_entropy": 0.18003636834257375,
+        "avg_entropy": 0.013191502900058896,
+        "avg_norm_entropy": 0.09001818417128687,
+        "avg_prob": 0.986632,
+        "avg_logprob": -0.013546081104931117,
+        "avg_explogprob": 0.9865452541748909,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.026451,
+                    0.973549
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.000285,
+                    0.999715
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.973613868313,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+        "response": " Overreliance and unsafe use is a risk associated with A robotic system designed for exploration and inspection is intended to navigate challenging environments, capturing data and providing insights to support decision-making. It aims to enhance situational awareness and public safety by accessing areas that may be difficult or dangerous for humans. The robotic device is equipped with advanced sensors and mobility features to perform tasks efficiently.",
+        "elapsed_time": 32.77661241700116
+    }
+}

@@ -1,0 +1,423 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A recommendation system is designed to suggest items to users based on the preferences of similar individuals, with the goal of providing personalized experiences. It aims to analyze patterns in user behavior and item interactions to generate accurate recommendations. The system seeks to balance the presentation of popular and niche items to cater to diverse user interests.",
+    "output": " Unequal performance across groups is a risk associated with A recommendation system is designed to suggest items to users based on the preferences of similar individuals, with the goal of providing personalized experiences. It aims to analyze patterns in user behavior and item interactions to generate accurate recommendations. The system seeks to balance the presentation of popular and niche items to cater to diverse user interests.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a recommendation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing patterns in user behavior",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in analyzing item interactions in a recommendation system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in generating accurate recommendations",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unequal performance across groups is a risk in balancing the presentation of popular and niche items in a recommendation system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Evaluating and Addressing Fairness Across User Groups in ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2304.07487v3",
+            "snippet": "In this paper, we present a comprehensive empirical study to uncover and address performance disparities in recommender systems arising from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithms are not neutral: Bias in collaborative filtering - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802245/",
+            "snippet": "Here we illustrate the point that algorithms themselves can be the source of bias with the example of collaborative filtering algorithms for recommendation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "[PDF] Unfairness in Recommender Systems - TU Delft Repository",
+            "text": "",
+            "link": "https://repository.tudelft.nl/file/File_e3f410f9-7bf5-4d4e-8d8c-f5da5dc7e6f9",
+            "snippet": "To evaluate performance and fairness, we adopt a multi- dimensional evaluation protocol. Accuracy is measured using standard top-K ranking ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Beyond Personalization, Overcoming Bias in Recommender Systems",
+            "text": "",
+            "link": "https://www.red-gate.com/simple-talk/development/python/beyond-personalization-overcoming-bias-in-recommender-systems/",
+            "snippet": "This article will delve into the perception of fairness in recommender systems, examining the obstacles to achieving it, and exploring the strategies to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A Survey on the Fairness of Recommender Systems",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3547333",
+            "snippet": "Unfair recommendations are not only unethical but also harm the long-term interests of the recommender system itself. As a result, fairness issues in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Discriminatory Behavior and Unequal Model Performance",
+            "text": "",
+            "link": "https://donets.org/risks/discriminatory-behavior-and-unequal-model-performance-across-groups",
+            "snippet": "Analysis of 'Discriminatory Behavior and Unequal Model Performance Across Groups' - an AI risk in Discrimination and toxicity identified ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Detecting and Mitigating Model Biases in AI Systems - Galileo AI",
+            "text": "",
+            "link": "https://galileo.ai/blog/bias-ai-models-systems",
+            "snippet": "This article explores how to understand, detect, and mitigate model bias in your AI systems, exploring effective techniques for each stage of the ML lifecycle.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI biases as asymmetries: a review to guide practice - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12554557/",
+            "snippet": "This represents an inequality bias in outputs, with error rates varying dramatically across demographic groups. The bias originated from imbalanced training ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "When detecting bias, computer programmers normally examine the set of outputs that the algorithm produces to check for anomalous results.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How can we manage biases in artificial intelligence systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667096823000125",
+            "snippet": "This study revealed that big data analytics is used incorrectly to track online users based on their profiles, digital activities and behaviour (Ramirez et al., ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Correcting for Popularity Bias in Recommender Systems via Item ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2410.04830v1",
+            "snippet": "Our analysis in this paper reveals that popularity of the items negatively correlates with the loss values that those items receive during the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "[PDF] Mitigating popularity bias in recommendation with unbalanced ...",
+            "text": "",
+            "link": "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8513&context=sis_research",
+            "snippet": "In this paper, we provide new findings that 1) the overall gradient direction of popular. (unpopular) items is shifted to be closer to the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "ADAPT: Fairness & diversity for sequential group recommendations",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0306437925000560",
+            "snippet": "This paper introduces ADAPT, a novel framework designed to optimize fairness and diversity in sequential group recommendations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Bias and Debias in Recommender System: A Survey and Future ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3564284",
+            "snippet": "In this paper, we first summarize seven types of biases in recommendation, along with their definitions and characteristics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI Bias: Understanding and Mitigating Unfair Outcomes in Your AI ...",
+            "text": "",
+            "link": "https://www.mymobilelyfe.com/artificial-intelligence/ai-bias-understanding-and-mitigating-unfair-outcomes-in-your-ai-systems/",
+            "snippet": "Evaluation Bias: This bias occurs when the evaluation metrics used to assess the performance of the AI system are not appropriate for all groups ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "AI biases as asymmetries: a review to guide practice - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12554557/",
+            "snippet": "Unfair inequality biases at the output stage can manifest even when overall predictive accuracy appears balanced as in this example. Computer vision systems: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Bias in AI - 3 Flashcards - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/gb/662784132/bias-in-ai-3-flash-cards/",
+            "snippet": "When averages are taken across different groups, they can appear to contradict the overall averages. Challenge of Fairness in AI. \u2022 To 'train' the AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Generative Artificial Intelligence Biases, Limitations and Risks in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001299824000461",
+            "snippet": "Generative AI text-to-text and text-to-image generation includes inherent biases, particularly gender and ethnicity, that could misrepresent nuclear medicine.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Why Most Performance Evaluations Are Biased, and How to Fix Them",
+            "text": "",
+            "link": "https://hbr.org/2019/01/why-most-performance-evaluations-are-biased-and-how-to-fix-them",
+            "snippet": "Most performance evaluations follow a predictable pattern: They invite employees to write about their accomplishments and what they need to improve.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Solving the apparent diversity-accuracy dilemma of recommender ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2842039/",
+            "snippet": "The risk of such an approach is that, with recommendations based on overlap rather than difference, more and more users will be exposed to a narrowing band of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Managing Biases in Recommender Systems | by Gabriel Fu - Medium",
+            "text": "",
+            "link": "https://medium.com/the-beta-labs-tech-blog/managing-biases-in-recommender-systems-365bb290c828",
+            "snippet": "A popularity-biased recommender is harmful to the company as niche products cannot get the right exposure, while also imposing risk of losing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Bias Issues and Solutions in Recommender System - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=pPq9iyGIZZ8",
+            "snippet": "RecSys 2021 Bias Issues and Solutions in Recommender System By Jiawei Chen (University of Science and Technology of China, China), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Popularity Bias in Recommender Systems: The Search for Fairness ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2078-2489/16/2/151",
+            "snippet": "Recommender systems are known to be affected by popularity bias, the disproportionate preference towards popular items.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A Comprehensive Review of Recommender Systems",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.13699v4",
+            "snippet": "Recommender Systems (RS) are a type of information filtering system designed to predict and suggest items or content\u2014such as products, movies, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI alignment: Assessing the global impact of recommender ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0016328724000661",
+            "snippet": "by L Bojic \u00b7 2024 \u00b7 Cited by 64 \u2014 It looks for users with similar taste and uses the ratings they gave to highly rated items to generate a list of recommendations. For example, a book ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Recommender Systems: Where Academia Meets Industry",
+            "text": "",
+            "link": "https://vectorinstitute.ai/recommender-systems-where-academia-meets-industry/",
+            "snippet": "Collaborative Filtering (CF): This method relies on user-item interactions, recommending items based on similarities among users or items.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Algorithmic Bias in Recommendation Systems and Its ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/387721184_Algorithmic_Bias_in_Recommendation_Systems_and_Its_Social_Impact_on_User_Behavior_Algorithmic_Bias_in_Recommendation_Systems",
+            "snippet": "Algorithmic bias in recommendation systems poses significant challenges, influencing user experiences and perpetuating societal inequalities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Recommendation Engines: How They Work and Why ...",
+            "text": "",
+            "link": "https://aerospike.com/blog/recommendation-engines-how-they-work/",
+            "snippet": "Because recommenders learn from data, they inadvertently pick up and reinforce biases present in that data. If the user data reflects historical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 28,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A recommendation system is designed to suggest items to users based on the preferences of similar individuals, with the goal of providing personalized experiences. It aims to analyze patterns in user behavior and item interactions to generate accurate recommendations. The system seeks to balance the presentation of popular and niche items to cater to diverse user interests.",
+        "response": " Unequal performance across groups is a risk associated with A recommendation system is designed to suggest items to users based on the preferences of similar individuals, with the goal of providing personalized experiences. It aims to analyze patterns in user behavior and item interactions to generate accurate recommendations. The system seeks to balance the presentation of popular and niche items to cater to diverse user interests.",
+        "elapsed_time": 58.07939875000011
+    }
+}

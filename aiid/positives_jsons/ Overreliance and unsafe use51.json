@@ -1,0 +1,362 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+    "output": " Overreliance and unsafe use is a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is a risk associated with autonomous driving technology",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is a risk associated with a vehicle equipped with autonomous driving technology that automatically steers, accelerates, and brakes",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Overreliance and unsafe use of autonomous driving technology is a risk associated with detecting and responding to surroundings, including other vehicles and obstacles",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Overreliance and unsafe use of autonomous driving technology is a risk associated with utilizing sensors and mapping data to navigate roads and make decisions in real-time",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Risks of the Increased Dependence on Self-Driving Technology",
+            "text": "",
+            "link": "https://www.hoskinsandturco.com/personal-injury/car-accident-lawyer/what-are-the-risks-of-the-increased-dependence-on-self-driving-technology/",
+            "snippet": "As a result of the driverless assumption, the majority of self-driving-related accidents have occurred because of driver inattention. No matter the degree of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "If a Car Can Drive Itself, Can It Make Life-or-Death Decisions?",
+            "text": "",
+            "link": "https://www.library.hbs.edu/working-knowledge/if-a-car-can-drive-itself-can-it-make-life-or-death-decisions",
+            "snippet": "Buckle your seatbelts: Joseph Badaracco probes the most consequential questions raised by self-driving cars.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Are Self-Driving Cars Really Safer Than Humans? A Data Driven ...",
+            "text": "",
+            "link": "https://www.zego.com/blog/are-self-driving-cars-really-safer-than-humans/",
+            "snippet": "At dawn and dusk, when light conditions are constantly shifting, AVs were more than five times as likely to crash compared to human drivers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ethical Decision-Making for Self-Driving Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11466986/",
+            "snippet": "Self-driving vehicles (SDVs) will need to make decisions that carry ethical dimensions and are of normative significance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Risky Driving \u00b7 Drunk Driving \u00b7 Drug-Impaired Driving \u00b7 Distracted Driving \u00b7 Speeding \u00b7 Drowsy Driving \u00b7 Road Safety \u00b7 Child Safety \u00b7 Teen Driving \u00b7 Older ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AAA: Fear in Self-Driving Vehicles Persists",
+            "text": "",
+            "link": "https://newsroom.aaa.com/2025/02/aaa-fear-in-self-driving-vehicles-persists/",
+            "snippet": "AAA: Today's Vehicle Technology Must Walk So Self-Driving Cars Can Run \u00b7 Americans Feel Unsafe Sharing the Road with Fully Self-Driving Cars ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Public Health, Ethics, and Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5343691/",
+            "snippet": "I have delineated the important public health implications of autonomous vehicles and provided a brief analysis of a critically important ethical issue.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Setting the standard of liability for self-driving cars | Brookings",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/setting-the-standard-of-liability-for-self-driving-cars/",
+            "snippet": "As Widen and Koopman put it, it would allow \u201ca potential outcome in which AVs much more dangerous than human drivers would be considered ' ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Why Are Self-Driving Cars Dangerous? \u2013 Lexington, KY",
+            "text": "",
+            "link": "https://www.mvmlaw.com/blog/why-are-self-driving-cars-dangerous/",
+            "snippet": "Self-driving cars offer innovation and convenience, but they also pose serious risks. Learn why autonomous vehicles can be dangerous and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The Hidden Dangers of Self-Driving Technology: Are Consumers at ...",
+            "text": "",
+            "link": "https://cannellasnyder.com/news/the-hidden-dangers-of-self-driving-technology-are-consumers-at-risk/",
+            "snippet": "This behavior suggests an overreliance on automation, leading to complacency and reduced situational awareness, which can compromise safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "... cars that have shown that they are dangerously unsafe. Future posts will focus on this issue of an effective regulatory system for self-driving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "... risk of harmful attacks that could compromise the vehicle systems [116]. ... vehicles (AVs) from a wide variety of dangerous threats [131]. Uncompromisable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Dangers of Autonomous Vehicles: What's Stopping Self-Driving ...",
+            "text": "",
+            "link": "https://www.iotforall.com/dangers-of-autonomous-vehicles-worldwide-adoption",
+            "snippet": "Autonomous vehicles use multiple sensors to interact with the environment around them. ... However, factors like bad weather, dense traffic, weathered road signs, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Autonomous Vehicle Safety Issues - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/technology/autonomous-vehicle-effects/autonomous-vehicle-safety-issues/",
+            "snippet": "Autonomous vehicle safety issues refer to the challenges and risks associated with self-driving ... The Self-Driving Car Fantasy: A Dangerous Oversimplification ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Top Five Dangers Of Self-Driving Cars | Jack Bernstein",
+            "text": "",
+            "link": "https://bernsteininjurylaw.com/blog/top-5-dangers-of-self-driving-cars/",
+            "snippet": "When sensors struggle, the system may misread a sign, miss a pedestrian, or hesitate at an intersection. In those moments, the automated system ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "With increasing automation, drivers may become disengaged, which can manifest as drivers take their hands off the wheel, eyes off the road, or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Automated driving regulations \u2013 where are we now? - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "This paper analyses the legal frameworks of selected states, aside from those frameworks at international and EU level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Why Are Self-Driving Cars Dangerous? - Las Vegas, NV",
+            "text": "",
+            "link": "https://www.dlgteam.com/blog/why-are-self-driving-cars-dangerous/",
+            "snippet": "Despite these promises, autonomous technology creates risks that place passengers and pedestrians in danger. A car depends on complex sensors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Safety and Risks: Autonomous Vehicles vs. Human Drivers",
+            "text": "",
+            "link": "https://evsearch.ca/safety-and-risks-autonomous-vehicles/",
+            "snippet": "Autonomous vehicles (AVs) are designed to make driving safer by reducing human errors, the leading cause of most road accidents.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Autonomous Car: Benefits and Dangers of Self-Driving ...",
+            "text": "",
+            "link": "https://www.anthonysautocraft.com/the-autonomous-car-benefits-and-dangers/",
+            "snippet": "Autonomous vehicles can detect and react to their environment in real-time\u2014from recognizing stop signs to avoiding obstacles on the road.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+        "response": " Overreliance and unsafe use is a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+        "elapsed_time": 30.452026124999975
+    }
+}

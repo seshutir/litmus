@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A ride-hailing system utilizes a matchmaking algorithm to connect drivers with passengers, aiming to optimize the pairing process for efficient transportation. The algorithm is designed to analyze various factors and provide a fair distribution of ride opportunities. This technology seeks to improve the overall user experience by streamlining the ride-matching process.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A ride-hailing system utilizes a matchmaking algorithm to connect drivers with passengers, aiming to optimize the pairing process for efficient transportation. The algorithm is designed to analyze various factors and provide a fair distribution of ride opportunities. This technology seeks to improve the overall user experience by streamlining the ride-matching process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a ride-hailing system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in utilizing a matchmaking algorithm to connect drivers with passengers in a ride-hailing system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Understanding Driver Discrimination in Ride-Hailing Platforms",
+            "text": "",
+            "link": "https://www.cato.org/blog/understanding-driver-discrimination-ride-hailing-platforms",
+            "snippet": "Two experiments in a new working paper find some evidence that some drivers using popular ride-hailing platforms discriminate against riders ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial discrimination in transportation network companies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0047272720300694",
+            "snippet": "We find significant evidence of racial discrimination. We find that the probability a driver accepts a ride, but then subsequently cancels the ride, more than ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A study suggests that Uber and Lyft drivers may be discriminating ...",
+            "text": "",
+            "link": "https://www.facebook.com/wtae4/posts/a-study-suggests-that-uber-and-lyft-drivers-may-be-discriminating-against-riders/10154902998313643/",
+            "snippet": "Male Uber and Lyft drivers have filed lawsuits claiming the apps' \u201cwomen-only\u201d ride features discriminate against men and reduce their earning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Drivers Protest Uber's 'Black Box' Fare System",
+            "text": "",
+            "link": "https://www.sfpublicpress.org/drivers-protest-ubers-black-box-fare-system/",
+            "snippet": "Workers say Uber's use of fare pricing algorithms driven by artificial intelligence lowers drivers' wages and could undermine public safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Fired by the algorithm: new report says rideshare drivers face ...",
+            "text": "",
+            "link": "https://roadwarriornews.com/fired-by-the-algorithm/",
+            "snippet": "Nearly half of all drivers who experienced some form of discrimination due to their identity reported that the customer gave them a low rating.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Researchers find racial discrimination in 'dynamic pricing' algorithms ...",
+            "text": "",
+            "link": "https://iddp.gwu.edu/researchers-find-racial-discrimination-dynamic-pricing-algorithms-used-uber-lyft-and-others",
+            "snippet": "A preprint study published by researchers at George Washington University presents evidence of social bias in the algorithms ride-sharing startups like Uber ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Ride-hailing technology mitigates effects of driver racial ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11474100/",
+            "snippet": "We find that ride-hailing technology substantially mitigates the effects of driver racial discrimination on rider wait times compared to traditional taxis.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] Driving the Drivers: Algorithmic Assignment in Ride-Hailing",
+            "text": "",
+            "link": "https://www.ftc.gov/system/files/ftc_gov/pdf/chenluoyuan.pdf",
+            "snippet": "This paper investigates the impact of algorithmic assignment on worker behavior and welfare within the ride-hailing industry. We demonstrate how algorithms ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Ride-Hailing Apps Mitigate Impact of Racial Discrimination - News",
+            "text": "",
+            "link": "https://www.cmu.edu/news/stories/archives/2024/september/ride-hailing-apps-mitigate-impact-of-racial-discrimination",
+            "snippet": "The research estimated that at least 3% of drivers must be discriminating based on race in order to produce the cancellation disparities prior ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Do drivers of app-based ride-share services discriminate?",
+            "text": "",
+            "link": "https://engineering.stanford.edu/news/do-drivers-app-based-ride-share-services-discriminate",
+            "snippet": "A history of discrimination in ride hailing. App-based ride-sharing ... They showed there is substantial discrimination in the taxi system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "[PDF] Understanding the role of perceived algorithm unfairness on ride ...",
+            "text": "",
+            "link": "https://scholarsjunction.msstate.edu/cgi/viewcontent.cgi?article=6529&context=td",
+            "snippet": "Ride-hailing platforms (RHP) are sharing economy platforms that connect passengers who need to order a private ride or to share a vehicle with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] Algorithmic Harms to Workers in the Platform Economy",
+            "text": "",
+            "link": "https://jlsp.law.columbia.edu/wp-content/blogs.dir/213/files/2020/01/Vol53-Muller.pdf",
+            "snippet": "Platform firms, most prominently Uber, use machine learning algorithms processing torrents of data to power smartphone apps that promise efficiency, flexibility ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Evaluating Fairness in Black-box Algorithmic Markets: A Case Study ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.20522v1",
+            "snippet": "This paper aims to fill that gap by analyzing the fairness of AI algorithms used in rideshare platforms, specifically focusing on their role in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Art of Ride Hailing's Matching Algorithm",
+            "text": "",
+            "link": "https://blogs.cornell.edu/info2040/2022/10/31/the-art-of-ride-hailings-matching-algorithm/",
+            "snippet": "Riders would be matched with nearby drivers but this system led to long waiting times. The implementation of the batched matching algorithm ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A ride-hailing system utilizes a matchmaking algorithm to connect drivers with passengers, aiming to optimize the pairing process for efficient transportation. The algorithm is designed to analyze various factors and provide a fair distribution of ride opportunities. This technology seeks to improve the overall user experience by streamlining the ride-matching process.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A ride-hailing system utilizes a matchmaking algorithm to connect drivers with passengers, aiming to optimize the pairing process for efficient transportation. The algorithm is designed to analyze various factors and provide a fair distribution of ride opportunities. This technology seeks to improve the overall user experience by streamlining the ride-matching process.",
+        "elapsed_time": 29.260152415998164
+    }
+}

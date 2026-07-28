@@ -1,0 +1,282 @@
+{
+    "input": " False or misleading information is a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+    "output": " False or misleading information is a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "False or misleading information is a risk associated with the system's search",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "False or misleading information is a risk associated with a system that predicts and suggests search terms to users",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "False or misleading information is a risk associated with retrieving and displaying images related to search queries in the system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Online searches to evaluate misinformation can increase its ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41586-023-06883-y",
+            "snippet": "We present consistent evidence that online search to evaluate the truthfulness of false news articles actually increases the probability of believing them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "(Why) Is Misinformation a Problem? - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/",
+            "snippet": "Similar to disinformation, \u201cfake news\u201d is defined as information presented as news that is intentional and verifiably false (Allcott & Gentzkow, 2017; Anderau, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Misinformation, disinformation, malinformation and the search for truth",
+            "text": "",
+            "link": "https://www.nexor.com/blog/misinformation-disinformation-malinformation-and-the-search-for-truth",
+            "snippet": "By ensuring the confidentiality, integrity and availability of information, whether true or false, existing control measures may instead aggravate the problem.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Search & Verify: Misinformation and source evaluations in Internet ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0167923623000519",
+            "snippet": "In this paper, we examine the effects of news source evaluations by experts as well as crowd-sourced information (ie, Wikipedia) on beliefs in political news.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Biases in Search Engines: Are Our Searches Truly Unbiased?",
+            "text": "",
+            "link": "https://www.cyberpeace.org/resources/blogs/ai-biases-in-search-engines-are-our-searches-truly-unbiased",
+            "snippet": "True objectivity remains elusive as AI-driven algorithms tend to personalise results based on user preferences and past behaviour, often creating a biased view ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Algorithmic bias - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/Algorithmic_bias",
+            "snippet": "Algorithmic bias describes systematic and repeatable harmful tendency in a computerized sociotechnical system to create unfair outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Google AI Search Fails: Risks, Errors, and SEO Consequences",
+            "text": "",
+            "link": "https://devenup.com/blog/google-ai-search-fails-how-misleading-answers-affect-aearchers-and-seo",
+            "snippet": "An AI search fail happens when Google's AI-powered search results deliver incorrect, misleading, or inappropriate information. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Does Google's AI Lie? The Risks of AI-Generated Search Results",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/does-googles-ai-lie-risks-ai-generated-search-results-ayub-ansary-q5r6c",
+            "snippet": "AI-generated search results often contain false or misleading information due to the way large language models (LLMs) predict answers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Google removes some of its AI summaries after users' health put at risk",
+            "text": "",
+            "link": "https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
+            "snippet": "Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Google's AI Overviews Can Scam You. Here's How to Stay Safe",
+            "text": "",
+            "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
+            "snippet": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Does Google's AI Lie? The Risks of AI-Generated Search Results",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/does-googles-ai-lie-risks-ai-generated-search-results-ayub-ansary-q5r6c",
+            "snippet": "AI-generated search results often contain false or misleading information due to the way large language models (LLMs) predict answers. Google's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Over the weekend, it was in the news that Google has removed ...",
+            "text": "",
+            "link": "https://www.facebook.com/contactfamilies/posts/over-the-weekend-it-was-in-the-news-that-google-has-removed-some-of-its-artifici/1299666105537963/",
+            "snippet": "After a Guardian investigation found people were being put at risk of harm by false and misleading information. The company has said its AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "A unified approach of detecting misleading images via tracing its ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9272873/",
+            "snippet": "In this paper, we investigated machine learning-based as well as deep learning-based approaches utilized to verify misleading multimedia content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Fake news, disinformation and misinformation in social media - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/",
+            "snippet": "This work aims to provide a comprehensive and systematic review of fake news research as well as a fundamental review of existing approaches used to detect and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Search Engines and Ethics - Stanford Encyclopedia of Philosophy",
+            "text": "",
+            "link": "https://plato.stanford.edu/entries/ethics-search/",
+            "snippet": "A cluster of ethical concerns involving search engine technology is examined. These include issues ranging from search engine bias and the problem of opacity/ ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Fairness in Search Systems - Emerald Publishing",
+            "text": "",
+            "link": "https://www.emerald.com/ftinr/article/18/3/262/1328689/Fairness-in-Search-Systems",
+            "snippet": "A cognitive bias is a systematic pattern of deviations in thinking which may lead to errors in judgments and decision-making (Azzopardi, 2021).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.999735,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 18,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00026696488339800174,
+        "norm_entropy": 0.003573667855775596,
+        "avg_entropy": 8.898829446600058e-05,
+        "avg_norm_entropy": 0.0011912226185918655,
+        "avg_prob": 0.999911,
+        "avg_logprob": -8.901170656815311e-05,
+        "avg_explogprob": 0.9999109922548562,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.000265,
+                    0.999735
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 0.9998233567416667,
+        "topic": "",
+        "query": " False or misleading information is a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+        "response": " False or misleading information is a risk associated with A system is designed to predict and suggest search terms to users, aiming to provide relevant and efficient search results. It also retrieves and displays images related to search queries, intending to enhance the user experience. The system's primary goal is to quickly and accurately provide users with useful information and visual content based on their search inputs.",
+        "elapsed_time": 25.79328041699955
+    }
+}

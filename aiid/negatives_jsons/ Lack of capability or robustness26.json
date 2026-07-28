@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+    "output": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the system's missile threat detection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with the system's analysis of potential missile threats and provision of accurate alerts and warnings",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "NEW BLOG POST\u2014Missile threats are getting harder to ...",
+            "text": "",
+            "link": "https://www.facebook.com/usgao/posts/new-blog-postmissile-threats-are-getting-harder-to-detect-the-us-is-developing-n/1357215653111971/",
+            "snippet": "Advocates say the rapid detection capability helps defense systems respond faster, coordinate interceptions more effectively, and limit the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "MITCHELL INSTITUTE Policy Paper",
+            "text": "",
+            "link": "https://www.mitchellaerospacepower.org/app/uploads/2025/08/61_Arctic_Security-FINAL.pdf",
+            "snippet": "Aside from air-launched cruise missiles, NWS radars also lack the ability to detect and track advanced hypersonic missiles. Ideally, an NWS.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Planning a Ballistic Missile Defense System of Systems",
+            "text": "",
+            "link": "https://www.rand.org/pubs/issue_papers/IP181.html",
+            "snippet": "The C1 capability is not robust enough to justify confidence that it can counter the particular threat for which it is designed.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "mostlymissiledefense | Mostly missile defense (and some ...",
+            "text": "",
+            "link": "https://mostlymissiledefense.com/",
+            "snippet": "Yes, we believe that the currently deployed ballistic missile defense system can meet today's threat and we've demonstrated that capability ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Missile Defense Fails to Provide a Reliable ...",
+            "text": "",
+            "link": "https://armscontrolcenter.org/missile-defense-fails-to-provide-a-reliable-defense-against-short-medium-or-long-range-missiles/",
+            "snippet": "These reports make it clear that the system has no proven operational capability; and currently there are no plans for operational tests \u2026 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Space Doctrine 3-103 (Missile Warning and Tracking)",
+            "text": "",
+            "link": "https://www.starcom.spaceforce.mil/Portals/2/SDP%203-103%20Missile%20Warning%20and%20Tracking%20%284%20September%202025%29.pdf",
+            "snippet": "Though not a missile threat, space launches also pose a concern for missile warning. Part of the tasking, correlation, validation, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Anomaly detection for space information networks",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167404824000063",
+            "snippet": "by A Diro \u00b7 2024 \u00b7 Cited by 116 \u2014 Space anomaly detection plays a critical role in safeguarding the integrity and reliability of space systems amid the rising tide of threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Assessing and Managing the Benefits and Risks of Artificial ...",
+            "text": "",
+            "link": "https://www.nti.org/wp-content/uploads/2021/09/NTI_Paper_AI_r4.pdf",
+            "snippet": "SUMMARY. This paper examines the possible applications of artificial intelligence (AI) to nuclear-weapon systems in the near term to mid term and assesses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "GAO-26-107085, MISSILE WARNING SATELLITES",
+            "text": "",
+            "link": "https://files.gao.gov/reports/GAO-26-107085/index.html",
+            "snippet": "SDA is at risk of being unable to deliver capability as quickly as planned. these achievements do not reflect schedule risks. not created a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "JP 3-01 Countering Air and Missile Threats",
+            "text": "",
+            "link": "https://defenseinnovationmarketplace.dtic.mil/wp-content/uploads/2018/02/JointDoctrine-CounteringAirandMissileThreats.pdf",
+            "snippet": "This publication provides doctrine for joint counterair operations and protection against air and missile threats across the range of military ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "From False Positives to Precise Alerts",
+            "text": "",
+            "link": "https://www.bitlyft.com/resources/from-false-positives-to-precise-alerts-rethinking-your-threat-detection-strategy",
+            "snippet": "A system overloaded with false positives leads to alert fatigue, slower response times, and critical threats slipping through the cracks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Most security systems don't fail to detect threats. They ...",
+            "text": "",
+            "link": "https://www.facebook.com/FLIR/posts/most-security-systems-dont-fail-to-detect-threats-they-fail-to-coordinateacross-/1425022862995037/",
+            "snippet": "Risk Assessment and Analysis \u2022 Conduct a comprehensive risk analysis to identify potential threats and vulnerabilities specific to the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "False Positive Suppression: Reduce SOC Alert Fatigue ...",
+            "text": "",
+            "link": "https://www.conifers.ai/glossary/false-positive-suppression",
+            "snippet": "Learn how false positive suppression reduces alert fatigue in SOCs using context-aware filtering and machine learning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Intelligent Detection and Early Warning of Power System ...",
+            "text": "",
+            "link": "https://journals.riverpublishers.com/index.php/JCSANDM/article/view/30785/23309",
+            "snippet": "by L Xiaomeng \u00b7 2025 \u00b7 Cited by 2 \u2014 Current systems provide only reactive post-incident alerts, whereas operators require proactive early warning with sufficient lead time for defensive responses.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What is Threat Warning?",
+            "text": "",
+            "link": "https://www.baesystems.com/en-us/definition/what-is-threat-warning",
+            "snippet": "Threat Warning is a defense community term referring to a core component of modern Threat Detection and Response (TDR) systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 2.2e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 2e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0002621830250561397,
+        "norm_entropy": 0.000412874479014817,
+        "avg_entropy": 0.00013109151252806985,
+        "avg_norm_entropy": 0.0002064372395074085,
+        "avg_prob": 1.2e-05,
+        "avg_logprob": -11.923415741005144,
+        "avg_explogprob": 6.633249580710798e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999978,
+                    2.2e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999998,
+                    2e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 2.44e-10,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+        "response": " Lack of capability or robustness is a not a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+        "elapsed_time": 87.45445629203459
+    }
+}

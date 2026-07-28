@@ -1,0 +1,346 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A face comparison system is designed to match faces between different images, with the goal of identifying individuals. It aims to provide accurate comparisons by analyzing facial features and searching for similar matches within a database of images. The system seeks to assist in various applications, such as identity verification and people search.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A face comparison system is designed to match faces between different images, with the goal of identifying individuals. It aims to provide accurate comparisons by analyzing facial features and searching for similar matches within a database of images. The system seeks to assist in various applications, such as identity verification and people search.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a face comparison system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing facial features to identify individuals using a face comparison system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in searching for similar matches within a face comparison system's database of images",
+            "contexts": [
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in face comparison system-based identity verification",
+            "contexts": [
+                "c_a3_2",
+                "c_a3_3"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk in people search using a face comparison system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition technology is biased. The error rate for light-skinned men is 0.8%, compared to 34.7% for darker-skinned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Biased Face Recognition Technology Used by Government",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 60 \u2014 This paper presents a novel philosophical analysis of the problem of law enforcement's use of biased face recognition technology (FRT) in liberal democracies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "The inaccuracy of facial recognition technology means that Black people are at increased risk of discrimination and human rights impacts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "When facial recognition does not 'recognise': erroneous ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-023-01634-z",
+            "snippet": "by VL Raposo \u00b7 2024 \u00b7 Cited by 50 \u2014 This paper analyzes cases in which the use of FR to identify individuals leads to mistaken identifications, exploring its causes and legal consequences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Addressing Inclusion in Face Recognition",
+            "text": "",
+            "link": "https://www.paravision.ai/news/addressing-critical-inclusion-questions-for-face-recognition-technology-buyers/",
+            "snippet": "Legal Risk: Organizations using poorly performing face recognition systems face increased legal risks. Discriminatory practices can lead to lawsuits, regulatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition is least reliable for people of color, women, and nonbinary individuals. And that can be life-threatening. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Racial bias in facial recognition algorithms",
+            "text": "",
+            "link": "https://amnesty.ca/features/racial-bias-in-facial-recognition-algorithms/",
+            "snippet": "Facial recognition is notoriously inaccurate and racist. Learn more about how it threatens human rights and take action to ban it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Understanding bias in facial recognition technologies",
+            "text": "",
+            "link": "https://www.turing.ac.uk/sites/default/files/2020-10/understanding_bias_in_facial_recognition_technology.pdf",
+            "snippet": "To understand how bias can crop up in face detection and analysis algorithms, it would be helpful first to understand a little bit about the history of how ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Face Facts: Dispelling Common Myths Associated With Facial Recognition ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/report/face-facts-dispelling-common-myths-associated-with-facial-recognition-technology/",
+            "snippet": "Recent calls for bans on facial recognition are based on a misleading picture of how the technology works. SIA addresses these myths.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "You Can See My Face, Why Can't I? Facial Recognition and Brady",
+            "text": "",
+            "link": "https://hrlr.law.columbia.edu/hrlr-online/you-can-see-my-face-why-cant-i-facial-recognition-and-brady/",
+            "snippet": "Despite the fact that facial recognition increases the risk of misidentification, information regarding facial recognition identification ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Racial Discrimination in Face Recognition Technology",
+            "text": "",
+            "link": "https://sciencepolicy.hsites.harvard.edu/blog/racial-discrimination-face-recognition-technology",
+            "snippet": "Face recognition empowers a law enforcement system with a long history of racist and anti-activist surveillance and can widen pre-existing inequalities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "A comprehensive survey on techniques to handle face identity ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9183764/",
+            "snippet": "by MK Rusia \u00b7 2022 \u00b7 Cited by 100 \u2014 This paper significantly explores all types of face recognition techniques, their accountable challenges, and threats to face-biometric-based identity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Face Recognition Isn't Just Face Identification and ...",
+            "text": "",
+            "link": "https://www.eff.org/deeplinks/2021/10/face-recognition-isnt-just-face-identification-and-verification",
+            "snippet": "This post explores many of the various kinds of face recognition, and explains why all must be addressed by laws.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "How is Face Recognition Surveillance Technology Racist?",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/how-is-face-recognition-surveillance-technology-racist",
+            "snippet": "These error-prone, racially biased algorithms can have devastating impacts for people of color. For example, many police departments use face ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "The ethics of facial recognition technologies, surveillance ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320316/",
+            "snippet": "by D Almeida \u00b7 2021 \u00b7 Cited by 375 \u2014 This article contains a discursive discussion considering the complexity of the ethical and regulatory dimensions at play in these spaces.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition ...",
+            "text": "",
+            "link": "https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software",
+            "snippet": "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Why Racial Bias is Prevalent in Facial Recognition Technology",
+            "text": "",
+            "link": "https://jolt.law.harvard.edu/digest/why-racial-bias-is-prevalent-in-facial-recognition-technology",
+            "snippet": "Many of these algorithms were found to be between 10 and 100 times more likely to misidentify a Black or East Asian face than a white face.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Law professor explores racial bias implications in facial recognition ...",
+            "text": "",
+            "link": "https://ucalgary.ca/news/law-professor-explores-racial-bias-implications-facial-recognition-technology",
+            "snippet": "For people of colour, he says, \u201cFacial recognition technology can wrongly match your face with that of some other person who might have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Face Facts: Dispelling Common Myths Associated With Facial Recognition ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/report/face-facts-dispelling-common-myths-associated-with-facial-recognition-technology/",
+            "snippet": "Facial recognition is critical to the security field because it enhances capabilities of solutions like video security, access control and identity management ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "This week, we look at how facial recognition technology (FRT) is not ...",
+            "text": "",
+            "link": "https://www.facebook.com/BAJIpage/posts/this-week-we-look-at-how-facial-recognition-technology-frt-is-not-as-accurate-or/1607029520994321/",
+            "snippet": "FRT is more likely to misidentify or fail to recognize Black people, particularly Black women.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 20,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A face comparison system is designed to match faces between different images, with the goal of identifying individuals. It aims to provide accurate comparisons by analyzing facial features and searching for similar matches within a database of images. The system seeks to assist in various applications, such as identity verification and people search.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A face comparison system is designed to match faces between different images, with the goal of identifying individuals. It aims to provide accurate comparisons by analyzing facial features and searching for similar matches within a database of images. The system seeks to assist in various applications, such as identity verification and people search.",
+        "elapsed_time": 53.61617895803647
+    }
+}

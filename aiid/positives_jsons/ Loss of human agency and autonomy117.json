@@ -1,0 +1,221 @@
+{
+    "input": " Loss of human agency and autonomy is a risk associated with A system is designed to analyze remote work activity data to inform employee performance evaluations. It aims to provide insights into work patterns and productivity, helping to identify areas for improvement. The system utilizes data analysis techniques to support decision-making and optimize workforce management.",
+    "output": " Loss of human agency and autonomy is a risk associated with A system is designed to analyze remote work activity data to inform employee performance evaluations. It aims to provide insights into work patterns and productivity, helping to identify areas for improvement. The system utilizes data analysis techniques to support decision-making and optimize workforce management.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is a risk in a system designed for remote work",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in analyzing remote work activity data to inform employee performance evaluations in a system designed for this purpose",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "1. Concerns about human agency, evolution and survival",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2018/12/10/concerns-about-human-agency-evolution-and-survival/",
+            "snippet": "Many experts in this canvassing said that as AI advances human autonomy and agency are at risk. They note that decision-making on key aspects of life is ceded ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The autonomy paradox, working from home and psychosocial hazards",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/00221856251315859",
+            "snippet": "This article argues that the increased autonomy afforded to employees by remote work is paradoxical. Many interviewees worked longer hours and experienced work ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The threat to human autonomy in AI systems is a design problem",
+            "text": "",
+            "link": "https://www.hertie-school.org/en/digital-governance/research/blog/detail/content/the-threat-to-human-autonomy-in-ai-systems-is-a-design-problem",
+            "snippet": "Robots and AI can improve autonomy by helping us achieve more meaningful goals and make more authentic choices. But they can also undermine autonomy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Agency, Autonomy, and the Human Risk in Artificial Intelligence",
+            "text": "",
+            "link": "https://www.reddit.com/r/OpenAI/comments/1r4z7xj/pressure_without_desire_agency_autonomy_and_the/",
+            "snippet": "The real risk lies not in machines acquiring desire, but in systems acquiring de facto autonomy through pressure, persistence, and dependence\u2014 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Reducing Human and AI Risk in Autonomous Systems - ISACA",
+            "text": "",
+            "link": "https://www.isaca.org/resources/isaca-journal/issues/2023/volume-3/reducing-human-and-ai-risk-in-autonomous-systems",
+            "snippet": "To mitigate risk attributed to semiautonomous and fully autonomous systems, it is important to understand the differences between how human brains work and how ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Balancing Autonomy and Surveillance: How has the shift to remote ...",
+            "text": "",
+            "link": "https://medium.com/@designthebay/balancing-autonomy-and-surveillance-how-has-the-shift-to-remote-work-impacted-employee-autonomy-de8b0d13249c",
+            "snippet": "Despite a general perception of employees despising work surveillance, there are also ones in favor of the monitoring system of Upwork.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Data-Driven Workplace and the Case for Worker Technology ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/00197939221131558",
+            "snippet": "In this article, the authors analyze employers' use of data-driven systems in a diverse set of industries and identify a range of potential harms to workers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Investigating the Role of Remote Working on Employees ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9566387/",
+            "snippet": "Several research papers showed that different assumptions are linked to remote work because of the flexibility and autonomy granted to employees when working ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI-Driven Employee Monitoring: A Looming Threat to Privacy and ...",
+            "text": "",
+            "link": "https://mistertechentrepreneur.com/ai-driven-employee-monitoring-a-looming-threat-to-privacy-and-autonomy-2a061b5e49ec",
+            "snippet": "AI-driven employee monitoring tools are becoming increasingly sophisticated. They can track keystrokes, analyze work patterns, monitor tone of voice during ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The dark sides of people analytics: reviewing the perils for ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2021.1927213",
+            "snippet": "Organisations increasingly rely on people analytics to optimise human resource management practices in areas such as recruitment, performance evaluation, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI and employee wellbeing in the workplace: An empirical study",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296325004072",
+            "snippet": "We found that AI adoption does not directly impact employee wellbeing but indirectly influences it through work-related factors of task optimization and safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Remote Employee Monitoring: Strategies, Tools, and Best Practices",
+            "text": "",
+            "link": "https://searchinform.com/articles/employee-management/monitoring/remote-employee-monitoring/",
+            "snippet": "Remote employee monitoring has emerged as a powerful tool for organizations striving to maintain productivity and accountability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) AI-Driven Employee Productivity Monitoring System: A Case ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/394877963_AI-Driven_Employee_Productivity_Monitoring_System_A_Case_Study_in_Remote_Work_Environments",
+            "snippet": "Research purpose: The study investigated the perceived influence of working remotely on employee productivity and performance management in South Africa.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Data and Algorithms at Work: The Case for Worker Technology Rights",
+            "text": "",
+            "link": "https://laborcenter.berkeley.edu/data-algorithms-at-work/",
+            "snippet": "A new report provides a comprehensive set of policy principles for worker technology rights in the United States.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.993568,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999908,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0065032659633810835,
+        "norm_entropy": 0.057444050723602404,
+        "avg_entropy": 0.0032516329816905418,
+        "avg_norm_entropy": 0.028722025361801202,
+        "avg_prob": 0.996738,
+        "avg_logprob": -0.0032723893364865605,
+        "avg_explogprob": 0.9967329590938588,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.006432,
+                    0.993568
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    9.2e-05,
+                    0.999908
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9934966895440001,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a risk associated with A system is designed to analyze remote work activity data to inform employee performance evaluations. It aims to provide insights into work patterns and productivity, helping to identify areas for improvement. The system utilizes data analysis techniques to support decision-making and optimize workforce management.",
+        "response": " Loss of human agency and autonomy is a risk associated with A system is designed to analyze remote work activity data to inform employee performance evaluations. It aims to provide insights into work patterns and productivity, helping to identify areas for improvement. The system utilizes data analysis techniques to support decision-making and optimize workforce management.",
+        "elapsed_time": 40.141316875000484
+    }
+}

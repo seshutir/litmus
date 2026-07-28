@@ -1,0 +1,455 @@
+{
+    "input": " Overreliance and unsafe use is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+    "output": " Overreliance and unsafe use is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is not a risk associated with autonomous driving technology in a vehicle equipped with it",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use of a vehicle's automatic steering is a risk.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Overreliance and unsafe use of autonomous driving technology is a risk in accelerating",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Overreliance and unsafe use of the autonomous braking system is a risk in braking",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Overreliance and unsafe use of a vehicle equipped with autonomous driving technology is a risk in detecting and responding to surroundings",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Overreliance and unsafe use of autonomous driving technology that utilizes sensors and mapping data to navigate roads is a risk",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Self-Driving Cars Tell Us About AI Risks",
+            "text": "",
+            "link": "https://spectrum.ieee.org/self-driving-cars-2662494269",
+            "snippet": "Automotive AI in the United States has been linked to at least 25 confirmed deaths and to hundreds of injuries and instances of property damage.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "A new study from the Insurance Institute for Highway Safety found ...",
+            "text": "",
+            "link": "https://www.facebook.com/KATVChannel7/posts/a-new-study-from-the-insurance-institute-for-highway-safety-found-driverless-car/1533777045444687/",
+            "snippet": "This suggests that while self-driving technology holds promise for reducing accidents, it is not yet at a point where it can be considered safer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A matched case-control analysis of autonomous vs human-driven ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41467-024-48526-4",
+            "snippet": "by M Abdel-Aty \u00b7 2024 \u00b7 Cited by 223 \u2014 Our research reveals the accident risk disparities between Autonomous Vehicles and Human-Driven Vehicles, informing future development in Autonomous technology ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Risks of hands-off driving and system-initiated lane ...",
+            "text": "",
+            "link": "https://etsc.eu/risks-of-hands-off-driving-and-system-initiated-lane-changes-in-level-2-driver-assistance-systems/",
+            "snippet": "The use of these systems has unsurprisingly yet regrettably already led to deaths and injuries on the road.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "When the automatic steering function is engaged, drivers ...",
+            "text": "",
+            "link": "https://www.facebook.com/WKBN27/posts/when-the-automatic-steering-function-is-engaged-drivers-might-misuse-the-combine/766093958889144/",
+            "snippet": "When the automatic steering function is engaged, drivers might misuse the combined driving function, increasing a risk of accidents, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Do Advanced Driver Assistance and Semi-Automated ...",
+            "text": "",
+            "link": "https://aaafoundation.org/research/understanding-the-impact-of-technology-do-advanced-driver-assistance-and-semi-automated-vehicle-systems-lead-to-improper-driving-behavior/",
+            "snippet": "A key concern is that drivers may become inattentive due to engagement in non-driving-related tasks or become drowsy while driving using these systems. - ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Automatic emergency steering - Transports Canada",
+            "text": "",
+            "link": "https://tc.canada.ca/en/road-transportation/driver-assistance-technologies/collision-intervention/automatic-emergency-steering",
+            "snippet": "Automatic emergency steering uses sensors to detect potential collisions with a vehicle ahead and automatically steers the vehicle to avoid a collision or make ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Higher levels of automation, referred to as automated driving systems, remove the human driver from the chain of events that can lead to a crash.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 Over-reliance on automation: the driver might overestimate the capability of the automated system and reduce their attention level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "\"How do we use autonomous technology to actually address ...",
+            "text": "",
+            "link": "https://www.instagram.com/reel/DX4ecbNkQ1v/",
+            "snippet": "Robotaxis could be 1.5 times more likely to be involved in fatal or serious crashes compared to the city's seasoned drivers. ation, and braking.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Active brake assist feature is dangerous",
+            "text": "",
+            "link": "https://www.facebook.com/groups/433595088510636/posts/1315465766990226/",
+            "snippet": "The \"Active Brake Assist\" feature on this vehicle is insanely dangerous. The car will stop when it incorrectly thinks there is an issue ahead.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Automatic Emergency Braking (AEB) System Impact on ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7037779/",
+            "snippet": "by H Tan \u00b7 2020 \u00b7 Cited by 80 \u2014 The automatic emergency braking (AEB) system is an effective intelligent vehicle active safety system for avoiding certain types of collisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Opinion: Automatic Emergency Braking Mandate is ...",
+            "text": "",
+            "link": "https://www.thetruthaboutcars.com/cars/editorials/opinion-automatic-emergency-braking-mandate-is-misguided-overreach-44506738",
+            "snippet": "When the system intervenes, it disrupts the driver's plan of action. This can lead to a collision as the driver has to suddenly react not to his ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "final-rule-automatic-emergency-braking-systems-light- ...",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-04/final-rule-automatic-emergency-braking-systems-light-vehicles_web-version.pdf",
+            "snippet": "This final rule adopts a new Federal Motor Vehicle Safety Standard (FMVSS) No. 127 to require automatic emergency braking (AEB), including pedestrian AEB (PAEB) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Automatic Emergency Braking",
+            "text": "",
+            "link": "https://www.autosafety.org/automatic-braking/",
+            "snippet": "More rear-end crashes will result when brakes engage automatically at increased distances and speeds. Fact: Well designed AEB will not pose such issues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Pros And Cons Of Self-Driving Cars: Are Autonomous Vehicles Safe?",
+            "text": "",
+            "link": "https://www.m-n-law.com/blog/pros-and-cons-of-self-driving-cars/",
+            "snippet": "The biggest risks include software failures, sensor limitations in bad weather, cybersecurity threats, and driver over-reliance on automation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 Such misrepresentation is misleading for consumers (Barry, 2021), who wrongly over-rely on these vehicles, increasing the risk of accidents8.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "A matched case-control analysis of autonomous vs human-driven ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11189485/",
+            "snippet": "by M Abdel-Aty \u00b7 2024 \u00b7 Cited by 223 \u2014 Through a matched case-control analysis this study reveals accident risk disparities between autonomous and human-driven vehicles.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 Most of the sensors required for automated driving are already available, integrated into advanced safety solutions like lane-keeping, collision alerts, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "A Critical AI View on Autonomous Vehicle Navigation",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/18/3660",
+            "snippet": "by T Miller \u00b7 2024 \u00b7 Cited by 41 \u2014 One of the foremost safety risks in AV navigation arises from sensor failures or inaccuracies. As AVs rely heavily on sensors such as LiDAR, radar, and cameras ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Autonomous Vehicles Factsheet",
+            "text": "",
+            "link": "https://css.umich.edu/publications/factsheets/mobility/autonomous-vehicles-factsheet",
+            "snippet": "Autonomous vehicles (AVs) use technology to partially or entirely replace a human driver in navigating vehicles, responding to traffic conditions, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "How Self-Driving Cars Will Destroy Cities (and What to Do ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/SelfDrivingCars/comments/1goa3pj/how_selfdriving_cars_will_destroy_cities_and_what/",
+            "snippet": "Self driving cars are just promising to be cheaper taxis. Partially Right Right if SDC companies don't have competition, they will charge higher rates.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 The vehicle has features that can drive the vehicle under certain limited conditions, and will not operate autonomously unless these conditions are fulfilled. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI-Driven Vehicle Safety Tech Targeting 2027 Could Prevent ...",
+            "text": "",
+            "link": "https://www.facebook.com/avcnews/posts/ai-driven-vehicle-safety-tech-targeting-2027-could-prevent-impaired-drivinghttps/1516039003693982/",
+            "snippet": "Autonomous Emergency Steering Tech: Electric power steering + AI Use: Automatically steers the car away from danger if braking is not enough.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Self-Driving Cars Explained",
+            "text": "",
+            "link": "https://www.ucs.org/resources/self-driving-cars-101",
+            "snippet": "Safer transportation Self-driving cars could reduce vehicle-related fatalities, as machines may make fewer errors than humans\u2014but it's not a guaranteed outcome.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Pros And Cons Of Self-Driving Cars: Are Autonomous Vehicles Safe?",
+            "text": "",
+            "link": "https://www.m-n-law.com/blog/pros-and-cons-of-self-driving-cars/",
+            "snippet": "Are self-driving cars safe? Discover the pros and cons, key risks, accident data, and what experts say about autonomous vehicle safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.8333333333333334,
+        "num_atoms": 6,
+        "num_contexts": 29,
+        "num_true_atoms": 5,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.8815508058107214e-05,
+        "norm_entropy": 0.00012824557733609948,
+        "avg_entropy": 3.1359180096845355e-06,
+        "avg_norm_entropy": 2.1374262889349913e-05,
+        "avg_prob": 0.8333326666666666,
+        "avg_logprob": -2.302585926327796,
+        "avg_explogprob": 0.0999999166666597,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 0.8333333333333334,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+        "response": " Overreliance and unsafe use is a not a risk associated with A vehicle equipped with autonomous driving technology is designed to provide a safe and efficient transportation experience by automatically steering, accelerating, and braking. It aims to reduce the risk of accidents by detecting and responding to its surroundings, including other vehicles and obstacles. The system utilizes sensors and mapping data to navigate roads and make decisions in real-time.",
+        "elapsed_time": 211.69730579201132
+    }
+}

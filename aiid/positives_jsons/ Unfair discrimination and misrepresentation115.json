@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in a social media platform's account recommendation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in a social media platform's account recommendation system suggesting new accounts to users based on their interests and interactions",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Social harms caused by unfair recommender systems - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/social-harms-caused-by-unfair-recommender-systems",
+            "snippet": "Social harms caused by unfair recommender systems ; Discrimination and toxicity \u00b7 Unfair discrimination and misrepresentation \u00b7 Individual, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI Bias in Streaming Platform Recommendation Systems",
+            "text": "",
+            "link": "https://vtechworks.lib.vt.edu/items/552d050a-b64d-4001-ba5f-47f5d9747453",
+            "snippet": "... misrepresentation\u2014alongside the severity of algorithmic discrimination and the impact of corporate reputational risks these biases create.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithms are not neutral: Bias in collaborative filtering - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802245/",
+            "snippet": "There is growing awareness that the outcomes of algorithmic processes can be discriminatory. The best known recent examples of algorithmic discrimination happen ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What are the ethical challenges in recommender systems? - Milvus",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/what-are-the-ethical-challenges-in-recommender-systems",
+            "snippet": "For example, a job platform suggesting lower-paying roles to certain demographic groups due to biased training data perpetuates systemic discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Algorithmic Bias: Reinforcing Prejudice on Social Media",
+            "text": "",
+            "link": "https://dhananjaymittal.medium.com/algorithmic-bias-reinforcing-prejudice-on-social-media-46de22eef5dc",
+            "snippet": "Discrimination: When certain groups are consistently favored, others may experience discrimination. \u00b7 Transparency: Social media platforms often ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Social Media Screening and Procedural Justice: Towards Fairer Use ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/",
+            "snippet": "In this context, opponents of social media screening are particularly concerned with potential privacy and discrimination issues (Black and Johnson 2012; Black ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "[PDF] The Right to Know Social Media Algorithms",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/lpr/wp-content/uploads/sites/89/2024/08/18.1-Right-to-Know-Social-Media-Algorithms.pdf",
+            "snippet": "207 Algorithms used in targeted advertising, a prominent feature of social media platforms, have also been found to lead to proxy discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic Bias: Reinforcing Prejudice on Social Media",
+            "text": "",
+            "link": "https://dhananjaymittal.medium.com/algorithmic-bias-reinforcing-prejudice-on-social-media-46de22eef5dc",
+            "snippet": "While personalization enhances user experience, it should not come at the cost of reinforcing prejudices and discrimination. By promoting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] The Harmful Impact of TikTok's Algorithm on People of Color",
+            "text": "",
+            "link": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1524&context=jolt",
+            "snippet": "Further, it uncovers instances of discriminatory predation and exclusion on the platform and expands the framework to distinguish between.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial intelligence and algorithmic bias? Field tests on social ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0040162523008892",
+            "snippet": "In particular, algorithmic biases on digital platforms raise important and complex social issues related to discrimination and fairness in access to information ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Misgendering algorithms: Insights from a cross-sectional survey on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X25003008",
+            "snippet": "To elucidate specific patterns of discrimination; we propose a new variable ... Exposure to social media racial discrimination and mental health among adolescents ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The rising safety concerns of deep recommender systems - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12529586/",
+            "snippet": "Additionally, blindly fitting data during the training process may introduce discrimination into recommendation algorithms, leading to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] The Harmful Impact of TikTok's Algorithm on People of Color",
+            "text": "",
+            "link": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1524&context=jolt",
+            "snippet": "However, the examples discussed provide insight into the discrimination that people of color have experienced on the platform. It is important ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The obligation to respect the principle of non- discrimination is enshrined in Article 2 of the Treaty on. European Union (TEU), Article 10 of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A social media platform's account recommendation system is designed to suggest new accounts to users based on their interests and interactions. The system aims to provide a personalized experience by identifying patterns and connections between users and accounts. It seeks to help users discover new and relevant content creators that align with their preferences.",
+        "elapsed_time": 42.17116295800042
+    }
+}

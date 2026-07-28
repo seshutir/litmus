@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An advertising system is designed to select and display relevant ads to users based on their online behavior and preferences. It aims to provide a personalized experience by matching users with targeted content. The system seeks to optimize ad placement and relevance, ensuring a suitable and respectful user experience.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An advertising system is designed to select and display relevant ads to users based on their online behavior and preferences. It aims to provide a personalized experience by matching users with targeted content. The system seeks to optimize ad placement and relevance, ensuring a suitable and respectful user experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in an advertising system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in an advertising system selecting and displaying relevant ads to users based on their online behavior and preferences",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "How online ads discriminate",
+            "text": "",
+            "link": "https://edri.org/wp-content/uploads/2021/06/EDRi_Discrimination_Online.pdf",
+            "snippet": "Discrimination in online advertising is a topic that is both timely and urgent. Unequal treatment and discrimination remain a reality in Europe. There is also ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Regulating targeted advertising: Addressing discrimination ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0267364922000759",
+            "snippet": "by AM Corr\u00eaa \u00b7 2022 \u00b7 Cited by 11 \u2014 This paper sheds light on the risks that the practice entails regarding discrimination against protected classes in the delivery of online advertisements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "\"Algorithmic Advertising Discrimination\" by Joseph Blass",
+            "text": "",
+            "link": "https://scholarlycommons.law.northwestern.edu/nulr/vol114/iss2/3/",
+            "snippet": "by J Blass \u00b7 2019 \u00b7 Cited by 49 \u2014 This Note will explain why it is difficult to ensure such systems do not learn discriminatory functions and why it is hard to discern what they have learned",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Tackling Discrimination in Targeted Advertising",
+            "text": "",
+            "link": "https://verfassungsblog.de/targeted-ad/",
+            "snippet": "Even when advertisers have no intention to discriminate, machine learning-based targeting software can still generate highly unrepresentative ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Chapter 626 Section 9541 - 2024 Florida Statutes",
+            "text": "",
+            "link": "https://www.flsenate.gov/laws/statutes/2024/626.9541",
+            "snippet": "The following are defined as unfair methods of competition and unfair or deceptive acts or practices: (a) Misrepresentations and false advertising of insurance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Privacy in targeted advertising on mobile devices: a survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9789888/",
+            "snippet": "by I Ullah \u00b7 2022 \u00b7 Cited by 82 \u2014 This article presents a comprehensive survey of the privacy risks and proposed solutions for targeted advertising in a mobile environment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Who Gets Targeted\u2014Or Excluded\u2014By Ad Systems?",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/its-not-just-content-its-business-model/who-gets-targeted-or-excluded-by-ad-systems/",
+            "snippet": "The ads were approved 15 minutes after they were which prohibits real estate entities from discriminating against prospective renters or buyers",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How online ads discriminate",
+            "text": "",
+            "link": "https://edri.org/wp-content/uploads/2021/06/EDRi_Discrimination_Online.pdf",
+            "snippet": "As this report explains later, even ads that are not specifically targeted can end up being heavily biased, based on ad optimisation processes that.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "the impact of targeted advertising on advertisers, market access and ...",
+            "text": "",
+            "link": "https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662913/IPOL_STU(2021)662913_EN.pdf",
+            "snippet": "In this research paper, we provide a comprehensive overview of online advertising markets and we analyse the challenges and opportunities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "When is personalized advertising crossing personal boundaries? ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958821000920",
+            "snippet": "by SC Boerman \u00b7 2021 \u00b7 Cited by 121 \u2014 We examine the boundary conditions of online personalized advertising by investigating when it is perceived as acceptable and when negative feelings ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Algorithmic bias in machine learning-based marketing models",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000959",
+            "snippet": "by S Akter \u00b7 2022 \u00b7 Cited by 381 \u2014 This study presents a framework identifying the sources of algorithmic bias in marketing, drawing on the microfoundations of dynamic capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "BEHAVIOURAL STUDY ON ADVERTISING AND MARKETING ...",
+            "text": "",
+            "link": "https://commission.europa.eu/system/files/2018-07/osm-final-report_en.pdf",
+            "snippet": "It aimed to identify and assess commercial practices in the context of OSM that could be potentially unfair or misleading for consumers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Marketing Cluster PI Flashcards",
+            "text": "",
+            "link": "https://quizlet.com/469742150/marketing-cluster-pi-flash-cards/",
+            "snippet": "There is a need for professional and ethic standards in all professions. Without them, companies might engage in deceptive marketing techniques",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Misrepresentation - Advertising Policies Help",
+            "text": "",
+            "link": "https://support.google.com/adspolicy/answer/6020955?hl=en",
+            "snippet": "The Misrepresentation policy strives to ensure that ads are clear, honest, and provide information that users need to make informed decisions. Below are some ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "(PDF) The Effect of False Advertising on Consumer Online Purchase ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/381014680_The_Effect_of_False_Advertising_on_Consumer_Online_Purchase_Behavior_with_the_Mediating_Effect_of_e-WOM_Consumers_in_Malaysia",
+            "snippet": "The study focuses on the three independent constituent factors of false advertising, namely, unethical advertising, misleading information, and deception.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An advertising system is designed to select and display relevant ads to users based on their online behavior and preferences. It aims to provide a personalized experience by matching users with targeted content. The system seeks to optimize ad placement and relevance, ensuring a suitable and respectful user experience.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An advertising system is designed to select and display relevant ads to users based on their online behavior and preferences. It aims to provide a personalized experience by matching users with targeted content. The system seeks to optimize ad placement and relevance, ensuring a suitable and respectful user experience.",
+        "elapsed_time": 67.41725512500852
+    }
+}

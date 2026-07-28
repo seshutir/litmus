@@ -1,0 +1,443 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An automated system is designed to review and report online content, aiming to identify and remove inappropriate material. The system relies on user submissions to flag potentially harmful content, and it strives to provide a safe and respectful environment for all users. By leveraging machine learning algorithms, the system seeks to efficiently process reports and moderate online content.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An automated system is designed to review and report online content, aiming to identify and remove inappropriate material. The system relies on user submissions to flag potentially harmful content, and it strives to provide a safe and respectful environment for all users. By leveraging machine learning algorithms, the system seeks to efficiently process reports and moderate online content.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the automated online content moderation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with an automated system reviewing and reporting online content",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with identifying and removing inappropriate material using the automated system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with processing user submissions to flag potentially harmful content",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with leveraging machine learning algorithms to moderate online content",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Artificial Intelligence and Online Hate Speech Moderation",
+            "text": "",
+            "link": "https://sur.conectas.org/en/artificial-intelligence-and-online-hate-speech-moderation/",
+            "snippet": "It obliges social media platforms with a minimum of 2 million users to remove illegal content \u2013 including hate speech and religious offence \u2013 within 24 hours or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "Decisions based on automated tools, including in the content moderation space, run the risk of further marginalizing and censoring groups",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "When it Comes to Content Moderation, We've Been Focusing on the Wrong ...",
+            "text": "",
+            "link": "https://www.rstreet.org/commentary/when-it-comes-to-content-moderation-weve-been-focusing-on-the-wrong-type-of-bias/",
+            "snippet": "Developers have successfully trained AI-based tools to moderate certain content, such as child sexual abuse imagery and copyright infringing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic Arbitrariness in Content Moderation",
+            "text": "",
+            "link": "https://arxiv.org/html/2402.16979v1",
+            "snippet": "We experimentally demonstrate how content moderation tools can arbitrarily classify samples as toxic, leading to arbitrary restrictions on speech.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Joint Statement on Enforcement of Civil Rights, Fair Competition, ...",
+            "text": "",
+            "link": "https://www.justice.gov/archives/crt/media/1346821/dl?inline",
+            "snippet": "Automated system outcomes can be skewed by unrepresentative or imbalanced datasets, datasets that incorporate historical bias, or datasets that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Resetting Antidiscrimination Law in the Age of AI",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-138/resetting-antidiscrimination-law-in-the-age-of-ai/",
+            "snippet": "The nationwide response to AI points to a specific expectation of our institutions: a fair shake and the eradication of bias, whether intentional or not.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "How AI Is (and Isn't) Litigated in U.S. Federal Court Opinions",
+            "text": "",
+            "link": "https://arxiv.org/html/2607.23888v1",
+            "snippet": "Unfair discrimination and misrepresentation (N incident=115) and Unequal performance across groups (n=32) are more prevalent in AI incidents ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "| U.S. Equal Employment Opportunity Commission",
+            "text": "",
+            "link": "https://www.eeoc.gov/meetings/meeting-january-31-2023-navigating-employment-discrimination-ai-and-automated-systems-new/transcript",
+            "snippet": "Meeting of January 31, 2023 - Navigating Employment Discrimination in AI and Automated Systems: A New Civil Rights Frontier",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithmic discrimination: examining its types and regulatory ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 72 \u2014 Algorithmic decision-making systems are widely used in various sectors, including criminal justice, employment, and education.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Civil Rights Council Secures Approval for Regulations to ...",
+            "text": "",
+            "link": "https://calcivilrights.ca.gov/2025/06/30/civil-rights-council-secures-approval-for-regulations-to-protect-against-employment-discrimination-related-to-artificial-intelligence/",
+            "snippet": "Make it clear that the use of an automated-decision system may violate California law if it harms applicants or employees based on protected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Biased Technology: The Automated Discrimination of Facial Recognition",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Using technology that has documented problems with correctly identifying people of color is dangerous. The ACLU-MN has an appalling ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Biased Face Recognition Technology Used by Government: A Problem for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475322/",
+            "snippet": "by M Gentzel \u00b7 2021 \u00b7 Cited by 60 \u2014 This paper presents a novel philosophical analysis of the problem of law enforcement's use of biased face recognition technology (FRT) in liberal democracies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Enforcement Guidance on Retaliation and Related Issues",
+            "text": "",
+            "link": "https://www.eeoc.gov/laws/guidance/enforcement-guidance-retaliation-and-related-issues",
+            "snippet": "This document addresses the anti-retaliation provisions under each statute enforced by the Commission.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Unfair, Deceptive, or Abusive Acts or Practices (UDAAP)",
+            "text": "",
+            "link": "https://ncua.gov/regulation-supervision/manuals-guides/federal-consumer-financial-protection-guide/compliance-management/unfair-deceptive-or-abusive-acts-or-practices-udaap",
+            "snippet": "Unfair, deceptive, or abusive acts and practices (UDAAP) can cause significant financial injury to consumers, erode consumer confidence, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Eliminating all bias and discrimination from AI systems may not be ...",
+            "text": "",
+            "link": "https://www.facebook.com/WomensAgenda/posts/eliminating-all-bias-and-discrimination-from-ai-systems-may-not-be-achievable-bu/1063443999552852/",
+            "snippet": "These AI applications, which help evaluate resumes and assess candidates, often reinforce discrimination because of flawed algorithms and data, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "How AI Powered Content Moderation Is Changing Social Media?",
+            "text": "",
+            "link": "https://annotationbox.com/ai-powered-content-moderation-is-changing-social-media/",
+            "snippet": "Content is reviewed after a user flags it for potential violation. The method is low-resource, but it is slow to address potentially harmful ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Incorporating Procedural Fairness in Flag Submissions on Social Media ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3797820",
+            "snippet": "This article examines how platforms' design choices in implementing flagging mechanisms influence flaggers' perceptions of content moderation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "To delete or not to delete",
+            "text": "",
+            "link": "https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i8535-to-delete-or-not-to-delete/",
+            "snippet": "flagging potentially harmful content before it is even posted. One concern is false negatives - failing to spot a potentially harmful post. content posters are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The Oversight of Content Moderation by AI: Impact Assessments and their ...",
+            "text": "",
+            "link": "https://journals.law.harvard.edu/jol/wp-content/uploads/sites/86/2021/02/105_Nahmias.pdf",
+            "snippet": "by Y NAHMIAS \u00b7 Cited by 77 \u2014 Even if platforms disclose how they minimize the spread of harmful content, they do not apply a common threshold of content legitimacy for all ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "While algorithms can be a force for good, they can also violate the right to privacy or lead to discriminatory decision-making, which has a very real impact on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination takes place when insurers consider factors that are unrelated to actuarial risk while determining whether to provide insurance to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Strengthening legal protection against discrimination by algorithms ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/13642987.2020.1743976",
+            "snippet": "by FJ Zuiderveen Borgesius \u00b7 2020 \u00b7 Cited by 415 \u2014 We saw that algorithmic systems can cause discrimination. For example, algorithmic decision-making could breach the prohibition of indirect discrimination if an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "How to Prevent Discriminatory Outcomes in Machine Learning",
+            "text": "",
+            "link": "https://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf",
+            "snippet": "discrimination in machine learning is most likely to impact human rights, evaluate where businesses' responsibilities lie in addressing algorithmic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 The reported detrimental contents are fake news, rumors, hate speech, aggressive, and cyberbullying. AI and automated systems can assist manual moderation by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How AI Powered Content Moderation Is Changing Social Media?",
+            "text": "",
+            "link": "https://annotationbox.com/ai-powered-content-moderation-is-changing-social-media/",
+            "snippet": "AI moderation can help identify violations like spam, nudity, and hate speech using NLP for text and computer vision for images and videos.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "PMs Guide to Content Moderation Solutions",
+            "text": "",
+            "link": "https://safer.io/resources/the-product-managers-guide-to-choosing-content-moderation-solutions/",
+            "snippet": "Find out why content moderation matters for every platform, and get a step-by-step approach to finding your content moderation solution.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What is Content Moderation? Pros, Cons, and Best Practices",
+            "text": "",
+            "link": "https://www.hirehoratio.com/blog/what-is-content-moderation",
+            "snippet": "Content moderators play a crucial role in filtering out harmful, inappropriate, or misleading content, including hate speech, harassment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Types of Content Moderation: Benefits, Challenges, and Use Cases",
+            "text": "",
+            "link": "https://imagga.com/blog/types-of-content-moderation-benefits-challenges-and-use-cases/",
+            "snippet": "Without human review, automated systems risk making moderation decisions that feel arbitrary or unfair, potentially alienating users.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An automated system is designed to review and report online content, aiming to identify and remove inappropriate material. The system relies on user submissions to flag potentially harmful content, and it strives to provide a safe and respectful environment for all users. By leveraging machine learning algorithms, the system seeks to efficiently process reports and moderate online content.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An automated system is designed to review and report online content, aiming to identify and remove inappropriate material. The system relies on user submissions to flag potentially harmful content, and it strives to provide a safe and respectful environment for all users. By leveraging machine learning algorithms, the system seeks to efficiently process reports and moderate online content.",
+        "elapsed_time": 89.2259174589999
+    }
+}

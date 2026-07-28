@@ -1,0 +1,212 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+    "output": " Lack of capability or robustness is a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in an industrial robot is a risk in industrial manufacturing",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an industrial robot is a risk in performing tasks that require precision and physical strength, such as assembly and material handling",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Pros and cons of using industrial robots in your manufacturing ...",
+            "text": "",
+            "link": "https://www.wipfli.com/insights/articles/mad-pros-and-cons-of-using-industrial-robots-in-manufacturing",
+            "snippet": "Disadvantages of industrial robots \u00b7 1. High initial investment \u00b7 2. Expertise can be scarce \u00b7 3. Ongoing costs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Industrial robots: Limitations and solutions - EU Automation",
+            "text": "",
+            "link": "https://www.euautomation.com/en/knowledge-hub/read/blogs/industrial-robots-limitations-and-solutions",
+            "snippet": "In this blog, we will explore three key limitations of industrial robots. This includes industrial robot costs, industrial robot safety, and the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "OSH related risks and opportunities for industrial human-robot ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/",
+            "snippet": "We present a multifaceted analysis of risks and opportunities regarding robotic systems in the context of task automation in the industrial sector.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Why Industrial Robots Fail (And How to Prevent It) - Adams Corp",
+            "text": "",
+            "link": "https://adamscorp.com/our-blog/why-industrial-robots-fail-and-how-to-prevent-it",
+            "snippet": "Industrial robots fail due to cable wear, overheating, and poor programming. Learn the real causes and how to prevent failures.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Industrial Robotics Safety Hazards: Mechanical, Electrical ...",
+            "text": "",
+            "link": "https://www.lasersafetycertification.com/blog/industrial-robotics-safety-hazards/",
+            "snippet": "Industrial robotics improves efficiency, but it does not eliminate risk. Mechanical hazards, electrical dangers, ergonomic stressors, and laser radiation risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4 - OSHA",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "Industrial robots are used in place of a worker to perform dangerous or repetitive tasks with a high degree of accuracy. An industrial robot system includes not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Occupational health and safety issues in human-robot collaboration",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0925753523002552",
+            "snippet": "Numerous safety concerns are open, and either new or enhanced technical, procedural and organizational measures have to be investigated.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Pros and cons of using industrial robots in your manufacturing ...",
+            "text": "",
+            "link": "https://www.wipfli.com/insights/articles/mad-pros-and-cons-of-using-industrial-robots-in-manufacturing",
+            "snippet": "An industrial robot increases speed for manufacturing processes, in part by operating 24/7. Robots don't need breaks or shift changes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Case Studies of Robots and Automation as Health/Safety ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10191138/",
+            "snippet": "Physical hazards include material handling of small parts, being struck by moving parts, poor tool design, repeated motion, and poor workspace layout. 14.6 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Industrial Robots in High-Precision Tasks vs. Automation",
+            "text": "",
+            "link": "https://eureka.patsnap.com/report-industrial-robots-in-high-precision-tasks-vs-automation",
+            "snippet": "Discover next-gen collaborative robots combining precision automation with human-like cognitive flexibility and safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Robot Safety - an overview | ScienceDirect Topics",
+            "text": "",
+            "link": "https://www.sciencedirect.com/topics/engineering/robot-safety",
+            "snippet": "Robot safety refers to the measures implemented to ensure the safe operation of robots, particularly mobile robots, in environments where they may interact ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Safety Guide to Industrial Robotics Hazards - Safesite",
+            "text": "",
+            "link": "https://safesitehq.com/industrial-robotics/",
+            "snippet": "This guide can help you perform a safety risk assessment pertaining to industrial robots. Let's dive into the fundamentals of industrial robotics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Robotics and automation safety risks in construction - Frontiers",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1653188/full",
+            "snippet": "A cross-cutting analysis found that mechanical and psychosocial risks dominated across all robotics and automation technologies. Risk mitigation strategies were ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.997238,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.972376,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.02999707688402945,
+        "norm_entropy": 0.20978907751507217,
+        "avg_entropy": 0.014998538442014726,
+        "avg_norm_entropy": 0.10489453875753608,
+        "avg_prob": 0.984807,
+        "avg_logprob": -0.015389269702962973,
+        "avg_explogprob": 0.9847285399987146,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.002762,
+                    0.997238
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.027624,
+                    0.972376
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.96999935701,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+        "response": " Lack of capability or robustness is a risk associated with An industrial robot is designed to perform tasks that require precision and physical strength, such as assembly and material handling. It aims to improve manufacturing efficiency and reduce the risk of human error. The robot operates in a controlled environment, interacting with various machines and objects to accomplish its tasks.",
+        "elapsed_time": 22.51170345799983
+    }
+}

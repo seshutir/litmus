@@ -1,0 +1,281 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+    "output": " Lack of capability or robustness is a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a factory robot is a risk in manufacturing",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a factory robot is a risk in manipulating and processing materials",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a factory robot is a risk in operating autonomously with repeatable accuracy and reliability",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Pros and cons of using industrial robots in your manufacturing ...",
+            "text": "",
+            "link": "https://www.wipfli.com/insights/articles/mad-pros-and-cons-of-using-industrial-robots-in-manufacturing",
+            "snippet": "Disadvantages of industrial robots \u00b7 1. High initial investment \u00b7 2. Expertise can be scarce \u00b7 3. Ongoing costs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The limitations of industrial robots - The Manufacturer",
+            "text": "",
+            "link": "https://www.themanufacturer.com/articles/the-limitations-of-industrial-robots/",
+            "snippet": "Older machines even lack the sensory capabilities to detect nearby humans, making them prone to dangerous collisions and accidents. For this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The top challenges manufacturers face with robotics - Mujin",
+            "text": "",
+            "link": "https://mujin-corp.com/resources/blog/the-top-challenges-manufacturers-face-with-robotics",
+            "snippet": "One of the most immediate barriers to robotics adoption is the high upfront cost. Robots require substantial investment in hardware, integration, and training.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Critical Hazard Factors in the Risk Assessments of Industrial Robots",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2093791121000639",
+            "snippet": "This study discusses why robot accidents resulting in harm to operators occur repetitively despite implementing control measures and proposes corrective actions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "5 Challenges of Implementing Industrial Robots - Qviro Blog",
+            "text": "",
+            "link": "https://qviro.com/blog/challenges-of-implementing-industrial-robots/",
+            "snippet": "Overcome top 5 industrial robot challenges: system integration, workforce training, cost, safety, and maintenance for manufacturing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Biggest Challenges in Industrial Robot Implementation | A3",
+            "text": "",
+            "link": "https://www.automate.org/robotics/blogs/the-biggest-challenges-manufacturers-face-in-industrial-robot-implementation",
+            "snippet": "There are typically 4 main challenges to robotic automation. Employee skillsets, new safety protocols, budgeting, and managing product workflows are some of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Why Robot Security Can't Be an Afterthought in Manufacturing",
+            "text": "",
+            "link": "https://foundershield.com/blog/robot-security-in-manufacturing-automation/",
+            "snippet": "Ensuring robot security is paramount in manufacturing automation. Let's explore the risks and solutions for robots.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Playing It Safe With Material Handling Robots",
+            "text": "",
+            "link": "https://www.robots.com/articles/playing-it-safe-with-material-handling-robots",
+            "snippet": "Material handling robots can take over the tasking, back breaking labor that once was completed by human workers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Exploring tasks and challenges in human-robot collaborative systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736584525001565",
+            "snippet": "This paper presents an in-depth exploration of Human-Robot Collaborative Systems (HRCSs) within industrial environments, a dynamic field that has witnessed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Autonomous Robots for Services\u2014State of the Art, Challenges, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10223107/",
+            "snippet": "This article reviews the current state of development of this technology and highlights the evolution of interest in it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Rise and Risks of Autonomous Robots in the Workplace",
+            "text": "",
+            "link": "https://www.thehartford.com/insights/technology/autonomous-robots-in-the-workplace",
+            "snippet": "In addition to potentially breaking down, autonomous robots can perform the wrong action if not programmed correctly. For example, robots have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Robotics Levels of Autonomy - SemiAnalysis",
+            "text": "",
+            "link": "https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy",
+            "snippet": "Robot autonomy is inherently linked to applications: creating value only through actions often irrecoverable. Therefore, capabilities are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Safety and Reliability in Robotics - Boston Engineering",
+            "text": "",
+            "link": "https://www.boston-engineering.com/solutions/technical-innovation/robotics/robotics-design-and-application-expertise/safety-and-reliability-in-robotics/",
+            "snippet": "Safety and reliability in robotics involve designing, testing, and validating robotic systems to prevent failures, minimize risks, and guarantee consistent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Reviewing human-robot collaboration in manufacturing",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736584524002242",
+            "snippet": "It identifies the opportunities and challenges arising from the interactions between robots and humans in manufacturing applications, assembly, and inspection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Exploring Challenges and Opportunities in Manufacturing and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12541-025-01318-2",
+            "snippet": "This paper offers a forward-looking perspective on the challenges and opportunities shaping the future of robotics, drawing insights from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "robotics true and false Flashcards | Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/956554571",
+            "snippet": "Industrial robots are designed for manufacturing and can perform tasks autonomously. true. sevice robots are typically used for tasks that are dirty, dull ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "(PDF) Development analysis of intelligent robots in manufacturing ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/377831547_Development_analysis_of_intelligent_robots_in_manufacturing_industry",
+            "snippet": "This paper introduces the application fields, key technologies and needs of intelligent robots, and explains the important position of intelligent robots in the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Robot accuracy vs. repeatability: What manufacturers need to know ...",
+            "text": "",
+            "link": "https://standardbots.com/blog/robot-accuracy",
+            "snippet": "Robot accuracy and repeatability define how precise a robot's movements are. Learn about accuracy vs. precision, testing, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 18,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+        "response": " Lack of capability or robustness is a risk associated with A factory robot is designed to perform tasks that require precision and speed, such as manipulating and processing materials. It is intended to operate autonomously, completing tasks with repeatable accuracy and reliability. The robot's primary function is to assist in various manufacturing processes, enhancing productivity and efficiency.",
+        "elapsed_time": 25.159039625000332
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and remove harmful content, utilizing algorithms to identify and flag inappropriate posts. The system aims to reduce the prevalence of objectionable material, promoting a safer online environment. It works in conjunction with human evaluators to improve the accuracy and efficiency of content moderation.",
+    "output": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and remove harmful content, utilizing algorithms to identify and flag inappropriate posts. The system aims to reduce the prevalence of objectionable material, promoting a safer online environment. It works in conjunction with human evaluators to improve the accuracy and efficiency of content moderation.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with automated content moderation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with detecting and removing harmful content using an automated system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing algorithms to identify and flag inappropriate posts in an automated system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with improving the accuracy and efficiency of content moderation in conjunction with human evaluators using an automated system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "In addition, automated tools are also limited in their ability to derive contextual insights from content. For example, an image recognition tool could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The flaws in the content moderation system",
+            "text": "",
+            "link": "https://mei.edu/publication/flaws-content-moderation-system-middle-east-case-study/",
+            "snippet": "Because automated tools are limited in their ability to make accurate decisions in complex, contextual, and subjective situations, particularly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 A fully automated detection and moderation is a need of time to come up with the alarming detrimental content on social media. Artificial Intelligence (AI) has ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Content Moderation in a New Era for AI and Automation",
+            "text": "",
+            "link": "https://www.oversightboard.com/news/content-moderation-in-a-new-era-for-ai-and-automation/",
+            "snippet": "Most content moderation decisions are now made by machines, not human beings, and this is only set to accelerate.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Content moderation by LLM: from accuracy to legitimacy",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-025-11328-1",
+            "snippet": "by T Huang \u00b7 2025 \u00b7 Cited by 75 \u2014 This article argues that accuracy is insufficient and misleading because it fails to grasp the distinction between easy cases and hard cases, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Survey on Harmful Content Generation and Safety ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05775v1",
+            "snippet": "In this survey, we systematically review recent studies spanning unintentional toxicity, adversarial jailbreaking attacks, and content ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Risks and Mitigation Strategies for Adversarial Artificial ...",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/2023-12/23_1222_st_risks_mitigation_strategies.pdf",
+            "snippet": "Additional mitigations include content moderation to detect and filter out harmful or adversarial content in near real-time, behavior analysis",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "In simple terms, robustness refers to an AI system's reliability, especially in unfamiliar or challenging situations. Currently, most AI systems are far from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Risks of AI scientists: prioritizing safeguarding over autonomy",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12446425/",
+            "snippet": "by X Tang \u00b7 2025 \u00b7 Cited by 50 \u2014 A lack of efficient supervision over how agents use tools can lead to potentially harmful situations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The flaws of policies requiring human oversight ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364922000292",
+            "snippet": "by B Green \u00b7 2022 \u00b7 Cited by 402 \u2014 In this article, I survey 41 policies that prescribe human oversight of government algorithms and find that they suffer from two significant flaws.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Data and Algorithms at Work: The Case for Worker ...",
+            "text": "",
+            "link": "https://laborcenter.berkeley.edu/data-algorithms-at-work/",
+            "snippet": "Employers are increasingly using data and algorithms in ways that stand to have profound consequences for wages, working conditions, race and gender equity, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Stop Explaining Black Box Machine Learning Models for High ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122117/",
+            "snippet": "by C Rudin \u00b7 2019 \u00b7 Cited by 15178 \u2014 When there are correlated features, the lack of stability happens with most algorithms that are not strongly regularized.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Algorithmic Robustness Whitepaper",
+            "text": "",
+            "link": "https://cra.org/ccc/wp-content/uploads/sites/2/2023/10/Algorithmic-Robustness-Whitepaper.pdf",
+            "snippet": "by D Jensen \u00b7 Cited by 2 \u2014 Algorithmic robustness refers to the sustained performance of a computational system in the face of change in the nature of the environment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Evaluating Trustworthiness in AI: Risks, Metrics, and ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/14/13/2717",
+            "snippet": "by A Nastoska \u00b7 2025 \u00b7 Cited by 108 \u2014 Robodebt's failure highlights the dangers of deploying automated systems without robust mechanisms to mitigate algorithmic biases, such as model bias, data bias ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI vs. Human Moderators: A Comparative Evaluation ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05527v1",
+            "snippet": "In this work, we benchmark the capabilities of MLLMs in brand safety classification, a critical subset of content moderation for safeguarding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Content moderation from scale to specialization",
+            "text": "",
+            "link": "https://www.pwc.com/us/en/industries/tmt/library/trust-and-safety-outlook/content-moderation-scale-to-specialization.html",
+            "snippet": "However, the rise of automated moderation doesn't eliminate risk. It changes the nature of the work that remains for manual review. As routine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "A comprehensive review of LLM-based content moderation",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0950705125017289",
+            "snippet": "by C Chen \u00b7 2025 \u00b7 Cited by 23 \u2014 This paper presents a systematic and comprehensive review of Large Language Model (LLM)-based content moderation methods, research progress, and future ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "The Limitations of Automated Tools in Content Moderation \u00b7 Accuracy and Reliability \u00b7 Contextual Understanding of Human Speech \u00b7 Creator and Dataset Bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The Benefits of AI Content Moderation for Your Brand's ...",
+            "text": "",
+            "link": "https://toloka.ai/blog/content-moderation-with-ai/",
+            "snippet": "Cost Reduction and Risk Mitigation. By using automated systems instead of human moderators, businesses are able to reduce their spending. It ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Regulating Algorithmic Content Distribution and ...",
+            "text": "",
+            "link": "https://www.rstreet.org/?post_type=research&p=95059",
+            "snippet": "These systems use algorithms to reduce human exposure to disturbing content by removing posts before they become public. Yet moderation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The unappreciated role of intent in algorithmic moderation ...",
+            "text": "",
+            "link": "https://misinforeview.hks.harvard.edu/article/the-unappreciated-role-of-intent-in-algorithmic-moderation-of-abusive-content-on-social-media/",
+            "snippet": "by X Wang \u00b7 2025 \u00b7 Cited by 8 \u2014 This paper examines the role of intent in the moderation of abusive content. Specifically, we review state-of-the-art detection models and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Algorithmic content moderation: Technical and political ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/2053951719897945",
+            "snippet": "by R Gorwa \u00b7 2020 \u00b7 Cited by 1602 \u2014 This article provides an accessible technical primer on how algorithmic moderation works; examines some of the existing automated tools used by major platforms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "The accuracy of a given tool in detecting and removing content online is highly dependent on the type of content it is trained to tackle.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 4e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 25,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 9.116339646127034e-05,
+        "norm_entropy": 0.00014161983156600318,
+        "avg_entropy": 2.2790849115317586e-05,
+        "avg_norm_entropy": 3.5404957891500794e-05,
+        "avg_prob": 1.75e-06,
+        "avg_logprob": -13.4689369676843,
+        "avg_explogprob": 1.414213562373097e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.999996,
+                    4e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 4e-12,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and remove harmful content, utilizing algorithms to identify and flag inappropriate posts. The system aims to reduce the prevalence of objectionable material, promoting a safer online environment. It works in conjunction with human evaluators to improve the accuracy and efficiency of content moderation.",
+        "response": " Lack of capability or robustness is a not a risk associated with An automated system is designed to detect and remove harmful content, utilizing algorithms to identify and flag inappropriate posts. The system aims to reduce the prevalence of objectionable material, promoting a safer online environment. It works in conjunction with human evaluators to improve the accuracy and efficiency of content moderation.",
+        "elapsed_time": 74.84861462499248
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+    "output": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the system's patient data analysis for sepsis prediction",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with using the system's algorithms to identify patterns and alert medical staff to potential sepsis cases",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bug Wars: Artificial Intelligence Strikes Back in Sepsis ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12345688/",
+            "snippet": "by GI Barkas \u00b7 2025 \u00b7 Cited by 8 \u2014 Sepsis remains a leading global cause of mortality, with delayed recognition and empirical antibiotic overuse fueling poor outcomes and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Artificial Intelligence for the Prediction of Sepsis in Adults",
+            "text": "",
+            "link": "https://canjhealthtechnol.ca/index.php/cjht/article/view/en0034/572",
+            "snippet": "by R Haas \u00b7 2022 \u00b7 Cited by 7 \u2014 Even with the variation in performance, 1 review concluded that AI models could accurately predict sepsis onset in retrospective data. The other review found ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Early prediction of sepsis infection risk for intensive care ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S266652122600061X",
+            "snippet": "by MQ Shatnawi \u00b7 2026 \u2014 Sepsis is one of the leading causes of death in intensive care units if not detected and treated early. This study presents an advanced approach for early ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Balancing Accuracy and Simplicity in an Interpretable ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/15/19/10562",
+            "snippet": "by TA Chang \u00b7 2025 \u00b7 Cited by 1 \u2014 This study develops an interpretable machine learning system for sepsis prediction that integrates robust performance evaluation with advanced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Research suggests Epic Sepsis Model is lacking in ...",
+            "text": "",
+            "link": "https://www.healthcareitnews.com/news/research-suggests-epic-sepsis-model-lacking-predictive-power",
+            "snippet": "A new study in JAMA Internal Medicine found that a sepsis prediction model included as part of Epic's electronic health record may poorly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI-driven innovations in early detection and tailored therapies",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12366378/",
+            "snippet": "by P Papareddy \u00b7 2025 \u00b7 Cited by 45 \u2014 Three critical use cases of AI in sepsis care include early detection, sepsis subphenotyping for risk stratification, and targeted treatment. AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Artificial intelligence in sepsis early prediction and ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41467-021-20910-4",
+            "snippet": "by KH Goh \u00b7 2021 \u00b7 Cited by 490 \u2014 We develop an artificial intelligence algorithm, SERA algorithm, which uses both structured data and unstructured clinical notes to predict and diagnose sepsis.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI in Sepsis Management: Early Detection and Treatment",
+            "text": "",
+            "link": "https://esmed.org/ai-in-sepsis-management-early-detection-and-treatment/",
+            "snippet": "by A Amirsavadkouhi \u00b7 2025 \u2014 Artificial Intelligence (AI) has emerged as a transformative solution for the early detection and risk prediction of sepsis, addressing many of the limitations ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Value of Algorithm-Enabled Process Innovation: The Case of ...",
+            "text": "",
+            "link": "https://pubsonline.informs.org/doi/10.1287/msom.2023.1226",
+            "snippet": "by I Adjerid \u00b7 2023 \u00b7 Cited by 21 \u2014 Our empirical analysis shows that sepsis AEPI reduces the likelihood of death from sepsis (45% relative reduction in mortality risk due to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Shielded from scrutiny, Epic algorithms deliver inaccurate ...",
+            "text": "",
+            "link": "https://www.statnews.com/2021/07/26/epic-hospital-algorithms-sepsis-investigation/",
+            "snippet": "A STAT investigation found several AI algorithms developed by Epic Systems are delivering inaccurate information on seriously ill patients.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI-driven innovations in early detection and tailored therapies",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12366378/",
+            "snippet": "by P Papareddy \u00b7 2025 \u00b7 Cited by 45 \u2014 Artificial intelligence (AI) offers promising solutions to improve sepsis care through earlier detection, risk stratification, and personalized ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Systems-based framework for clinical decision-support ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772501425000090",
+            "snippet": "by DF Barbieri \u00b7 2025 \u00b7 Cited by 5 \u2014 Sepsis risk detection scoring is dependent on timely data validation by the nursing staff. Heart rate and respiratory values >2 h old will not impact ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "A Deep Learning Model to Predict Sepsis Early",
+            "text": "",
+            "link": "https://www.physiciansweekly.com/post/a-deep-learning-model-to-predict-sepsis-early",
+            "snippet": "The increased adoption of EHRs in hospitals has led to the development of machine learning-based surveillance tools to detect and predict sepsis ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Machine Learning-Enabled Framework for Early Sepsis ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2078-2489/17/5/430",
+            "snippet": "The system integrates machine learning techniques to analyze the processed data, ultimately identifying patients at risk of developing sepsis. Future work ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Data, AI, and Predictive Modeling in Sepsis (Session 3 | 2024 ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=-5juHZcXfVQ",
+            "snippet": "The aim of the session is to examine how data can be used to detect and predict sepsis and inform decision making.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 2,
+        "entropy": 0.6931471805599453,
+        "norm_entropy": 2.0,
+        "avg_entropy": 0.34657359027997264,
+        "avg_norm_entropy": 1.0,
+        "avg_prob": 0.5,
+        "avg_logprob": -0.6931471805599453,
+        "avg_explogprob": 0.5,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.25,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+        "response": " Lack of capability or robustness is a not a risk associated with A system is designed to analyze patient data and predict the risk of sepsis, aiming to provide healthcare professionals with accurate and timely information. It uses algorithms to identify patterns and alert medical staff to potential cases, with the goal of enabling early intervention and improving patient outcomes. The system's purpose is to support clinical decision-making and enhance patient care.",
+        "elapsed_time": 43.69320154201705
+    }
+}

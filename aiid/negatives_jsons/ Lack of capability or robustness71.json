@@ -1,0 +1,211 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+    "output": " Lack of capability or robustness is a not a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a machine translation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a machine translation system interpreting and rendering the meaning of original text into a target language",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Overview and challenges of machine translation for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+            "snippet": "by P Naveen \u00b7 2024 \u00b7 Cited by 104 \u2014 Machine translation systems may lack the necessary domain-specific knowledge to disambiguate polysemous words accurately in such cases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Did Translation Models Get More Robust Without Anyone ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2403.03923v1",
+            "snippet": "Neural machine translation (MT) models achieve strong results across a variety of settings, but it is widely believed that they are highly sensitive to \u201cnoisy\u201d ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How would a user know when or how much to trust ...",
+            "text": "",
+            "link": "https://www.researchgate.net/post/How_would_a_user_know_when_or_how_much_to_trust_a_machine_translation_system",
+            "snippet": "Formal evaluations of machine translation (MT) systems give a user a general sense of translation accuracies. For users with a passing knowledge of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Machine Translation Robustness - MachineTranslation.io",
+            "text": "",
+            "link": "https://blog.machinetranslation.io/machine-translation-robustness/",
+            "snippet": "The first step to machine translation robustness is defining the issues that your model frequently encounters when translating a certain type of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robustness of Machine Translation for Low-Resource ...",
+            "text": "",
+            "link": "https://project-archive.inf.ed.ac.uk/msc/20215190/msc_proj.pdf",
+            "snippet": "As an attempt to further improve robustness towards samples distant from the training distribution, this work explores subword regularization using BPE-Dropout, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Overview and challenges of machine translation for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+            "snippet": "by P Naveen \u00b7 2024 \u00b7 Cited by 104 \u2014 This review explores the difficulties in achieving such accuracy, particularly in capturing contextual information, disambiguating polysemous words, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Shortcomings of LLMs for Low-Resource Translation",
+            "text": "",
+            "link": "https://arxiv.org/html/2406.15625v1",
+            "snippet": "In this study, we investigate one way to lessen the NLP Gap, comparing LLMs' in-context learning abilities when translating from a low-resource ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "An articulate source text leads to a robust translation",
+            "text": "",
+            "link": "https://www.worldtranslation.com/blog/an-articulate-source-text-leads-to-a-robust-translation-here-s-why",
+            "snippet": "Machine translation does not identify contextual errors and often just translates verbatim, ignoring potential inaccuracies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "How AI Translation Works: Is It Truly Helpful in 2026?",
+            "text": "",
+            "link": "https://www.eliteasia.co/how-artificial-intelligence-works-when-translating-a-language/",
+            "snippet": "AI translation uses artificial intelligence algorithms to convert text or speech from one language to another automatically. Unlike traditional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Overview and challenges of machine translation for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+            "snippet": "by P Naveen \u00b7 2024 \u00b7 Cited by 104 \u2014 Machine translation aims to facilitate communication and understanding between individuals who speak different languages, enabling the exchange ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Expanding Your Global Reach with Translation AI",
+            "text": "",
+            "link": "https://translated.com/expanding-your-global-reach-with-machine-translation",
+            "snippet": "This article explores how machine translation revolutionizes knowledge sharing, access, communication, and information gathering in our interconnected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Machine Translation Tools and a Vision for a Multilingual Future",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9525128/",
+            "snippet": "by E Steigerwald \u00b7 2022 \u00b7 Cited by 216 \u2014 We broadly review the advantages and limitations of neural machine translation systems and propose that translation can serve as both a short- and a long-term ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Machine Translation: How AI Breaks the Language Barrier",
+            "text": "",
+            "link": "https://defined.ai/blog/lost-in-translation-how-artificial-intelligence-is-breaking-the-language-barrier",
+            "snippet": "Machine translation is the process of automatically converting text or speech from one language to another using software. converting text or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+        "response": " Lack of capability or robustness is a not a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+        "elapsed_time": 80.42223641701275
+    }
+}

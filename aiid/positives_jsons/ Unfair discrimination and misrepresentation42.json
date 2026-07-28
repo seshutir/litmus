@@ -1,0 +1,220 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the admissions process using algorithms",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in using algorithms to evaluate and select candidates for admissions",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Discrimination by recruitment algorithms is a real problem - Pursuit",
+            "text": "",
+            "link": "https://pursuit.unimelb.edu.au/articles/discrimination-by-recruitment-algorithms-is-a-real-problem",
+            "snippet": "As the use by employers of AI to screen job applicants grows, there are serious risks of discrimination against women, older applicants and minority groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "exploring the perils of algorithmic biases and selective adherence to ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420529/",
+            "snippet": "In the bias condition, some applicants are discriminated against by the algorithm on the basis of their ethnicity by (1) assigning them lower ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "cases of unequal treatment and discrimination resulting from the application of algorithms, which will be discussed below. This study takes a problem ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "Modern algorithms may appear neutral but can disproportionately harm protected class members, posing the risk of \u201cagentic discrimination\u201d ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Enrollment algorithms are contributing to the crises of higher education",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/enrollment-algorithms-are-contributing-to-the-crises-of-higher-education/",
+            "snippet": "Notably, the use of both predictive and optimization algorithms makes the danger of discrimination more complex than the case of purely ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Rejected by an AI? Comparing job applicants' fairness perceptions ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12623313/",
+            "snippet": "Unlike other control variables, we find a positive effect of job applicants' perceived discrimination ... Applicant perceptions of hiring algorithms-uniqueness ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Fairness and Bias in Algorithmic Hiring: A Multidisciplinary Survey",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3696457",
+            "snippet": "These include institutional biases such as direct discrimination, job segregation, and stereotyping; individual preference patterns like self- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Algorithms Used by Universities to Predict Student Success May Be ...",
+            "text": "",
+            "link": "https://www.aera.net/Newsroom/Study-Algorithms-Used-by-Universities-to-Predict-Student-Success-May-Be-Racially-Biased",
+            "snippet": "\u201cIt is critical for institutional users to be aware of the historical discrimination reflected in the data and to not penalize groups that have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "exploring the perils of algorithmic biases and selective adherence to ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420529/",
+            "snippet": "Hiring algorithms promise to counteract interpersonal bias and discrimination against marginalized groups that have long plagued the hiring ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "AI algorithms can perpetuate discrimination through biased data sets, opaque decision-making processes, and exclusionary employment criteria if they are not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Navigating AI Bias in Recruitment: Mitigation Strategies for Fair and ...",
+            "text": "",
+            "link": "https://www.hackerearth.com/blog/navigating-ai-bias-in-recruitment-mitigation-strategies-for-fair-and-transparent-hiring",
+            "snippet": "The risk profile is high, as an employer may be liable for unintentional discrimination if an AI-driven selection procedure screens out a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring",
+            "text": "",
+            "link": "https://www.ada.gov/resources/ai-guidance/",
+            "snippet": "Even where an employer does not mean to discriminate, its use of a hiring technology may still lead to unlawful discrimination. For example, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to automate a portion of the admissions process, using algorithms to evaluate and select candidates based on certain criteria. The goal of this system is to streamline the process and make it more efficient. It aims to provide a fair and unbiased assessment of applicants, using data-driven methods to inform decision-making.",
+        "elapsed_time": 21.395950708999408
+    }
+}

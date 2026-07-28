@@ -1,0 +1,362 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to categorize and moderate online advertisements, ensuring they comply with guidelines and regulations. The system aims to accurately classify products and services, distinguishing between various categories to provide a safe and relevant experience for users. It also seeks to help advertisers reach their target audience by properly identifying and approving their ads.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to categorize and moderate online advertisements, ensuring they comply with guidelines and regulations. The system aims to accurately classify products and services, distinguishing between various categories to provide a safe and relevant experience for users. It also seeks to help advertisers reach their target audience by properly identifying and approving their ads.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in online advertisement moderation using an automated system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in categorizing and classifying products and services by an automated system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in distinguishing between various advertisement categories in an automated system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying and approving advertisements for target audiences",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "FTC Announces Crackdown on Deceptive AI Claims and Schemes",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes",
+            "snippet": "The cases being announced today include actions against a company promoting an AI tool that enabled its customers to create fake reviews, a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Navigating AI Moderation and the Risks to Free Expression",
+            "text": "",
+            "link": "https://globalnetworkinitiative.org/navigating-ai-moderation-and-the-risks-to-free-expression/",
+            "snippet": "Online platforms are increasingly integrating AI and AI-based tools into content moderation, creating risks to fundamental rights, especially ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Generative AI's Overlooked Risk: Ads - Democracy Journal",
+            "text": "",
+            "link": "https://democracyjournal.org/arguments/generative-ais-overlooked-risk-ads/",
+            "snippet": "As we know, targeting can have a number of negative consequences for human and civil rights, including harmful discrimination along sensitive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic Content Moderation Brings New Opportunities and Risks",
+            "text": "",
+            "link": "https://www.cigionline.org/articles/algorithmic-content-moderation-brings-new-opportunities-and-risks/",
+            "snippet": "Where they face legal risks for discriminatory or arbitrary moderation (as, for example, under the Digital Services Act), using outsourced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Preventing discrimination in the automated targeting of job ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/321464392_Preventing_discrimination_in_the_automated_targeting_of_job_advertisements",
+            "snippet": "This paper explains under which circumstance the automated targeting of job advertisements can amount to direct or indirect discrimination. The paper concludes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Biases in artificial intelligence (AI) systems pose a range of ethical issues. The myriads of biases in AI systems are briefly reviewed and divided in three ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias and Fairness of AI-based systems within Financial Crime",
+            "text": "",
+            "link": "https://www.niceactimize.com/blog/fraud-bias-and-fairness-of-ai-based-systems-within-financial-crime",
+            "snippet": "In this NICE Actimize blog, we take a look at inherent bias in AI-based systems, and how to instill more fairness within them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias and ethics of AI systems applied in auditing - A systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "This study aimed to investigate the sources of bias and risks posed by AI systems applied in auditing and the complex downstream interactions and effects they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What is Data Bias? - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/data-bias",
+            "snippet": "What are the risks of data bias? Data bias can lead to unfair, inaccurate and unreliable AI systems resulting in serious consequences for individuals, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "https://www.actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "Algorithmic bias occurs when AI systems produce systematic and repeatable errors that generate unfair or discriminatory outcomes \u2013 not randomly, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "Stereotyping Bias: Occurs when AI systems reinforce harmful stereotypes. For example, a translation model that consistently associates the word \"nurse\" with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article, as it is common in AI ethics literature, will concentrate on the problematic cases in which the outcome of bias may lead to discrimination by AI- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Bias and Fairness in Artificial Intelligence - New York State Bar ...",
+            "text": "",
+            "link": "https://nysba.org/bias-and-fairness-in-artificial-intelligence/?srsltid=AfmBOorHD30dCM_bZxY4CHbFgdeV5W384eTUNg3HIjVwaixN0uIExowu",
+            "snippet": "This article will examine the issue of bias and fairness in AI from all angles, including how it works and how it can be misused.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Tackling Discrimination in Targeted Advertising - Verfassungsblog",
+            "text": "",
+            "link": "https://verfassungsblog.de/targeted-ad/",
+            "snippet": "Even when advertisers have no intention to discriminate, machine learning-based targeting software can still generate highly unrepresentative ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Biased Advertising: Identifying & Addressing the Problem - KORTX",
+            "text": "",
+            "link": "https://kortx.io/news/biased-advertising/",
+            "snippet": "Bias in advertising refers to the unequal or unfair representation, subjective opinions, or one-sided perspectives within ads.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "[PDF] Generative AI & Kids: A Risk Matrix for Brands & Policymakers",
+            "text": "",
+            "link": "https://bbbprograms.org/getmedia/ef4f972c-7c04-4739-8356-94ae9bca31ec/Generative-AI-Risk-Matrix.pdf",
+            "snippet": "While generative AI has many benefits, it also poses a myriad of risks, especially for children, who are vulnerable to advertising messages and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Addressing discrimination in data-driven advertising - Diplomacy.edu",
+            "text": "",
+            "link": "https://www.diplomacy.edu/blog/addressing-discrimination-in-data-driven-advertising-regulatory-opportunities-and-failures-within-the-eu/",
+            "snippet": "In general, targeted advertising is illegal when it poses risks of discrimination for statutorily protected classes, especially when targeting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "FTC Report Warns About Using Artificial Intelligence to Combat ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems",
+            "snippet": "The report outlines significant concerns that AI tools can be inaccurate, biased, and discriminatory by design and incentivize relying on increasingly invasive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithmic discrimination: examining its types and regulatory ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1320277/full",
+            "snippet": "This paper aims to provide an indepth analysis of the types of algorithmic discrimination, exploring both the challenges and potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Is AI-based digital marketing ethical? Assessing a new data privacy ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X24001367",
+            "snippet": "This study investigates the ethical implications of AI-based digital marketing, particularly focusing on user privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Directly Discriminatory Algorithms - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10087838/",
+            "snippet": "A growing academic literature suggests that most cases of algorithmic bias will best be addressed through the lens of indirect discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to categorize and moderate online advertisements, ensuring they comply with guidelines and regulations. The system aims to accurately classify products and services, distinguishing between various categories to provide a safe and relevant experience for users. It also seeks to help advertisers reach their target audience by properly identifying and approving their ads.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An automated system is designed to categorize and moderate online advertisements, ensuring they comply with guidelines and regulations. The system aims to accurately classify products and services, distinguishing between various categories to provide a safe and relevant experience for users. It also seeks to help advertisers reach their target audience by properly identifying and approving their ads.",
+        "elapsed_time": 45.067983625000124
+    }
+}

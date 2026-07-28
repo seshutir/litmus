@@ -1,0 +1,384 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A vehicle is equipped with an advanced autonomous feature designed to enable it to move on its own and navigate through surroundings. This feature aims to allow the vehicle to locate and move to a target destination, such as its owner, in a safe and efficient manner. The system relies on sensors and software to detect and respond to its environment, making decisions to avoid obstacles and reach its intended location.",
+    "output": " Lack of capability or robustness is a risk associated with A vehicle is equipped with an advanced autonomous feature designed to enable it to move on its own and navigate through surroundings. This feature aims to allow the vehicle to locate and move to a target destination, such as its owner, in a safe and efficient manner. The system relies on sensors and software to detect and respond to its environment, making decisions to avoid obstacles and reach its intended location.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the autonomous feature of vehicles",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in navigating through surroundings for a vehicle with an advanced autonomous feature",
+            "contexts": [
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in locating and moving to a target destination for the vehicle",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in detecting and responding to the environment of the vehicle",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in the vehicle's autonomous feature is a risk in making decisions to avoid obstacles",
+            "contexts": [
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Trustworthy autonomous driving via defense-aware robust ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0968090X24001530",
+            "snippet": "We present a novel defense-aware robust RL approach tailored for ensuring the robustness and safety of autonomous vehicles in the face of worst-case attacks on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Companies oversell the self-driving capabilities of their cars, with ...",
+            "text": "",
+            "link": "https://theconversation.com/companies-oversell-the-self-driving-capabilities-of-their-cars-with-horrific-outcomes-200159",
+            "snippet": "Misconceptions about these systems' capabilities are more likely to lead to unsafe behaviours when drivers believe the road and traffic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Road to Robust and Resilient Autonomous Vehicles at Scale",
+            "text": "",
+            "link": "https://arxiv.org/abs/2210.10876",
+            "snippet": "This paper presents the current state-of-the-art simulation frameworks and methodologies used in the development of autonomous driving systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The 14 Critical Hurdles for Autonomous Vehicle Systems - 7ITS News",
+            "text": "",
+            "link": "https://www.7itsnews.com/index.php?m=home&c=View&a=index&aid=22449",
+            "snippet": "Such limitations can lead to navigation errors, confusion, and an inability to safely respond to unexpected alterations in the road environment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Obstacle Detection and Safely Navigate the Autonomous Vehicle ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7506726/",
+            "snippet": "In this paper, we first introduced small and medium-sized obstacles that were intentionally or unintentionally left on the road, which can pose hazards.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Robust Target Detection and Tracking Algorithm Based on ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7915906/",
+            "snippet": "Due to the lack of performance in target classification, radar was mainly used for monitoring the speed and distance of road vehicles during ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Application of robust, high-accuracy positioning for autonomous ...",
+            "text": "",
+            "link": "https://www.ri.cmu.edu/publications/application-of-robust-high-accuracy-positioning-for-autonomous-ground-vehicles/",
+            "snippet": "In this paper we review the need for robust, high-accuracy positioning for path guidance in the presence of large structures (such as buildings and trees) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Hostile Vehicle Mitigation Resources - CISA",
+            "text": "",
+            "link": "https://www.cisa.gov/topics/physical-security/vehicle-ramming-mitigation/resources",
+            "snippet": "It's a web-based resource comprised of a series of simple questions that evaluate various components of a facility to assess potential vulnerabilities to a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Robust detection framework for adversarial threats in Autonomous ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1617978/full",
+            "snippet": "This paper demonstrates that adversarial attacks on Autonomous Vehicle Platooning (AVP) pose significant risks, compromising both safety and efficiency (Anwar, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Static Vehicle Encounters - PowerDMS",
+            "text": "",
+            "link": "https://public.powerdms.com/BALTIMOREMD/documents/1378898",
+            "snippet": "Properly \u201cpinching\u201d the vehicle prevents it from being able to move at all. This creates a safer scene for officers, suspects, and the public at large. Page 9 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Assessing the barriers and implications of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666188825001340",
+            "snippet": "This paper explores recent AV developments, highlights key challenges, and discusses their broader implications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What is the robustness often mentioned in autonomous driving?",
+            "text": "",
+            "link": "https://en.eeworld.com.cn/news/qrs/eic690043.html",
+            "snippet": "The robustness of the autonomous driving system is directly related to driving safety and user experience. The environment and conditions faced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Analyzing Factors Influencing Situation Awareness in Autonomous ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10142809/",
+            "snippet": "1. Introduction. Autonomous vehicles can sense their environment and take the appropriate instant decisions to react to environmental events. Autonomous cars ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] A Framework for Automated Driving System Testable Cases and ...",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13882-automateddrivingsystems_092618_v1a_tag.pdf",
+            "snippet": "This report describes a framework for establishing sample preliminary tests for Automated Driving Systems. The focus is on light duty vehicles exhibiting higher ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Addressing Disability and Ableist Bias in Autonomous Vehicles",
+            "text": "",
+            "link": "https://dredf.org/addressing-disability-and-ableist-bias-in-avs/",
+            "snippet": "This brief considers bias within pedestrian detection and collision behavior algorithms, lack of disability representation in the datasets used ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Autonomous Vehicles That Include Risk in Their Decision Making",
+            "text": "",
+            "link": "https://www.volpe.dot.gov/news/autonomous-vehicles-include-risk-their-decision-making",
+            "snippet": "A vehicle to be able not only to control its own maneuvering and detect other vehicles and obstacles, but also to predict what other vehicles could be expected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Research on Autonomous Vehicle Obstacle Avoidance Path ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2071-1050/16/11/4763",
+            "snippet": "This method addresses the ethical model disagreement problem of self-driving vehicles encountering traffic participants and other obstacles.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What is an Autonomous Vehicle: A Comprehensive Guide to its ...",
+            "text": "",
+            "link": "https://www.wevolver.com/article/what-is-an-autonomous-vehicle-a-comprehensive-guide-to-its-engineering-principles-and-applications",
+            "snippet": "Sensors play a crucial role in vehicle automation, as they collect data from the surrounding environment to enable safe and efficient navigation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "These vehicles have been developed to be capable of handling all parts of dynamic driving activities on their own, even when faced with difficult road and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] FMVSS Considerations for Vehicles With Automated Driving Systems",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/ads-dv_fmvss_vol1-042320-v8-tag.pdf",
+            "snippet": "FMVSS considerations for vehicles with automated driving systems: Volume 1 (Report No. DOT HS 812 796). National Highway Traffic Safety. Administration. Page 3 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What is a Software-Defined Vehicle | Keysight",
+            "text": "",
+            "link": "https://www.keysight.com/us/en/cmp/topics/what-is-a-software-defined-vehicle.html",
+            "snippet": "A software-defined vehicle (SDV) is a vehicle whose functionality and behavior are primarily determined by software rather than hardware.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 24,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A vehicle is equipped with an advanced autonomous feature designed to enable it to move on its own and navigate through surroundings. This feature aims to allow the vehicle to locate and move to a target destination, such as its owner, in a safe and efficient manner. The system relies on sensors and software to detect and respond to its environment, making decisions to avoid obstacles and reach its intended location.",
+        "response": " Lack of capability or robustness is a risk associated with A vehicle is equipped with an advanced autonomous feature designed to enable it to move on its own and navigate through surroundings. This feature aims to allow the vehicle to locate and move to a target destination, such as its owner, in a safe and efficient manner. The system relies on sensors and software to detect and respond to its environment, making decisions to avoid obstacles and reach its intended location.",
+        "elapsed_time": 53.20327241599989
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "input": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizes artificial intelligence to generate synthetic images, which can be used to create profiles. This technology aims to produce realistic photos, but it can also be misused to create fake identities. Researchers are working to detect and prevent the use of such generated images for fraudulent purposes.",
+    "output": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizes artificial intelligence to generate synthetic images, which can be used to create profiles. This technology aims to produce realistic photos, but it can also be misused to create fake identities. Researchers are working to detect and prevent the use of such generated images for fraudulent purposes.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Fraud, scams, and targeted manipulation is a risk associated with image generation using artificial intelligence.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Fraud, scams, and targeted manipulation is a risk associated with generating synthetic images to create profiles using a system that utilizes artificial intelligence.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Fraud, scams, and targeted manipulation is a risk associated with detecting and preventing the use of generated images for fraudulent purposes.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI-enabled image fraud in scientific publications - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9278510/",
+            "snippet": "This perspective reports on the vast risk of potential image fraud based on artificial intelligence (AI) generative technologies in academic publications that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Criminals Use Generative Artificial Intelligence to Facilitate Financial ...",
+            "text": "",
+            "link": "https://www.ic3.gov/PSA/2024/PSA241203",
+            "snippet": "Criminals use generative AI tools to create videos for fictitious or misleading promotional materials for investment fraud schemes. Tips to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "FBI Warns of Increasing Threat of Cyber Criminals Utilizing Artificial ...",
+            "text": "",
+            "link": "https://www.fbi.gov/contact-us/field-offices/sanfrancisco/news/fbi-warns-of-increasing-threat-of-cyber-criminals-utilizing-artificial-intelligence",
+            "snippet": "AI provides augmented and enhanced capabilities to schemes that attackers already use and increases cyber-attack speed, scale, and automation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Impact of Artificial Intelligence on Fraud and Scams | PwC UK",
+            "text": "",
+            "link": "https://www.pwc.co.uk/forensic-services/assets/impact-of-ai-on-fraud-and-scams.pdf",
+            "snippet": "A common thread across these threat types is the use of AI to create content or trust with a potential victim, with the aim of deceiving them or manipulating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Misuse of AI Image Manipulation for Deepfake and | Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/misuse-of-ai-image-manipulation-for-deepfake-and-fraudulent-content-creation",
+            "snippet": "Analysis of 'Misuse of AI Image Manipulation for Deepfake and Fraudulent Content Creation' - an AI risk in Malicious actors and misuse ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Deepfakes and the crisis of knowing - UNESCO",
+            "text": "",
+            "link": "https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing",
+            "snippet": "Deloitte predicts that generative AI could drive U.S. fraud losses from $12.3 billion in 2023 to $40 billion by 2027\u2014a 32% annual growth rate ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Risks and benefits of artificial intelligence deepfakes",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25001271",
+            "snippet": "Deepfakes\u2014emerging from advanced AI and deep learning\u2014endanger democracy, cybersecurity, social trust, and personal rights while generating multiple ethical and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Fake Faces, Real Damage: The Corporate Risk of AI-Powered ...",
+            "text": "",
+            "link": "https://www.asisonline.org/security-management-magazine/articles/2025/09/AI-powered-manipulation/",
+            "snippet": "Tragically, this has led to numerous suicides around the world. Criminals are also using social media photos and deepfake software to create ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] Increasing Threat of DeepFake Identities - Homeland Security",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf",
+            "snippet": "Deepfakes, an emergent type of threat falling under the greater and more pervasive umbrella of synthetic media, utilize a form of artificial intelligence/ ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What is a Deepfake and How does it Impact Fraud? - Mitek Systems",
+            "text": "",
+            "link": "https://www.miteksystems.com/blog/friend-or-fraud-what-is-a-deepfake-and-how-does-it-impact-fraud",
+            "snippet": "A deepfake is a technology that typically belongs to fraudsters. They create the fake media using machine learning and artificial intelligence algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "What is Deepfake Fraud Prevention & Detection? - Doppel",
+            "text": "",
+            "link": "https://www.doppel.com/doppel-pedia/what-deepfake-fraud-prevention-detection",
+            "snippet": "Learn how Doppel monitors and removes deepfake fraud targeting brands and executives using AI-powered detection and takedown technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "What Is Deepfake: AI Endangering Your Cybersecurity? - Fortinet",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/deepfake",
+            "snippet": "Cyber criminals can use deepfake technology to create scams, false claims, and hoaxes that undermine and destabilize organizations. For example, an attacker ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Cybersecurity experts warn that scammers are using AI to make ...",
+            "text": "",
+            "link": "https://www.facebook.com/CBS6Albany/posts/cybersecurity-experts-warn-that-scammers-are-using-ai-to-make-fraud-more-convinc/1345689544260096/",
+            "snippet": "Cybersecurity experts warn that scammers are using AI to make fraud more convincing. Here's how you can help protect yourself.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Impact of Artificial Intelligence on Fraud and Scams | PwC UK",
+            "text": "",
+            "link": "https://www.pwc.co.uk/forensic-services/assets/impact-of-ai-on-fraud-and-scams.pdf",
+            "snippet": "AI is already widely used to prevent and detect fraud, in particular within banking and technology companies. Machine learning is commonly deployed to improve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Criminals Use Generative Artificial Intelligence to Facilitate Financial ...",
+            "text": "",
+            "link": "https://www.ic3.gov/PSA/2024/PSA241203",
+            "snippet": "Criminals use AI-generated images to create believable social media profile photos, identification documents, and other images in support of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Deepfake demonstration shows sophistication of AI editing tools ...",
+            "text": "",
+            "link": "https://www.cbsnews.com/news/deep-fakes-ai-tools-scammers-identity-theft-cybersecurity/",
+            "snippet": "Artificial intelligence is rapidly transforming the landscape of fraud, making it easier than ever for scammers to impersonate real people, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Deepfake Technology Fuels Global Misinformation and Fraud",
+            "text": "",
+            "link": "https://complexdiscovery.com/deepfake-technology-fuels-global-misinformation-and-fraud/",
+            "snippet": "The use of AI-generated deepfakes has seen a rapid increase globally, posing significant threats to businesses, politics, and society.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Beware of Deepfakes. Scammers are using AI-edited photos, videos ...",
+            "text": "",
+            "link": "https://www.facebook.com/pnpregion9/posts/beware-of-deepfakes-scammers-are-using-ai-edited-photos-videos-and-voices-to-dec/1159728076336231/",
+            "snippet": "Deepfake fraud utilizes artificial intelligence (AI) to create deceptive videos, audio recordings, or images that convincingly manipulate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Mitigating the harms of manipulated media: Confronting deepfakes ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12305536/",
+            "snippet": "While GANs can produce highly realistic images, they offer limited control over the appearance and surroundings of the generated face. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 19,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizes artificial intelligence to generate synthetic images, which can be used to create profiles. This technology aims to produce realistic photos, but it can also be misused to create fake identities. Researchers are working to detect and prevent the use of such generated images for fraudulent purposes.",
+        "response": " Fraud, scams, and targeted manipulation is a risk associated with A system utilizes artificial intelligence to generate synthetic images, which can be used to create profiles. This technology aims to produce realistic photos, but it can also be misused to create fake identities. Researchers are working to detect and prevent the use of such generated images for fraudulent purposes.",
+        "elapsed_time": 38.34039020899945
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A facial recognition system is designed to identify and verify individuals, granting or denying access to a venue based on pre-defined criteria. The system aims to provide a secure and efficient way to manage entry, using advanced algorithms to match facial features with stored data. It seeks to accurately distinguish between authorized and unauthorized individuals, ensuring a safe environment for all users.",
+    "output": " Unequal performance across groups is a risk associated with A facial recognition system is designed to identify and verify individuals, granting or denying access to a venue based on pre-defined criteria. The system aims to provide a secure and efficient way to manage entry, using advanced algorithms to match facial features with stored data. It seeks to accurately distinguish between authorized and unauthorized individuals, ensuring a safe environment for all users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in identifying and verifying individuals using a facial recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in granting or denying access to a venue using a facial recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in matching facial features with stored data in a facial recognition system",
+            "contexts": [
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unequal performance across groups is a risk in distinguishing between authorized and unauthorized individuals in a facial recognition system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Mitigation Strategies For Bias In Facial Recognition Systems For ...",
+            "text": "",
+            "link": "https://www.digitaldividedata.com/blog/bias-in-facial-recognition-systems-for-computer-vision",
+            "snippet": "In practical terms, this can lead to wrongful arrests, exclusion from services, or unequal access to resources. ... performance varies across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial Bias within Face Recognition: A Survey - ACM Digital Library",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3705295",
+            "snippet": "... unfair treatment of demographic groups. The authors introduce multiple ... unequal performance degradation among subgroups. Consequently, Yucer [209] ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Surveying Racial Bias in Facial Recognition: Balancing Datasets ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/12/2317",
+            "snippet": "This paper analyzes facial recognition datasets, categorizing them as racially balanced or unbalanced while limiting racially balanced datasets ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic bias - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/Algorithmic_bias",
+            "snippet": "The term algorithmic bias describes systematic and repeatable errors that create unfair outcomes, such as privileging one arbitrary group of users over others.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What is AI Bias? - Understanding Its Impact, Risks, and Mitigation ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/what-is-ai-bias-risks-mitigation-strategies",
+            "snippet": "AI bias occurs when artificial intelligence systems produce unfair or prejudiced outcomes due to issues with the data, algorithms, or objectives they're ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Why Racial Bias is Prevalent in Facial Recognition Technology",
+            "text": "",
+            "link": "https://jolt.law.harvard.edu/digest/why-racial-bias-is-prevalent-in-facial-recognition-technology",
+            "snippet": "Many of these algorithms were found to be between 10 and 100 times more likely to misidentify a Black or East Asian face than a white face.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Bias in the Machine: Facial Recognition Technology and Racial ...",
+            "text": "",
+            "link": "https://mit-serc.pubpub.org/pub/bias-in-machine",
+            "snippet": "What are some new questions that facial recognition technologies raise regarding public safety, individual privacy, and inequitable impacts on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "NIST Study Evaluates Effects of Race, Age, Sex on Face ...",
+            "text": "",
+            "link": "https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software",
+            "snippet": "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The real problem with face recognition technology is not what you ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/real-problem-face-recognition-technology-what-you-sirotin-phd",
+            "snippet": "Indeed, face recognition systems can have unequal performance across demographic groups. Further, unchecked hoarding of annotated face ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Mitigation Strategies For Bias In Facial Recognition Systems For ...",
+            "text": "",
+            "link": "https://www.digitaldividedata.com/blog/bias-in-facial-recognition-systems-for-computer-vision",
+            "snippet": "In practical terms, this can lead to wrongful arrests, exclusion from services, or unequal access to resources. The consequences are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "[PDF] facing discrimination: choosing equality over technology",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3766259_code3950667.pdf?abstractid=3766259&mirid=1",
+            "snippet": "exacerbate discriminatory effects through unequal access. For ... access to the benefits of facial recognition technology that also result in inequality.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "Case 47: Unequal recognition by skin colour in a commercial facial recognition system. During a test of the facial recognition system \u201crekognition\u201d of the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "A classification of machine learning biases and mitigation methods",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000881",
+            "snippet": "... performance and unfair decisions, resulting in ... An investigation of neural network classifiers with unequal misclassification costs and group sizes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Race and statistics in facial recognition: Producing types, physical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10696907/",
+            "snippet": "... uneven effects on different human groups, sparing privileged groups while criminalizing unprivileged ones. For this reason, we need to inculcate a stronger ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Problem of Bias in Facial Recognition - CSIS",
+            "text": "",
+            "link": "https://www.csis.org/blogs/strategic-technologies-blog/problem-bias-facial-recognition",
+            "snippet": "Researchers have found that leading facial recognition algorithms have different accuracy rates for different demographic groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "NYU Tandon researchers mitigate racial bias in facial recognition ...",
+            "text": "",
+            "link": "https://engineering.nyu.edu/news/nyu-tandon-researchers-mitigate-racial-bias-facial-recognition-technology-demographically",
+            "snippet": "In other words, the systems are less likely to accurately match different images depicting the same person if that person belongs to a group ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Review of Demographic Bias in Face Recognition - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.02309v1",
+            "snippet": "3 illustrates score distributions of different groups may differ, leading to unequal error rates. In this section we briefly review ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "[PDF] Algorithmic Bias in Law Enforcement's Facial Recognition ...",
+            "text": "",
+            "link": "https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1656&context=lawineq",
+            "snippet": "Further Inequality ... system is able to consistently distinguish faces from other objects, then the programmers task the algorithm with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Facial recognition technology raises concerns over misidentification ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=tnuwaOCCZ6Y",
+            "snippet": "Facial recognition technology raises concerns over misidentification, implicit bias. 500 views \u00b7 2 years ago ...more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The 2025 Florida Statutes - Online Sunshine",
+            "text": "",
+            "link": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/0626.html",
+            "snippet": "(4) All examinations shall be given and graded in a fair and impartial manner and without unfair discrimination in favor of or against any particular applicant.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 20,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A facial recognition system is designed to identify and verify individuals, granting or denying access to a venue based on pre-defined criteria. The system aims to provide a secure and efficient way to manage entry, using advanced algorithms to match facial features with stored data. It seeks to accurately distinguish between authorized and unauthorized individuals, ensuring a safe environment for all users.",
+        "response": " Unequal performance across groups is a risk associated with A facial recognition system is designed to identify and verify individuals, granting or denying access to a venue based on pre-defined criteria. The system aims to provide a secure and efficient way to manage entry, using advanced algorithms to match facial features with stored data. It seeks to accurately distinguish between authorized and unauthorized individuals, ensuring a safe environment for all users.",
+        "elapsed_time": 50.74117441599992
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+    "output": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a vehicle equipped with autonomous driving technology",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a vehicle equipped with autonomous driving technology is a risk in controlling steering and staying within lane markings",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Automated Vehicle Safety - NHTSA",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Hidden Dangers of Autonomous Vehicles: What You Need to ...",
+            "text": "",
+            "link": "https://www.karnolaw.com/blog/2025/09/the-hidden-dangers-of-autonomous-vehicles-what-you-need-to-know/",
+            "snippet": "In real-world traffic, edge cases, poor visibility and overreliance on technology combine to raise crash risk. Controlled tests often hide these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Hidden Dangers of Lane Keeping Assist Systems",
+            "text": "",
+            "link": "https://lorentzautoinc.com/blog/the-hidden-dangers-of-lane-keeping-assist-systems/",
+            "snippet": "Lane keeping assist can help or hinder your driving. Learn the hidden dangers and when you should disable this feature.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "It's not uncommon for self-driving cars to struggle to recognize obstacles or lane markings, especially in poor weather or low-visibility ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Research on Reliability of Vehicle Line Detection and Lane Keeping ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2071-1050/17/22/10222",
+            "snippet": "In order to maximize road safety and reduce the risk to drivers, systems that perform partial traffic monitoring and perception functions are being introduced.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Implications of automated vehicles for physical road environment",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1366554522003660",
+            "snippet": "This paper seeks to address what the implications of automated vehicles will likely be for the road infrastructure based on a comprehensive literature review.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ensuring Driving and Road Safety of Autonomous Vehicles Using a ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2075-1702/12/11/798",
+            "snippet": "Autonomous vehicle control involves safe driving and navigation capability by incorporating advanced sensors, communication systems, and control mechanisms [1].",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "What is the robustness often mentioned in autonomous driving?",
+            "text": "",
+            "link": "https://en.eeworld.com.cn/news/qrs/eic690043.html",
+            "snippet": "If the system is not robust enough, it may cause the vehicle to lose control or make wrong decisions. With the support of robust technology, the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Obstacle Detection and Safely Navigate the Autonomous Vehicle ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7506726/",
+            "snippet": "After training, our well-trained autonomous vehicle model detects high threat value obstacle on the roadway and navigate the autonomous vehicle safely. Appendix ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] A Framework for Automated Driving System Testable Cases and ...",
+            "text": "",
+            "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13882-automateddrivingsystems_092618_v1a_tag.pdf",
+            "snippet": "The POV is positioned in the opposing lane of the test road with its left (driver's side) tires entirely over the center dividing lane markers in the SV's lane.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+        "response": " Lack of capability or robustness is a risk associated with A vehicle equipped with autonomous driving technology is designed to navigate roads safely and efficiently by controlling steering and staying within lane markings. It aims to provide a smooth and stable driving experience by continuously monitoring the environment and adjusting its position on the road. The technology seeks to improve road safety and reduce driver fatigue by automating certain driving tasks.",
+        "elapsed_time": 34.04720950000046
+    }
+}

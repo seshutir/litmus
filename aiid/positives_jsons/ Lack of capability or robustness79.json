@@ -1,0 +1,211 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+    "output": " Lack of capability or robustness is a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in tracking objects in real-time using a computer vision system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A Survey on the Robustness of Computer Vision Models against ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2305.06024",
+            "snippet": "In this survey, we present a comprehensive overview of methods that improve the robustness of computer vision models against common corruptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A comprehensive survey of robust deep learning in computer vision",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S294985542300045X",
+            "snippet": "In computer systems, robustness indicates the ability of a computer system to handle errors during execution and cope with erroneous inputs. In DL, robustness ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Why We Need Robust and Interactable World Models in Computer ...",
+            "text": "",
+            "link": "https://medium.com/@ml-point/why-we-need-robust-and-interactable-world-models-in-computer-vision-0f228d0094d5",
+            "snippet": "Vision systems fail in out-of-distribution scenes \u00b7 Small visual changes cause large failures \u00b7 Models struggle with long-horizon reasoning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Research identifies key weakness in modern computer vision systems",
+            "text": "",
+            "link": "https://www.brown.edu/news/2018-07-30/same-different",
+            "snippet": "Research by Brown University scientists shows that computers fail miserably at a class of tasks that even young children have no problem with.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Robust Visual Tracking with Reliable Object Information and Kalman ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7865692/",
+            "snippet": "In this paper, we propose a novel robust visual tracking framework with reliable object information and Kalman filter (KF).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Object Tracking Using Computer Vision: A Review - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2073-431X/13/6/136",
+            "snippet": "Object tracking is one of the most important problems in computer vision applications such as robotics, autonomous driving, and pedestrian movement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What is the biggest issue in Generic Object Tracking (Computer ...",
+            "text": "",
+            "link": "https://www.quora.com/What-is-the-biggest-issue-in-Generic-Object-Tracking-Computer-Vision",
+            "snippet": "I think one of the biggest issue in object tracking is how do you deal with obtrusions. Object tracking generally involves finding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "An Overview of Object Tracking: Use Cases, Challenges ... - Sertis",
+            "text": "",
+            "link": "https://sertiscorp.medium.com/an-overview-of-object-tracking-use-cases-challenges-and-applications-f5689794c3ba",
+            "snippet": "Object tracking is a computer vision application where a program detects, identifies, and locates objects and then tracks their movements ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Proactive Anomaly surveillance system for CCTV footage analysis in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0957417424012570",
+            "snippet": "We present a comprehensive surveillance system that utilizes deep learning to enhance human tracking and anomaly detection across diverse environments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "How Object Tracking Brings Context To Computer Vision",
+            "text": "",
+            "link": "https://www.digitaldividedata.com/blog/object-tracking-computer-vision",
+            "snippet": "Object tracking is the process of identifying and following specific objects as they move through a sequence of video frames. While object ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Real-time object detection, tracking, and monitoring framework for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11320323/",
+            "snippet": "This study presents a real-time framework for object detection and tracking for security surveillance systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Paper 3 Case Study (All \"Additional Terminology\") Flashcards - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/848058571",
+            "snippet": "The situation where one object partially or completely obstructs the view of another object, often causing challenges for computer vision when detecting, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+        "response": " Lack of capability or robustness is a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+        "elapsed_time": 28.056514082999456
+    }
+}

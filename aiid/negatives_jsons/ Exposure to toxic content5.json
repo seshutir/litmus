@@ -1,0 +1,365 @@
+{
+    "input": " Exposure to toxic content is a not a risk associated with A chatbot system is designed to engage in conversation with users, generating human-like responses to a wide range of topics and questions. It aims to learn from interactions and adapt its responses to better serve users, providing helpful and informative answers. The system seeks to simulate natural language understanding and generation, enabling effective communication with users.",
+    "output": " Exposure to toxic content is a not a risk associated with A chatbot system is designed to engage in conversation with users, generating human-like responses to a wide range of topics and questions. It aims to learn from interactions and adapt its responses to better serve users, providing helpful and informative answers. The system seeks to simulate natural language understanding and generation, enabling effective communication with users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is not a risk in a chatbot system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is not a risk in generating human-like responses to user input in a chatbot system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is not a risk in learning from user interactions in a chatbot system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is not a risk in adapting a chatbot system's responses to better serve users",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Exposure to toxic content is not a risk in simulating natural language understanding and generation in a chatbot system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A faster, better way to prevent an AI chatbot from giving toxic responses",
+            "text": "",
+            "link": "https://news.mit.edu/2024/faster-better-way-preventing-ai-chatbot-toxic-responses-0410",
+            "snippet": "Researchers create a curious machine-learning model that finds a wider variety of prompts for training a chatbot to avoid hateful or harmful output.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI chatbot fooled into revealing harmful content with 98 percent ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/artificial/comments/18gj9cp/ai_chatbot_fooled_into_revealing_harmful_content/",
+            "snippet": "Researchers at Purdue University have developed a technique called LINT (LLM Interrogation) to trick AI chatbots into revealing harmful ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Be Careful What You Tell Your AI Chatbot | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/be-careful-what-you-tell-your-ai-chatbot",
+            "snippet": "A Stanford study reveals that leading AI companies are pulling user conversations for training, highlighting privacy risks and a need for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey of Needs, ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Toxic images may display not only explicit content, but also spread misinformation and visual hate speech, and become viral [77]",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "To chat or bot to chat: Ethical issues with using chatbots in mental health",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10291862/",
+            "snippet": "by S Coghlan \u00b7 2023 \u00b7 Cited by 286 \u2014 This paper provides a critical ethical overview of chatbots that provide information, advice and therapies to users in regard to mental health.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Chatbots Are Not People: Designed-In Dangers of Human- ...",
+            "text": "",
+            "link": "https://www.citizen.org/article/chatbots-are-not-people-dangerous-human-like-anthropomorphic-ai-report/",
+            "snippet": "This report focuses on a worrisome use case fast becoming an emergent threat to the agency and autonomy of real people: the production of counterfeit people.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "LLMs are the underlying technology in GenAI, which generates human-like responses to given prompts. Toxicity is seen in their responses too.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Study exposes privacy risks of AI chatbot conversations",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/10/ai-chatbot-privacy-concerns-risks-research",
+            "snippet": "Given this trend, should users of AI-powered chat systems worry about their privacy? \u201cAbsolutely yes,\u201d says the study's lead author, Jennifer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Study exposes privacy risks of AI chatbot conversations",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/10/ai-chatbot-privacy-concerns-risks-research",
+            "snippet": "\u201cAbsolutely yes,\u201d says Jennifer King, lead author of a new study about chatbot privacy concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey of Needs, ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Misleading toxic images can provoke violence and fuel political and social conflicts. Such content can seriously harm individuals and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Understanding Risk and Dependency in AI Chatbot Use from User Discourse",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/400661644_Understanding_Risk_and_Dependency_in_AI_Chatbot_Use_from_User_Discourse",
+            "snippet": "Our findings reveal five empirically derived experiential dimensions of AI-related psychological risk grounded in real-world user discourse, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Using chatbots to intervene with users posting toxic comments",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.20100",
+            "snippet": "Our findings show that this is not universal, and that simple chatbots did not produce measurable behavioral change for users sharing toxic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Examining Top Risks Associated With Generative Artificial Intelligence ...",
+            "text": "",
+            "link": "https://resource.medpro.com/risks-associated-with-AI-chatbots?iframe=true",
+            "snippet": "Although chatbots tend to be very accurate when responding to fact-based queries, they are not foolproof, and errors can occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI chatbot fooled into revealing harmful content with 98 percent ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/artificial/comments/18gj9cp/ai_chatbot_fooled_into_revealing_harmful_content/",
+            "snippet": "Researchers made AI chatbots spill secrets with a 98% success rate using a playful trick called LINT. This mischievous method exploited how ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Roles, Users, Benefits, and Limitations of Chatbots in Health Care - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11303905/",
+            "snippet": "by M Laymouna \u00b7 2024 \u00b7 Cited by 343 \u2014 This review aims to describe health care chatbots' characteristics, focusing on their diverse roles in the health care pathway, user groups, benefits, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Using chatbots to intervene with users posting toxic comments",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.20100",
+            "snippet": "Strategies to deal with toxic behavior are typically punitive, such as removing content or banning users. Rehabilitative approaches are rarely ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey of Needs, ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Toxic images generated by AI, such as fake content, They have highlighted that this approach reduces harmful content generation probability but ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Why So Toxic? Measuring and Triggering Toxic Behavior in Open- ...",
+            "text": "",
+            "link": "https://yangzhangalmo.github.io/papers/CCS22-ToxicBuddy.pdf",
+            "snippet": "by WM Si \u00b7 2022 \u00b7 Cited by 120 \u2014 Overall, our study sheds light on the vulnerability of chatbots generating toxic content, especially considering that one can trigger toxic responses with non- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "TOXICCHAT: Unveiling Hidden Challenges of Toxicity Detection in ...",
+            "text": "",
+            "link": "https://aclanthology.org/2023.findings-emnlp.311.pdf",
+            "snippet": "by Z Lin \u00b7 2023 \u00b7 Cited by 289 \u2014 TOXICCHAT is the first toxicity dataset based on real-world user-AI conversations. several popular chatbot systems \u2026 to filter toxic content, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Chatbots Are Not People: Designed-In Dangers of Human-Like A.I. Systems",
+            "text": "",
+            "link": "https://www.citizen.org/article/chatbots-are-not-people-dangerous-human-like-anthropomorphic-ai-report/",
+            "snippet": "There is a risk of users becoming emotionally entangled with conversational A.I. systems marketed as virtual friends and romantic partners in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI chatbots for promoting healthy habits: Legal, ethical, and societal ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12602910/",
+            "snippet": "by H van Kolfschooten \u00b7 2025 \u00b7 Cited by 11 \u2014 AI systems must avoid harm and ensure user safety, There are no age checks or warnings, leaving minors exposed to content not designed for them ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Study exposes privacy risks of AI chatbot conversations",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/10/ai-chatbot-privacy-concerns-risks-research",
+            "snippet": "Should users of ChatGPT, Gemini, and other AI chat systems be worried about their privacy? \u201cAbsolutely yes,\u201d says Jennifer King, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 22,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a not a risk associated with A chatbot system is designed to engage in conversation with users, generating human-like responses to a wide range of topics and questions. It aims to learn from interactions and adapt its responses to better serve users, providing helpful and informative answers. The system seeks to simulate natural language understanding and generation, enabling effective communication with users.",
+        "response": " Exposure to toxic content is a not a risk associated with A chatbot system is designed to engage in conversation with users, generating human-like responses to a wide range of topics and questions. It aims to learn from interactions and adapt its responses to better serve users, providing helpful and informative answers. The system seeks to simulate natural language understanding and generation, enabling effective communication with users.",
+        "elapsed_time": 104.62110774999019
+    }
+}

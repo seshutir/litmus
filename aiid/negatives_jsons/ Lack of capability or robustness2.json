@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An automated flight control system is designed to adjust an aircraft's trajectory using sensor data, aiming to maintain stable and safe flight conditions. The system relies on accurate sensor inputs to make adjustments and ensure the aircraft remains on course. It is intended to assist pilots in navigating the aircraft, particularly during critical phases of flight.",
+    "output": " Lack of capability or robustness is a not a risk associated with An automated flight control system is designed to adjust an aircraft's trajectory using sensor data, aiming to maintain stable and safe flight conditions. The system relies on accurate sensor inputs to make adjustments and ensure the aircraft remains on course. It is intended to assist pilots in navigating the aircraft, particularly during critical phases of flight.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an automated flight control system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with adjusting an aircraft's trajectory using sensor data in an automated flight control system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Dangers of Overreliance on Automation",
+            "text": "",
+            "link": "https://medium.com/faa/the-dangers-of-overreliance-on-automation-5b7afb56ebdc",
+            "snippet": "Lack of, or training deficiencies in automation logic can contribute to accidents where pilots fail to recognize or correct automation errors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Aviation Experts Have Predicted Automation Will Lead to ...",
+            "text": "",
+            "link": "https://gizmodo.com/aviation-experts-have-been-warning-us-of-the-dangers-of-1833419813",
+            "snippet": "As FAST points out, automated systems have improved safety in a great number of ways, and have likely prevented a good many accidents\u2014but that's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Automated Systems, Certification Failure and the Liability Gap ...",
+            "text": "",
+            "link": "https://www.codeontrial.ai/p/automated-systems-certification-failure",
+            "snippet": "From the 737 MAX to the eVTOL Certification Race: How Aviation Law Is Absorbing Algorithmic Flight.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Wrong, Strong, and Silent: What happens when automated ...",
+            "text": "",
+            "link": "https://safetyinsights.org/2024/11/18/wrong-strong-and-silent-what-happens-when-automated-systems-with-high-autonomy-and-high-authority-misbehave/",
+            "snippet": "Literal-minded automated systems have associated risks, and are linked with incidents, outages and financial losses. They provide examples like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Humans Are Not Always the Source of Errors ...",
+            "text": "",
+            "link": "https://hammer.purdue.edu/articles/thesis/Humans_Are_Not_Always_the_Source_of_Errors_Characterization_and_Assessment_of_Remote_Operator_RO_Resilient_Performance_in_m_N_sUAS_Beyond_Visual_Line_of_Sight_BVLOS_Operations/31549564",
+            "snippet": "Hence, this dissertation explores how RO resilient performance can be characterized and assessed, within the context of m:N sUAS BVLOS flight ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Aircraft trajectory prediction and aviation safety in ADS-B ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10640623/",
+            "snippet": "by Z Yang \u00b7 2023 \u00b7 Cited by 50 \u2014 The results showed that the proposed method had high prediction accuracy, thus also improving the aviation safety of the aircraft.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "\ufe0f What Happens When the Aircraft Can't Trust Any Sensor ...",
+            "text": "",
+            "link": "https://www.facebook.com/AVIO.KNOWLEDGE/posts/%EF%B8%8F-what-happens-when-the-aircraft-cant-trust-any-sensormodern-airliners-rely-on-m/1503204605179357/",
+            "snippet": "These values come from aircraft performance data and training, and they allow safe flight without depending on faulty sensors. Many SOPs teach ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Cockpit Automation, Flight Systems Complexity, and ...",
+            "text": "",
+            "link": "https://www.everycrsreport.com/reports/R45939.html",
+            "snippet": "Automated flight control systems have largely been viewed as having a positive effect on safety, and accident rates have improved considerably ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robust trajectory maneuvering of VTOL aircraft using ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-025-25903-7",
+            "snippet": "by I Dagal \u00b7 2025 \u00b7 Cited by 2 \u2014 This study focuses on developing a Higher-Order Sliding Mode Control \u30fb to enhance trajectory tracking accuracy and robustness \u30fb challenges ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Chapter: 1 Automation Issues in Air Traffic Management",
+            "text": "",
+            "link": "https://www.nationalacademies.org/read/6018/chapter/4",
+            "snippet": "Automation will probably increase the complexity of the airspace, to the extent that it induces changes in traffic flow that depart from the standard air routes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "\ufe0f What Happens When the Aircraft Can't Trust Any Sensor ...",
+            "text": "",
+            "link": "https://www.facebook.com/AVIO.KNOWLEDGE/posts/%EF%B8%8F-what-happens-when-the-aircraft-cant-trust-any-sensormodern-airliners-rely-on-m/1503204605179357/",
+            "snippet": "These inputs help the system adjust the aircraft's response so that flying feels stable\u2014even in turbulence or crosswinds. Position sensors: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Too Many Airplane Systems Rely on Too Few Sensors",
+            "text": "",
+            "link": "https://everydaymatters.rpi.edu/too-many-airplane-systems-rely-on-too-few-sensors/",
+            "snippet": "The apparent connection between fatal airplane crashes in Indonesia and Ethiopia centers around the failure of a single sensor.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Impact of Sensor Errors on Flight Stability",
+            "text": "",
+            "link": "https://www.mdpi.com/2226-4310/9/3/169",
+            "snippet": "by M Welcer \u00b7 2022 \u00b7 Cited by 17 \u2014 In this paper, the impact of different sensor errors on flight stabilization was presented. The research was carried out using the example of an automatic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Use It or Lose It",
+            "text": "",
+            "link": "https://flightsafety.org/asw-article/use-it-or-lose-it/",
+            "snippet": "Extensive use of automated cockpit systems causes pilots to lose proficiency in some cognitive skills required for manually flying an airplane.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Impact of Sensor Errors on Flight Stability",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/359370352_The_Impact_of_Sensor_Errors_on_Flight_Stability",
+            "snippet": "In this paper, the impact of different sensor errors on flight stabilization was presented. The research was carried out using the example of an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.013695,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.05877528721303585,
+        "norm_entropy": 0.10441805389172068,
+        "avg_entropy": 0.029387643606517924,
+        "avg_norm_entropy": 0.05220902694586034,
+        "avg_prob": 0.006848,
+        "avg_logprob": -9.053117517115684,
+        "avg_explogprob": 0.00011702563821658921,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.986305,
+                    0.013695
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 9.37765125e-05,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An automated flight control system is designed to adjust an aircraft's trajectory using sensor data, aiming to maintain stable and safe flight conditions. The system relies on accurate sensor inputs to make adjustments and ensure the aircraft remains on course. It is intended to assist pilots in navigating the aircraft, particularly during critical phases of flight.",
+        "response": " Lack of capability or robustness is a not a risk associated with An automated flight control system is designed to adjust an aircraft's trajectory using sensor data, aiming to maintain stable and safe flight conditions. The system relies on accurate sensor inputs to make adjustments and ensure the aircraft remains on course. It is intended to assist pilots in navigating the aircraft, particularly during critical phases of flight.",
+        "elapsed_time": 147.7539145409828
+    }
+}

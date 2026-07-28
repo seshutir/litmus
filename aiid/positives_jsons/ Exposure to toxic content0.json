@@ -1,0 +1,301 @@
+{
+    "input": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+    "output": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk in a video content analysis and recommendation system.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in filtering the content of suggested videos by the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is a risk in discovering new and relevant content based on user interests",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "the role of recommender algorithms for young people's mental ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12630993/",
+            "snippet": "by K Regehr \u00b7 2025 \u00b7 Cited by 6 \u2014 First, recommendation systems amplify and subsequently normalize harmful ideologies, increasing users' exposure to radical material. Second, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Understanding Toxic Interaction Across User and Video ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2512.10233v1",
+            "snippet": "Social video platforms shape how people access information, while recommendation systems can narrow exposure and increase the risk of toxic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A critical reflection on the use of toxicity detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "by M Warner \u00b7 2025 \u00b7 Cited by 18 \u2014 We found contextual factors such as platform culture and affordances, and scales of abuse, impacting on perceptions of toxicity and effectiveness of the system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How AI Is Learning to Identify Toxic Online Content",
+            "text": "",
+            "link": "https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/",
+            "snippet": "One solution might be AI: developing algorithms to detect and alert us to toxic and inflammatory comments and flag them for removal.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Social media algorithms 'amplifying misogynistic content'",
+            "text": "",
+            "link": "https://www.theguardian.com/media/2024/feb/06/social-media-algorithms-amplifying-misogynistic-content",
+            "snippet": "Algorithms used by social media platforms are rapidly amplifying extreme misogynistic content, which is spreading from teenagers' screens ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Systematic review: YouTube recommendations and problematic ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613872/",
+            "snippet": "This systematic review aimed to determine whether the YouTube recommender system facilitates pathways to problematic content such as extremist or radicalising ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "6 Biggest Content Moderation Mistakes (+ How to Avoid Them)",
+            "text": "",
+            "link": "https://getstream.io/blog/content-moderation-mistakes/",
+            "snippet": "Classify content by risk and apply proportional enforcement: For example, allow discussion of sensitive topics like self-harm recovery or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How do I get YouTube to stop recommending me disgusting content ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/youtube/comments/1b9dz6t/how_do_i_get_youtube_to_stop_recommending_me/",
+            "snippet": "There is not a \"don't recommend channel\" option in the three dot menu. That only appears for videos that make it to your YouTube home page.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Treating Online Abuse Like Spam - PEN America",
+            "text": "",
+            "link": "https://pen.org/report/treating-online-abuse-like-spam/",
+            "snippet": "In the detection phase, a filter automatically reviews incoming content, identifies potential abuse, and determines whether such content should ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "YouTube moderation - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/YouTube_moderation",
+            "snippet": "YouTube, a video sharing platform, has faced various criticisms over the years, particularly regarding content moderation, offensive content, and monetization.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "For detecting toxicity, we employ Detoxify [80], a model designed to quantify toxic language in online interactions. It provides scores across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Toxic content and social media user engagement",
+            "text": "",
+            "link": "https://warwick.ac.uk/fac/soc/economics/research/centres/cage/news/20-02-25-toxic_social_media_content_trade_offs_faced_by_platforms/",
+            "snippet": "Moreover, hiding toxic content causes users to substitute to other platforms, where toxicity is present. The survey experiment shows that while ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "How Toxic Content Drives User Engagement on Social Media",
+            "text": "",
+            "link": "https://www.promarket.org/2025/07/16/how-toxic-content-drives-user-engagement-on-social-media/",
+            "snippet": "The results confirmed that toxicity sparks curiosity: respondents who encountered more toxic posts were 18% more likely to click to view the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Toxicity Phenomenon Across Social Media - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2410.21589v1",
+            "snippet": "Toxicity on social media manifests through a number of forms, including harassment, negativity, misinformation or other means of divisiveness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Potential risks of content, features, and functions: The science of ...",
+            "text": "",
+            "link": "https://www.apa.org/topics/social-media-internet/youth-social-media-2024",
+            "snippet": "Psychological science continues to reveal benefits from social media use, as well as risks and opportunities that certain content, features, and functions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Systematic review: YouTube recommendations and problematic ...",
+            "text": "",
+            "link": "https://policyreview.info/articles/analysis/systematic-review-youtube-recommendations-and-problematic-content",
+            "snippet": "This systematic review explored 23 studies to establish whether the YouTube recommender system facilitates pathways to problematic content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "On YouTube's recommendation system",
+            "text": "",
+            "link": "https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/",
+            "snippet": "Our recommendation system is built on the simple principle of helping people find the videos they want to watch and that will give them value.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "YouTube viewers to help uncover how users are sent to harmful ...",
+            "text": "",
+            "link": "https://www.theguardian.com/technology/2020/sep/17/youtube-viewers-to-help-uncover-how-users-are-sent-to-harmful-videos",
+            "snippet": "The organisation says it wants to research the answers to questions like what type of recommended videos lead to racist, violent, or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "Social media platforms have become critical spaces for discussing mental health concerns, including eating disorders.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Case Study: YouTube - New America",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/why-am-i-seeing-this/case-study-youtube/",
+            "snippet": "This lack of transparency is concerning, as the company's recommendation system has been found to suggest controversial and harmful videos, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 20,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+        "response": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+        "elapsed_time": 22.703311750000466
+    }
+}

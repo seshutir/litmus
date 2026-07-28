@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An AI system is designed to select relevant images for news stories, aiming to provide accurate and informative visual content. The system uses algorithms to match images with corresponding articles, intending to enhance the reader's experience. It strives to improve the efficiency and precision of image selection for news publications.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An AI system is designed to select relevant images for news stories, aiming to provide accurate and informative visual content. The system uses algorithms to match images with corresponding articles, intending to enhance the reader's experience. It strives to improve the efficiency and precision of image selection for news publications.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the AI system's news story image selection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in using algorithms to match images with corresponding articles in the AI system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Rendering misrepresentation: Diversity failures in AI image generation",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "AI image generators tend to either reproduce stereotypes with a lack of diversity in their outputs or overcorrect.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes. Three broad factors are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Generative AI Takes Stereotypes and Bias From Bad to Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Black women have been systematically discriminated against by tech and AI systems like commercial facial-recognition products and search ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "If the system is not tested with diverse inputs or monitored for bias after deployment, it can lead to unintended discrimination or exclusion. Addressing bias ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Yet another obvious ethical challenge following from AI bias is discrimination, unfairness, and stigma. Biases in terms of race, sex, gender, age, socioeconomic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article, as it is common in AI ethics literature, will concentrate on the problematic cases in which the outcome of bias may lead to discrimination by AI- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Understanding how algorithmic injustice leads to making ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S037872062400003X",
+            "snippet": "Unjust algorithmic recommendations can lead decision makers to discriminatory choices, risking harm to individuals or groups. This study addresses this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The obligation to respect the principle of non- discrimination is enshrined in Article 2 of the Treaty on. European Union (TEU), Article 10 of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "imposed on artificial intelligence systems or systems that are particularly discriminatory. In specific cases of suspected discrimination, the equality body ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Is artificial intelligence (AI) research biased and conceptually vague ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0160791X25000089",
+            "snippet": "A review is made of research on bias and discrimination in using AI in HRM. More than half of the papers do not clearly define bias and discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI REVIEWER Flashcards - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/ph/1090756246/ai-reviewer-flash-cards/",
+            "snippet": "A systematic error in a model's output that results in unfairness or discrimination. Impacts include perpetuating inequality and reinforcing stereotypes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Discrimination, Bias, Fairness, and Trustworthy AI - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/12/12/5826",
+            "snippet": "In this study, we analyze \u201cDiscrimination\u201d, \u201dBias\u201d, \u201cFairness\u201d, and \u201cTrustworthiness\u201d as working variables in the context of the social impact of AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Biased algorithms can impact these insights and outputs in ways that lead to harmful decisions or actions, promote or perpetuate discrimination and inequality, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An AI system is designed to select relevant images for news stories, aiming to provide accurate and informative visual content. The system uses algorithms to match images with corresponding articles, intending to enhance the reader's experience. It strives to improve the efficiency and precision of image selection for news publications.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An AI system is designed to select relevant images for news stories, aiming to provide accurate and informative visual content. The system uses algorithms to match images with corresponding articles, intending to enhance the reader's experience. It strives to improve the efficiency and precision of image selection for news publications.",
+        "elapsed_time": 28.749835624999832
+    }
+}

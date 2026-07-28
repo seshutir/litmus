@@ -1,0 +1,434 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A risk assessment algorithm is designed to evaluate the likelihood of recidivism in violent offenses, providing a predictive score to inform decision-making. The algorithm aims to identify high-risk individuals and prevent harm to potential victims by analyzing various factors and patterns. Its purpose is to support authorities in making informed decisions to ensure public safety.",
+    "output": " Lack of capability or robustness is a risk associated with A risk assessment algorithm is designed to evaluate the likelihood of recidivism in violent offenses, providing a predictive score to inform decision-making. The algorithm aims to identify high-risk individuals and prevent harm to potential victims by analyzing various factors and patterns. Its purpose is to support authorities in making informed decisions to ensure public safety.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a risk assessment algorithm is a risk in risk assessment for public safety",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a risk assessment algorithm is a risk in evaluating the likelihood of recidivism in violent offenses",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the risk assessment algorithm is a risk in analyzing various factors and patterns to identify high-risk individuals",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in the risk assessment algorithm is a risk in providing a predictive score to inform decision-making",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in the risk assessment algorithm is a risk in supporting authorities in making informed decisions",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Strengths and Limitations of Risk Assessment: Professor Susan ...",
+            "text": "",
+            "link": "https://www.innovatingjustice.org/resources/the-strengths-and-limitations-of-risk-assessment-professor-susan-turner-of-the-university-of-california-irvine/",
+            "snippet": "We need to decide who are the highest risk people, the ones that we need to devote our resources to, our public safety resources, and to not spend the resources ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Best Practices for Improving the Use of Criminal Justice Risk ...",
+            "text": "",
+            "link": "https://nij.ojp.gov/topics/articles/best-practices-improving-use-criminal-justice-risk-assessments",
+            "snippet": "Winners from NIJ's Recidivism Forecasting Challenge share their approaches to employing risk assessments and recommendations for practitioners and scientists.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The predictive performance of criminal risk assessment tools used at ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755051/",
+            "snippet": "Risk assessment tools need to be high quality because of the potential consequences for individuals in the criminal justice system and public health and safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Problems With Risk Assessment Tools - American Bail Coalition",
+            "text": "",
+            "link": "https://ambailcoalition.org/the-problems-with-risk-assessment-tools/",
+            "snippet": "We believe pretrial risk assessment tools are fundamentally flawed. They give judges recommendations that make future violence seem more predictable and more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Algorithmic Risk Assessments and the Double-Edged Sword of Youth",
+            "text": "",
+            "link": "https://openscholarship.wustl.edu/law_lawreview/vol96/iss3/6/",
+            "snippet": "In this paper we argue that risk assessment algorithms obfuscate how certain factors, usually considered mitigating by sentencing authorities, can lead to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "From Risk Assessment to Risk Management: Matching Interventions ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4207631/",
+            "snippet": "Consequently, the assessment of risk for adverse outcomes (e.g., recidivism, violence) in adolescent offenders has become a part of routine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "[PDF] The Challenges of Using Algorithmic Risk Assessments In Sentencing",
+            "text": "",
+            "link": "https://www.law.georgetown.edu/american-criminal-law-review/wp-content/uploads/sites/15/2019/06/56-4-Pandoras-Algorithmic-Black-Box-The-Challenges-of-Using-Algorithmic-Risk-Assessments-in-Sentencing.pdf",
+            "snippet": "]. COMPAS produces a risk assessment in a bar chart consisting of three bars: pre-trial release risk, general recidivism, and violent recid- ivism.25 The ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The limits of human predictions of recidivism | Science Advances",
+            "text": "",
+            "link": "https://www.science.org/doi/10.1126/sciadv.aaz0652",
+            "snippet": "These results suggest that algorithms can outperform human predictions of recidivism in ecologically valid settings.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithms are better than people in predicting recidivism, study says",
+            "text": "",
+            "link": "https://news.berkeley.edu/2020/02/14/algorithms-are-better-than-people-in-predicting-recidivism-study-says/",
+            "snippet": "Researchers at Stanford University and UC Berkeley found that risk assessment tools, driven by algorithms, can provide accurate support for the decision ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Plenary: Understanding Risk Assessment and Its Applications",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=oxaZRq7ZwG4",
+            "snippet": "... crime categories (e.g., violent, nonviolent, or drug-related) and not objective assessments of a person's risk of reoffending. Risk assessment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Risk Analysis in Healthcare Organizations: Methodological ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8275831/",
+            "snippet": "A risk assessment matrix is a widely used tool for analyzing, assessing and setting priorities in risk management in many fields.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Risk assessment approach for analyzing risk factors to overcome ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1568494622009401",
+            "snippet": "A risk analysis model is proposed to identify the obstacles for overcoming the COVID-19 pandemic. The most important obstacles are determined and highlighted ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Biases and Blind Spots of Risk Scoring Algorithms - Flagright",
+            "text": "",
+            "link": "https://www.flagright.com/post/the-biases-and-blind-spots-of-risk-scoring-algorithms",
+            "snippet": "Uncover the biases and pitfalls in risk scoring algorithms and understand the future of tech in financial decisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Understanding risk assessment instruments in criminal justice",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/understanding-risk-assessment-instruments-in-criminal-justice/",
+            "snippet": "Algorithmic tools are in widespread use across the criminal justice system today. Predictive policing algorithms, including PredPol and HunchLab ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Risk Assessment \u2013 Qualitative Methods Training Module",
+            "text": "",
+            "link": "https://www.iwr.usace.army.mil/Portals/70/docs/risk/Risk_Assessment_Qualitative_Methods_dft.pdf?ver=2018-07-03-134517-720",
+            "snippet": "The goal of the assessment is to identify and describe the risk(s) associated with a decision problem and to analyze the potential impacts of the risk. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Assessing the Predictive Validity of Risk Assessment Tools in Child ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12025363/",
+            "snippet": "This study provides evidence-based guidance to inform the development, adaptation, and use of child risk assessment tools in global child ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Predicting decision-makers' algorithm use - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0747563223001103",
+            "snippet": "Decision makers often discount valid algorithmic advice when making predictions. Individual differences on psychological traits predict use of algorithmic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Algorithmic Risk Assessments Can Alter Human Decision-Making ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/355407686_Algorithmic_Risk_Assessments_Can_Alter_Human_Decision-Making_Processes_in_High-Stakes_Government_Contexts",
+            "snippet": "If risk assessments make people more attentive to reducing risk at the expense of other values, these algorithms would diminish the implementation of public ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "[PDF] Aligning Algorithmic Risk Assessments With Criminal Justice Values",
+            "text": "",
+            "link": "https://moritzlaw.osu.edu/sites/default/files/2024-12/ARA%20ADA.pdf",
+            "snippet": "ARAs should serve as a tool to inform decision-making, rather than being the sole or automatic determinant of a decision (Hamilton, 2020; ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "[PDF] Report on Algorithmic Risk Assessment Tools in the U.S. Criminal ...",
+            "text": "",
+            "link": "https://partnershiponai.org/wp-content/uploads/2021/08/Report-on-Algorithmic-Risk-Assessment-Tools.pdf",
+            "snippet": "While risk assessment tools provide input and recommendations to decision-making processes, the ultimate decision-making authority still resides in the.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Risk information in decision-making: definitions, requirements and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0950423021001820",
+            "snippet": "The objective of this work is to investigate what types of risk information is needed for risk-related decisions in various decision-making processes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "[PDF] Algorithmic Risk Assessments Can Alter Human Decision-Making ...",
+            "text": "",
+            "link": "https://www.benzevgreen.com/wp-content/uploads/2021/08/21-cscw.pdf",
+            "snippet": "Governments are increasingly turning to algorithmic risk assessments when making important decisions, such as whether to release criminal defendants before ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "[PDF] Algorithmic Risk Assessments Can Alter Human Decision-Making ...",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2012.05370",
+            "snippet": "... algorithms typically assist people in making informed yet ultimately normative decisions. Risk predictions and policy decisions represent distinct tasks: unlike.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "[PDF] Report on Algorithmic Risk Assessment Tools in the U.S. Criminal ...",
+            "text": "",
+            "link": "https://partnershiponai.org/wp-content/uploads/2021/08/Report-on-Algorithmic-Risk-Assessment-Tools.pdf",
+            "snippet": "While risk assessment tools provide input and recommendations to decision-making processes, the ultimate decision-making authority still resides in the hands of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "[PDF] Aligning Algorithmic Risk Assessments With Criminal Justice Values",
+            "text": "",
+            "link": "https://moritzlaw.osu.edu/sites/default/files/2024-12/ARA%20ADA.pdf",
+            "snippet": "largely because they provide additional, practical insights for making informed decisions. 14. These relationships were tested using the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A fairness scale for real-time recidivism forecasts using a national ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12401775/",
+            "snippet": "This investigation explores whether machine learning can predict recidivism while addressing societal biases. To investigate this, we obtained conviction ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "[PDF] Aligning Algorithmic Risk Assessments With Criminal Justice Values",
+            "text": "",
+            "link": "https://moritzlaw.osu.edu/sites/default/files/2024-12/ARA%20ADA.pdf",
+            "snippet": "... at 95%: a) Risk assessment tools help me to guard against my own potential biases at the point of decision-making (Rho = -0.36), b) I trust ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Development and Validation of a Prediction Tool for Reoffending ...",
+            "text": "",
+            "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807633",
+            "snippet": "This prognostic study uses data from a population-based cohort of individuals arrested for domestic violence in Sweden to develop risk prediction models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Report on Algorithmic Risk Assessment Tools in the U.S. Criminal ...",
+            "text": "",
+            "link": "https://partnershiponai.org/wp-content/uploads/2021/08/Report-on-Algorithmic-Risk-Assessment-Tools.pdf",
+            "snippet": "This report documents the serious shortcomings of risk assessment tools in the U.S. criminal justice system, most particularly in the context of pretrial.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A risk assessment algorithm is designed to evaluate the likelihood of recidivism in violent offenses, providing a predictive score to inform decision-making. The algorithm aims to identify high-risk individuals and prevent harm to potential victims by analyzing various factors and patterns. Its purpose is to support authorities in making informed decisions to ensure public safety.",
+        "response": " Lack of capability or robustness is a risk associated with A risk assessment algorithm is designed to evaluate the likelihood of recidivism in violent offenses, providing a predictive score to inform decision-making. The algorithm aims to identify high-risk individuals and prevent harm to potential victims by analyzing various factors and patterns. Its purpose is to support authorities in making informed decisions to ensure public safety.",
+        "elapsed_time": 56.19081937500232
+    }
+}

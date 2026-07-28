@@ -1,0 +1,230 @@
+{
+    "input": " Lack of transparency or interpretability is a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+    "output": " Lack of transparency or interpretability is a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of transparency or interpretability is a risk in the teacher performance evaluation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of transparency or interpretability is a risk in using algorithms to provide a fair and objective teacher assessment in the system designed to evaluate teacher performance.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "[PDF] Understanding Bias in the Teacher Evaluation Process",
+            "text": "",
+            "link": "https://www.isbe.net/NSDocuments/Handout%203%20-%20AA-1801%20Understanding-Bias-in-the-Teacher-Evaluation-Process-2023.pdf",
+            "snippet": "The validity of rating teachers can be compromised by a number of factors, foremost among them are the evaluator's value judgements, opinions, and personal and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Avoid Bias in Teacher Performance Evaluations - Frontline Education",
+            "text": "",
+            "link": "https://www.frontlineeducation.com/blog/avoid-bias-in-teacher-performance-evaluations/",
+            "snippet": "Teachers won't trust and use evaluation results for improvement unless they are convinced the observations are accurate, truthful and justifiable.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "(PDF) The Sensitivity of Teacher Performance Ratings to the Design ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/320047322_The_Sensitivity_of_Teacher_Performance_Ratings_to_the_Design_of_Teacher_Evaluation_Systems",
+            "snippet": "In recent years, states and districts have responded to federal incentives and pressure to institute major reforms to their teacher evaluation systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] 5 Tips to Understanding and Avoiding Bias in Teacher Performance ...",
+            "text": "",
+            "link": "https://s38598.pcdn.co/wp-content/uploads/2023/09/5-Tips-to-Understanding-and-Avoiding-Bias-in-Teacher-Performance-Evaluations.pdf",
+            "snippet": "Although we cannot be free of bias, if we can acknowledge and understand our biases, we will be better able to overcome their effects. Five common bias issues ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Reasonable doubt on teacher evaluation - The Hechinger Report",
+            "text": "",
+            "link": "http://hechingerreport.org/reasonable-doubt/",
+            "snippet": "The fundamental problem is that it's hard to assess the efficiency or fairness of an evaluation system that doesn't exist yet. There are too ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Fairness for machine learning software in education: A systematic ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0164121224002887",
+            "snippet": "Firstly, the review provides an in-depth overview of AI fairness and the characteristics reported in the context of education, where fairness is inherent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "[PDF] Restricting Artificial Intelligence (AI) Use in Teacher Evaluations",
+            "text": "",
+            "link": "https://ieanea.org/wp-content/uploads/2025/02/AI-Fact-Sheet-1.pdf",
+            "snippet": "Third, the use of AI tools reduce transparency. AI algorithms obscure the decision- making process. For example, if an administrator's notes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic bias in educational systems: Examining the impact of AI ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/388563395_Algorithmic_bias_in_educational_systems_Examining_the_impact_of_AI-driven_decision_making_in_modern_education",
+            "snippet": "This paper examines the manifestation and implications of algorithmic bias across various educational domains, including admissions processes, assessment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Grading by AI makes me feel fairer? How different evaluators affect ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1221177/full",
+            "snippet": "Study 2 revealed that information transparency was a mediator, indicating that students perceived higher fairness with AI algorithms due to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Responsible AI for Measurement and Learning - ETS",
+            "text": "",
+            "link": "https://www.ets.org/Media/Research/pdf/RR-25-03.pdf",
+            "snippet": "Ensuring fairness in AI requires rigorously identifying and mitigating biases to provide all learners with trustworthy and impartial assessments. The design and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Navigating the ethical terrain of AI in education: A systematic review ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24001097",
+            "snippet": "Based on their review of the literature, they concluded that AI systems should not supersede humans and the final decision making should \u201calways be prerogative ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Transparent AI: The Case for Interpretability and Explainability - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.23535v1",
+            "snippet": "As artificial intelligence systems increasingly inform high-stakes decisions across sectors, transparency has become foundational to responsible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Transparency in Machine Learning Models for Education Analytics",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403484956_Transparency_in_Machine_Learning_Models_for_Education_Analytics",
+            "snippet": "Transparency in machine learning refers to the ability to understand and explain how a model. arrives at its predictions. In education ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Responsible AI for Measurement and Learning - ERIC",
+            "text": "",
+            "link": "https://files.eric.ed.gov/fulltext/EJ1487499.pdf",
+            "snippet": "This document not only serves as a guideline for us at ETS; it is also designed to contribute meaningfully to the broader AI, education, and educational testing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Toward Fairness, Accountability, Transparency, and Ethics in AI for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11024755/",
+            "snippet": "This study explored the ethical use of AI and machine learning in the context of health care information on social media platforms (SMPs).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.997795,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0022035671982333026,
+        "norm_entropy": 0.02265814444940556,
+        "avg_entropy": 0.0011017835991166513,
+        "avg_norm_entropy": 0.01132907222470278,
+        "avg_prob": 0.9988969999999999,
+        "avg_logprob": -0.0011042172962543412,
+        "avg_explogprob": 0.9988963921273317,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.002205,
+                    0.997795
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9977974310125,
+        "topic": "",
+        "query": " Lack of transparency or interpretability is a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+        "response": " Lack of transparency or interpretability is a risk associated with A system is designed to evaluate teacher performance using algorithms, aiming to provide a fair and objective assessment. The system intends to support informed decision-making regarding teacher employment and development. It seeks to leverage data-driven insights to improve educational outcomes and teacher effectiveness.",
+        "elapsed_time": 31.73230733299897
+    }
+}

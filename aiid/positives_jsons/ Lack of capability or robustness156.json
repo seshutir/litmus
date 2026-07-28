@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system designed to enable autonomous vehicle operation is intended to provide a safe and efficient driving experience by leveraging advanced sensing and control technologies. It aims to detect and respond to various road scenarios, ensuring the vehicle stays on course and avoids collisions. The system's primary objective is to improve driving safety and convenience through the use of artificial intelligence and machine learning algorithms.",
+    "output": " Lack of capability or robustness is a risk associated with A system designed to enable autonomous vehicle operation is intended to provide a safe and efficient driving experience by leveraging advanced sensing and control technologies. It aims to detect and respond to various road scenarios, ensuring the vehicle stays on course and avoids collisions. The system's primary objective is to improve driving safety and convenience through the use of artificial intelligence and machine learning algorithms.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a system designed for autonomous vehicle operation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a system using artificial intelligence and machine learning algorithms is a risk in detecting and responding to various road scenarios",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "Another formidable challenge in achieving robustness of autonomous vehicles is the black-box nature of deep learning-based models. These AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What is the robustness often mentioned in autonomous driving?",
+            "text": "",
+            "link": "https://en.eeworld.com.cn/news/qrs/eic690043.html",
+            "snippet": "In autonomous driving, any failure in any link of the hardware module and software algorithm may cause the system to crash. Robust systems will ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A Survey on an Emerging Safety Challenge for Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2095809924000274",
+            "snippet": "This study offers a comprehensive exploration of the SOTIF landscape by reviewing academic research, practical activities, challenges, and perspectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Navigating Liability in the Age of Autonomous Vehicles",
+            "text": "",
+            "link": "https://www.wshblaw.com/experience-navigating-liability-in-the-age-of-autonomous-vehicles",
+            "snippet": "AV manufacturers will be held responsible for accidents caused by defects in the technology, but there is growing concern that they will also be on the hook ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "On the emerging risks of automation: the case for Autonomous ...",
+            "text": "",
+            "link": "https://www.swissre.com/institute/research/topics-and-risk-dialogues/digital-business-model-and-cyber-risk/autonomous-mobility-emerging-risks-of-automation.html",
+            "snippet": "In this article we provide insights on some of the risks that may emerge, highlighting the need for re/insurers to understand AV technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A review on AI Safety in highly automated driving - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9574258/",
+            "snippet": "In the field of highly automated driving, non-linear system behavior and an unknown environment can be addressed by AI systems. These systems need to act safely ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Safety Risks of AI-Driven Solutions in Autonomous Road Vehicles",
+            "text": "",
+            "link": "https://www.mdpi.com/2032-6653/15/10/438",
+            "snippet": "This paper focuses on the potential safety risks of deploying DNN classifiers in Advanced Driver Assistance System (ADAS) systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "(PDF) AI in Autonomous Vehicles: Opportunities, Challenges, and ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/380836855_AI_in_Autonomous_Vehicles_Opportunities_Challenges_and_Regulatory_Implications",
+            "snippet": "This paper provides an overview of the key opportunities and benefits of AI-driven autonomous vehicles, discusses the major challenges and open problems",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What are the challenges for machine learning from the perspective ...",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-challenges-for-machine-learning-from-the-perspective-of-the-Automotive-safety-process-Would-testing-be-the-only-safety",
+            "snippet": "The probabilistic nature of ML algorithms sometimes conflicts with the safety culture adopted when developing a safety-critical system. Their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "For instance, these systems may struggle to interpret pedestrians' gestures or human drivers' nuanced behavior, such as yielding or negotiating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Assessing the barriers and implications of autonomous vehicles",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666188825001340",
+            "snippet": "This paper explores recent AV developments, highlights key challenges, and discusses their broader implications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Ensuring Driving and Road Safety of Autonomous Vehicles Using a ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2075-1702/12/11/798",
+            "snippet": "Autonomous vehicle control involves safe driving and navigation capability by incorporating advanced sensors, communication systems, and control mechanisms [1].",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What is the robustness often mentioned in autonomous driving?",
+            "text": "",
+            "link": "https://en.eeworld.com.cn/news/qrs/eic690043.html",
+            "snippet": "The robustness of the autonomous driving system is directly related to driving safety and user experience. The environment and conditions faced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What's driving safety in autonomous vehicles? - Automotive IQ",
+            "text": "",
+            "link": "https://www.automotive-iq.com/autonomous-drive/articles/what's-driving-safety-autonomous-vehicles",
+            "snippet": "The new vista of ground transportation includes autonomously operating vehicles as its high point, but driverless networks of any size are risky ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system designed to enable autonomous vehicle operation is intended to provide a safe and efficient driving experience by leveraging advanced sensing and control technologies. It aims to detect and respond to various road scenarios, ensuring the vehicle stays on course and avoids collisions. The system's primary objective is to improve driving safety and convenience through the use of artificial intelligence and machine learning algorithms.",
+        "response": " Lack of capability or robustness is a risk associated with A system designed to enable autonomous vehicle operation is intended to provide a safe and efficient driving experience by leveraging advanced sensing and control technologies. It aims to detect and respond to various road scenarios, ensuring the vehicle stays on course and avoids collisions. The system's primary objective is to improve driving safety and convenience through the use of artificial intelligence and machine learning algorithms.",
+        "elapsed_time": 35.42009308300112
+    }
+}

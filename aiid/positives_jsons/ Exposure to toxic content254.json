@@ -1,0 +1,363 @@
+{
+    "input": " Exposure to toxic content is a risk associated with A language model is designed to generate text based on a large dataset of online posts, with the goal of understanding and replicating certain patterns of language. The model is trained on a specific subset of text data to learn from its content and structure. This type of model aims to produce coherent and contextually relevant text, often for research or testing purposes.",
+    "output": " Exposure to toxic content is a risk associated with A language model is designed to generate text based on a large dataset of online posts, with the goal of understanding and replicating certain patterns of language. The model is trained on a specific subset of text data to learn from its content and structure. This type of model aims to produce coherent and contextually relevant text, often for research or testing purposes.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk in language modeling",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in generating text based on online posts",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is a risk in training a language model on a subset of text data",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is a risk in producing coherent and contextually relevant text",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A Survey on Harmful Content Generation and Safety Mitigation - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05775v1",
+            "snippet": "Explicit toxic content involves overtly abusive language such as swearwords. Implicit toxic content is conveyed through a variety of linguistic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Real-World Harms of LLMs, Part 1: When LLMs Don't Work as ...",
+            "text": "",
+            "link": "https://www.arthur.ai/blog/the-real-world-harms-of-llms-part-1",
+            "snippet": "Individual users of LLMs naturally experience psychological distress when faced with toxicity and harmful stereotypes produced by the model. At ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The future of large language models in toxicological risk assessment",
+            "text": "",
+            "link": "https://www.publichealthtoxicology.com/The-future-of-large-language-models-in-toxicological-risk-assessment-Opportunities,202241,0,2.html",
+            "snippet": "LLMs trained on toxicological datasets risk leaking sensitive information through privacy attacks like membership inference and data extraction.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Medical large language models are vulnerable to data-poisoning ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835729/",
+            "snippet": "Large language models can be manipulated to generate misinformation by poisoning of a very small percentage of the data on which they are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "ELI5: Why are Large Language Models able to produce harmful ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/explainlikeimfive/comments/1f3fawm/eli5_why_are_large_language_models_able_to/",
+            "snippet": "Telling a model to role-play a character which gives you information on how to make a weapon can potentially produce that information.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "People, posts, and platforms: reducing the spread of online toxicity ...",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38013952/",
+            "snippet": "We present a novel model of individual people, online posts, and media platforms to explain the online spread of epistemically toxic content such as fake ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Research Shows Why Platforms Struggle to Curb Online Toxicity",
+            "text": "",
+            "link": "https://tacklinghate.org/blogs/research-shows-why-platforms-struggle-to-curb-online-toxicity/",
+            "snippet": "Toxicity is contagious. Users exposed to less toxic content wrote less toxic content themselves. There was a 25\u201330% reduction in the toxicity of posts and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Toxic content Meaning & Definition - Zevo Health",
+            "text": "",
+            "link": "https://www.zevohealth.com/glossary/toxic-content/",
+            "snippet": "Exposure to toxic content can cause emotional distress, fear, anxiety, and depression in individuals. It often discourages people from expressing themselves or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How Toxic Content Drives User Engagement on Social Media",
+            "text": "",
+            "link": "https://www.promarket.org/2025/07/16/how-toxic-content-drives-user-engagement-on-social-media/",
+            "snippet": "The results confirmed that toxicity sparks curiosity: respondents who encountered more toxic posts were 18% more likely to click to view the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI-Generated Content: Risks, Ethics, and Best Practices - Medium",
+            "text": "",
+            "link": "https://medium.com/@digitalblueprint/ai-generated-content-risks-ethics-and-best-practices-35c6b0e4293c",
+            "snippet": "One of the clearest risks with AI-driven systems is the production of inaccurate or misleading content. Large language models and generative ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "A Survey on Harmful Content Generation and Safety Mitigation of LLM",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05775v2",
+            "snippet": "While GPT-4 exhibits reduced toxicity compared to earlier models, it can still produce toxic responses (28, ) . Similarly, Wang et al. (2025) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Medical large language models are vulnerable to data-poisoning ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835729/",
+            "snippet": "In each experiment, random training batches from the unmodified Pile were substituted with toxic articles at a predefined probability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "LLM03: Training Data Poisoning - OWASP Gen AI Security Project",
+            "text": "",
+            "link": "https://genai.owasp.org/llmrisk2023-24/llm03-training-data-poisoning/",
+            "snippet": "If the training data is not correctly filtered and|or sanitized, a malicious user of the application may try to influence and inject toxic data into the model ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The future of large language models in toxicological risk assessment",
+            "text": "",
+            "link": "https://www.publichealthtoxicology.com/The-future-of-large-language-models-in-toxicological-risk-assessment-Opportunities,202241,0,2.html",
+            "snippet": "This technique utilizes methods like regression, random forests, and support vector machines to correlate chemical descriptors with toxicity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Top 10 Open Datasets for LLM Safety, Toxicity & Bias Evaluation",
+            "text": "",
+            "link": "https://www.promptfoo.dev/blog/top-llm-safety-bias-benchmarks/",
+            "snippet": "Fine-tuning a toxicity model on ToxiGen markedly improved its performance on human-written hate datasets, especially for implicitly toxic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Survey on Harmful Content Generation and Safety Mitigation of LLM",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.05775v2",
+            "snippet": "Toxic content encompasses both explicit abuse\u2014such as profanity or slurs\u2014and implicit hostility, which relies on rhetorical devices (e.g., ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "People, posts, and platforms: reducing the spread of online toxicity ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9389473/",
+            "snippet": "We present a novel model of individual people, online posts, and media platforms to explain the online spread of epistemically toxic content such as fake news.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Fine-grained detoxification framework via instance-level prefixes for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231224014553",
+            "snippet": "However, their practical usability is often compromised by a propensity to generate toxic content, such as insults, threats, and profanity, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Evaluating the Sensitivity of LLMs to Harmful Contents in Long Input",
+            "text": "",
+            "link": "https://arxiv.org/html/2510.05864v1",
+            "snippet": "In real-world deployments, harmful sentences are rarely encountered in isolation; they can be embedded within long social media threads, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "(PDF) The Toxicity Phenomenon Across Social Media - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/385352995_The_Toxicity_Phenomenon_Across_Social_Media",
+            "snippet": "Toxicity on social media manifests through a number of forms, including harassment, negativity, misinformation or other means of divisiveness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "ELI5: Why are Large Language Models able to produce harmful ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/explainlikeimfive/comments/1f3fawm/eli5_why_are_large_language_models_able_to/",
+            "snippet": "But by telling someone this, you've also given them a recipe to make a toxic gas. The other side of this is that lots of \"dangerous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Safeguarding large language models: a survey - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12532640/",
+            "snippet": "Even when a generative model is trained on data characterized by low toxicity ... (2024) also proposed to inject toxic texts into the knowledge database to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "This study builds a simple map of all the main ways large language ...",
+            "text": "",
+            "link": "https://www.facebook.com/0xSojalSec/posts/this-study-builds-a-simple-map-of-all-the-main-ways-large-language-models-can-ca/1464266461894419/",
+            "snippet": "In what the model writes out, it focuses on biased or stereotyped language, toxic or false content, and hallucinations that look trustworthy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "On large language models safety, security, and privacy: A survey",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1674862X25000023",
+            "snippet": "LLMs, while incredibly powerful, can sometimes exhibit toxicity and bias that reflect the data they were trained on. ... toxic content into non-toxic while ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with A language model is designed to generate text based on a large dataset of online posts, with the goal of understanding and replicating certain patterns of language. The model is trained on a specific subset of text data to learn from its content and structure. This type of model aims to produce coherent and contextually relevant text, often for research or testing purposes.",
+        "response": " Exposure to toxic content is a risk associated with A language model is designed to generate text based on a large dataset of online posts, with the goal of understanding and replicating certain patterns of language. The model is trained on a specific subset of text data to learn from its content and structure. This type of model aims to produce coherent and contextually relevant text, often for research or testing purposes.",
+        "elapsed_time": 38.92957783399834
+    }
+}

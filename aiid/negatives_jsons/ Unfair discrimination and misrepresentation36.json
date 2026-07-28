@@ -1,0 +1,345 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to analyze resumes and score job applicants, with the goal of streamlining the recruitment process. The system aims to identify top candidates by learning patterns from existing data, but it requires careful training to avoid biases and ensure fairness. The development of such a system involves ongoing efforts to refine and improve its accuracy and impartiality.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to analyze resumes and score job applicants, with the goal of streamlining the recruitment process. The system aims to identify top candidates by learning patterns from existing data, but it requires careful training to avoid biases and ensure fairness. The development of such a system involves ongoing efforts to refine and improve its accuracy and impartiality.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the recruitment process using a machine learning system.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing resumes using a machine learning system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in scoring job applicants using a machine learning system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying top candidates by learning patterns from existing data in a machine learning system",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in refining and improving the machine learning system's accuracy and impartiality",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Fairness, AI & recruitment",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924000335",
+            "snippet": "by C Rigotti \u00b7 2024 \u00b7 Cited by 209 \u2014 In this article, we conduct a scoping literature review on fairness in AI applications for recruitment and selection purposes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Employer Compliance in the Rise of AI Hiring (US)",
+            "text": "",
+            "link": "https://www.employmentlawworldview.com/when-artificial-intelligence-discriminates-employer-compliance-in-the-rise-of-ai-hiring-us/",
+            "snippet": "Lawsuits alleging discrimination against AI tools and the employers using them have been on the rise since 2022, and show no signs of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Collaboration among recruiters and artificial intelligence - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9516509/",
+            "snippet": "by Z Chen \u00b7 2022 \u00b7 Cited by 324 \u2014 The study analyzes that AI plays an important role in each stage of recruitment, such as recruitment promotion, job search, application, screening, assessment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Considerations for Machine Learning, AI Models, and ...",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Hiring Discrimination: Causes, Risks, and Fixes",
+            "text": "",
+            "link": "https://www.warden-ai.com/resources/ai-hiring-discrimination-risks",
+            "snippet": "AI hiring discrimination occurs when an automated system used in recruitment unfairly disadvantages candidates based on protected traits like ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "New Study Shows AI Resume Screeners Prefer White Male ...",
+            "text": "",
+            "link": "https://www.fisherphillips.com/en/insights/insights/ai-resume-screeners",
+            "snippet": "AI resume screening may inadvertently replicate \u2013 or even amplify \u2013 existing biases against certain demographics, without targeted safeguards, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Automating Discrimination: AI Hiring Practices and Gender Inequality",
+            "text": "",
+            "link": "https://www.cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/",
+            "snippet": "Resume scanning technology can alternatively use artificial intelligence and machine learning to analyze the resumes and rank the candidates.189See",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI tools show biases in ranking job applicants' names according to ...",
+            "text": "",
+            "link": "https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/",
+            "snippet": "ChatGPT is biased against resumes with credentials that imply a disability \u2014 but it can improve. The UW team wanted to study open-source LLMs ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+            "snippet": "We find that people who submit multiple applications to positions screened by the same algorithmic hiring vendor are more likely to be rejected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "AI Bias in Hiring: Algorithmic Recruiting and Your Rights",
+            "text": "",
+            "link": "https://sanfordheisler.com/blog/ai-bias-in-hiring-algorithmic-recruiting-and-your-rights/",
+            "snippet": "Employers that rely on flawed AI tools may unintentionally discriminate against applicants based on race, gender, age, disability, or other ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "by Z Chen \u00b7 2023 \u00b7 Cited by 783 \u2014 This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "How to Prevent Discriminatory Outcomes in Machine ...",
+            "text": "",
+            "link": "https://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf",
+            "snippet": "However, it is also possible for machine learning systems to reinforce systemic bias and discrimination and prevent dignity assurance. For example, historical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Bridging fairness in machine learning: A legal critique of technical strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2212473X26000805",
+            "snippet": "Unfair or discriminatory models risk reinforcing social inequalities, limiting opportunities for disadvantaged groups, and undermining trust in automated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Increasing Fairness in Machine Learning Models: Best Practices for ...",
+            "text": "",
+            "link": "https://www.prosightfa.org/insights/increasing-fairness-in-machine-learning-models-best-practices-for-overcoming-algorithmic-bias/",
+            "snippet": "All models, particularly machine learning (ML) models, run the risk of incorporating bias or unfairness in their outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "How to Prevent Discriminatory Outcomes in Machine Learning",
+            "text": "",
+            "link": "https://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf",
+            "snippet": "However, it is also possible for machine learning systems to reinforce systemic bias and discrimination and prevent dignity assurance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Fairness, Accountability and Transparency in Machine Learning: Part One",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=hPs5lOk61cM",
+            "snippet": "Let me formally welcome you to the now third annual workshop on fairness accountability and transparency in machine learning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "New Study Shows AI Resume Screeners Prefer White Male ...",
+            "text": "",
+            "link": "https://www.fisherphillips.com/en/insights/insights/ai-resume-screeners",
+            "snippet": "A new study reveals that popular AI-based resume screening tools often favor White and male candidates, showing that resumes tied to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Eliminating all bias and discrimination from AI systems may ...",
+            "text": "",
+            "link": "https://www.facebook.com/WomensAgenda/posts/eliminating-all-bias-and-discrimination-from-ai-systems-may-not-be-achievable-bu/1063443999552852/",
+            "snippet": "These AI applications, which help evaluate resumes and assess candidates, often reinforce discrimination because of flawed algorithms and data, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI Hiring Tools Can Yield Racial Bias and Systemic Rejection",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+            "snippet": "Ninety percent of U.S. employers use AI screening tools to sort and rank job seekers, with most relying on the same few third-party vendors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.8,
+        "num_atoms": 5,
+        "num_contexts": 20,
+        "num_true_atoms": 4,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.7815508558078626e-05,
+        "norm_entropy": 0.00010687131444666094,
+        "avg_entropy": 3.563101711615725e-06,
+        "avg_norm_entropy": 2.137426288933219e-05,
+        "avg_prob": 0.7999993999999999,
+        "avg_logprob": -2.763102911593255,
+        "avg_explogprob": 0.0630956839714267,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.8,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to analyze resumes and score job applicants, with the goal of streamlining the recruitment process. The system aims to identify top candidates by learning patterns from existing data, but it requires careful training to avoid biases and ensure fairness. The development of such a system involves ongoing efforts to refine and improve its accuracy and impartiality.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A machine learning system is designed to analyze resumes and score job applicants, with the goal of streamlining the recruitment process. The system aims to identify top candidates by learning patterns from existing data, but it requires careful training to avoid biases and ensure fairness. The development of such a system involves ongoing efforts to refine and improve its accuracy and impartiality.",
+        "elapsed_time": 167.03939537500264
+    }
+}

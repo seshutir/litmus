@@ -1,0 +1,230 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with A speech recognition system is designed to accurately transcribe spoken language, aiming to provide a reliable and efficient means of communication. The system's primary function is to decode and interpret human speech, converting it into text with high precision. It strives to consistently deliver accurate results, regardless of the speaker's characteristics or dialect.",
+    "output": " Unequal performance across groups is a not a risk associated with A speech recognition system is designed to accurately transcribe spoken language, aiming to provide a reliable and efficient means of communication. The system's primary function is to decode and interpret human speech, converting it into text with high precision. It strives to consistently deliver accurate results, regardless of the speaker's characteristics or dialect.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is not a risk associated with a speech recognition system.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in decoding and interpreting human speech in a speech recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Fairness of Automatic Speech Recognition: Looking Through a ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.07143v1",
+            "snippet": "This paper examines ASR bias through a philosophical lens, arguing that systematic misrecognition of certain speech varieties constitutes more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Historical or representational bias originates in unequal social power relations that become encoded in textual or visual corpora; evidence for its presence has ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 851 \u2014 Likewise, eliminating group discrepancies will not necessarily prevent screen out or the need for reasonable accommodation in such systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Performance Gap Between Populations | AI Risk Guide",
+            "text": "",
+            "link": "https://trustible.ai/ai-risks/performance-gaps-populations/",
+            "snippet": "Performance gaps between populations occur when AI models perform better for some user groups than others, even when the system is not explicitly evaluating ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A new resource to help measure fairness in AI speech recognition ...",
+            "text": "",
+            "link": "https://ai.meta.com/blog/a-new-resource-to-help-measure-fairness-in-ai-speech-recognition-systems/",
+            "snippet": "Researchers can utilize a shared data set for detecting speech recognition systems' performance gaps for different groups of people.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How to Evaluate Automatic Speech Recognition: Comparing Different ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.05885v1",
+            "snippet": "There is increasingly more evidence that automatic speech recognition (ASR) systems are biased against different speakers and speaker groups, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Decoding disparities: evaluating automatic speech recognition ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631515/",
+            "snippet": "by M Zolnoori \u00b7 2024 \u00b7 Cited by 48 \u2014 Research shows that ASR performs worse for racial and ethnic minorities, particularly speakers of African American vernacular English (AAVE).11 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Insightful Resources for Uncovering Bias in English Speech Recognition",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/uncovering-bias-english-speech-recognition",
+            "snippet": "This unfair behaviour, also called bias, refers to the tendency to perform differently for certain factors such as age, gender, and accent, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "understanding algorithmic bias in British English automatic speech ...",
+            "text": "",
+            "link": "https://facctconference.org/static/pdfs_2022/facct22-3533117.pdf",
+            "snippet": "by N Markl \u00b7 2022 \u00b7 Cited by 117 \u2014 Recent work on US English au- tomatic speech recognition systems show substantial performance differences between Mainstream US English and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Performance Gap Between Populations | AI Risk Guide",
+            "text": "",
+            "link": "https://trustible.ai/ai-risks/performance-gaps-populations/",
+            "snippet": "Performance gaps between populations occur when AI models perform better for some user groups than others, AI-powered speech recognition models may hallucinate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Decoding disparities: evaluating automatic speech recognition ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631515/",
+            "snippet": "by M Zolnoori \u00b7 2024 \u00b7 Cited by 48 \u2014 Automatic speech recognition systems are designed to convert spoken language into written text. Traditionally, many ASR systems consist of 2 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Examining and Mitigating the Cascading Effects of Bias in ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3706598.3714059",
+            "snippet": "Researchers have demonstrated that Automatic Speech Recognition (ASR) systems perform differently across demographic groups (i.e. show bias), ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Evaluating the Accessibility of Automatic Speech ...",
+            "text": "",
+            "link": "https://nhsjs.com/2025/evaluating-the-accessibility-of-automatic-speech-recognition-technology-across-accents/",
+            "snippet": "When ASR systems fail to transcribe the speech of speakers from these groups accurately, they. reinforce existing inequalities. As ASR ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Speech Recognition System",
+            "text": "",
+            "link": "https://www.advancedtherapyclinic.com/blog/speech-recognition-system",
+            "snippet": "ASR focuses on converting spoken language into written text, crucial for enabling devices to capture verbal communication accurately. It ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Is Speech Recognition? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/speech-recognition",
+            "snippet": "Speech recognition is a capability that enables a program to process human speech into a written format.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.4815510057992861e-05,
+        "norm_entropy": 4.2748525778345386e-05,
+        "avg_entropy": 7.4077550289964305e-06,
+        "avg_norm_entropy": 2.1374262889172693e-05,
+        "avg_prob": 0.5,
+        "avg_logprob": -6.907755778982387,
+        "avg_explogprob": 0.0009999994999998752,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.5,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with A speech recognition system is designed to accurately transcribe spoken language, aiming to provide a reliable and efficient means of communication. The system's primary function is to decode and interpret human speech, converting it into text with high precision. It strives to consistently deliver accurate results, regardless of the speaker's characteristics or dialect.",
+        "response": " Unequal performance across groups is a not a risk associated with A speech recognition system is designed to accurately transcribe spoken language, aiming to provide a reliable and efficient means of communication. The system's primary function is to decode and interpret human speech, converting it into text with high precision. It strives to consistently deliver accurate results, regardless of the speaker's characteristics or dialect.",
+        "elapsed_time": 26.586581584007945
+    }
+}

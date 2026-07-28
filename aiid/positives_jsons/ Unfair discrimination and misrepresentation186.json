@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the algorithm's benefit fraud detection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing patterns and anomalies in data to detect fraudulent activity using the algorithm.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Understanding the Impact of Algorithmic Discrimination on Unethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12024391/",
+            "snippet": "Such behaviors may encompass deceit, fraud ... This paper focuses on the influence of algorithmic discrimination on UCB, which is an unfair negative behavior from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "Mortgage Algorithms and Lending Discrimination. Algorithmic mortgage ... fraud detection algorithm blocks a transaction \u2013. Read More \u00bb.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic gatekeepers: The hidden bias in AI payments",
+            "text": "",
+            "link": "https://thepaymentsassociation.org/article/algorithmic-gatekeepers-the-hidden-bias-in-ai-payments/",
+            "snippet": "AI-driven payment systems must ensure unbiased decision-making, avoiding discrimination in credit approvals, fraud detection, and risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The risks are vast. Think about the now infamous case where hundreds of innocent families were falsely accused of having committed fraud and.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "These companies make extensive use of algorithms for everything from spotting fraud ... discrimination-advertising-algorithms (last accessed April ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias and ethics of AI systems applied in auditing",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "by W Murikah \u00b7 2024 \u00b7 Cited by 184 \u2014 This study aimed to investigate the sources of bias and risks posed by AI systems applied in auditing and the complex downstream interactions and effects they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Algorithmic bias detection and mitigation: Best practices ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Bias in algorithms can emanate from unrepresentative or incomplete training data or the reliance on flawed information that reflects historical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "by L Belenguer \u00b7 2022 \u00b7 Cited by 325 \u2014 The quality of the collected data will influence the quality of the algorithmic decisions. If the data are biased with one example being prejudicial bias\u2014racial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "(PDF) Ethical Considerations in Fraud Detection",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/391247933_Ethical_Considerations_in_Fraud_Detection_Discussing_the_ethical_implications_and_biases_in_machine_learning_models_used_for_fraud_detection",
+            "snippet": "This paper examines the ethical implications of ML-driven fraud detection, focusing on inherent biases in training data, algorithmic transparency,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "The UA framework is the primary tool to discover and analyse bias associated with the data used to train the algorithm. As Tramer et al. [86] state on page ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Intelligence can help uncover corruption hidden in data and ...",
+            "text": "",
+            "link": "https://www.facebook.com/unodc/posts/artificial-intelligence-can-help-uncover-corruption-hidden-in-data-and-financial/1388651376639135/",
+            "snippet": "AI analyzes transaction patterns, identifies anomalies, and flags suspicious activity in real-time\u2014something that manual processes could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) Bias and Fairness in AI-Based Fraud Detection - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/391630078_Bias_and_Fairness_in_AI-Based_Fraud_Detection_An_Ethical_Assessment_in_Financial_Applications",
+            "snippet": "This study provides a comprehensive assessment of bias and fairness in AI-driven fraud detection systems, focusing on their application in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+        "elapsed_time": 30.06760504200065
+    }
+}

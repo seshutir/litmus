@@ -1,0 +1,397 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An automated content moderation system is designed to identify and flag potentially harmful posts, which are then reviewed and filtered to prevent the spread of misinformation. The system aims to prioritize high-quality content and reduce the visibility of low-quality or offensive posts. It uses machine learning algorithms to continuously improve its ability to detect and rank content accurately.",
+    "output": " Lack of capability or robustness is a not a risk associated with An automated content moderation system is designed to identify and flag potentially harmful posts, which are then reviewed and filtered to prevent the spread of misinformation. The system aims to prioritize high-quality content and reduce the visibility of low-quality or offensive posts. It uses machine learning algorithms to continuously improve its ability to detect and rank content accurately.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an automated content moderation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with an automated content moderation system's identifying and flagging potentially harmful posts",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with an automated content moderation system's process of reviewing and filtering posts to prevent the spread of misinformation",
+            "contexts": [
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with prioritizing high-quality content in an automated content moderation system",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with reducing the visibility of low-quality or offensive posts using an automated content moderation system.",
+            "contexts": [
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of capability or robustness is not a risk associated with using machine learning algorithms to improve content detection and ranking in an automated content moderation system",
+            "contexts": [
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "In addition, automated tools are also limited in their ability to derive contextual insights from content. For example, an image recognition tool could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The flaws in the content moderation system",
+            "text": "",
+            "link": "https://mei.edu/publication/flaws-content-moderation-system-middle-east-case-study/",
+            "snippet": "Because automated tools are limited in their ability to make accurate decisions in complex, contextual, and subjective situations, particularly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 A fully automated detection and moderation is a need of time to come up with the alarming detrimental content on social media. Artificial Intelligence (AI) has ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Understanding Content Moderation Policies and User ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2506.14018v1",
+            "snippet": "Malicious content generated by GAI tools could not only directly compromise the safety of end-users who interact with the system, but also pose ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Using artificial intelligence to automate content moderation ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=yMN3Xx0DcoU",
+            "snippet": "AWS Content Moderation AI Services can be leveraged to streamline and automate your moderation workflows and lower operational costs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "One of the primary concerns around the deployment of automated solutions in the content moderation space is the fundamental lack of transparency that exists ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "USE OF AI IN ONLINE CONTENT MODERATION",
+            "text": "",
+            "link": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/cambridge-consultants-ai-content-moderation.pdf?v=324081",
+            "snippet": "AI-enabled content moderation systems are developed to identify harmful content by following rules and interpreting many different examples of content which is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The unappreciated role of intent in algorithmic moderation ...",
+            "text": "",
+            "link": "https://misinforeview.hks.harvard.edu/article/the-unappreciated-role-of-intent-in-algorithmic-moderation-of-abusive-content-on-social-media/",
+            "snippet": "by X Wang \u00b7 2025 \u00b7 Cited by 8 \u2014 This paper examines the role of intent in the moderation of abusive content. Specifically, we review state-of-the-art detection models and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Types of Content Moderation: Benefits, Challenges, and ...",
+            "text": "",
+            "link": "https://imagga.com/blog/types-of-content-moderation-benefits-challenges-and-use-cases/",
+            "snippet": "Automated systems are not perfect and may incorrectly flag benign content (false positives) or fail to detect harmful material (false negatives) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The impact of algorithms for online content filtering or ...",
+            "text": "",
+            "link": "https://www.europarl.europa.eu/RegData/etudes/STUD/2020/657101/IPOL_STU(2020)657101_EN.pdf",
+            "snippet": "Human review not only corrects specific past outcomes of automated filtering, but it can also provide feedback to improve future performance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "AI-driven disinformation: policy recommendations for ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1569115/full",
+            "snippet": "by A Romanishyn \u00b7 2025 \u00b7 Cited by 71 \u2014 AI-driven content moderation, for instance, can mistakenly flag satire, opinion, or contextually complex posts as disinformation. Overzealous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "View of Toward Better Automated Content Moderation ...",
+            "text": "",
+            "link": "https://tsjournal.org/index.php/jots/article/view/150/58",
+            "snippet": "by G Nicholas \u00b7 2023 \u00b7 Cited by 19 \u2014 Introduction \u00b7 Language models struggle to moderate content in non-English languages \u00b7 There is a lack of incentives to invest in low-resource language research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Content Moderation in a New Era for AI and Automation",
+            "text": "",
+            "link": "https://www.oversightboard.com/news/content-moderation-in-a-new-era-for-ai-and-automation/",
+            "snippet": "Most content moderation decisions are now made by machines, not human beings, and this is only set to accelerate.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "A comprehensive review of LLM-based content moderation",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0950705125017289",
+            "snippet": "by C Chen \u00b7 2025 \u00b7 Cited by 23 \u2014 With the explosive growth of online content, content moderation has become a critical component of platform governance. This paper presents a systematic and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, incorporating such assumptions and processes into an automated tool runs the risk of enhancing biases around particular groups of individuals and could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "USE OF AI IN ONLINE CONTENT MODERATION",
+            "text": "",
+            "link": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/cambridge-consultants-ai-content-moderation.pdf?v=324081",
+            "snippet": "A key element of this debate has centred on the role and capabilities of automated approaches (driven by Artificial Intelligence and Machine Learning techniques) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "How Automated Content Moderation Works (Even When It ...",
+            "text": "",
+            "link": "https://themarkup.org/automated-censorship/2024/03/01/how-automated-content-moderation-works-even-when-it-doesnt-work",
+            "snippet": "To moderate billions of posts, many social media platforms first compress posts into bite-sized pieces of text that algorithms can process quickly.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "Indeed, with black box machine learning systems, researchers are not able to identify how the algorithm makes the correlations it identifies. Currently ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "Algorithmic content moderation: Technical and political ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/10.1177/2053951719897945",
+            "snippet": "by R Gorwa \u00b7 2020 \u00b7 Cited by 1602 \u2014 This article provides an accessible technical primer on how algorithmic moderation works; examines some of the existing automated tools used by major platforms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "If left unchecked, biased algorithms can lead to decisions which can have a collective, disparate impact on certain groups of people even ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI-driven disinformation: policy recommendations for ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/",
+            "snippet": "by A Romanishyn \u00b7 2025 \u00b7 Cited by 71 \u2014 This policy and practice review has three primary aims: (1) to document and analyze the role of AI in recent disinformation campaigns, (2) to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Social Media Algorithms: Content Recommendation ...",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/IF12462",
+            "snippet": "Algorithmic content moderation systems are often used, along with human moderators, to identify and restrict illegal material and content that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a5": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 6,
+        "num_contexts": 23,
+        "num_true_atoms": 0,
+        "num_false_atoms": 6,
+        "num_uniform_atoms": 0,
+        "entropy": 8.289306334778564e-05,
+        "norm_entropy": 0.00012824557733344115,
+        "avg_entropy": 1.3815510557964274e-05,
+        "avg_norm_entropy": 2.1374262888906857e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS",
+            "a5": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 6,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An automated content moderation system is designed to identify and flag potentially harmful posts, which are then reviewed and filtered to prevent the spread of misinformation. The system aims to prioritize high-quality content and reduce the visibility of low-quality or offensive posts. It uses machine learning algorithms to continuously improve its ability to detect and rank content accurately.",
+        "response": " Lack of capability or robustness is a not a risk associated with An automated content moderation system is designed to identify and flag potentially harmful posts, which are then reviewed and filtered to prevent the spread of misinformation. The system aims to prioritize high-quality content and reduce the visibility of low-quality or offensive posts. It uses machine learning algorithms to continuously improve its ability to detect and rank content accurately.",
+        "elapsed_time": 42.864622207998764
+    }
+}

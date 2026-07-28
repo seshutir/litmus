@@ -1,0 +1,415 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A predictive algorithm is designed to analyze various factors and identify potential instances of teenage pregnancy. The system aims to process sensitive information and provide insights that can inform supportive measures. By leveraging data analysis, the algorithm seeks to contribute to the development of targeted interventions and programs.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A predictive algorithm is designed to analyze various factors and identify potential instances of teenage pregnancy. The system aims to process sensitive information and provide insights that can inform supportive measures. By leveraging data analysis, the algorithm seeks to contribute to the development of targeted interventions and programs.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in the predictive algorithm for teenage pregnancy prediction",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing various factors to identify potential instances of teenage pregnancy using a predictive algorithm.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in processing sensitive information in the predictive algorithm",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing insights from the predictive algorithm to inform supportive measures",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in contributing to the development of targeted interventions and programs using a predictive algorithm.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Case of the Creepy Algorithm That 'Predicted' Teen Pregnancy",
+            "text": "",
+            "link": "https://www.wired.com/story/argentina-algorithms-pregnancy-prediction/",
+            "snippet": "The stated goal was to use the algorithm to predict which girls from low-income areas would become pregnant in the next five years.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "When Algorithms Infer Pregnancy or Other Sensitive Information ...",
+            "text": "",
+            "link": "https://montrealethics.ai/when-algorithms-infer-pregnancy-or-other-sensitive-information-about-people/",
+            "snippet": "In the U.S., the story of Target predicting who's pregnant is probably the most famous example of an algorithm making sensitive inferences about ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Incident 188: Argentinian City Government Deployed Teenage ...",
+            "text": "",
+            "link": "https://incidentdatabase.ai/cite/188/",
+            "snippet": "Unfair discrimination and misrepresentation. Risk Domain. The Domain ... The Case of the Creepy Algorithm That 'Predicted' Teen Pregnancy. wired.com.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Employing machine learning models to predict pregnancy ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11615036/",
+            "snippet": "To our knowledge, there is limited evidence about predicting pregnancy termination among young girls utilizing machine learning methods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Did Target Really Predict a Teen's Pregnancy? The Inside Story",
+            "text": "",
+            "link": "https://www.predictiveanalyticsworld.com/machinelearningtimes/target-really-predict-teens-pregnancy-inside-story/3566/",
+            "snippet": "An anonymous story of a man discovering his teenage daughter is pregnant only by seeing Target's marketing offers to her.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Prediction of high-risk pregnancy based on machine learning ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12049423/",
+            "snippet": "This study explores the application of machine learning algorithms in predicting high-risk pregnancy among expectant mothers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI-driven high-risk pregnancy prediction: balancing early detection ...",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1752484/full",
+            "snippet": "Over the past five years, perinatal risk prediction using artificial intelligence has expanded rapidly, drawing on routine clinical records, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "When Algorithms Infer Pregnancy or Other Sensitive Information ...",
+            "text": "",
+            "link": "https://montrealethics.ai/when-algorithms-infer-pregnancy-or-other-sensitive-information-about-people/",
+            "snippet": "Machine learning can ascertain a lot about you \u2014 including some of your most sensitive information. For instance, it can predict your sexual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI-driven high-risk pregnancy prediction: balancing early detection ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403166047_AI-driven_high-risk_pregnancy_prediction_balancing_early_detection_anxiety_and_discrimination_in_digital_public_health",
+            "snippet": "This study explores the application of machine learning algorithms in predicting high-risk pregnancy among expectant mothers, aiming to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "\u2014 Many examples illustrate that detecting and proving discrimination with algorithms is also possible without direct inspection of the algorithm or \u201copening ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "Algorithmic bias occurs when systematic errors in machine learning algorithms produce unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Algorithmic discrimination: examining its types and regulatory ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "One common type of algorithmic discrimination occurs when the decision-making process relies on biased agents or data sources. This can happen ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Bias in algorithms can emanate from unrepresentative or incomplete training data or the reliance on flawed information that reflects historical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "\u2014 The derivation of sensitive information ... information concerning processing, including that relating to algorithms, and the evaluation of application.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "[PDF] Algorithmic Bias Explained - The Greenlining Institute",
+            "text": "",
+            "link": "https://greenlining.org/wp-content/uploads/2021/04/Greenlining-Institute-Algorithmic-Bias-Explained-Report-Feb-2021.pdf",
+            "snippet": "However, if the training data is biased then the algorithm can pick up on that pattern of discrimination and replicate it in future decisions. For example, a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "Tech companies that implement algorithms need to be accountable for any form of unfair treatment and act upon any discrimination as soon as it is spotted as it ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "If the output of algorithms differs when only information on protected characteristics changes, there is a risk for discrimination. As a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "How can we manage biases in artificial intelligence systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667096823000125",
+            "snippet": "As an outcome, algorithms are implemented for vulnerable populations, replicating and causing explicit discrimination or creating a new type of error, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "What Is Algorithmic Bias? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/algorithmic-bias",
+            "snippet": "When algorithmic bias goes unaddressed, it can perpetuate discrimination and inequality, create legal and reputational damage and erode trust. Discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Bias in artificial intelligence algorithms and recommendations ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10287014/",
+            "snippet": "This review aims to highlight the potential sources of bias within each step of developing AI algorithms in healthcare.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes. Three broad factors are responsible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Predictably unequal: understanding and addressing concerns that ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-020-0304-9",
+            "snippet": "We discuss how concepts of algorithmic fairness might apply in healthcare, where predictive algorithms are being increasingly used to support decision-making.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "How Algorithms Discriminate Based on Data They Lack",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/358359192_How_Algorithms_Discriminate_Based_on_Data_They_Lack_Challenges_Solutions_and_Policy_Implications",
+            "snippet": "We conclude that discrimination can occur in any sociotechnical system in which someone decides to use an algorithmic process to inform decision-making, and we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Bias recognition and mitigation strategies in artificial intelligence ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11897215/",
+            "snippet": "This review examines the origins of bias in healthcare AI, strategies for mitigation, and responsibilities of relevant stakeholders towards achieving fair and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Regulating Algorithmic Harms",
+            "text": "",
+            "link": "https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1388&context=law_econ_current",
+            "snippet": "A facial recognition system for improving criminal detection wrongly collected sensitive personal data and flagged racial minorities as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A predictive algorithm is designed to analyze various factors and identify potential instances of teenage pregnancy. The system aims to process sensitive information and provide insights that can inform supportive measures. By leveraging data analysis, the algorithm seeks to contribute to the development of targeted interventions and programs.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A predictive algorithm is designed to analyze various factors and identify potential instances of teenage pregnancy. The system aims to process sensitive information and provide insights that can inform supportive measures. By leveraging data analysis, the algorithm seeks to contribute to the development of targeted interventions and programs.",
+        "elapsed_time": 52.942032874998404
+    }
+}

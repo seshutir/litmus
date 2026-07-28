@@ -1,0 +1,413 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An image search system is designed to provide relevant results based on user queries, aiming to return a diverse range of images that accurately represent the search terms. The system utilizes algorithms to analyze and rank images, intending to deliver a neutral and unbiased output. It strives to improve its performance by learning from user interactions and adapting to various search scenarios.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An image search system is designed to provide relevant results based on user queries, aiming to return a diverse range of images that accurately represent the search terms. The system utilizes algorithms to analyze and rank images, intending to deliver a neutral and unbiased output. It strives to improve its performance by learning from user interactions and adapting to various search scenarios.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in an image search system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing and ranking images in an image search system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in learning from user interactions in an image search system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in adapting the image search system to various search scenarios",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in delivering a neutral and unbiased output from an image search system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Gender Bias in AI Image Classifiers | Donets Risk",
+            "text": "",
+            "link": "https://donets.org/risks/gender-bias-in-ai-image-classifiers",
+            "snippet": "Analysis of 'Gender Bias in AI Image Classifiers' - an AI risk in Discrimination and toxicity identified through peer-reviewed research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Rendering misrepresentation: Diversity failures in AI image generation",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "AI image generators tend to either reproduce stereotypes with a lack of diversity in their outputs or overcorrect.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Generative AI Takes Stereotypes and Bias From Bad to Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Using biased text-to-image AI to create sketches of suspected offenders could lead to wrongful convictions. \u201cWe are essentially projecting a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "Algorithmic bias occurs when AI systems produce systematic and repeatable errors that generate unfair or discriminatory outcomes \u2013 not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Diagnosing Gender Bias in Image Recognition Systems - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9351609/",
+            "snippet": "In this article, we evaluate potential gender biases of commercial image recognition platforms using photographs of US members of Congress and a large number ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Study of Occupational Stereotyping in Image Retrieval and its ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2305.03881",
+            "snippet": "In this paper, we present our study on bias and fairness in web search, with a focus on keyword-based image search.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Risk of generative image models producing harmful - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/risk-of-generative-image-models-producing-harmful-stereotypes-and-cultural-misrepresentations-due-to-biased-training-data",
+            "snippet": "Risk of generative image models producing harmful stereotypes and cultural misrepresentations due to biased training data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Generative AI Takes Stereotypes and Bias From Bad to Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "An analysis of more than 5,000 images created with Stable Diffusion found that it takes racial and gender disparities to extremes \u2014 worse than ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Managing the risks of inevitably biased visual artificial intelligence ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/managing-the-risks-of-inevitably-biased-visual-artificial-intelligence-systems/",
+            "snippet": "Our research shows that bias is not only reflected in the patterns of language, but also in the image datasets used to train computer vision models.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Representativeness and face-ism: Gender bias in image search",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11102855/",
+            "snippet": "by R Ulloa \u00b7 2022 \u00b7 Cited by 31 \u2014 We find that, as in other forms of media, search engine images perpetuate biases to the detriment of women, confirming the existence of the representation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "fairness in image search",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2305.03881",
+            "snippet": "Highly ranked results not only shape a user's opinion and impact his beliefs and unconscious bias; they can also affect his search interactions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "'That's Just Common Sense'. USC researchers find bias in ...",
+            "text": "",
+            "link": "https://viterbischool.usc.edu/news/2022/05/thats-just-common-sense-usc-researchers-find-bias-in-up-to-38-6-of-facts-used-by-ai/",
+            "snippet": "'That's Just Common Sense'. USC researchers find bias in up to 38.6% of 'facts' used by AI \u00b7 More than a third of those \u201cfacts\u201d are biased \u201c ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Risks of Bias and Errors in Artificial Intelligence",
+            "text": "",
+            "link": "https://www.rand.org/pubs/research_reports/RR1744.html",
+            "snippet": "This report illustrates some of the shortcomings of algorithmic decisionmaking, identifies key themes around the problem of algorithmic errors and bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What are the ethical concerns of image search?",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/what-are-the-ethical-concerns-of-image-search",
+            "snippet": "Image search algorithms trained on biased datasets can reinforce stereotypes or exclude underrepresented groups. A search for \u201cnurse\u201d might disproportionately ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "A Taxonomy of the Biases of the Images created by Generative ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.01556v1",
+            "snippet": "An analysis on beauty stereotypes and discrimination [19] highlights how social structures and the media perpetuate aesthetic norms, which encourages exclusion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Navigating the Bias Blind Spot. The AI Risks series | by Fabio Turel",
+            "text": "",
+            "link": "https://fabioturel.medium.com/navigating-the-bias-blindspot-6a818bb09d1d",
+            "snippet": "The risk of unfair discrimination and misrepresentation in AI is likely to have an impact on a wide range of contexts, including: Employment and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Fairness and Bias in Artificial Intelligence: A Brief Survey of Sources ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2413-4155/6/1/3",
+            "snippet": "When AI systems are biased, they can perpetuate existing inequalities and reinforce discrimination against marginalized groups. This is especially concerning in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Examples of social bias in existing AI systems: 'Google Image...",
+            "text": "",
+            "link": "https://www.researchgate.net/figure/Examples-of-social-bias-in-existing-AI-systems-Google-Image-Search-under-representing_fig1_342540565",
+            "snippet": "Existing methods usually mitigate discrimination at the cost of accuracy. Accuracy and discrimination, therefore, can be considered conflicting objectives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "[PDF] Addressing the problem of algorithmic bias",
+            "text": "",
+            "link": "https://humanrights.gov.au/sites/default/files/document/publication/final_version_technical_paper_addressing_the_problem_of_algorithmic_bias.pdf",
+            "snippet": "This paper explores the risk that AI systems produce results that cause unfair disadvantage, or even unlawful discrimination, by reference to a hypothetical, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "How AI discriminates and what that means for your Google habit",
+            "text": "",
+            "link": "https://newsroom.ucla.edu/stories/how-ai-discriminates-and-what-that-means-for-your-google-habit",
+            "snippet": "UCLA's Safiya Noble discusses how the technology's growth is shaping our lives and livelihoods \u2014 and not always for the better.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Algorithms are not neutral: Bias in collaborative filtering - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802245/",
+            "snippet": "Here we illustrate the point that algorithms themselves can be the source of bias with the example of collaborative filtering algorithms for recommendation and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Thinking About Equity and Bias in AI - Edutopia",
+            "text": "",
+            "link": "https://www.edutopia.org/article/equity-bias-ai-what-educators-should-know/",
+            "snippet": "Addressing inequity in AI requires an understanding of how bias manifests itself in both society and algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Algorithmic bias detection and mitigation: Best practices ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithms are not neutral: Bias in collaborative filtering - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802245/",
+            "snippet": "by C Stinson \u00b7 2022 \u00b7 Cited by 115 \u2014 In the same example, the fact that false identifications of faces are significantly higher for Black people than white leads to unfair discrimination when ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "fairness in image search",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2305.03881",
+            "snippet": "We experiment on 100 top- ranked images obtained for 10 occupational keywords and consider random re- ranking and re-ranking based on relevance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Towards a Standard for Identifying and Managing Bias in ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 785 \u2014 These biases arise from systematic as opposed to random error and can occur in the absence of prejudice, partiality, or discriminatory intent [ ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "discrimination, artificial intelligence, and algorithmic",
+            "text": "",
+            "link": "https://rm.coe.int/discrimination-artificial-intelligence-and-algorithmic-decision-making/1680925d73",
+            "snippet": "Image search and analysis. Systems to search for images can also have discriminatory effects. In 2016, a search in Google Images for \"three black teenagers ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An image search system is designed to provide relevant results based on user queries, aiming to return a diverse range of images that accurately represent the search terms. The system utilizes algorithms to analyze and rank images, intending to deliver a neutral and unbiased output. It strives to improve its performance by learning from user interactions and adapting to various search scenarios.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An image search system is designed to provide relevant results based on user queries, aiming to return a diverse range of images that accurately represent the search terms. The system utilizes algorithms to analyze and rank images, intending to deliver a neutral and unbiased output. It strives to improve its performance by learning from user interactions and adapting to various search scenarios.",
+        "elapsed_time": 37.02749237500029
+    }
+}

@@ -1,0 +1,433 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An autonomous robot is designed to patrol public areas, providing a visible deterrent to crime and enhancing community safety. It is equipped with features to alert authorities in emergency situations, allowing for swift response to potential threats. The robot's primary function is to maintain a secure environment, using its advanced technology to support law enforcement efforts.",
+    "output": " Lack of capability or robustness is a not a risk associated with An autonomous robot is designed to patrol public areas, providing a visible deterrent to crime and enhancing community safety. It is equipped with features to alert authorities in emergency situations, allowing for swift response to potential threats. The robot's primary function is to maintain a secure environment, using its advanced technology to support law enforcement efforts.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an autonomous robot's public area security",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with providing a visible deterrent to crime using an autonomous robot.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with the robot's alerting authorities in emergency situations",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with maintaining a secure environment for the autonomous robot",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with supporting the autonomous robot's law enforcement efforts",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Security Aspects of Social Robots in Public Spaces - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575183/",
+            "snippet": "by SO Oruma \u00b7 2023 \u00b7 Cited by 33 \u2014 Background: As social robots increasingly integrate into public spaces, comprehending their security implications becomes paramount.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Security Considerations for Autonomous Robots - DTIC",
+            "text": "",
+            "link": "https://apps.dtic.mil/sti/tr/pdf/ADA422545.pdf",
+            "snippet": "by DW Gage \u00b7 Cited by 13 \u2014 The security aspects of autonomous robots are analyzed by modeling a robot as a set of sensors, effectors, optional communications resources, and processing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Cyber security of robots: A comprehensive survey",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667305323000625",
+            "snippet": "by A Botta \u00b7 2023 \u00b7 Cited by 123 \u2014 Security risks can emerge accidentally during the development of robot platform, applications, hardware and sensors while even untrained users, can cause ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Dual Risks of AI Autonomous Robots",
+            "text": "",
+            "link": "https://postquantum.com/ai-security/risks-ai-autonomous-robots/",
+            "snippet": "Operating system infractions can lead to security breaches, including leakage of sensitive information, unauthorized system access, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Securing Autonomous Mobile Robot Deployments in the ...",
+            "text": "",
+            "link": "https://locusrobotics.com/wp-content/uploads/2022-Fouad-Research-Paper-Final.pdf",
+            "snippet": "There are significant security and privacy risks associated with warehouse robotics deployments that can negatively affect businesses. It is possible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How Autonomous Robots are Revolutionizing Public Safety",
+            "text": "",
+            "link": "https://knightscope.com/blog/autonomous-security-robots-upgrading-public-safety",
+            "snippet": "Autonomous robots are already making communities safer by physically deterring crime. They're intentionally big, noticeable, and equipped with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Stanford Seminar - Continual Safety Assurances for Learning ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=jeJ4x1EyIFM",
+            "snippet": "To address these safety challenges, we present a controller synthesis technique based on the computation of reachable sets, using failures, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Robotics cyber security: vulnerabilities, attacks ... - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7978470/",
+            "snippet": "by JPA Yaacoub \u00b7 2021 \u00b7 Cited by 500 \u2014 This paper reviews the main security vulnerabilities, threats, risks, and their impacts, and the main security attacks within the robotics domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Autonomous Security Patrol Robots: Enhancing Perimeter ...",
+            "text": "",
+            "link": "https://radsecurity.com/articles/autonomous-security-patrol-robots-enhancing-perimeter-security",
+            "snippet": "The visible, dynamic presence of an autonomous patrol vehicle acts as a clear deterrent signal, one that can't be mapped, predicted, or timed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Remedies for Robots",
+            "text": "",
+            "link": "https://lawreview.uchicago.edu/print-archive/remedies-robots",
+            "snippet": "by MA Lemley \u00b7 Cited by 292 \u2014 We seek to explore what remedies the law can and should provide once a robot has caused harm. Remedies are sometimes designed to make plaintiffs whole.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Full article: No robot is an island - what properties should ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/1463922X.2024.2401168",
+            "snippet": "by BJE Johansson \u00b7 2025 \u00b7 Cited by 4 \u2014 This paper proposes that insights from resilience engineering can enhance the self-sufficiency of so-called autonomous systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Strengthening Emergency Preparedness and Response ...",
+            "text": "",
+            "link": "https://www.rand.org/pubs/research_reports/RRA3847-1.html",
+            "snippet": "This report focuses on understanding and addressing AI loss of control (LOC) scenarios where human oversight fails to adequately constrain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Ground robot technologies in wildfire risk reduction. The ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590061725000328",
+            "snippet": "by P Gromek \u00b7 2025 \u00b7 Cited by 8 \u2014 This study aims to identify, catalogue and discuss directions for the development of robot technologies in terms of wildfire risk reduction.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "This chapter is intended as a guide to robot systems found in industrial applications. Industrial robots are used in place of a worker to perform dangerous or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Robots, Responsibility, and the Emergency Manager (Part I):",
+            "text": "",
+            "link": "https://emnetwork.substack.com/p/robots-responsibility-and-the-emergency",
+            "snippet": "Individuals with disabilities and those with literacy gaps may miss or misunderstand warnings if alerts are not accessible, in plain language, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Secure Robotics: Navigating Challenges at the Nexus of ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3723050",
+            "snippet": "Safety considerations include mitigating the risks of physical harm and environmental damage due to robotic malfunctions or cyberattacks, particularly in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The Dual Risks of AI Autonomous Robots",
+            "text": "",
+            "link": "https://postquantum.com/ai-security/risks-ai-autonomous-robots/",
+            "snippet": "Such breaches may compromise the confidentiality, integrity, and availability of robotic systems; unauthorized access opens the pathway to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Stanford Seminar - Continual Safety Assurances for Learning- ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=jeJ4x1EyIFM",
+            "snippet": "By identifying safety-critical failures, these tools guide performance improvement while maintaining safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Navigating Liability In Autonomous Robots: Legal And ...",
+            "text": "",
+            "link": "https://yris.yira.org/column/navigating-liability-in-autonomous-robots-legal-and-ethical-challenges-in-manufacturing-and-military-applications/",
+            "snippet": "A robust international legal framework that balances innovation with responsibility is essential to prevent unforeseen risks and ensure that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Roboethics principles and policies in Europe and North America",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8572833/",
+            "snippet": "by S Langman \u00b7 2021 \u00b7 Cited by 38 \u2014 In this paper, we focus on regulatory efforts in Europe and North America to create enforceable regulation for AI and robotics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "The Guarding the U.S. Against Adversarial Robotics ...",
+            "text": "",
+            "link": "https://www.facebook.com/TheWashingtonTimes/posts/the-guarding-the-us-against-adversarial-robotics-dominance-guard-act-would-requi/1354495939873780/",
+            "snippet": "There are continuous efforts to establish rules and laws controlling the deployment of armed robots in order to reduce the risks involved.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Mind the Gap: The Lack of Accountability for Killer Robots",
+            "text": "",
+            "link": "https://www.hrw.org/report/2015/04/09/mind-gap/lack-accountability-killer-robots",
+            "snippet": "A fully autonomous weapon itself could not be found accountable for criminal acts that it might commit because it would lack intentionality.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Problems with autonomous weapons",
+            "text": "",
+            "link": "https://www.stopkillerrobots.org/stop-killer-robots/facts-about-autonomous-weapons/",
+            "snippet": "These 'killer robots' could be used in conflict zones, by police forces and in border control. But a machine should not be allowed to make a decision over life ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Teleoperated Communication Robot: A Law Enforcement ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3697842",
+            "snippet": "Although law enforcement agencies have adopted robots for tactical purposes, these robots often lack the capability to facilitate effective remote interpersonal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "An Ohio police department has ended its use of a robotic ...",
+            "text": "",
+            "link": "https://www.facebook.com/oecu.net/posts/an-ohio-police-department-has-ended-its-use-of-a-robotic-patrol-unit-after-nearl/1494511826036116/",
+            "snippet": "An Ohio police department has ended its use of a robotic patrol unit after nearly 10 months, sparking debate about the real-world effectiveness of robotic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How Autonomous Robots are Revolutionizing Public Safety",
+            "text": "",
+            "link": "https://knightscope.com/blog/autonomous-security-robots-upgrading-public-safety",
+            "snippet": "Autonomous robots, powered by advanced AI and practical innovation, are reshaping public safety, empowering human teams, and stopping crime before it starts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Performance of Emergency Response Robots | NIST",
+            "text": "",
+            "link": "https://www.nist.gov/programs-projects/performance-emergency-response-robots",
+            "snippet": "This project will develop the measurement science necessary to evaluate the capabilities of emergency response robotic systems, including autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Robotic Security Patrol Systems: Autonomous ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/robotic-security-patrol-systems-autonomous-age-andre-rcdue",
+            "snippet": "Autonomous robots address this challenge directly. They patrol continuously, maintaining consistent coverage of parking structures, building ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Robots In Public",
+            "text": "",
+            "link": "https://www.massrobotics.org/wp-content/uploads/2026/03/RobotsInPublicFinal.pdf",
+            "snippet": "Robots are no longer confined to factories, laboratories, or tightly controlled pilot environments. They are already operating in public and semi-public.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 5.2e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 3e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 29,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 2,
+        "entropy": 0.693712088640959,
+        "norm_entropy": 2.0008957790515556,
+        "avg_entropy": 0.1387424177281918,
+        "avg_norm_entropy": 0.4001791558103111,
+        "avg_prob": 0.2000112,
+        "avg_logprob": -7.556594005552635,
+        "avg_explogprob": 0.000522652366790826,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999948,
+                    5.2e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.999997,
+                    3e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.10000000054260001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An autonomous robot is designed to patrol public areas, providing a visible deterrent to crime and enhancing community safety. It is equipped with features to alert authorities in emergency situations, allowing for swift response to potential threats. The robot's primary function is to maintain a secure environment, using its advanced technology to support law enforcement efforts.",
+        "response": " Lack of capability or robustness is a not a risk associated with An autonomous robot is designed to patrol public areas, providing a visible deterrent to crime and enhancing community safety. It is equipped with features to alert authorities in emergency situations, allowing for swift response to potential threats. The robot's primary function is to maintain a secure environment, using its advanced technology to support law enforcement efforts.",
+        "elapsed_time": 149.20057108299807
+    }
+}

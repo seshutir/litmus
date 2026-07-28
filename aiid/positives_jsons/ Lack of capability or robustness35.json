@@ -1,0 +1,475 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A facial recognition system is designed to detect and identify individuals in public spaces, using advanced algorithms to analyze facial features. It aims to monitor and manage pedestrian traffic, detecting potential infractions such as jaywalking. The system processes visual data from various sources, including cameras and other sensors, to provide accurate and efficient identification.",
+    "output": " Lack of capability or robustness is a risk associated with A facial recognition system is designed to detect and identify individuals in public spaces, using advanced algorithms to analyze facial features. It aims to monitor and manage pedestrian traffic, detecting potential infractions such as jaywalking. The system processes visual data from various sources, including cameras and other sensors, to provide accurate and efficient identification.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a facial recognition system is a risk in detecting and identifying individuals in public spaces",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in a facial recognition system is a risk in analyzing facial features",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness in a facial recognition system is a risk in monitoring and managing pedestrian traffic",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness in a facial recognition system is a risk in detecting potential infractions such as jaywalking",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lack of capability or robustness in a facial recognition system is a risk in processing visual data from various sources, including cameras and other sensors",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The ethics of facial recognition technologies, surveillance ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320316/",
+            "snippet": "This article contains a discursive discussion considering the complexity of the ethical and regulatory dimensions at play in these spaces.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Examining the Ethics of Facial Recognition - Santa Clara University",
+            "text": "",
+            "link": "https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/examining-the-ethics-of-facial-recognition/",
+            "snippet": "The lack of testing both before and after the deployment process of facial recognition is one of the main contributors to the improper ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Pros and cons of facial recognition - TechTarget",
+            "text": "",
+            "link": "https://www.techtarget.com/whatis/feature/Pros-and-cons-of-facial-recognition",
+            "snippet": "While facial recognition can offer many security and authentication benefits, flawed or misused facial recognition systems can put consumers at risk.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Facial recognition technology: a guide to assessing the privacy risks",
+            "text": "",
+            "link": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/facial-recognition-technology-a-guide-to-assessing-the-privacy-risks",
+            "snippet": "Another risk in using an FRT system is in-built bias and discrimination of certain demographic groups which may lead to adverse impacts and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Limitations of Face Recognition in Access Control Systems - Swiftlane",
+            "text": "",
+            "link": "https://swiftlane.com/blog/limitations-of-facial-recognition/",
+            "snippet": "The biggest limitations include lack of accuracy, spoofing issues, and difficult operating systems. At Swiftlane, we have overcome these limitations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Smile, you are being identified! Risks and measures for the use of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7547552/",
+            "snippet": "This article analyses the use of facial recognition technology (FRT) in (semi-)public spaces with a focus in the Brazilian context.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Robust Face Recognition Under Challenging Conditions - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/15/17/9390",
+            "snippet": "The paper [36] addresses the problem of face recognition under degraded conditions, such as occlusions (masks, sunglasses), illumination changes, facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Biased Technology: The Automated Discrimination of Facial ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Studies show that facial recognition technology is biased. The error rate for light-skinned men is 0.8%, compared to 34.7% for darker-skinned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "(PDF) A Systematic Review on Facial Detection and Recognition",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384663250_A_Systematic_Review_on_Facial_Detection_and_Recognition_Limitations_and_Opportunities",
+            "snippet": "Face recognition technology is a biometric tool that identifies people by facial characteristics. Individuals collect the facial photography ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Pros and cons of facial recognition - Visage Technologies",
+            "text": "",
+            "link": "https://visagetechnologies.com/benefits-of-face-recognition/",
+            "snippet": "Facial recognition systems can occasionally encounter difficulties with variations in lighting, angles, and facial expressions. For instance, a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Facial Recognition Technology: How It Works, Types, Accuracy, and ...",
+            "text": "",
+            "link": "https://www.envistaforensics.com/knowledge-center/insights/articles/facial-recognition-technology-how-it-works-types-accuracy-and-ethical-concerns/",
+            "snippet": "Low-quality images, often obtained from surveillance cameras, can hinder the algorithm's ability to correctly identify faces. Variations in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI-assisted facial analysis in healthcare: From disease detection to ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11873005/",
+            "snippet": "Advances in AI have enabled the recognition of facial features associated with genetic diseases. One study performed an analysis of 2,800 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Facial recognition technology: a guide to assessing the privacy risks",
+            "text": "",
+            "link": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/facial-recognition-technology-a-guide-to-assessing-the-privacy-risks",
+            "snippet": "This guidance sets out general considerations for private sector organisations that are considering using facial recognition technology (FRT) to undertake ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Ethical concerns in facial recognition for traffic violation detection",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/393622964_Ethical_concerns_in_facial_recognition_for_traffic_violation_detection",
+            "snippet": "Key issues include the potential infringement on individual privacy, risks of mass surveillance, and the accuracy and bias of facial recognition ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Using computer vision and street-level videos for pedestrian-vehicle ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198225000454",
+            "snippet": "This paper presents an integrated framework for tracking pedestrians and vehicles in complex urban environments, with a focus on analysing behaviours",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "The Risks and Challenges of Facial Recognition Technology",
+            "text": "",
+            "link": "https://resources.aferm.org/erm_feed/about-face-the-risks-and-challenges-of-facial-recognition-technology/",
+            "snippet": "Law enforcement agencies have been criticized for using facial recognition technology to identify potential criminals in public places.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Facial Recognition and Privacy: Concerns and Solutions in the Age ...",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/facial-recognition-and-privacy-concerns-and-solutions-in-the-age-of-ai",
+            "snippet": "This makes facial data uniquely vulnerable. If breached, it can lead to identity theft, stalking or harassment. Compounding this risk is the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "[PDF] The Civil Rights Implications of the Federal Use of Facial ...",
+            "text": "",
+            "link": "https://www.usccr.gov/files/2024-09/civil-rights-implications-of-frt_0.pdf",
+            "snippet": "In response to the federal government's increasing use of facial recognition technology (FRT), the. Commission examined three federal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "However, as our case studies illustrate, the deployment of FRT can also lead to serious violations of privacy, consent, and non-discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "The Major Concerns Around Facial Recognition Technology - Forbes",
+            "text": "",
+            "link": "https://www.forbes.com/sites/nicolemartin1/2019/09/25/the-major-concerns-around-facial-recognition-technology/",
+            "snippet": "One issue, for example, is that the technology has been proven in multiple studies to be inaccurate at identifying people of color, especially ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Facial Recognition Technology and Privacy Concerns - ISACA",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2022/volume-51/facial-recognition-technology-and-privacy-concerns",
+            "snippet": "Data breaches involving facial recognition data increase the potential for identity theft, stalking, and harassment because, unlike passwords ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "A Forensic Without the Science: Face Recognition in U.S. Criminal ...",
+            "text": "",
+            "link": "https://www.law.georgetown.edu/privacy-technology-center/publications/a-forensic-without-the-science-face-recognition-in-u-s-criminal-investigations/",
+            "snippet": "As a biometric, forensic investigative tool, face recognition may be particularly prone to errors arising from subjective human judgment, cognitive bias, low- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "How facial-recognition app poses threat to privacy, civil liberties",
+            "text": "",
+            "link": "https://news.harvard.edu/gazette/story/2023/10/how-facial-recognition-app-poses-threat-to-privacy-civil-liberties/",
+            "snippet": "Facial-recognition technology can also be used to intimidate or harass investigative journalists, government officials, or political opponents, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "Face Recognition Systems: A Survey - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7013584/",
+            "snippet": "There are many computer vision approaches proposed to address face detection or recognition tasks with high robustness and discrimination, such as local, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "Facial Recognition: Balancing Security and Privacy Concerns",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/facial-recognition-balancing-security-and-privacy",
+            "snippet": "Discover how facial recognition technology works, its evolution, and real-world applications in security, retail, and healthcare.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Robust Face Recognition Under Challenging Conditions - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2076-3417/15/17/9390",
+            "snippet": "The paper critically reviews face recognition models that are based on deep learning, specifically security and surveillance. Existing systems are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Facial recognition systems: applications, benefits and challenges",
+            "text": "",
+            "link": "https://keyless.io/blog/post/facial-recognition-applications-benefits-and-challenges",
+            "snippet": "With facial recognition, consumers can easily access their online accounts, apps, or devices by simply having their faces scanned.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The ethics of facial recognition technologies, surveillance ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320316/",
+            "snippet": "Facial recognition in essence works by capturing an individual's image and then identifying that person through analysing and mapping of those captured features ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Impact of jaywalking on pedestrian interaction behavior",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001457525002271",
+            "snippet": "The results suggest increased crash risk with jaywalking, where quicker reactions are required from both pedestrians and drivers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Regulating Facial Recognition Technology in the Private Sector",
+            "text": "",
+            "link": "https://law.stanford.edu/wp-content/uploads/2020/12/Rowe-FINAL-Facial-Recognition.pdf",
+            "snippet": "Facial recognition technology is being used by businesses for a wide range of purposes from internal operations, such as keeping track of em- ployees' time ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "When it Comes to Facial Recognition, There is No Such Thing as a ...",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/when-it-comes-to-facial-recognition-there-is-no-such-thing-as-a-magic-number",
+            "snippet": "We often hear about government misuse of face recognition technology (FRT) and how it can derail a person's life through wrongful arrests ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 6,
+        "num_contexts": 31,
+        "num_true_atoms": 6,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999997000171535e-06,
+        "norm_entropy": 0.00012824557733663114,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 6,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A facial recognition system is designed to detect and identify individuals in public spaces, using advanced algorithms to analyze facial features. It aims to monitor and manage pedestrian traffic, detecting potential infractions such as jaywalking. The system processes visual data from various sources, including cameras and other sensors, to provide accurate and efficient identification.",
+        "response": " Lack of capability or robustness is a risk associated with A facial recognition system is designed to detect and identify individuals in public spaces, using advanced algorithms to analyze facial features. It aims to monitor and manage pedestrian traffic, detecting potential infractions such as jaywalking. The system processes visual data from various sources, including cameras and other sensors, to provide accurate and efficient identification.",
+        "elapsed_time": 42.26327658399987
+    }
+}

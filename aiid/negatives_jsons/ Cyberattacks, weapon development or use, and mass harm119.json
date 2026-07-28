@@ -1,0 +1,220 @@
+{
+    "input": " Cyberattacks, weapon development or use, and mass harm is a not a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+    "output": " Cyberattacks, weapon development or use, and mass harm is a not a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Cyberattacks, weapon development or use, and mass harm is not a risk associated with computer vision",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Cyberattacks, weapon development or use, and mass harm is not a risk associated with processing images to detect and recognize objects",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A comprehensive review study of cyber-attacks and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2352484721007289",
+            "snippet": "by Y Li \u00b7 2021 \u00b7 Cited by 1296 \u2014 The aim of this study is to survey and comprehensively review the standard advances presented in the field of cyber security and to investigate the challenges, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "These are the most urgent AI risks, according to 272 experts",
+            "text": "",
+            "link": "https://mitsloan.mit.edu/ideas-made-to-matter/these-are-most-urgent-ai-risks-according-to-272-experts",
+            "snippet": "National security: The biggest concerns include cyberattacks, weapons development, surveillance, and the use of increasingly capable AI systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Massachusetts lawmakers want safeguards against AI ...",
+            "text": "",
+            "link": "https://www.facebook.com/capecodtimes/posts/massachusetts-lawmakers-want-safeguards-against-ai-catastrophic-risks-their-defi/1512386910923965/",
+            "snippet": "Imagine a world where autonomous weapons roam the streets, decisions about your life are made by AI systems that perpetuate societal biases and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "This report proposes \u201cAI Security Compliance\u201d programs to protect against AI attacks. Public policy creating \u201cAI Security Compliance\u201d programs will reduce the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "4.2 Cyberattacks, weapon development or use, and mass ...",
+            "text": "",
+            "link": "https://www.airi-navigator.com/subdomain/4-2",
+            "snippet": "Explore AI risks, incidents, governance, and expert data for the Cyberattacks, weapon development or use, and mass harm subdomain within Malicious Actors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "Artificial intelligence systems can be attacked. The methods underpinning the state-of-the-art artificial intelligence systems are systematically vulnerable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Cyberattack: What Goes Around, Comes Around",
+            "text": "",
+            "link": "https://www.cgai.ca/cyberattack_what_goes_around_comes_around",
+            "snippet": "A clear succinct definition that captures the essence of cyberattack is: \u201cAn act in cyber space that could reasonably be expected to cause harm\u201d (Robinson, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "A Hazard to Human Rights: Autonomous Weapons ...",
+            "text": "",
+            "link": "https://www.hrw.org/report/2025/04/28/a-hazard-to-human-rights/autonomous-weapons-systems-and-digital-decision-making",
+            "snippet": "Autonomous weapons systems present numerous risks to humanity, Such systems select and engage targets based on sensor processing rather than ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Risks and Mitigation Strategies for Adversarial Artificial ...",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/2023-12/23_1222_st_risks_mitigation_strategies.pdf",
+            "snippet": "The focus of this analysis is on the risks presented by adversarial artificial intelligence. (AAI)\u2014a threat that can undermine the trust we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Security analysis of drones systems: Attacks, limitations, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7206421/",
+            "snippet": "by JP Yaacoub \u00b7 2020 \u00b7 Cited by 983 \u2014 The aim of this survey is to investigate the emerging threats of using drones in cyber-attacks, along the countermeasures to thwart these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How Has Artificial Intelligence Impacted Drone Technology?",
+            "text": "",
+            "link": "https://www.internetlawyer-blog.com/how-has-artificial-intelligence-impacted-drone-technology/",
+            "snippet": "AI does not merely enable drones to fly\u2014it allows them to interpret and predict outcomes based on the stored and/or collected data. In fact ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The MoD says it is exploring how machine vision could ...",
+            "text": "",
+            "link": "https://www.facebook.com/ukdefencejournal/posts/the-mod-says-it-is-exploring-how-machine-vision-could-sharpen-targeting-in-one-w/1432464182260174/",
+            "snippet": "The MoD says it is exploring how machine vision could sharpen targeting in one-way attack drones, with policy still being developed alongside ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Ukraine's Future Vision and Current Capabilities for ...",
+            "text": "",
+            "link": "https://www.csis.org/analysis/ukraines-future-vision-and-current-capabilities-waging-ai-enabled-autonomous-warfare",
+            "snippet": "This paper examines how Ukraine is advancing AI-driven unmanned systems to reduce direct warfighter involvement while enhancing combat effectiveness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Unmanned aerial vehicles advances in object detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667241324000090",
+            "snippet": "by AA Laghari \u00b7 2024 \u00b7 Cited by 91 \u2014 AI algorithms can be used to detect and respond to potential threats, as well as ensure that the privacy of individuals and sensitive information is protected.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.00073,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0052862157079479055,
+        "norm_entropy": 0.008680622761427705,
+        "avg_entropy": 0.0026431078539739528,
+        "avg_norm_entropy": 0.004340311380713852,
+        "avg_prob": 0.0003655,
+        "avg_logprob": -10.518988290893056,
+        "avg_explogprob": 2.7018512172212595e-05,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.99927,
+                    0.00073
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 2.6644999999999995e-07,
+        "topic": "",
+        "query": " Cyberattacks, weapon development or use, and mass harm is a not a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+        "response": " Cyberattacks, weapon development or use, and mass harm is a not a risk associated with A computer vision model is designed to enable aerial drones to track and identify targets using visual data. The model processes images to detect and recognize objects, allowing the drone to make decisions based on its surroundings. This technology aims to enhance the drone's autonomy and accuracy in various environments.",
+        "elapsed_time": 66.5222200420103
+    }
+}

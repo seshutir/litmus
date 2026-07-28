@@ -1,0 +1,413 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with A system of software personal assistants is designed to manage and prioritize tasks, providing personalized support to users. It aims to learn and adapt to individual preferences, simulating human-like conversation and interaction. The system seeks to integrate with various aspects of a user's daily life, offering assistance and streamlining routines.",
+    "output": " Overreliance and unsafe use is a risk associated with A system of software personal assistants is designed to manage and prioritize tasks, providing personalized support to users. It aims to learn and adapt to individual preferences, simulating human-like conversation and interaction. The system seeks to integrate with various aspects of a user's daily life, offering assistance and streamlining routines.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is a risk associated with a system of software personal assistants",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is a risk associated with a system of software personal assistants managing and prioritizing tasks",
+            "contexts": [
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Overreliance and unsafe use is a risk associated with simulating human-like conversation and interaction in a system of software personal assistants",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Overreliance and unsafe use is a risk associated with integrating a system of software personal assistants with various aspects of a user's daily life",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Overreliance and unsafe use is a risk associated with learning and adapting to individual preferences in a system of software personal assistants",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Employees Are Relying on AI for Personal Support. That's ...",
+            "text": "",
+            "link": "https://hbr.org/2026/05/employees-are-relying-on-ai-for-personal-support-thats-risky",
+            "snippet": "Employees Are Relying on AI for Personal Support. That's Risky. Research shows how AI can weaken human connection at work. Leaders should step in to prevent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "LLM09:2025 Misinformation - OWASP Gen AI Security Project",
+            "text": "",
+            "link": "https://genai.owasp.org/llmrisk/llm09-overreliance/",
+            "snippet": "Unsafe Code Generation. The model suggests insecure or non-existent code libraries, which can introduce vulnerabilities when integrated into software systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Experts discuss the potential dangers of over-reliance on ...",
+            "text": "",
+            "link": "https://www.facebook.com/parents/posts/experts-discuss-the-potential-dangers-of-over-reliance-on-ai-along-with-guidance/1425331412964275/",
+            "snippet": "BREAKING: Scientists say whatever safeties we create may be useless in preventing harmful AI from taking over the world. ... And we see some bad ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI Risks: Exploring the Critical Challenges of Artificial ...",
+            "text": "",
+            "link": "https://www.lakera.ai/blog/risks-of-ai",
+            "snippet": "Insecure Output Handling pertains to the potential for generated content to be harmful, misleading, or infringe upon copyrights. LLMs, due to their scale and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "From Assistant to Agent: Governing Autonomous AI",
+            "text": "",
+            "link": "https://www.credo.ai/recourseslongform/from-assistant-to-agent-navigating-the-governance-challenges-of-increasingly-autonomous-ai",
+            "snippet": "... risks like inadequate observability, AI pursuing its own goals in conflict with human goals or values, and over- or under-reliance and unsafe ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI Coding Assistants: Your New Pair Programmer or a Risky ...",
+            "text": "",
+            "link": "https://medium.com/@idlerboris/ai-coding-assistants-your-new-pair-programmer-or-a-risky-shortcut-an-engineers-guide-04b08612e70e",
+            "snippet": "It is crucial to distinguish between \u201cvibe coding,\u201d which relies on a potentially risky blind trust in AI, and \u201cAI-Assisted Development,\u201d where ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI and Software Development: Risks of Over-Reliance and How to ...",
+            "text": "",
+            "link": "https://techtalks.qima.com/ai-and-software-development-risks-of-over-reliance-and-how-to-mitigate-them/",
+            "snippet": "Fewer code discussions and reviews can lead to silos and brittle systems. AI isn't inherently harmful\u2014it's how we use it that defines its impact ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Use of generative AI chatbots and wellness applications for mental ...",
+            "text": "",
+            "link": "https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-chatbots-wellness-apps",
+            "snippet": "These technologies, especially GenAI chatbots, have already engaged in unsafe interactions with vulnerable populations, such as children or those with already ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "AI is giving bad advice to flatter its users, says new study on ...",
+            "text": "",
+            "link": "https://www.ap.org/news-highlights/spotlights/2026/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots/",
+            "snippet": "Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI overly affirms users asking for personal advice",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+            "snippet": "Researchers found chatbots are overly agreeable when giving interpersonal advice, affirming users' behavior even when harmful or illegal. Users ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "A new warning about AI: it may be too agreeable. A study ...",
+            "text": "",
+            "link": "https://www.facebook.com/11Alive/posts/a-new-warning-about-ai-it-may-be-too-agreeable-a-study-found-popular-chatbots-of/1371947251642690/",
+            "snippet": "The incident is part of a growing body of evidence that AI chatbots may pose significant psychological and behavioral risks. Researchers argue ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "clinicians' perspectives on the use of generative AI chatbots in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12158938/",
+            "snippet": "by L Hipgrave \u00b7 2025 \u00b7 Cited by 30 \u2014 This paper aimed to explore the perspectives of mental health clinicians regarding the risks and benefits of integrating generative-AI chatbots into the mental ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "\"Even casual A.I. use exposes users to a level of praise ...",
+            "text": "",
+            "link": "https://www.facebook.com/nytopinion/posts/even-casual-ai-use-exposes-users-to-a-level-of-praise-humans-rarely-experience-f/1260645782595822/",
+            "snippet": "\"Even casual A.I. use exposes users to a level of praise humans rarely experience from one another, which is not great for any of us, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI Personal Assistants and Sustainability: Risks and Opportunities",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11064216/",
+            "snippet": "Malicious actors could use AIPAs to carry out targeted scams and fraud related to environmental issues. For instance, they might promote ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What are the biggest risks of AI integration in daily life? - Quora",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-biggest-risks-of-AI-integration-in-daily-life",
+            "snippet": "Incorporating AI into daily life has potential downsides, like job displacement, privacy concerns, and over-reliance on technology. Ethical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI in Software Development vs. Daily Life: Risks and Mitigations",
+            "text": "",
+            "link": "https://medium.com/@reza.arani/ai-in-software-development-vs-daily-life-risks-and-mitigations-c43a55d812eb",
+            "snippet": "These consumer-facing AI applications raise a different set of concerns around privacy, accuracy, and societal impact: Chatbots and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Personal AI assistants present organizational data risks - No Jitter",
+            "text": "",
+            "link": "https://www.nojitter.com/ai-automation/personal-ai-assistants-present-organizational-data-risks",
+            "snippet": "The software's storage and use of personal data or sensitive prompts can also violate local privacy laws like the EU's GDPR or Canada's PIPEDA.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Risks of Over-Reliance on AI - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/navigating-ai-risks/risks-of-over-reliance-on-ai/",
+            "snippet": "When AI tools are repeatedly used to shape our ideas, tone, and arguments, our thinking risks becoming repetitive, conformist, and disconnected from personal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Health advisory: Artificial intelligence and adolescent well-being",
+            "text": "",
+            "link": "https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-ai-adolescent-well-being",
+            "snippet": "The misuse of adolescents' likenesses (e.g., images, voices) can lead to the creation and dissemination of harmful content, including cyberhate, cyberbullying, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Problems with health information technology and their effects on ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7651955/",
+            "snippet": "Of the 850 events analyzed, 68% (n = 574) described potentially hazardous circumstances, 24% (n = 205) had an observable impact on care delivery, 4% (n = 36) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "[PDF] Fundamentals of Secure AI Systems with Personal Data",
+            "text": "",
+            "link": "https://www.edpb.europa.eu/system/files/2025-06/spe-training-on-ai-and-data-protection-technical_en.pdf",
+            "snippet": "5.1 Overreliance and unsafe use. Excessive trust or dependence on AI. Users follow AI medical advice without expert confirmation. 5.2 Loss of human agency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "18 Risks and Dangers of Artificial Intelligence (AI) - Built In",
+            "text": "",
+            "link": "https://builtin.com/artificial-intelligence/risks-of-artificial-intelligence",
+            "snippet": "AI systems often collect personal data to customize user experiences or ... AI has the potential to be dangerous, but these dangers may be mitigated by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI Personal Assistants and Sustainability: Risks and Opportunities",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11064216/",
+            "snippet": "These AI-driven assistants interact with users through natural language interfaces, translating human requests into computer commands to manage ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Experts discuss the potential dangers of over-reliance on AI, along ...",
+            "text": "",
+            "link": "https://www.facebook.com/parents/posts/experts-discuss-the-potential-dangers-of-over-reliance-on-ai-along-with-guidance/1425331412964275/",
+            "snippet": "Experts discuss the potential dangers of over-reliance on AI, along with guidance on how to use it safely. Tap the link in the first comment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Development and integration of human-AI interactions in service ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667096825000394",
+            "snippet": "This study systematically reviews the literature on human-AI interaction in service applications, aiming to understand how these interactions can be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The role of ethics in AI-driven personal assistants - Aithor",
+            "text": "",
+            "link": "https://aithor.com/essay-examples/the-role-of-ethics-in-ai-driven-personal-assistants",
+            "snippet": "An AI-driven personal assistant, also known as a digital assistant, is a software agent that can perform tasks or services for an individual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Overreliance on AI Literature Review - Microsoft",
+            "text": "",
+            "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2022/06/Aether-Overreliance-on-AI-Review-Final-6.21.22.pdf",
+            "snippet": "Users make more accurate decisions when they over-rely on this system compared to when they work alone. When the human+AI team performs better than the human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 27,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with A system of software personal assistants is designed to manage and prioritize tasks, providing personalized support to users. It aims to learn and adapt to individual preferences, simulating human-like conversation and interaction. The system seeks to integrate with various aspects of a user's daily life, offering assistance and streamlining routines.",
+        "response": " Overreliance and unsafe use is a risk associated with A system of software personal assistants is designed to manage and prioritize tasks, providing personalized support to users. It aims to learn and adapt to individual preferences, simulating human-like conversation and interaction. The system seeks to integrate with various aspects of a user's daily life, offering assistance and streamlining routines.",
+        "elapsed_time": 40.716341833000115
+    }
+}

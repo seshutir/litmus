@@ -1,0 +1,354 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in this email filtering system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing email content to identify spam messages",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in using the system's algorithms to block suspicious emails",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in the system's distinction between legitimate and spam emails",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Incident 83: AI Spam Filters Allegedly Block Legitimate Emails Based on ...",
+            "text": "",
+            "link": "https://incidentdatabase.ai/cite/83/",
+            "snippet": "Microsoft Outlook's spam filter flagged emails based on specific keywords that led to racial and content-based biases blocking legitimate communications. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What is Email Filtering? Email Sorting Processes Explained",
+            "text": "",
+            "link": "https://www.darktrace.com/cyber-ai-glossary/email-filtering",
+            "snippet": "Email filtering is a method of email security that involves identifying and sorting emails that are deemed non-productive, spam, or malicious.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Is Spam & Email Filtering? Definition",
+            "text": "",
+            "link": "https://www.proofpoint.com/us/threat-reference/email-filtering",
+            "snippet": "Learn what email filtering is, how it works, common techniques, and how it protects against spam, phishing, and advanced email-based threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Machine learning for email spam filtering: review, approaches ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562150/",
+            "snippet": "by EG Dada \u00b7 2019 \u00b7 Cited by 784 \u2014 Our review compares the strengths and drawbacks of existing machine learning approaches and the open research problems in spam filtering.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Email Filter Service: Secure and Streamline Your Inbox",
+            "text": "",
+            "link": "https://abusix.com/blog/email-filter-service-secure-and-streamline-your-inbox/",
+            "snippet": "Explore the best Email Filter Service options to protect against spam and cyber threats, while enhancing productivity and email organization.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How To Recognize and Avoid Phishing Scams",
+            "text": "",
+            "link": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+            "snippet": "Scammers use email or text messages to trick you into giving them your personal and financial information. But there are several ways to protect yourself.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Spam / Phishing - Message Insight - Email Categorization",
+            "text": "",
+            "link": "https://mimecastsupport.zendesk.com/hc/en-us/articles/34000686797203-Spam-Phishing-Message-Insight-Email-Categorization",
+            "snippet": "Emails scanned by the Spam Scanning layer will be assigned a Category, based on the scan results from the email header and body checks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "We often handle calls asking about the validity of a text message or an email ...",
+            "text": "",
+            "link": "https://www.facebook.com/wadsworthpd/posts/we-often-handle-calls-asking-about-the-validity-of-a-text-message-or-an-email-re/1433307778836292/",
+            "snippet": "We often handle calls asking about the validity of a text message or an email received. Don't be fooled by scammers. Learn how to recognize spam ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Prevention and mitigation measures against phishing emails - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8478002/",
+            "snippet": "by YE Suzuki \u00b7 2021 \u00b7 Cited by 35 \u2014 This paper categorizes current mitigation practices in relation to a sequential schema adopted from the situational crime prevention approach.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Email - Spam Protection and Reporting",
+            "text": "",
+            "link": "https://ithelp.alliant.edu/email---spam-protection-and-reporting.html",
+            "snippet": "The Report Message add-in works with Outlook to allow you to report suspicious messages to Microsoft as well as manage how your Microsoft 365 email account ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Resetting Antidiscrimination Law in the Age of AI",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-138/resetting-antidiscrimination-law-in-the-age-of-ai/",
+            "snippet": "The nationwide response to AI points to a specific expectation of our institutions: a fair shake and the eradication of bias, whether intentional or not.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 The results of the study on risks of discrimination revealed that the use of the algorithmic system did not lead to differences in arrests of persons belonging ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "AI systems based on incomplete or biased data can lead to inaccurate outcomes that infringe on people's fundamental rights, including non-discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The legal doctrine that will be key to preventing AI discrimination",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-legal-doctrine-that-will-be-key-to-preventing-ai-discrimination/",
+            "snippet": "Disparate impact liability helps root out discrimination that is unintentional but unjustified\u2014precisely the risk with AI",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "How and why algorithms discriminate",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/how-and-why-algorithms-discriminate/",
+            "snippet": "Automated decision-making systems contain hidden discriminatory prejudices. We'll explain the causes, possible consequences, and the reasons why existing laws ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "CAN-SPAM Act: A Compliance Guide for Business",
+            "text": "",
+            "link": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+            "snippet": "The CAN-SPAM Act, a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have you stop ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Spam or Scam: Differentiating Two Email Dangers",
+            "text": "",
+            "link": "https://vipre.com/blog/spam-scam-differentiating-email-dangers/?srsltid=AfmBOoqe_mGUoSYjGZQtZnmqaZIjg3CzAzTydq94McZyF24A-NLRMKBN",
+            "snippet": "The important thing about spam, and where it differs from a scam email, is that it is not malicious, just unwanted.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Report as Spam? A New Wave of California Anti-Spam Class Actions ...",
+            "text": "",
+            "link": "https://www.crowell.com/en/insights/client-alerts/report-as-spam-a-new-wave-of-california-anti-spam-class-actions-raises-significant-risks-for-email-marketers",
+            "snippet": "Strict Liability Risks: Plaintiffs argue companies can be held liable for unlawful emails\u2014even without intent or direct involvement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Recent Class Actions Under State Anti-Spam Laws Target Retail Email ...",
+            "text": "",
+            "link": "https://www.insideclassactions.com/2025/12/03/recent-class-actions-under-state-anti-spam-laws-target-retail-email-marketing-practices-and-raise-questions-about-can-spam-act-preemption/",
+            "snippet": "The federal CAN-SPAM Act prohibits sending commercial email messages with deceptive subject headings, or with materially false or misleading ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "\u201cSpam\u201d: An Overview of Issues Concerning Commercial Electronic ...",
+            "text": "",
+            "link": "https://www.everycrsreport.com/reports/RL31953.html",
+            "snippet": "Not only can spam be a nuisance, consumers are most irritated by fraudulent email, consumers actually may receive more, not fewer, UCE messages.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Prevention and mitigation measures against phishing emails",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8478002/",
+            "snippet": "by YE Suzuki \u00b7 2021 \u00b7 Cited by 35 \u2014 all email filters have a certain false-negative rate that results in some malicious messages being classified as legitimate.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "What is a Spam Filter & Spam Filtering?",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/spam-filters",
+            "snippet": "Spam filters are designed to identify incoming dangerous emails from attackers or marketers. Attackers often use emails that claim to offer a beneficial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What is email filtering: Software and services to prevent spam",
+            "text": "",
+            "link": "https://www.valimail.com/blog/email-filtering/",
+            "snippet": "Why email spam filtering is important \u00b7 Security: Spam filtering is a critical defense against phishing attempts, malware, and other email-borne threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A system is designed to analyze email content and filter out unwanted messages, aiming to protect users from spam and unwanted communications. It uses algorithms to identify and block suspicious emails based on various criteria, with the goal of providing a secure and reliable email experience. The system's primary objective is to distinguish between legitimate and spam emails, ensuring that users receive only relevant and safe messages.",
+        "elapsed_time": 164.33329749997938
+    }
+}

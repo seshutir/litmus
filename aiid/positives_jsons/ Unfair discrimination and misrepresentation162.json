@@ -1,0 +1,423 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An image upscaling system utilizes advanced algorithms to enhance and refine image quality, generating highly detailed and realistic facial features. The system aims to learn patterns and characteristics from a wide range of images, producing upscaled versions that accurately represent the original. It seeks to improve image clarity and resolution while maintaining the integrity of the source image.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An image upscaling system utilizes advanced algorithms to enhance and refine image quality, generating highly detailed and realistic facial features. The system aims to learn patterns and characteristics from a wide range of images, producing upscaled versions that accurately represent the original. It seeks to improve image clarity and resolution while maintaining the integrity of the source image.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with an image upscaling system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with utilizing advanced algorithms to enhance and refine image quality in an image upscaling system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with generating highly detailed and realistic facial features using an image upscaling system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with an image upscaling system learning patterns and characteristics from a wide range of images",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with producing upscaled versions of images that accurately represent the original",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias in AI-generated image systems - AI Risk Analysis",
+            "text": "",
+            "link": "https://donets.org/risks/bias-in-ai-generated-image-systems",
+            "snippet": "Analysis of 'Bias in AI-generated image systems' - an AI risk in Discrimination and toxicity identified through peer-reviewed research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Biases in AI are a disturbing reflection of our humanity - Medium",
+            "text": "",
+            "link": "https://medium.com/@philippe-buschini/biases-in-ai-are-a-disturbing-reflection-of-our-humanity-351b9d54d533",
+            "snippet": "These biases can have very real \u2014 and sometimes harmful \u2014 consequences for people affected by algorithmic decisions. The Gender Shades project ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Incident 165: Image Upscaling Algorithm PULSE Allegedly ...",
+            "text": "",
+            "link": "https://incidentdatabase.ai/cite/165/",
+            "snippet": "A new computer vision technique that helps convert blurry photos of people into fake, realistic images has come under fire for being racially biased towards ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Risks of Bias and Errors in Artificial Intelligence - RAND",
+            "text": "",
+            "link": "https://www.rand.org/pubs/research_reports/RR1744.html",
+            "snippet": "This report illustrates some of the shortcomings of algorithmic decisionmaking, identifies key themes around the problem of algorithmic errors and bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1686452/full",
+            "snippet": "Selection and measurement bias arise when marginalized groups are systematically omitted or mislabeled during data collection; such bias has ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Rendering misrepresentation: Diversity failures in AI image generation",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "AI image generators tend to either reproduce stereotypes with a lack of diversity in their outputs or overcorrect.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias in artificial intelligence for medical imaging - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880872/",
+            "snippet": "In medical imaging, this bias can manifest when an algorithm designed for segmentation tasks is utilized by human operators, whether intentionally or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Is it unethical to use A.I. to upscale images to a higher resolution?",
+            "text": "",
+            "link": "https://www.reddit.com/r/NoStupidQuestions/comments/1kykaqj/is_it_unethical_to_use_ai_to_upscale_images_to_a/",
+            "snippet": "In this case, the action you're taking isn't unethical, but using an AI tool to do it may be problematic if the tool was trained using images ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in algorithms - Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/en/publication/2022/bias-algorithm",
+            "snippet": "This report looks at the use of artificial intelligence in predictive policing and offensive speech detection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Biased Technology: The Automated Discrimination ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Facial recognition automates discrimination. The ACLU-MN is fighting to end law enforcement's use of facial recognition technology in Minnesota.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI-generated images of familiar faces are indistinguishable ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12521686/",
+            "snippet": "by RSS Kramer \u00b7 2025 \u00b7 Cited by 2 \u2014 Human users are now able to generate synthetic face images with artificial intelligence (AI) tools. Although indistinguishable from real ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Humans Are Biased. Generative AI Is Even Worse",
+            "text": "",
+            "link": "https://www.bloomberg.com/graphics/2023-generative-ai-bias/",
+            "snippet": "Generative AI such as Stable Diffusion takes racial and gender stereotypes to extremes worse than those in the real world.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Rendering misrepresentation: Diversity failures in AI image ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/",
+            "snippet": "These images are laden with biases, reflecting stereotypes that successful people are white, male, young, dress in Western business attire, work ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Racial Discrimination in Face Recognition Technology",
+            "text": "",
+            "link": "https://sciencepolicy.hsites.harvard.edu/blog/racial-discrimination-face-recognition-technology",
+            "snippet": "Face recognition empowers a law enforcement system with a long history of racist and anti-activist surveillance and can widen pre-existing inequalities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "What is Bias in AI? Challenges, Prevention, & Examples - Snyk",
+            "text": "",
+            "link": "https://snyk.io/articles/what-is-bias-in-ai-challenges-prevention-and-examples/",
+            "snippet": "Predictive systems that flag people based on discriminatory policing patterns. Cognitive bias. Humans are involved in every step of the AI lifecycle, from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Risk of generative image models producing harmful - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/risk-of-generative-image-models-producing-harmful-stereotypes-and-cultural-misrepresentations-due-to-biased-training-data",
+            "snippet": "Discrimination and toxicity. Subdomain. Unfair discrimination and misrepresentation. Entity, Individual, Organization, Entity classification ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "widespread, unexpected, and uninterpretable biases in generative ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00146-025-02533-1",
+            "snippet": "As a result, our analysis draws from existing theories on stereotypes and discrimination to understand the harm of GBs qua misrepresentation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Datasets, Bias, Discrimination - Artificial Intelligence for Image ...",
+            "text": "",
+            "link": "https://guides.library.utoronto.ca/c.php?g=735513&p=5297043",
+            "snippet": "Bias and Discrimination ... When using AI-generated images, it's important to take note of gaps in training datasets that can lead to inaccurate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Understanding Bias in Generative AI: Types, Causes & Consequences",
+            "text": "",
+            "link": "https://www.mend.io/blog/understanding-bias-in-generative-ai/",
+            "snippet": "Discrimination. Discriminatory outcomes from generative AI systems arise when certain groups are consistently disadvantaged in the outputs, such ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Evaluation of Generative Artificial Intelligence Safeguards Against ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945730/",
+            "snippet": "This cross-sectional study evaluates the safeguards of 10 leading text-to-image AI applications by using a standardized set of health-related ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Seeing is no longer believing: Artificial Intelligence's impact on ...",
+            "text": "",
+            "link": "https://jsk.stanford.edu/news/seeing-no-longer-believing-artificial-intelligences-impact-photojournalism",
+            "snippet": "I'm going to be studying the impacts of AI-generated images on photojournalism and what can be done to build public trust in news photos.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "16 Real AI Bias Examples & Mitigation Guide - Crescendo.ai",
+            "text": "",
+            "link": "https://www.crescendo.ai/blog/ai-bias-examples-mitigation-guide",
+            "snippet": "AI bias refers to systematic and unfair discrimination in the outputs of an artificial intelligence system due to biased data, algorithms, or assumptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "These fake images reveal how AI amplifies our worst stereotypes",
+            "text": "",
+            "link": "https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/",
+            "snippet": "AI image generators like Stable Diffusion and DALL-E amplify bias in gender and race, despite efforts to detoxify the data fueling these results.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A Taxonomy of the Biases of the Images created by Generative ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.01556v1",
+            "snippet": "An analysis on beauty stereotypes and discrimination [19] highlights how social structures and the media perpetuate aesthetic norms, which encourages exclusion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithmic Bias: The Hidden Risk in Your AI Strategy - EWSolutions",
+            "text": "",
+            "link": "https://www.ewsolutions.com/algorithmic-bias-the-hidden-risk/",
+            "snippet": "The reality is harder to stomach: when you train algorithms on historical data that reflects decades of discrimination, you don't eliminate bias ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Visual Representations in AI: A Study on the Most Discriminatory ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2673-5172/6/3/110",
+            "snippet": "This study analyses algorithmic biases in AI-generated images, focusing on aesthetic violence, gender stereotypes, and weight discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Technical solutions to tackle AI bias - HedgeDoc - Monadical",
+            "text": "",
+            "link": "https://monadical.com/posts/algorithm-bias.html",
+            "snippet": "Partly, latent discrimination crops up because the algorithms are designed to optimize for the best result \u2013 the most accurate predictions based ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Good life | English homework help - SweetStudy",
+            "text": "",
+            "link": "https://www.sweetstudy.com/files/raceaftertechnology-abolitionisttoolsforthenewjimcode-ruhabenjamin-pdf-9271913",
+            "snippet": "Here I propose four dimensions to the New Jim Code: engineered inequity, default discrimination, coded exposure, and technological benevolence; and I will ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 28,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An image upscaling system utilizes advanced algorithms to enhance and refine image quality, generating highly detailed and realistic facial features. The system aims to learn patterns and characteristics from a wide range of images, producing upscaled versions that accurately represent the original. It seeks to improve image clarity and resolution while maintaining the integrity of the source image.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An image upscaling system utilizes advanced algorithms to enhance and refine image quality, generating highly detailed and realistic facial features. The system aims to learn patterns and characteristics from a wide range of images, producing upscaled versions that accurately represent the original. It seeks to improve image clarity and resolution while maintaining the integrity of the source image.",
+        "elapsed_time": 61.689959957999235
+    }
+}

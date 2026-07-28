@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An AI system is designed to understand and interpret natural language, with the goal of making informed decisions based on the context and meaning of the input. It aims to improve its performance by learning from various challenges and datasets, increasing its ability to reason and comprehend complex information. The system seeks to achieve a deeper understanding of language and its nuances, enabling it to make more accurate and informed decisions.",
+    "output": " Lack of capability or robustness is a not a risk associated with An AI system is designed to understand and interpret natural language, with the goal of making informed decisions based on the context and meaning of the input. It aims to improve its performance by learning from various challenges and datasets, increasing its ability to reason and comprehend complex information. The system seeks to achieve a deeper understanding of language and its nuances, enabling it to make more accurate and informed decisions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an AI system's natural language understanding",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with an AI system making informed decisions based on the context and meaning of the input",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "In simple terms, robustness refers to an AI system's reliability, especially in unfamiliar or challenging situations. Currently, most AI systems are far from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Adversarial natural language processing: overview ...",
+            "text": "",
+            "link": "https://www.cambridge.org/core/journals/data-and-policy/article/adversarial-natural-language-processing-overview-challenges-and-policy-implications/A79BE0247197C4B134BF9A91B92CEE43",
+            "snippet": "by L Shaw \u00b7 2025 \u00b7 Cited by 4 \u2014 The consequences of adversarial attacks on NLP systems can be severe and range from security and privacy risks to reduced reliability. They ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Robustness (AI): How Well an AI System Maintains ...",
+            "text": "",
+            "link": "https://www.sandgarden.com/learn/robustness",
+            "snippet": "For natural language processing, robustness means handling different writing styles, dialects, misspellings, and ambiguous phrasing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Robustness",
+            "text": "",
+            "link": "https://deepgram.com/ai-glossary/ai-robustness",
+            "snippet": "At its core, AI robustness refers to the ability of AI systems to maintain optimal performance and reliability under a wide range of conditions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Towards trustworthy artificial intelligence for decision ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0166361525001745",
+            "snippet": "by E Miedema \u00b7 2026 \u00b7 Cited by 26 \u2014 Assessing how AI can complement human decision-making depends on the decision context and the capabilities of the human and the AI system. Understanding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 AI methods are famously known to have limited capacity to provide the reasoning principles behind a decision, mainly due to the fact that the logic is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI Trustworthiness in Manufacturing: Challenges, Toolkits, and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12298069/",
+            "snippet": "by MN Ahangar \u00b7 2025 \u00b7 Cited by 50 \u2014 Robustness signifies the resilience of AI systems to errors, adversarial attacks, and changing operational conditions, ensuring reliable performance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf",
+            "snippet": "by N AI \u00b7 2023 \u00b7 Cited by 286 \u2014 AI systems and the contexts in which they are deployed are frequently complex, making it difficult to detect and respond to failures when they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI Safety and Robustness: Building Resilient, Reliable AI ...",
+            "text": "",
+            "link": "https://agility-at-scale.com/ai/governance/safety-and-robustness/",
+            "snippet": "Robustness is the ability of an AI model to maintain reliable performance when conditions shift \u2014 whether those shifts come from new data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI revolutionizing industries worldwide: A comprehensive ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2773207X24001386",
+            "snippet": "by AB Rashid \u00b7 2024 \u00b7 Cited by 1070 \u2014 This comprehensive review paper aims to provide readers with a deep understanding of AI's applications & implementations, workings, and potential impacts",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf",
+            "snippet": "by N AI \u00b7 2023 \u00b7 Cited by 286 \u2014 AI systems are inherently socio-technical in nature, meaning they are influenced by societal dynamics and human behavior. AI risks \u2013 and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Enhancing interpretability and accuracy of AI models in ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11638409/",
+            "snippet": "by M Ennab \u00b7 2024 \u00b7 Cited by 251 \u2014 Interpretability in AI refers to the degree to which a human can understand and trust the decisions made by AI systems. In the context of healthcare, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI Agents: Evolution, Architecture, and Real-World ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2503.12687v1",
+            "snippet": "The concept of an AI agent refers to a system or program that is capable of autonomously performing tasks on behalf of a user or another system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "International AI Safety Report 2026",
+            "text": "",
+            "link": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+            "snippet": "This Report focuses on the most capable general-purpose AI systems and the emerging risks associated with them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An AI system is designed to understand and interpret natural language, with the goal of making informed decisions based on the context and meaning of the input. It aims to improve its performance by learning from various challenges and datasets, increasing its ability to reason and comprehend complex information. The system seeks to achieve a deeper understanding of language and its nuances, enabling it to make more accurate and informed decisions.",
+        "response": " Lack of capability or robustness is a not a risk associated with An AI system is designed to understand and interpret natural language, with the goal of making informed decisions based on the context and meaning of the input. It aims to improve its performance by learning from various challenges and datasets, increasing its ability to reason and comprehend complex information. The system seeks to achieve a deeper understanding of language and its nuances, enabling it to make more accurate and informed decisions.",
+        "elapsed_time": 77.93711029103724
+    }
+}

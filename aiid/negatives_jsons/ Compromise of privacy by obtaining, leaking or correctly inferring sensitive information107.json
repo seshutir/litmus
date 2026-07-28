@@ -1,0 +1,426 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A facial recognition system is designed to search for matching images across online platforms, utilizing artificial intelligence to identify similar facial features. The system aims to provide accurate results by analyzing various facial attributes and comparing them to existing images. This technology is intended to facilitate image searches and provide relevant results.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A facial recognition system is designed to search for matching images across online platforms, utilizing artificial intelligence to identify similar facial features. The system aims to provide accurate results by analyzing various facial attributes and comparing them to existing images. This technology is intended to facilitate image searches and provide relevant results.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in a facial recognition system searching for matching images across online platforms",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Compromise of privacy is a risk in utilizing artificial intelligence to identify similar facial features in a facial recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Compromise of privacy is a risk in analyzing various facial attributes in a facial recognition system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Compromise of privacy is a risk in comparing facial attributes to existing images in a facial recognition system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Compromise of privacy is a risk in facilitating image searches using a facial recognition system",
+            "contexts": []
+        },
+        {
+            "id": "a6",
+            "text": "Compromise of privacy is a risk in providing relevant results from a facial recognition system",
+            "contexts": [
+                "c_a6_1",
+                "c_a6_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Facial Recognition and Data Privacy: Striking the Right Balance",
+            "text": "",
+            "link": "https://www.oloid.com/blog/facial-recognition-and-data-privacy-striking-the-right-balance",
+            "snippet": "Facial recognition technology raises several privacy risks. One major concern is mass surveillance. These systems can track people in public without their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Facial Recognition and Privacy: Concerns and Solutions in the Age of AI",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/facial-recognition-and-privacy-concerns-and-solutions-in-the-age-of-ai",
+            "snippet": "If breached, it can lead to identity theft, stalking or harassment. Compounding this risk is the fact that facial data is often not encrypted, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Facial privacy in the digital era: A comprehensive survey on methods ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "by M Wang \u00b7 2025 \u00b7 Cited by 14 \u2014 As sensitive biometric data, once facial information is leaked, it may cause irreversible damage to personal privacy like names, contact information, and home ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face recognition ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 118 \u2014 The collection and use of biometric data without adequate safeguards or consent can infringe on individuals' right to control their personal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What are the privacy risks of AI facial recognition?",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-privacy-risks-of-AI-facial-recognition",
+            "snippet": "Yes, facial recognition is a violation of the right to privacy if the technology is misused or intended for ill practices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "7 Biggest Privacy Concerns Around Facial Recognition Technology",
+            "text": "",
+            "link": "https://www.liberties.eu/en/stories/facial-recognition-privacy-concerns/44518",
+            "snippet": "1. Improper data storage. Facial images are extremely easy to collect because you can be filmed by cameras in public places.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Navigating data governance risks: Facial recognition in law ...",
+            "text": "",
+            "link": "https://policyreview.info/articles/analysis/data-governance-risks-facial-recognition",
+            "snippet": "by G G\u00fcltekin-V\u00e1rkonyi \u00b7 2024 \u00b7 Cited by 23 \u2014 This paper uncovers the risks inherent in facial recognition within law enforcement, exploring multidimensional aspects affecting data protection vs public ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Privacy Implications of Using Facial Recognition Systems",
+            "text": "",
+            "link": "https://identitymanagementinstitute.org/privacy-implications-of-using-facial-recognition-systems/",
+            "snippet": "What Are the Privacy Risks? ... Taking someone's picture without his or her consent and posting it online is considered an invasion of privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Is Pimeyes facial recognition tool a privacy risk?",
+            "text": "",
+            "link": "https://www.facebook.com/groups/199425413546716/posts/2928829903939573/",
+            "snippet": "Critics argue that tools like PimEyes risk becoming a stalker's dream, allowing strangers to track down your photos without your consent.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Automated Facial Recognition in the Public and Private Sectors",
+            "text": "",
+            "link": "https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2013/fr_201303/",
+            "snippet": "Another privacy concern is the potential for cross-matching, whereby a face print collected for one purpose would be used without a person's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Facial Recognition and Privacy: Concerns and Solutions in ...",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/facial-recognition-and-privacy-concerns-and-solutions-in-the-age-of-ai",
+            "snippet": "Facial recognition technology raises substantial ethical, legal, and privacy issues, particularly in the era of artificial intelligence, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Advances in Facial Recognition Technology Have ...",
+            "text": "",
+            "link": "https://www.nationalacademies.org/news/advances-in-facial-recognition-technology-have-outpaced-laws-regulations-new-report-recommends-federal-government-take-action-on-privacy-equity-and-civil-liberties-concerns",
+            "snippet": "\u201cFacial recognition technology has the potential to impact civil liberties, human rights, and privacy in meaningful ways, because it changes the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Facial privacy in the digital era: A comprehensive survey ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "by M Wang \u00b7 2025 \u00b7 Cited by 14 \u2014 The misuse of facial recognition data can facilitate identity theft and fraudulent activities. It may even be harnessed for illicit surveillance and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Facial privacy in the digital era: A comprehensive survey on methods ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "by M Wang \u00b7 2025 \u00b7 Cited by 14 \u2014 Privacy mining methods typically exploit the characteristics of face recognition systems to analyze facial data and extract sensitive information, thereby",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Toward a Privacy-Preserving Face Recognition System: A Survey of ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3673224",
+            "snippet": "by L Laishram \u00b7 2025 \u00b7 Cited by 100 \u2014 Face deidentification techniques preserve the anonymity of individuals and protect their privacy while still being able to utilize facial attributes for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "What are the biggest privacy concerns with facial recognition systems?",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-biggest-privacy-concerns-with-facial-recognition-systems",
+            "snippet": "What are the biggest privacy concerns with facial recognition systems?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "A Survey on Facial Image Privacy Preservation in Cloud- ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2501.08665v1",
+            "snippet": "The extensive collection of facial images in cloud environments facilitates identity recognition but also introduces significant privacy risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Facial privacy in the digital era: A comprehensive survey ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "by M Wang \u00b7 2025 \u00b7 Cited by 14 \u2014 As sensitive biometric data, once facial information is leaked, it may cause irreversible damage to personal privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Ensuring privacy in face recognition: a survey on data ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s42452-025-06987-2",
+            "snippet": "by Z Sun \u00b7 2025 \u00b7 Cited by 13 \u2014 This paper provides a survey of privacy-preserving techniques across the three critical stages of facial recognition: data generation, model inference, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_1",
+            "title": "Advances in Facial Recognition Technology Have Outpaced Laws ...",
+            "text": "",
+            "link": "https://www.nationalacademies.org/news/advances-in-facial-recognition-technology-have-outpaced-laws-regulations-new-report-recommends-federal-government-take-action-on-privacy-equity-and-civil-liberties-concerns",
+            "snippet": "It also notes that facial recognition technology can interfere with and substantially affect the values embodied in U.S. privacy, civil ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a6_3",
+            "title": "Beyond surveillance: privacy, ethics, and regulations in face recognition ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256005/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 118 \u2014 However, as our case studies illustrate, the deployment of FRT can also lead to serious violations of privacy, consent, and non-discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Privacy Implications of Using Facial Recognition Systems",
+            "text": "",
+            "link": "https://identitymanagementinstitute.org/privacy-implications-of-using-facial-recognition-systems/",
+            "snippet": "A facial recognition system captures a picture of a person's face, analyzes the person's profile, and uses algorithms to match it top privacy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Facial recognition technology: regulations, rights and the rule of law",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11183273/",
+            "snippet": "by M Qandeel \u00b7 2024 \u00b7 Cited by 27 \u2014 This article contributes to the legal discussion by investigating how the law must intervene, control, and regulate the use of unacceptable risk AI systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Science Really Says About Facial Recognition Accuracy and ...",
+            "text": "",
+            "link": "https://www.securityindustry.org/2022/07/23/what-science-really-says-about-facial-recognition-accuracy-and-bias-concerns/",
+            "snippet": "In many cases, the sole justification offered is the claim that this face matching technology is generally inaccurate, and particularly so with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a6": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 7,
+        "num_contexts": 24,
+        "num_true_atoms": 7,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 6.999996500200124e-06,
+        "norm_entropy": 0.00014961984022606966,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S",
+            "a6": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 7,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null,
+            "a6": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A facial recognition system is designed to search for matching images across online platforms, utilizing artificial intelligence to identify similar facial features. The system aims to provide accurate results by analyzing various facial attributes and comparing them to existing images. This technology is intended to facilitate image searches and provide relevant results.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A facial recognition system is designed to search for matching images across online platforms, utilizing artificial intelligence to identify similar facial features. The system aims to provide accurate results by analyzing various facial attributes and comparing them to existing images. This technology is intended to facilitate image searches and provide relevant results.",
+        "elapsed_time": 77.91497600002913
+    }
+}

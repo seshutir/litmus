@@ -1,0 +1,220 @@
+{
+    "input": " Overreliance and unsafe use is a not a risk associated with A driver monitoring system utilizes AI to track and analyze driver behavior, aiming to improve safety and efficiency on the road. The system is designed to provide real-time feedback and guidance to drivers, promoting responsible driving practices. Its primary goal is to enhance overall road safety by identifying and mitigating risky driving habits.",
+    "output": " Overreliance and unsafe use is a not a risk associated with A driver monitoring system utilizes AI to track and analyze driver behavior, aiming to improve safety and efficiency on the road. The system is designed to provide real-time feedback and guidance to drivers, promoting responsible driving practices. Its primary goal is to enhance overall road safety by identifying and mitigating risky driving habits.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is not a risk associated with a driver monitoring system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is not a risk associated with tracking and analyzing driver behavior using a driver monitoring system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Evaluation of an in-vehicle monitoring system (IVMS) to ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5427714/",
+            "snippet": "by JL Bell \u00b7 2016 \u00b7 Cited by 100 \u2014 The objective of this research was to evaluate whether two types of feedback from a commercially available in-vehicle monitoring system (IVMS) would reduce the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Dealing with Overly Sensitive Driver Monitoring Systems in ...",
+            "text": "",
+            "link": "https://www.facebook.com/groups/1439208566149446/posts/25549277524715880/",
+            "snippet": "Driver monitoring systems can catch when motorists engage in unsafe behaviors. Are they standard on vehicles yet? Would This Still Happen With A ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Presenting the Mobileye Driver Monitoring System\u2122 ...",
+            "text": "",
+            "link": "https://www.mobileye.com/blog/presenting-the-mobileye-driver-monitoring-system-fusing-road-safety-inside-the-cabin/",
+            "snippet": "If the driver did not notice the risk the system can trigger timely alerts, helping prevent accidents before they occur.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Hot Take: Driver Monitoring = Safety Risk : r/Comma_ai",
+            "text": "",
+            "link": "https://www.reddit.com/r/Comma_ai/comments/1tuzgph/hot_take_driver_monitoring_safety_risk/",
+            "snippet": "So there the driver monitor is keeping not only would-be distracted drivers safer, but also the general public safer, and it no doubt shields ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Understanding drivers' perspectives on the use of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1369847824001840",
+            "snippet": "by R Coyne \u00b7 2024 \u00b7 Cited by 25 \u2014 Perceived reliability, security and privacy are concerns held about monitoring. \u2022. Drivers are sceptical of the value of both driver monitoring and automated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Investigating the impact of driving automation systems on distracted ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0001457521001834",
+            "snippet": "by NJ Dunn \u00b7 2021 \u00b7 Cited by 69 \u2014 Long-term use of driving automation systems may result in overreliance and driver disengagement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Driver Behavior Monitoring: Systems + Implementation Guide",
+            "text": "",
+            "link": "https://www.geotab.com/blog/driver-behavior-monitoring/",
+            "snippet": "Monitoring driver behavior gives you the real-time data you need to improve driver behavior, enhance fleet safety, reduce risks and boost ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Driver Behavior Monitoring 2026: Reduce Fleet Accidents by 85%",
+            "text": "",
+            "link": "https://www.intangles.ai/blog/what-is-driver-behavior-monitoring-and-why-it-matters-for-fleet-safety-in-2026/",
+            "snippet": "Unlike traditional tracking (location, distance, trip duration), behavioral telematics explains why risk is rising, not just that an event happened.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Best Driver Behavior Monitoring Systems To Detect Risky Driving",
+            "text": "",
+            "link": "https://www.embarksafety.com/blog/best-driver-behavior-monitoring-systems-to-detect-risky-driving/",
+            "snippet": "These tools provide real-time visibility into driver actions, enabling fleet managers to catch risky habits early, prevent accidents, and save lives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI-Based Driver Behavior Monitoring System for Transit",
+            "text": "",
+            "link": "https://www.safefleet.net/ai-based-driver-behavior-monitoring-system-for-transit/",
+            "snippet": "Detect distracted driving, coach safer habits, and reduce collisions with AI\u2011based driver behavior monitoring designed for transit fleets.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI-Driven Vehicle Safety Tech Targeting 2027 Could ...",
+            "text": "",
+            "link": "https://www.facebook.com/avcnews/posts/ai-driven-vehicle-safety-tech-targeting-2027-could-prevent-impaired-driving/1516039003693982/",
+            "snippet": "These systems utilize AI algorithms to analyze real-time data from sensors, cameras, and radar to detect potential hazards and intervene as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "ai-for-safety-enhancing-driver-performance-and-reducing- ...",
+            "text": "",
+            "link": "https://urfpublishers.com/journal/artificial-intelligence/article/view/ai-for-safety-enhancing-driver-performance-and-reducing-accidents-with-intelligent-systems",
+            "snippet": "by B Vashisht \u00b7 2024 \u00b7 Cited by 1 \u2014 AI systems analyze driver behavior by monitoring factors such as speed, braking patterns and steering inputs. By identifying risky behaviors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Safety or Surveillance: Vicarious Liability and Driver ...",
+            "text": "",
+            "link": "https://onlabor.org/safety-or-surveillance-vicarious-liability-and-driver-monitoring/",
+            "snippet": "Apps track hard breaking, backup distance, time spent at stop signs. AI calls out reminders to maintain safe distances. But often safety is a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What Is a Driver-Monitoring System? (DMS)",
+            "text": "",
+            "link": "https://www.korewireless.com/blog/driver-monitoring-system/",
+            "snippet": "The driver monitoring system (DMS), known as driver attention monitor, detects driver's behaviors for better road safety & mobility experiences\u2026",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 2,
+        "entropy": 0.6931471805599453,
+        "norm_entropy": 2.0,
+        "avg_entropy": 0.34657359027997264,
+        "avg_norm_entropy": 1.0,
+        "avg_prob": 0.5,
+        "avg_logprob": -0.6931471805599453,
+        "avg_explogprob": 0.5,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.25,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a not a risk associated with A driver monitoring system utilizes AI to track and analyze driver behavior, aiming to improve safety and efficiency on the road. The system is designed to provide real-time feedback and guidance to drivers, promoting responsible driving practices. Its primary goal is to enhance overall road safety by identifying and mitigating risky driving habits.",
+        "response": " Overreliance and unsafe use is a not a risk associated with A driver monitoring system utilizes AI to track and analyze driver behavior, aiming to improve safety and efficiency on the road. The system is designed to provide real-time feedback and guidance to drivers, promoting responsible driving practices. Its primary goal is to enhance overall road safety by identifying and mitigating risky driving habits.",
+        "elapsed_time": 34.43917966703884
+    }
+}

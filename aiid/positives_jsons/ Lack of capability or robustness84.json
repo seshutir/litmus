@@ -1,0 +1,385 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+    "output": " Lack of capability or robustness is a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a text generation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in generating text based on given prompts",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in simulating human writing styles with a text generation system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in assisting with content creation using a text generation system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is a risk in providing helpful and informative text to users of a text generation system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "LLM Limitations, Risks, Challenges and Future - Master of Code",
+            "text": "",
+            "link": "https://masterofcode.com/blog/generative-ai-limitations-risks-and-future-directions-of-llms",
+            "snippet": "Generative AI and LLM-based Apps Limitation #3: Multimodal Capabilities. LLMs integration services primarily rely on text-based interactions and lack robust ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Generative AI's crippling and widespread failure to induce robust ...",
+            "text": "",
+            "link": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread",
+            "snippet": "The lack of stable, robust world models matters enormously not just for business, and legal writing, agents, math, everyday understanding, video ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Ethical concerns of generative AI and mitigation strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1568494626002371",
+            "snippet": "The theme \u201cMisinformation Risk Issues\u201c identifies the ethical concerns related to AI systems generating and disseminating false or misleading information, which ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Limitations of AI text generators include accuracy and creativity",
+            "text": "",
+            "link": "https://www.facebook.com/groups/703007927897194/posts/787830222748297/",
+            "snippet": "One of the major limitations is that AI- generated text can lack human creativity and emotions, which can make it appear robotic and lacking in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How Reliable Are AI-Generated-Text Detectors? An Assessment ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2310.05095v1",
+            "snippet": "In our study, we ask how reliable these detectors are. We answer the question by designing a novel approach that can prompt any PLM to generate text that evades ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Limitations and risks - Generative Artificial Intelligence and ...",
+            "text": "",
+            "link": "https://libguides.reading.ac.uk/generative-AI-and-university-study/limitations",
+            "snippet": "In some cases, the prompt is not followed to the letter or different outputs for the same prompt may diverge significantly from one another.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The limitations of AI-generated text - JHU Hub",
+            "text": "",
+            "link": "https://hub.jhu.edu/2021/11/22/limitations-of-artificial-intelligence-generated-text/",
+            "snippet": "Capabilities of autoregressive AI models will always be limited by their inability to reason like humans, says PhD candidate Chu-Cheng Lin.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Testing Prompt Robustness Against User Variations - testRigor",
+            "text": "",
+            "link": "https://testrigor.com/blog/testing-prompt-robustness-against-user-variations/",
+            "snippet": "Prompt robustness is about testing the extent to which an AI system can correctly interpret different variants of user prompts. While ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Prompting Considered Harmful - Communications of the ACM",
+            "text": "",
+            "link": "https://cacm.acm.org/opinion/prompting-considered-harmful/",
+            "snippet": "It is my professional opinion that prompting is a poor user interface for generative AI systems, which should be phased out as quickly as possible.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "LLMs Still Struggle to Imitate the Implicit Writing Styles of Everyday ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.14543v1",
+            "snippet": "Personal style is often subtle and implicit, making it difficult to specify through prompts yet essential for user-aligned generation. This work ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Do humans identify AI-generated text better than machines ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1477388025000131",
+            "snippet": "We investigate whether human experts can identify AI-generated academic texts more accurately than current machine-based detectors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The limitations of AI-generated text - Department of Computer Science",
+            "text": "",
+            "link": "https://www.cs.jhu.edu/news/the-limitations-of-ai-generated-text/",
+            "snippet": "\u201cBut when we train these [AI] models by having them mimic human writing, the models do not observe the multiple rewritings that happened before ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Here's Why AI Can't Mimic Your Style of Writing | by Oscar Leo",
+            "text": "",
+            "link": "https://medium.com/@oscarleo/why-ai-sucks-at-mimicking-your-style-of-writing-781c331c60c5",
+            "snippet": "We've seen why large language models like ChatGPT struggle to mimic the style of individual writers. LLMs rely on statistical patterns to make predictions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Strengths and weaknesses of Gen AI - University of Leeds",
+            "text": "",
+            "link": "https://generative-ai.leeds.ac.uk/intro-gen-ai/strengths-and-weaknesses/",
+            "snippet": "Gen AI can process and interpret human language in a conversational style, which allows it to generate contextually relevant responses to user prompts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Pros and Cons of AI-Generated Content - TechTarget",
+            "text": "",
+            "link": "https://www.techtarget.com/whatis/feature/Pros-and-cons-of-AI-generated-content",
+            "snippet": "Learn more about the pros and cons of AI-generated content and when it is best to use a human or machine to create the content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Ethical concerns of generative AI and mitigation strategies",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1568494626002371",
+            "snippet": "LLMs are capable of generating text, images, and music that mimic human creativity based on prompts provided by humans [3], [4]. This capability is powered by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Risks of AI-Generated Content and How To Address Them",
+            "text": "",
+            "link": "https://www.upwork.com/resources/ai-generated-content-risks",
+            "snippet": "Learn the risks of AI-generated content and how to mitigate them, from misinformation to SEO issues, transparency concerns, and cybersecurity threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Can we trust academic AI detective? Accuracy and limitations of AI ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12331776/",
+            "snippet": "This study evaluates the reliability and accuracy of AI-generated text detection tools in distinguishing human-authored academic content ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "When helpfulness backfires: LLMs and the risk of false medical ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-025-02008-z",
+            "snippet": "We found that LLMs prioritize learned helpfulness over inherent logical reasoning in our datasets, leading them to generate false information ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "A Survey on LLM-Generated Text Detection: Necessity, Methods ...",
+            "text": "",
+            "link": "https://direct.mit.edu/coli/article/51/1/275/127462/A-Survey-on-LLM-Generated-Text-Detection-Necessity",
+            "snippet": "LLM-generated text detection, conceptualized as a binary classification task, seeks to determine whether an LLM produced a given text.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Is Human-Like Text Liked by Humans? Multilingual Human ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.11614v1",
+            "snippet": "Our extensive case study shows that expert annotators achieve detection accuracy of 87.6% on average over similar-to \\sim 9K examples.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Ability of AI detection tools and humans to accurately identify ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12752165/",
+            "snippet": "AI Written text from human content \u2013 this condition was intended to mimic the use of ChatGPT4o to write text based upon ideas and content provided by authors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "New study reveals that AI cannot fully write like a human - Tech Xplore",
+            "text": "",
+            "link": "https://techxplore.com/news/2025-12-reveals-ai-fully-human.html",
+            "snippet": "A world's first study shows that AI-generated writing continues to display distinct stylistic patterns that set it apart from human prose.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 24,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+        "response": " Lack of capability or robustness is a risk associated with A text generation system is designed to produce human-like written content, aiming to create coherent and engaging articles. It uses artificial intelligence to generate text based on given prompts, with the goal of simulating human writing styles. The system's purpose is to assist with content creation, providing helpful and informative text to users.",
+        "elapsed_time": 53.56599320799978
+    }
+}

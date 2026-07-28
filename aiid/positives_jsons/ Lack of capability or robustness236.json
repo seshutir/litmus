@@ -1,0 +1,303 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An AI-powered coding assistant is designed to help users generate source code, streamlining the development process and improving productivity. It aims to provide accurate and relevant code suggestions, freeing users to focus on higher-level tasks. The system seeks to simplify the coding experience, making it easier for users to create and modify software applications.",
+    "output": " Lack of capability or robustness is a risk associated with An AI-powered coding assistant is designed to help users generate source code, streamlining the development process and improving productivity. It aims to provide accurate and relevant code suggestions, freeing users to focus on higher-level tasks. The system seeks to simplify the coding experience, making it easier for users to create and modify software applications.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in an AI-powered coding assistant is a risk in coding",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in generating source code with an AI-powered coding assistant",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in an AI-powered coding assistant is a risk in providing accurate and relevant code suggestions",
+            "contexts": [
+                "c_a2_2",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in simplifying the coding experience with an AI-powered coding assistant",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI Coding Assistants: 17 Risks (And How To Mitigate Them) - Forbes",
+            "text": "",
+            "link": "https://www.forbes.com/councils/forbestechcouncil/2025/03/21/ai-coding-assistants-17-risks-and-how-to-mitigate-them/",
+            "snippet": "While AI assistants such as Copilot have streamlined software development workflows, heavy reliance on them comes with potential risks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "4 Security Risks of AI Code Assistants - DevOps.com",
+            "text": "",
+            "link": "https://devops.com/4-security-risks-of-ai-code-assistants/",
+            "snippet": "AI coding assistants can introduce vulnerabilities. Learn key cybersecurity practices to safely use AI in software development.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Risks of Code Assistant LLMs: Harmful Content, Misuse and ...",
+            "text": "",
+            "link": "https://unit42.paloaltonetworks.com/code-assistant-llms/",
+            "snippet": "AI-driven coding assistants are also prone to potential security concerns that could impact development processes. The weaknesses we identified ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What are the biggest shortcomings of today's AI Coding Assistants?",
+            "text": "",
+            "link": "https://www.reddit.com/r/ClaudeAI/comments/1l0033b/what_are_the_biggest_shortcomings_of_todays_ai/",
+            "snippet": "Lacking runtime debugging abilities , limited debugging capabilities: This one is particularly annoying. Most coding agents can't debug code ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Hidden Security Risk in AI Coding Assistants - Medium",
+            "text": "",
+            "link": "https://medium.com/@anjalignair02/the-hidden-security-risk-in-ai-coding-assistants-af9c34400d80",
+            "snippet": "The problem is that when an AI coding assistant executes a malicious command, it looks like legitimate developer activity to your security ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The risks of generative AI coding in software development",
+            "text": "",
+            "link": "https://blog.secureflag.com/2024/10/16/the-risks-of-generative-ai-coding-in-software-development/",
+            "snippet": "One of the most noticeable risks with AI-generated code is the potential for introducing security vulnerabilities by generating code that lacks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI-Generated Code Security: Security Risks and Opportunities - Apiiro",
+            "text": "",
+            "link": "https://apiiro.com/blog/ai-generated-code-security/",
+            "snippet": "More than 40% of AI-generated code is vulnerable. And developers are committing it faster than security teams can keep up.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "5 GenAI coding assistant risks: Careful what you prompt for",
+            "text": "",
+            "link": "https://www.outsystems.com/blog/posts/generative-ai-coding-risks/",
+            "snippet": "When you use a generative AI coding assistant without guardrails, there are potential pitfalls that can affect the reliability, security, and ethics of your ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Code Quality and Security Risks of AI-Generated Code - DevOps.com",
+            "text": "",
+            "link": "https://devops.com/code-quality-and-security-risks-of-ai-generated-code/",
+            "snippet": "Without proper code review, AI-powered tools can introduce defects over time, thereby increasing technical debt. Security in AI-generated code ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Promise and Pitfalls of AI-Assisted Code Generation",
+            "text": "",
+            "link": "https://hammadulhaq.medium.com/the-promise-and-pitfalls-of-ai-assisted-code-generation-balancing-productivity-control-and-risk-80869176202f",
+            "snippet": "1. Loss of Explicit Control (Transparency and Accuracy) \u00b7 2. Increased Security and Privacy Risks \u00b7 3. Performance and Reliability Issues \u00b7 4.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Limitations of AI Coding Tools - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/ai-limitations-overview/limitations-of-ai-coding-tools/",
+            "snippet": "AI coding tools are designed to help automate parts of the software development process, but they face important limitations that can impact code quality, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Usage, Effects and Requirements for AI Coding Assistants in ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.20112v1",
+            "snippet": "The evolution of modern software engineering has consistently leaned toward automation so as to increase efficiency and reduce repetitive and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Limitations of AI Coding Tools - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/ai-limitations-overview/limitations-of-ai-coding-tools/",
+            "snippet": "These tools often rely on patterns from public data, which means their output can lack deeper understanding or context required for robust system design.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The Promise and Pitfalls of AI-Assisted Code Generation",
+            "text": "",
+            "link": "https://hammadulhaq.medium.com/the-promise-and-pitfalls-of-ai-assisted-code-generation-balancing-productivity-control-and-risk-80869176202f",
+            "snippet": "No direct codebase awareness (context manually pasted by developers) \u00b7 Limited context size, leading to fragmented assistance \u00b7 Lack of integrated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "6 limitations of AI code assistants and why developers should be ...",
+            "text": "",
+            "link": "https://allthingsopen.org/articles/ai-code-assistants-limitations",
+            "snippet": "AI coding assistants are designed to automate ordinary programming-related tasks such as code suggestion, completion, and creation of entire code blocks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Rise of AI-Powered Code Assistants: Benefits & Limitations",
+            "text": "",
+            "link": "https://coworker.ai/blog/ai-powered-code-assistants-pros-cons",
+            "snippet": "Key risks include the potential for security vulnerabilities, false confidence in AI-generated code, and the possibility of skills atrophy over ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Promise and Pitfalls of AI-Assisted Code Generation",
+            "text": "",
+            "link": "https://hammadulhaq.medium.com/the-promise-and-pitfalls-of-ai-assisted-code-generation-balancing-productivity-control-and-risk-80869176202f",
+            "snippet": "Improved autocomplete: AI understands your code structure, making accurate suggestions. Efficient troubleshooting: Quickly finds and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI-Assisted Coding: 7 Pros and Cons to Consider - Codacy | Blog",
+            "text": "",
+            "link": "https://blog.codacy.com/ai-assisted-coding-7-pros-and-cons-to-consider",
+            "snippet": "AI-assisted coding refers to using artificial intelligence to aid software developers in writing, reviewing, and, hopefully, improving their code.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 18,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An AI-powered coding assistant is designed to help users generate source code, streamlining the development process and improving productivity. It aims to provide accurate and relevant code suggestions, freeing users to focus on higher-level tasks. The system seeks to simplify the coding experience, making it easier for users to create and modify software applications.",
+        "response": " Lack of capability or robustness is a risk associated with An AI-powered coding assistant is designed to help users generate source code, streamlining the development process and improving productivity. It aims to provide accurate and relevant code suggestions, freeing users to focus on higher-level tasks. The system seeks to simplify the coding experience, making it easier for users to create and modify software applications.",
+        "elapsed_time": 50.25454091600113
+    }
+}

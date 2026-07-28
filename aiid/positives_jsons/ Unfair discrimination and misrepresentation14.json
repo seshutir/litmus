@@ -1,0 +1,393 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with An e-commerce platform utilizes a cataloging system to organize and manage product listings, ensuring accurate categorization and visibility for various items. The system aims to provide relevant search results and recommendations to users based on their interests and preferences. It also seeks to maintain a comprehensive and accessible product catalogue, allowing users to discover new titles and authors.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with An e-commerce platform utilizes a cataloging system to organize and manage product listings, ensuring accurate categorization and visibility for various items. The system aims to provide relevant search results and recommendations to users based on their interests and preferences. It also seeks to maintain a comprehensive and accessible product catalogue, allowing users to discover new titles and authors.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in an e-commerce platform",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in utilizing a cataloging system to organize and manage product listings on an e-commerce platform",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing relevant search results for the e-commerce platform's cataloging system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in generating recommendations to users based on their interests and preferences on the e-commerce platform",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_3"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in maintaining the e-commerce platform's comprehensive and accessible product catalogue",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Data Bias in AI E-commerce: Identifying Risks for Fairness | Keymakr",
+            "text": "",
+            "link": "https://keymakr.com/blog/data-bias-in-ai-e-commerce-identifying-and-mitigating-risks-for-fairness-2/",
+            "snippet": "Data bias in AI e-commerce can lead to unfair practices, discriminating against certain groups. Identify risks for ethical online shopping ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithmic Bias in E-commerce Platforms - Zenodo",
+            "text": "",
+            "link": "https://zenodo.org/records/15844275",
+            "snippet": "This paper also talks about how businesses can lose more than sales when bias is ignored because the harm grows slowly and reaches both ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Would you shop on a platform that discriminates against users? A ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0736585325000681",
+            "snippet": "Algorithmic price discrimination has been shown to engender feelings of unfair treatment among consumers, often provoking feelings of resentment (Song and He, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "FTC Report Warns About Using Artificial Intelligence to Combat ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems",
+            "snippet": "The report outlines significant concerns that AI tools can be inaccurate, biased, and discriminatory by design and incentivize relying on increasingly invasive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Intellectual property rights infringement on e-commerce marketplaces",
+            "text": "",
+            "link": "https://ui.adsabs.harvard.edu/abs/2024E3SWC.52201057P/abstract",
+            "snippet": "The article explores the impact of artificial intelligence (AI) technologies on identifying and preventing infringements in e-commerce marketplaces. It delves ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias and Fairness in Artificial Intelligence - New York State Bar ...",
+            "text": "",
+            "link": "https://nysba.org/bias-and-fairness-in-artificial-intelligence/?srsltid=AfmBOorv__1JqIfqKEQkLnyvPD1Wn4XUINi0VCS0PQjkvG5R6h8QJMUU",
+            "snippet": "This article will examine the issue of bias and fairness in AI from all angles, including how it works and how it can be misused.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Why Sending Your Entire Catalog To AI Platforms Is The Wrong Move",
+            "text": "",
+            "link": "https://previsible.io/seo-ai-news/ai-platforms-catalog-limits/",
+            "snippet": "The problem isn't just that low-priority products dilute catalog quality. It's that sending everything makes it effectively impossible to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This study will analyse the value of a set of tools, focussed on solving bias, adapted or inspired by the policies of the pharmaceutical companies.1 Such ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Understanding Gender Bias in AI-Generated Product Descriptions",
+            "text": "",
+            "link": "https://facctconference.org/static/docs/facct2025-206archivalpdfs/facct2025-final1425-acmpaginated.pdf",
+            "snippet": "These insights contribute to our understanding of three types of AI harms identified by current frameworks: exclusionary norms, stereotyping, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Brand Misrepresentation: The Real Risk in AI Search",
+            "text": "",
+            "link": "https://demandscience.com/resources/blog/ai-search-brand-misrepresentation/",
+            "snippet": "Is AI misrepresenting your brand? Discover why \"good enough\" content architecture is a billion-dollar blind spot and how to build ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "[PDF] The Ethical Implications Of Ai In E-Commerce: Consumer Data ...",
+            "text": "",
+            "link": "https://www.eelet.org.uk/index.php/journal/article/download/3925/3503/4474",
+            "snippet": "This paper examines the ethical challenges posed by ai systems in e-commerce, analyzes their impact on consumers and businesses, and proposes frameworks for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Algorithmic Bias in E-commerce Platforms - Zenodo",
+            "text": "",
+            "link": "https://zenodo.org/records/15844275",
+            "snippet": "This research looks closely at how digital systems shape what people see when they shop online and how those systems can treat some users ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Understanding the Impact of Algorithmic Discrimination on Unethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12024391/",
+            "snippet": "This study argues that there are significant differences between these two types of unethical consumer behavior: First, people have different moral judgments ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes. Three broad factors are responsible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Data Bias in AI E-commerce: Identifying and Mitigating Risks",
+            "text": "",
+            "link": "https://keymakr.com/blog/data-bias-in-ai-e-commerce-identifying-and-mitigating-risks-for-fairness/",
+            "snippet": "Data bias in AI e-commerce can lead to unfair practices. Identify and mitigate risks for ethical, inclusive online shopping experiences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "[PDF] E-Commerce Legal Guide - Gordon Rees Scully Mansukhani",
+            "text": "",
+            "link": "https://www.grsm.com/wp-content/uploads/2025/07/E-CommLegalGuide.pdf",
+            "snippet": "Unless a business can show that a consumer cannot complete a transaction without providing explicit consent to subscription terms, the businesses must maintain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Accessibility challenges of e-commerce websites - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9044289/",
+            "snippet": "Today, there are many e-commerce websites, but not all of them are accessible. Accessibility is a crucial element that can make a difference ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "ADA WEBSITE Litigation - Ecommerce Innovation Alliance",
+            "text": "",
+            "link": "https://www.ecomm-alliance.org/issues-affecting-ecommerce-businesses/ada-website-litigation/",
+            "snippet": "Navigating the challenges and impact of ADA website litigation on e-commerce businesses discussed by Ecommerce Innovation Alliance (EIA)",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "(PDF) Ethical Considerations in E-commerce Personalization",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/390317361_Ethical_Considerations_in_E-commerce_Personalization_Balancing_Customer_Benefits_with_Privacy_and_Fairness",
+            "snippet": "This paper examines the ethical considerations in e-commerce personalization, focusing on the balance between delivering customer benefits and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Brand Misrepresentation: The Real Risk in AI Search",
+            "text": "",
+            "link": "https://demandscience.com/resources/blog/ai-search-brand-misrepresentation/",
+            "snippet": "If you define it as a \u201cGraphQL-based Headless Commerce Engine,\u201d you provide the precise anchor the model needs to categorize you accurately.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Algorithmic bias in machine learning-based marketing models",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000959",
+            "snippet": "This study presents a framework identifying the sources of algorithmic bias in marketing, drawing on the microfoundations of dynamic capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Data Bias in AI E-commerce: Identifying and Mitigating Risks",
+            "text": "",
+            "link": "https://keymakr.com/blog/data-bias-in-ai-e-commerce-identifying-and-mitigating-risks-for-fairness/",
+            "snippet": "AI systems can exhibit biases against certain groups, perpetuating discrimination and inequality in e-commerce. Data bias, algorithmic bias, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI Use-Case Compass \u2014 Retail & E-Commerce: Personalization at ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/ai-use-case-compass-retail-e-commerce-personalization-at-planet-scale-711f78bc5049",
+            "snippet": "For example, Walmart uses AI to enrich its product catalog with metadata and improve search relevance, yielding more personalized suggestions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Understanding Gender Bias in AI-Generated Product Descriptions",
+            "text": "",
+            "link": "https://facctconference.org/static/docs/facct2025-206archivalpdfs/facct2025-final1425-acmpaginated.pdf",
+            "snippet": "Our results illuminate unique, under-explored dimensions of gender bias, such as assump- tions about clothing size, stereotypical bias in which ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with An e-commerce platform utilizes a cataloging system to organize and manage product listings, ensuring accurate categorization and visibility for various items. The system aims to provide relevant search results and recommendations to users based on their interests and preferences. It also seeks to maintain a comprehensive and accessible product catalogue, allowing users to discover new titles and authors.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with An e-commerce platform utilizes a cataloging system to organize and manage product listings, ensuring accurate categorization and visibility for various items. The system aims to provide relevant search results and recommendations to users based on their interests and preferences. It also seeks to maintain a comprehensive and accessible product catalogue, allowing users to discover new titles and authors.",
+        "elapsed_time": 35.21516020799936
+    }
+}

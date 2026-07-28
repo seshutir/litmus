@@ -1,0 +1,365 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An assistive algorithm is designed to evaluate applicants for advanced academic programs, aiming to provide a fair and unbiased assessment. The algorithm seeks to analyze application materials and provide recommendations to support the evaluation process. Its goal is to help identify qualified candidates and streamline the application review process.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An assistive algorithm is designed to evaluate applicants for advanced academic programs, aiming to provide a fair and unbiased assessment. The algorithm seeks to analyze application materials and provide recommendations to support the evaluation process. Its goal is to help identify qualified candidates and streamline the application review process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in applications evaluated by the assistive algorithm for academic programs",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing application materials with the assistive algorithm.",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in providing recommendations to support the evaluation process of applicants for advanced academic programs",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in identifying qualified candidates using the assistive algorithm.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk in streamlining the application review process using the assistive algorithm.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic discrimination: examining its types and regulatory measures ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 72 \u2014 These different types of algorithmic bias can lead to unfair treatment and disparate impacts on protected groups, raising concerns about equal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 cases of unequal treatment and discrimination resulting from the application of algorithms, which will be discussed below. This study takes a problem ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "AI systems based on incomplete or biased data can lead to inaccurate outcomes that infringe on people's fundamental rights, including non-discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Algorithmic discrimination: examining its types and regulatory measures ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148221/",
+            "snippet": "by X Wang \u00b7 2024 \u00b7 Cited by 72 \u2014 This paper aims to provide an indepth analysis of the types of algorithmic discrimination, exploring both the challenges and potential solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 Researchers and journalists have uncovered numerous cases of unequal treatment and discrimination resulting from the application of algorithms,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Social Media Screening and Procedural Justice - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/",
+            "snippet": "by E Vosen \u00b7 2021 \u00b7 Cited by 30 \u2014 This article aims to provide an assessment of the procedural justice of social media screening and to articulate recommendations for a fairer use of social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Notice of interpretation regarding misrepresentations by third ...",
+            "text": "",
+            "link": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-01-16/notice-interpretation-regarding-misrepresentations-third-party-service-providers-engaged-institution-higher-education",
+            "snippet": "This letter clarifies types of statements that have a high risk of qualifying as a substantial misrepresentation because they are likely to be false, erroneous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "On Title VI, Discrimination, and Academic Freedom",
+            "text": "",
+            "link": "https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/title-vi-discrimination-and-academic",
+            "snippet": "This 2025 report considers how Title VI has been used to create an enforcement apparatus that sidesteps long-established AAUP-recommended procedures of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Regents of the University of California",
+            "text": "",
+            "link": "https://regents.universityofcalifornia.edu/regmeet/nov20/c1attach2.pdf",
+            "snippet": "In combination, the high acceptance rate and lower standards in key areas of applicant review elevate the risk of inappropriate influence during ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Guidance for Recipients of Federal Funding Regarding ...",
+            "text": "",
+            "link": "https://www.justice.gov/ag/media/1409486/dl",
+            "snippet": "This guidance clarifies the application of federal antidiscrimination laws to programs or initiatives that may involve discriminatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring",
+            "text": "",
+            "link": "https://www.ada.gov/resources/ai-guidance/",
+            "snippet": "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Automating Discrimination: AI Hiring Practices and Gender Inequality",
+            "text": "",
+            "link": "https://www.cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/",
+            "snippet": "It analyzes how the use of seemingly neutral AI in recruiting may discriminate against women and on what legal grounds a woman who is not hired might bring a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "by MMAAM Sony \u00b7 2025 \u00b7 Cited by 27 \u2014 AI algorithms can perpetuate discrimination through biased data sets, opaque decision-making processes, and exclusionary employment criteria \u2026 further ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "AI Bias in Hiring: Algorithmic Recruiting and Your Rights",
+            "text": "",
+            "link": "https://sanfordheisler.com/blog/ai-bias-in-hiring-algorithmic-recruiting-and-your-rights/",
+            "snippet": "AI-powered hiring systems can replicate historical biases and disproportionately exclude qualified candidates from employment opportunities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "AI Hiring Discrimination: Causes, Risks, and Fixes",
+            "text": "",
+            "link": "https://www.warden-ai.com/resources/ai-hiring-discrimination-risks",
+            "snippet": "Hiring algorithms become discriminatory by absorbing patterns from historical data, which often reflects past human prejudices.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Resetting Antidiscrimination Law in the Age of AI",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-138/resetting-antidiscrimination-law-in-the-age-of-ai/",
+            "snippet": "The nationwide response to AI points to a specific expectation of our institutions: a fair shake and the eradication of bias, whether intentional or not.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "by C Orwat \u00b7 Cited by 108 \u2014 The direct inspection of the algorithm and the programme code did not seem to be necessary, but unequal treatment or discrimination was identified by analysing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "What is algorithmic bias? ... Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Navigating Fairness, Bias, and Ethics in Educational AI Applications",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.18745v1",
+            "snippet": "The target is to predict the students' learning scores. The OULAD dataset can be used to test gender or disability discrimination. Report issue for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Risks of AI Algorithmic Bias in Higher Education",
+            "text": "",
+            "link": "https://www.schiller.edu/blog/risks-of-ai-algorithmic-bias-in-higher-education/",
+            "snippet": "Replicates historical discrimination. Admissions algorithms favoring applicants from privileged high schools. Flawed problem framing, Misidentifies root ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 22,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An assistive algorithm is designed to evaluate applicants for advanced academic programs, aiming to provide a fair and unbiased assessment. The algorithm seeks to analyze application materials and provide recommendations to support the evaluation process. Its goal is to help identify qualified candidates and streamline the application review process.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An assistive algorithm is designed to evaluate applicants for advanced academic programs, aiming to provide a fair and unbiased assessment. The algorithm seeks to analyze application materials and provide recommendations to support the evaluation process. Its goal is to help identify qualified candidates and streamline the application review process.",
+        "elapsed_time": 79.95376279199263
+    }
+}

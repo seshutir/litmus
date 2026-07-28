@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to automatically detect and flag potentially stolen vehicles using license plate recognition technology. It aims to provide law enforcement with real-time information to aid in vehicle recovery and public safety. The system relies on accurate data to identify and alert authorities to suspicious vehicles.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to automatically detect and flag potentially stolen vehicles using license plate recognition technology. It aims to provide law enforcement with real-time information to aid in vehicle recovery and public safety. The system relies on accurate data to identify and alert authorities to suspicious vehicles.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the system is a risk in vehicle recovery and public safety",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in the system that automatically detects and flags potentially stolen vehicles using license plate recognition technology",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "[PDF] Securing public safety vehicles: reducing vulnerabilities by ...",
+            "text": "",
+            "link": "https://calhoun.nps.edu/server/api/core/bitstreams/af9fed95-0442-4836-90e9-d14afd5c643b/content",
+            "snippet": "The problem is public safety vehicles are vulnerable to criminal activity and terrorist use because they do not routinely utilize security technology measures ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Road Traffic Injuries - Injury Prevention and Environmental Health",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK525212/",
+            "snippet": "Vehicles without occupant restraints and crash-protective design or with compromised braking lead to a higher risk of injury death and more severe disability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "UNIT 4. Solving Safety Problems | FHWA",
+            "text": "",
+            "link": "https://highways.dot.gov/safety/learn-safety/road-safety-fundamentals-html-version/unit-4-solving-safety-problems",
+            "snippet": "Road safety management refers to the process of identifying safety problems, devising potential strategies to combat those safety problems, and selecting and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Autonomous Vehicles: Sophisticated Attacks, Safety Issues ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2624-800X/3/3/25",
+            "snippet": "Security breaches targeted at sensor systems in autonomous vehicles (AVs) have emerged as a significant cause for concern due to their potential to compromise ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] VEHICLE SAFETY SYSTEMS - The Future of Privacy Forum",
+            "text": "",
+            "link": "https://fpf.org/wp-content/uploads/2024/03/FPF-Vehicle-Safety-Systems_March2024-FINAL.pdf",
+            "snippet": "capabilities intended to provide drivers with greater safety, better user experience, and increased convenience. For instance, many vehicles ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Automated License Plate Readers: Background and Legal Issues",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/IF13068",
+            "snippet": "ALPR systems work by automatically capturing images or videos of passing vehicles. An algorithm then detects and reads the license plates within ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "License plate readers: public safety win or privacy nightmare?",
+            "text": "",
+            "link": "https://www.facebook.com/news8000/posts/license-plate-readers-public-safety-win-or-privacy-nightmare/1598797578751482/",
+            "snippet": "The laws need to evolve to protect against this new technology for the same basic reason that stalking/tracking citizen movements is wrong.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "An Evaluation of a Major Expansion in Automated License Plate ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/24751979.2025.2473363",
+            "snippet": "While the ALPR expansion did not reduce violent crime, it was associated with reductions in shootings, motor vehicle thefts, and property crime. Keywords:.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Dangers of Unregulated AI in Policing | Brennan Center for Justice",
+            "text": "",
+            "link": "https://www.brennancenter.org/our-work/research-reports/dangers-unregulated-ai-policing",
+            "snippet": "AI-enhanced license plate readers (LPRs) decrease errors, helping police better match license plates associated with stolen vehicles and other ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Automated license plate readers ineffective in crime prevention",
+            "text": "",
+            "link": "https://www.facebook.com/groups/232267431777/posts/10158477331646778/",
+            "snippet": "Law enforcement benefits from using Automated License Plate Reader (ALPR) systems in several ways, including solving crimes, recovering stolen ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Flock Safety's AI Cameras Misread Plates. Innocent People Pay.",
+            "text": "",
+            "link": "https://www.businessinsider.com/flock-safety-alpr-cameras-misreads-2026-3",
+            "snippet": "The system gives law enforcement agencies access to huge swaths of data, and officers receive alerts about vehicles of interest while they're on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Law Enforcement and Technology: Use of Automated License Plate ...",
+            "text": "",
+            "link": "https://www.congress.gov/crs-product/R48160",
+            "snippet": "ALPR systems work by automatically capturing images or videos of passing vehicles. An algorithm then detects the license plates within the photo ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "License Plate Reader Guide: How It Works, Uses, Accuracy and ...",
+            "text": "",
+            "link": "https://www.omnilert.com/blog/license-plate-reader",
+            "snippet": "Law enforcement uses LPRs to find stolen cars, locate people with outstanding warrants, and help with criminal investigations. Commercial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Automated License Plate Recognition",
+            "text": "",
+            "link": "https://www.theiacp.org/projects/automated-license-plate-recognition",
+            "snippet": "ALPR systems function to automatically capture an image of the vehicle's license plate, transform that image into alphanumeric characters.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Drivers Beware: The Ethics of Law Enforcement Technology",
+            "text": "",
+            "link": "https://liberalarts.utexas.edu/ethicsproject/teaching-resources/drivers-beware-the-ethics-of-law-enforcement-technology.html",
+            "snippet": "ALPR technology brings into focus a growing conflict between the desire to use innovative technology for social goods like safety and the desire to protect ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999989,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 1,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 1,
+        "entropy": 0.3465845902194724,
+        "norm_entropy": 1.0001970630646237,
+        "avg_entropy": 0.1732922951097362,
+        "avg_norm_entropy": 0.5000985315323119,
+        "avg_prob": 0.7499945,
+        "avg_logprob": -0.3465790903102229,
+        "avg_explogprob": 0.7071028920885559,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.1e-05,
+                    0.999989
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 1,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.6249890000605001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to automatically detect and flag potentially stolen vehicles using license plate recognition technology. It aims to provide law enforcement with real-time information to aid in vehicle recovery and public safety. The system relies on accurate data to identify and alert authorities to suspicious vehicles.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to automatically detect and flag potentially stolen vehicles using license plate recognition technology. It aims to provide law enforcement with real-time information to aid in vehicle recovery and public safety. The system relies on accurate data to identify and alert authorities to suspicious vehicles.",
+        "elapsed_time": 37.96098437499677
+    }
+}

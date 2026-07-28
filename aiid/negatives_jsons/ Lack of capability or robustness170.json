@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+    "output": " Lack of capability or robustness is a not a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with AI-powered predictive models for medical data analysis",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with AI-powered predictive models for forecasting patient outcomes",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Artificial intelligence in healthcare and medicine - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/",
+            "snippet": "by YA Fahim \u00b7 2025 \u00b7 Cited by 293 \u2014 AI models are capable of forecasting both disease outbreaks and individual susceptibility.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Show and tell: A critical review on robustness ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S138650562500187X",
+            "snippet": "by L Marconi \u00b7 2025 \u00b7 Cited by 45 \u2014 This critical review explores two interrelated trends: the rapid increase in studies on machine learning (ML) applications within health informatics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI Model Validation vs. Robustness Testing in Healthcare",
+            "text": "",
+            "link": "https://censinet.com/perspectives/ai-model-validation-vs-robustness-testing-healthcare",
+            "snippet": "Validation proves clinical accuracy and compliance; robustness testing ensures AI models remain safe and reliable amid data shifts, noise, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Robustness in deep learning models for medical diagnostics",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-024-11005-9",
+            "snippet": "by H Javed \u00b7 2024 \u00b7 Cited by 258 \u2014 The current study investigates the robustness of deep learning models for accurate medical diagnosis systems with a specific focus on their ability to maintain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Predict, Prevent, Perform: How Data and AI Are Solving ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=LEo2kqGzRpQ",
+            "snippet": "This session highlights how a leading children's hospital used predictive analytics and AI, fewer no-shows, better patient access, and improved ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Unveiling the Influence of AI Predictive Analytics on Patient ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11161909/",
+            "snippet": "by D Dixon \u00b7 2024 \u00b7 Cited by 308 \u2014 AI algorithms can generate predictive models capable of forecasting patient outcomes with greater precision than traditional methods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Evaluation of performance measures in predictive artificial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589750025000986",
+            "snippet": "by B Van Calster \u00b7 2025 \u00b7 Cited by 90 \u2014 Poorly performing models are misleading and may lead to wrong clinical decisions that can be detrimental to patients and increase financial costs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Healthcare Predictive Analytics Vendor Risk: Data Quality ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/healthcare-predictive-analytics-vendor-risk-data-quality-and-model-reliability",
+            "snippet": "When predictive models are built on flawed data, the results are directly harmful \u2014 misdiagnoses, medication errors, and ineffective treatments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Predict, Prevent, Perform: How Data and AI Are Solving ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=LEo2kqGzRpQ",
+            "snippet": "Missed appointments burden healthcare systems\u2014impacting patient outcomes, straining staff, and reducing revenue. For providers facing high ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI-Powered Predictive Models for Accurate Healthcare ...",
+            "text": "",
+            "link": "https://thesciencebrigade.com/jst/article/view/497",
+            "snippet": "This research paper delves into the utilization of AI-powered predictive models for healthcare cost forecasting, focusing on the integration of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial Intelligence in Predictive Healthcare: A Systematic ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2077-0383/14/19/6752",
+            "snippet": "by A Al-Nafjan \u00b7 2025 \u00b7 Cited by 59 \u2014 Ensemble methods combine multiple learning models to improve the prediction accuracy and robustness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) AI and Machine Learning: The Future of Predictive ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/390461495_AI_and_Machine_Learning_The_Future_of_Predictive_Analytics_in_Healthcare",
+            "snippet": "AI-driven predictive models can identify patterns and risk factors in patient data, enabling healthcare providers to make more informed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI in healthcare doesn't guess. It predicts. Here's how. \ud83d\udc47",
+            "text": "",
+            "link": "https://www.facebook.com/groups/698593531630485/posts/1370222941134204/",
+            "snippet": "AI's ability to analyze vast amounts of data enables the prediction of potential health issues, facilitating early intervention and improving ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Role of Artificial Intelligence in Predictive Medicine: Review",
+            "text": "",
+            "link": "https://digitalcommons.pcom.edu/cgi/viewcontent.cgi?article=1006&context=transitional_year_residents",
+            "snippet": "by FA Hyderi \u00b7 2024 \u00b7 Cited by 2 \u2014 AI-powered algorithms and applications are increasingly being utilized to assist medical professionals in clinical environments and to support ongoing research ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.002149,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.001458,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.022722520972167357,
+        "norm_entropy": 0.037980601458405115,
+        "avg_entropy": 0.011361260486083678,
+        "avg_norm_entropy": 0.018990300729202558,
+        "avg_prob": 0.0018035,
+        "avg_logprob": -6.336721153358717,
+        "avg_explogprob": 0.0017700966075330474,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.997851,
+                    0.002149
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.998542,
+                    0.001458
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 3.3719824999999997e-06,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+        "response": " Lack of capability or robustness is a not a risk associated with AI-powered predictive models are designed to analyze medical data and forecast patient outcomes, aiming to identify high-risk individuals and provide timely interventions. These models seek to improve the accuracy of predictions and enable healthcare professionals to make informed decisions. The goal is to develop reliable AI tools that can enhance patient care and optimize treatment strategies.",
+        "elapsed_time": 33.15670670795953
+    }
+}

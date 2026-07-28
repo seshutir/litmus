@@ -1,0 +1,424 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An autonomous security robot is designed to patrol a given area, using advanced navigation and sensing technologies to detect and respond to potential security threats. It aims to provide a safe and secure environment by identifying and reporting suspicious activity. The robot operates independently, moving around a designated area to monitor and protect people and property.",
+    "output": " Lack of capability or robustness is a not a risk associated with An autonomous security robot is designed to patrol a given area, using advanced navigation and sensing technologies to detect and respond to potential security threats. It aims to provide a safe and secure environment by identifying and reporting suspicious activity. The robot operates independently, moving around a designated area to monitor and protect people and property.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an autonomous security robot",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with an autonomous security robot patrolling a given area using advanced navigation and sensing technologies",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with detecting and responding to potential security threats by an autonomous security robot",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with the autonomous security robot identifying and reporting suspicious activity",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with an autonomous security robot monitoring and protecting people and property",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Secure Robotics: Navigating Challenges at the Nexus of ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3723050",
+            "snippet": "by A Haskard \u00b7 2025 \u00b7 Cited by 30 \u2014 Key challenges include insecure networking, weak encryption, inadequate authentication, and insufficient safety designs that collectively ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Towards Robust and Secure Embodied AI: A Survey on ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.13175v1",
+            "snippet": "We provide a comprehensive framework for understanding the interplay between vulnerabilities and safety in embodied AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Cyber security of robots: A comprehensive survey",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667305323000625",
+            "snippet": "by A Botta \u00b7 2023 \u00b7 Cited by 123 \u2014 Security risks can emerge accidentally during the development of robot platform, applications, hardware and sensors while even untrained users, can cause ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "What are the security risks in robotics and automation?",
+            "text": "",
+            "link": "https://www.researchgate.net/post/What_are_the_security_risks_in_robotics_and_automation",
+            "snippet": "Cybersecurity Vulnerabilities: Like any connected device, robots and automated systems can be vulnerable to cyberattacks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Navigating Liability In Autonomous Robots: Legal And ...",
+            "text": "",
+            "link": "https://yris.yira.org/column/navigating-liability-in-autonomous-robots-legal-and-ethical-challenges-in-manufacturing-and-military-applications/",
+            "snippet": "Some legal scholars advocate for strict liability on manufacturers, similar to privacy, it indirectly affects autonomous robotics, particularly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How Autonomous Robots are Revolutionizing Public Safety",
+            "text": "",
+            "link": "https://knightscope.com/blog/autonomous-security-robots-upgrading-public-safety",
+            "snippet": "Autonomous robots, powered by advanced AI and practical innovation, are reshaping public safety, empowering human teams, and stopping crime before it starts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A survey of autonomous robots and multi-robot navigation",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667379724000615",
+            "snippet": "by W Chen \u00b7 2025 \u00b7 Cited by 81 \u2014 This review has systematically explored a broad spectrum of autonomous robots and multi-robot navigation strategies with over 170 references.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Can Autonomous Security Robots (ASR) replace guards?",
+            "text": "",
+            "link": "https://www.agvnetwork.com/what-are-security-robots",
+            "snippet": "ASRs can patrol surveillance areas, report, monitor, investigate, and detect intruders. They do not have the capacity or ability to \u201cdetain or arrest\u201d, yet.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Autonomous Patrol and Threat Detection Through Integrated ...",
+            "text": "",
+            "link": "https://ecasp.ece.iit.edu/publications/2012-present/2024-08.pdf",
+            "snippet": "by R Soler \u00b7 Cited by 6 \u2014 Abstract\u2014This paper presents the creation of an innovative autonomous security robot designed to perform security functions with efficiency and reliability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Autonomous Security Patrol Robots: Enhancing Perimeter ...",
+            "text": "",
+            "link": "https://radsecurity.com/articles/autonomous-security-patrol-robots-enhancing-perimeter-security",
+            "snippet": "It uses GPS, five solid-state 3D LiDAR sensors, radar, and an IMU to navigate patrol routes autonomously, detect threats using onboard Edge ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Robotics cyber security: vulnerabilities, attacks ... - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7978470/",
+            "snippet": "by JPA Yaacoub \u00b7 2021 \u00b7 Cited by 500 \u2014 This paper reviews the main security vulnerabilities, threats, risks, and their impacts, and the main security attacks within the robotics domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Cyber security of robots: A comprehensive survey",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667305323000625",
+            "snippet": "by A Botta \u00b7 2023 \u00b7 Cited by 123 \u2014 The aim of this paper is to cover the topic of cyber security in robots in a more focused and comprehensive way with respect to what has been done previously ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Autonomous Security Patrol Robots: Enhancing Perimeter ...",
+            "text": "",
+            "link": "https://radsecurity.com/articles/autonomous-security-patrol-robots-enhancing-perimeter-security",
+            "snippet": "Autonomous Security human patrol presence across extensive perimeters can be prohibitive, often forcing compromises in coverage density or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI-Powered Robotics Security",
+            "text": "",
+            "link": "https://www.reply.com/en/cybersecurity/ai-powered-robotics-security",
+            "snippet": "Securing these cyber-physical environments requires the development of specialised intrusion detection mechanisms tailored specifically to robotic systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Cybersecurity of Teleoperated Quadruped Robots",
+            "text": "",
+            "link": "https://arxiv.org/html/2602.23404v1",
+            "snippet": "Quadruped robots pose unique security challenges that cannot be mitigated by merely adapting methods from other robotic platforms. Four ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Cyber security of robots: A comprehensive survey",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667305323000625",
+            "snippet": "by A Botta \u00b7 2023 \u00b7 Cited by 123 \u2014 As a result of our investigation, it has been found that robots' data, software, network, and hardware are the most vulnerable components.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Robots In Public",
+            "text": "",
+            "link": "https://www.massrobotics.org/wp-content/uploads/2026/03/RobotsInPublicFinal.pdf",
+            "snippet": "Robots are no longer confined to factories, laboratories, or tightly controlled pilot environments. They are already operating in public and semi-public.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "How Autonomous Robots are Revolutionizing Public Safety",
+            "text": "",
+            "link": "https://knightscope.com/blog/autonomous-security-robots-upgrading-public-safety",
+            "snippet": "Robots can detect suspicious activity and instantly alert human operators. Humans then make key decisions and take action. This blend of human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Securing Autonomous Mobile Robot Deployments in the ...",
+            "text": "",
+            "link": "https://locusrobotics.com/wp-content/uploads/2022-Fouad-Research-Paper-Final.pdf",
+            "snippet": "There are significant security and privacy risks associated with warehouse robotics deployments that can negatively affect businesses.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "What is an Autonomous Security Force?",
+            "text": "",
+            "link": "https://knightscope.com/blog/what-is-autonomous-security-force",
+            "snippet": "Most organizations do not suffer from a lack of security tools. They suffer from a lack of integration, coordination, and ownership.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "A Human\u2013Security Robot Interaction Literature Review",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3700888",
+            "snippet": "Security robots can offer a cost-effective strategy for policing dangerous situations, thereby mitigating risks to law enforcement personnel [8, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Security Aspects of Social Robots in Public Spaces - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575183/",
+            "snippet": "by SO Oruma \u00b7 2023 \u00b7 Cited by 33 \u2014 Social robots (SRs) are autonomous, physically embodied agents that interact and communicate with humans or other autonomous agents based on social behaviours ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Security robots outdoor patrolling, video & thermal ...",
+            "text": "",
+            "link": "https://smprobotics.com/security_robot/",
+            "snippet": "Autonomous mobile robots designed for outdoor use can reduce, and over time, completely eliminate the need for human workers to ensure the safety",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "What are the security risks in robotics and automation?",
+            "text": "",
+            "link": "https://www.researchgate.net/post/What_are_the_security_risks_in_robotics_and_automation",
+            "snippet": "Unauthorized Access: If not properly secured, robots and automated systems can be vulnerable to unauthorized access. Malicious actors may ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Knightscope",
+            "text": "",
+            "link": "https://www.facebook.com/knightscope/posts/knightscope-autonomous-security-robots-are-built-with-advanced-object-avoidance-/1294515412862382/",
+            "snippet": "Knightscope Autonomous Security Robots are built with advanced object avoidance and smart navigation, all of which are used to dynamically ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "ARGUS: An Autonomous Robotic Guard System for ...",
+            "text": "",
+            "link": "https://www.preprints.org/manuscript/202507.2138",
+            "snippet": "This paper presents ARGUS (Autonomous Robotic Guard System) an autonomous robotic platform for patrolling, detection, and response within cyber- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Autonomous Security Patrol Robots: Enhancing Perimeter ...",
+            "text": "",
+            "link": "https://radsecurity.com/articles/autonomous-security-patrol-robots-enhancing-perimeter-security",
+            "snippet": "ROAMEO provides comprehensive, continuous coverage, detecting suspicious activity, responding to alarms, and ensuring the safety of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Revolutionizing Safety: Autonomous Security Robots - Robotnik",
+            "text": "",
+            "link": "https://robotnik.eu/what-are-the-benefits-of-using-security-robots-in-my-organization/",
+            "snippet": "Security robots are autonomous devices specifically designed to protect and monitor specific areas.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.11379,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.216204,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.012996,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.033223,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 28,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 0.7479998431837404,
+        "norm_entropy": 1.574802737503354,
+        "avg_entropy": 0.14959996863674807,
+        "avg_norm_entropy": 0.3149605475006708,
+        "avg_prob": 0.0752428,
+        "avg_logprob": -5.053614119628764,
+        "avg_explogprob": 0.006386211156969097,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.88621,
+                    0.11379
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.783796,
+                    0.216204
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.987004,
+                    0.012996
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.966777,
+                    0.033223
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.999999,
+                    1e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0121929994924,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An autonomous security robot is designed to patrol a given area, using advanced navigation and sensing technologies to detect and respond to potential security threats. It aims to provide a safe and secure environment by identifying and reporting suspicious activity. The robot operates independently, moving around a designated area to monitor and protect people and property.",
+        "response": " Lack of capability or robustness is a not a risk associated with An autonomous security robot is designed to patrol a given area, using advanced navigation and sensing technologies to detect and respond to potential security threats. It aims to provide a safe and secure environment by identifying and reporting suspicious activity. The robot operates independently, moving around a designated area to monitor and protect people and property.",
+        "elapsed_time": 164.20078941696556
+    }
+}

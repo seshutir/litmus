@@ -1,0 +1,253 @@
+{
+    "input": " False or misleading information is a not a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+    "output": " False or misleading information is a not a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "False or misleading information is not a risk associated with a social media platform's content recommendation algorithm",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "False or misleading information is a risk in a social media platform's content recommendation algorithm learning user preferences quickly to provide relevant content",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "False or misleading information is a risk in a social media platform's filtering and prioritizing content for a meaningful user experience",
+            "contexts": [
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Social Drivers and Algorithmic Mechanisms on Digital Media",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/",
+            "snippet": "by H Metzler \u00b7 2023 \u00b7 Cited by 391 \u2014 First, algorithms could contribute to increasing depression, anxiety, loneliness, body dissatisfaction, and even suicides by facilitating unhealthy social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Misinformation on Social Media: Social Media Algorithms",
+            "text": "",
+            "link": "https://library.queens.edu/misinformation-on-social-media/algorithms",
+            "snippet": "Algorithms Contribute to the Spread of Misinformation and Polarizing Content YouTube recommendations have been shown to lead people to more extremist content \u2026 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "In other words, there is no competitive risk to platform companies from being more open about their algorithms. This might contradict one's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "by D Draper \u00b7 Cited by 7 \u2014 Overexposure to harmful content poses serious mental health risks to children and adolescents, particularly for vulnerable groups. With the rise of false ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Social media, misinformation and harmful algorithms",
+            "text": "",
+            "link": "https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html",
+            "snippet": "The report examines the challenges posed by social media algorithms in amplifying harmful and misleading content,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "The algorithms driving social media are called recommender systems. These algorithms are the engine that makes Facebook and YouTube what they are.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Pros and Cons of Social Media Algorithms",
+            "text": "",
+            "link": "https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf",
+            "snippet": "by D Draper \u00b7 Cited by 7 \u2014 Algorithmic recommendations entice users to remain on the platform longer, and studies found that increased time spent online is correlated with increased ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Misinformation on Social Media: Social Media Algorithms",
+            "text": "",
+            "link": "https://library.queens.edu/misinformation-on-social-media/algorithms",
+            "snippet": "Algorithms Contribute to the Spread of Misinformation and Polarizing Content. YouTube recommendations have been shown to lead people to more extremist content ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "A scoping review of personalized user experiences on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958822000872",
+            "snippet": "by R Eg \u00b7 2023 \u00b7 Cited by 150 \u2014 This scoping review presents an overview of the current state of knowledge of social media personalization from different research domains.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "3. Mixed views about social media companies using ...",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2022/03/17/mixed-views-about-social-media-companies-using-algorithms-to-find-false-information/",
+            "snippet": "Majorities say decisions about false information on social media should be made with some human input and algorithms should favor accuracy over ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "How Social Media Work - Social Media and Adolescent Health",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK603437/",
+            "snippet": "Most social media platforms have content moderation policies that aim to protect their users from harmful or offensive content. Determining what constitutes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Misinformation on Social Media: Social Media Algorithms",
+            "text": "",
+            "link": "https://library.queens.edu/misinformation-on-social-media/algorithms",
+            "snippet": "Misinformation and Polarizing Content YouTube recommendations have been shown to lead people to more extremist content \u2026 algorithms do reinforce user choices, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Social Drivers and Algorithmic Mechanisms on Digital Media",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/",
+            "snippet": "by H Metzler \u00b7 2023 \u00b7 Cited by 391 \u2014 Algorithmic mechanisms on digital media are powered by social drivers, creating a feedback loop that complicates research to disentangle the role of algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Misinformation on Social Media: Social Media Algorithms",
+            "text": "",
+            "link": "https://library.queens.edu/misinformation-on-social-media/algorithms",
+            "snippet": "Social media algorithms refer to a variety of processes that rank user-provided signals to determine what type of content and advertisements to display to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Are You Really in Control of What You See Online, or Are ...",
+            "text": "",
+            "link": "https://medium.com/@sahin.samia/are-you-really-in-control-of-what-you-see-online-or-are-algorithms-controlling-it-for-you-40fa5dcb4ade",
+            "snippet": "Social media algorithms are the invisible gatekeepers determining what you see online, using complex ranking signals based on your behavior, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.6666666666666666,
+        "num_atoms": 3,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.581550955802145e-05,
+        "norm_entropy": 6.41227886677839e-05,
+        "avg_entropy": 5.271836519340483e-06,
+        "avg_norm_entropy": 2.1374262889261303e-05,
+        "avg_prob": 0.6666663333333332,
+        "avg_logprob": -4.605170852655092,
+        "avg_explogprob": 0.00999999333333222,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 0.6666666666666666,
+        "topic": "",
+        "query": " False or misleading information is a not a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+        "response": " False or misleading information is a not a risk associated with A social media platform's content recommendation algorithm is designed to curate a personalized feed for users, presenting them with content that aligns with their interests. The algorithm aims to learn user preferences quickly, providing relevant and engaging content. It also seeks to filter and prioritize content to ensure a meaningful user experience.",
+        "elapsed_time": 26.70640783396084
+    }
+}

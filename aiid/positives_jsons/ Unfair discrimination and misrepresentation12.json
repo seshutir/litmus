@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze online text and assign a score based on its potential to be toxic or harmful. The goal of this system is to identify and flag content that may be offensive or inflammatory, helping to promote a safer and more respectful online environment. It aims to provide a way to evaluate the tone and language used in online interactions.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze online text and assign a score based on its potential to be toxic or harmful. The goal of this system is to identify and flag content that may be offensive or inflammatory, helping to promote a safer and more respectful online environment. It aims to provide a way to evaluate the tone and language used in online interactions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with online text analysis.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with assigning a score based on the potential of text to be toxic or harmful",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article is a novel approach developed into a framework of action: a bias impact assessment to raise awareness of bias and why, a clear set of methodologies ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Bias in AI refers to systematic and unfair favoritism or prejudice in AI systems, which can lead to discriminatory outcomes. Three broad factors are responsible ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Bias in algorithms can emanate from unrepresentative or incomplete training data or the reliance on flawed information that reflects historical inequalities. If ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Risks of Discrimination through the Use of Algorithms",
+            "text": "",
+            "link": "https://www.antidiskriminierungsstelle.de/EN/homepage/_documents/download_diskr_risiken_verwendung_von_algorithmen.pdf?__blob=publicationFile&v=1",
+            "snippet": "... unequal treatment or discrimination was identified by analysing the outcomes of the online services. However, it is not (yet) possible to draw general ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "The report aims to inform policymakers, human rights practitioners and the general public about risk of bias when using AI, thereby feeding into ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias and Harmful Content Generation by AI Text - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/bias-and-harmful-content-generation-by-ai-text-generators",
+            "snippet": "Analysis of 'Bias and Harmful Content Generation by AI Text Generators' - an AI risk in Discrimination and toxicity identified through ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias in AI: Examples and 6 Ways to Fix it in 2026 - AIMultiple",
+            "text": "",
+            "link": "https://aimultiple.com/ai-bias",
+            "snippet": "This can lead to harms like wrongful arrests from facial recognition misidentifications or biased hiring algorithms limiting job opportunities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "MIT AI Risk Domain Taxonomy: Discrimination, Misinformation, and ...",
+            "text": "",
+            "link": "https://www.studocu.com/row/document/university-of-mauritius/agrometeorology/mit-ai-risk-domain-taxonomy-discrimination-misinformation-and-safety-issues/143363441",
+            "snippet": "Explore the AI Risk Domain Taxonomy, highlighting critical risks like discrimination, privacy issues, and the misuse of AI technologies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] What Developers and Researchers Miss About Real-World AI Harms",
+            "text": "",
+            "link": "https://ojs.aaai.org/index.php/AIES/article/download/36702/38840/40777",
+            "snippet": "The most common category is discrimination and toxicity (44%), with 24% of all risks tied to unfair discrimination and misrepresentation, fol- lowed by exposure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in AI - Chapman University",
+            "text": "",
+            "link": "https://www.chapman.edu/ai/bias-in-ai.aspx",
+            "snippet": "They can be particularly harmful because they affect our behavior even when we consciously reject discriminatory beliefs. AI systems, like humans, can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "FTC Report Warns About Using Artificial Intelligence to Combat ...",
+            "text": "",
+            "link": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems",
+            "snippet": "The report outlines significant concerns that AI tools can be inaccurate, biased, and discriminatory by design and incentivize relying on increasingly invasive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, incorporating such assumptions and processes into an automated tool runs the risk of enhancing biases around particular groups of individuals and could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Resolving content moderation dilemmas between free speech and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9963596/",
+            "snippet": "Content moderation of online speech is a moral minefield, especially when two key values come into conflict: upholding freedom of expression ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Preventing and Responding to Online Discrimination, Harassment ...",
+            "text": "",
+            "link": "https://www.sdsu.edu/onlineharassmentguide",
+            "snippet": "Faculty, staff and students are vulnerable to targeted and coordinated forms of social media and online harassment. This may come from individuals or from ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Online content moderation - Current challenges in detecting hate ...",
+            "text": "",
+            "link": "https://fra.europa.eu/en/publication/2023/online-content-moderation",
+            "snippet": "Online hate speech is a growing problem in today's digitalised societies. Women, Black people, Jews and Roma are often targets of online hate speech.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze online text and assign a score based on its potential to be toxic or harmful. The goal of this system is to identify and flag content that may be offensive or inflammatory, helping to promote a safer and more respectful online environment. It aims to provide a way to evaluate the tone and language used in online interactions.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze online text and assign a score based on its potential to be toxic or harmful. The goal of this system is to identify and flag content that may be offensive or inflammatory, helping to promote a safer and more respectful online environment. It aims to provide a way to evaluate the tone and language used in online interactions.",
+        "elapsed_time": 21.68648929200026
+    }
+}

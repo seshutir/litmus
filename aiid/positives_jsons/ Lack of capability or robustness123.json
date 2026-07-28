@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+    "output": " Lack of capability or robustness is a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the robotic system is a risk in order fulfillment",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a robotic system is a risk in locating, retrieving, and packaging items for shipment",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Pros and Cons of Robotic Automation | Mariner Logistics",
+            "text": "",
+            "link": "https://www.marinerlogistics.com/resources/robotic-automation-debate?hsLang=en",
+            "snippet": "Lack of Flexibility: Robots are often designed for specific tasks and may not be easily adaptable to changes in the operation. This can be a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The five pillars of robotic order fulfillment success",
+            "text": "",
+            "link": "https://www.thescxchange.com/tech-infrastructure/technology/the-five-pillars-of-robotic-order-fulfillment-success",
+            "snippet": "Robotic order fulfillment initiatives have typically focused on the hardware aspects. \u00b7 Integration challenges can be a key source of problems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "OSH related risks and opportunities for industrial human-robot ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/",
+            "snippet": "We present a multifaceted analysis of risks and opportunities regarding robotic systems in the context of task automation in the industrial sector.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Why Traditional Standards Are Inadequate for Agile, AI-Driven ...",
+            "text": "",
+            "link": "https://www.ien.com/automation/blog/22959378/why-traditional-standards-are-inadequate-for-agile-aidriven-robotic-systems",
+            "snippet": "How traditional safety standards fail AI-driven robotic systems and the critical need for context-aware, proactive safety approaches in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Performance Characteristics of Robotic Mobile Fulfilment Systems in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S2405896318314149",
+            "snippet": "This paper addresses the application of automation in warehouse order picking. Specifically, the paper deals with Robotic Mobile Fulfilment Systems (RMFSs).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Comprehensive Review of Robotized Freight Packing - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2305-6290/8/3/69",
+            "snippet": "This review addresses the emerging field of automated packing cells, which lies at the intersection of robotics and packing problems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Goods-to-Robot Picking: What's the Catch?",
+            "text": "",
+            "link": "https://www.beer-management.de/goods-to-robot-picking-whats-the-catch/",
+            "snippet": "In this video, I explain why it's not quite that simple and why robotic picking is still a long way from becoming a common technology in warehouse automation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Managing the variability of a logistics robotic system - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0164121224003728",
+            "snippet": "Human inclusion refers to the variability of logistics robots when collaborating with human workers for tasks such as picking and packaging items for shipment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Let's Talk About The Robot Supply Chain - by Aaron Prather",
+            "text": "",
+            "link": "https://sixdegreesofrobotics.substack.com/p/lets-talk-about-the-robot-supply",
+            "snippet": "Robotic systems can perform tasks faster than human workers and reduce mistakes, leading to fewer returns and more streamlined operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Packaging and Robots - IEEE Spectrum",
+            "text": "",
+            "link": "https://spectrum.ieee.org/packaging-and-robots",
+            "snippet": "The use of AI and ML in logistics and packaging is playing an increasingly vital role in transforming the way packages are handled across Amazon's vast global ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A robotic process automation model for order-handling optimization ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949863525000020",
+            "snippet": "This study proposes a robotic process automation (RPA) model to streamline and optimize order-handling procedures in supply chain management.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Benefits of Robotics in Fulfillment Operations - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/top-content/artificial-intelligence/applications-of-robotics/benefits-of-robotics-in-fulfillment-operations/",
+            "snippet": "Boost productivity: Automated robots can work around the clock, helping companies process more orders quickly and reduce bottlenecks during busy periods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Fulfillment Robotics Reducing Errors - ShipSage",
+            "text": "",
+            "link": "https://shipsage.com/how-fulfillment-robotics-are-reducing-errors/",
+            "snippet": "Discover how fulfillment robotics cut errors in centers, boosting order accuracy and efficiency for seamless e-commerce fulfillment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "How Amazon robots navigate congestion",
+            "text": "",
+            "link": "https://www.amazon.science/latest-news/how-amazon-robots-navigate-congestion",
+            "snippet": "Amazon fulfillment centers use thousands of mobile robots. To keep products moving, Amazon Robotics researchers have crafted unique solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "How Robotic Order Fulfillment Can Help You Meet Same-Day ...",
+            "text": "",
+            "link": "https://www.coherentmarketinsights.com/blog/how-robotic-order-fulfillment-can-help-you-meet-same-day-shipping-demands-370",
+            "snippet": "Robots can improve the picking and packing processes in storage and fulfillment areas, retrieving and transporting the ordered products to the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999998,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.999997499973745e-06,
+        "norm_entropy": 6.212278722345974e-05,
+        "avg_entropy": 1.4999987499868724e-06,
+        "avg_norm_entropy": 3.106139361172987e-05,
+        "avg_prob": 0.9999985,
+        "avg_logprob": -1.5000012499891223e-06,
+        "avg_explogprob": 0.999998499999875,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    2e-06,
+                    0.999998
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999980000020001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+        "response": " Lack of capability or robustness is a risk associated with A robotic system is designed to streamline and optimize the process of fulfilling orders, using automated technology to improve efficiency and accuracy. The system aims to quickly and safely locate, retrieve, and package items for shipment, minimizing the risk of errors and damage. By leveraging robotic capabilities, the system seeks to enhance overall productivity and workflow.",
+        "elapsed_time": 27.353250833999482
+    }
+}

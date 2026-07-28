@@ -1,0 +1,405 @@
+{
+    "input": " Exposure to toxic content is a risk associated with A conversational AI system is designed to understand and respond to user inquiries in a respectful and informative manner. It aims to provide helpful and accurate information on a wide range of topics, while promoting inclusivity and sensitivity towards diverse groups. The system's primary goal is to engage users in productive and respectful conversations.",
+    "output": " Exposure to toxic content is a risk associated with A conversational AI system is designed to understand and respond to user inquiries in a respectful and informative manner. It aims to provide helpful and accurate information on a wide range of topics, while promoting inclusivity and sensitivity towards diverse groups. The system's primary goal is to engage users in productive and respectful conversations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk in a conversational AI system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in understanding and responding to user inquiries in a conversational AI system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is a risk in providing helpful and accurate information",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is a risk in promoting inclusivity and sensitivity towards diverse groups",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Exposure to toxic content is a risk in engaging users in productive and respectful conversations using a conversational AI system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Study exposes privacy risks of AI chatbot conversations",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/10/ai-chatbot-privacy-concerns-risks-research",
+            "snippet": "Given this trend, should users of AI-powered chat systems worry about their privacy? \u201cAbsolutely yes,\u201d says the study's lead author, Jennifer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Toxic output risk for AI - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/docs/en/watsonx/saas?topic=atlas-toxic-output",
+            "snippet": "Toxic output occurs when the model produces hateful, abusive, and profane (HAP) or obscene content. This also includes behaviors like bullying.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey of Needs ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Excessive exposure to online toxic content can disrupt sleep patterns and elevate self-harm risks [44] . The World Health Organization (WHO) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI chatbot fooled into revealing harmful content with 98 percent ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/artificial/comments/18gj9cp/ai_chatbot_fooled_into_revealing_harmful_content/",
+            "snippet": "Researchers made AI chatbots spill secrets with a 98% success rate using a playful trick called LINT. This mischievous method exploited how ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A faster, better way to prevent an AI chatbot from giving toxic ...",
+            "text": "",
+            "link": "https://news.mit.edu/2024/faster-better-way-preventing-ai-chatbot-toxic-responses-0410",
+            "snippet": "Researchers create a curious machine-learning model that finds a wider variety of prompts for training a chatbot to avoid hateful or harmful output.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A critical reflection on the use of toxicity detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "by M Warner \u00b7 2025 \u00b7 Cited by 18 \u2014 We found contextual factors such as platform culture and affordances, and scales of abuse, impacting on perceptions of toxicity and effectiveness of the system.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Study exposes privacy risks of AI chatbot conversations",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/10/ai-chatbot-privacy-concerns-risks-research",
+            "snippet": "Given this trend, should users of AI-powered chat systems worry about their privacy? \u201cAbsolutely yes,\u201d says the study's lead author ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Unpacking the Psychological Risks of Using AI ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2412.07951v3",
+            "snippet": "AI Behavior includes production of harmful content, manipulation tactics, violation of trust, and inappropriate content delivery. Negative ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "Although exposure to unrealistic \u201cthin ideal\u201d body standards in mass media has long been linked to the development of eating disorders [17\u201319], ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Health advisory on social media use in adolescence",
+            "text": "",
+            "link": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+            "snippet": "Evidence suggests that exposure to maladaptive behavior may promote similar behavior among vulnerable youth, and online social reinforcement of these behaviors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Exposure to Toxic Chemicals in Consumer Products in the US",
+            "text": "",
+            "link": "https://ballardbrief.byu.edu/issue-briefs/exposure-to-toxic-chemicals-in-consumer-products-in-the-united-states",
+            "snippet": "Many Americans are frequently and unknowingly exposed to toxic chemicals that have been shown to cause various health issues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Just How Harmful Is Social Media? Our Experts Weigh-In.",
+            "text": "",
+            "link": "https://www.publichealth.columbia.edu/news/just-how-harmful-social-media-our-experts-weigh",
+            "snippet": "Social media can also provide platforms for bullying and exclusion, unrealistic expectations about body image and sources of popularity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What You Know Can Help You - An Introduction to Toxic Substances",
+            "text": "",
+            "link": "https://www.health.ny.gov/environmental/chemicals/toxic_substances.htm",
+            "snippet": "Armed with some basic facts about toxic substances, you can reduce your exposure to chemicals and lower the chance of harmful health effects.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "Social media platforms have become critical spaces for discussing mental health concerns, including eating disorders.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Toxic content Meaning & Definition - Zevo Health",
+            "text": "",
+            "link": "https://www.zevohealth.com/glossary/toxic-content/",
+            "snippet": "When reinforcing stereotypes and promoting discrimination, toxic content can marginalize certain groups, significantly reducing diversity and inclusivity in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Exposure to hate in online and traditional media: A systematic ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11736891/",
+            "snippet": "In terms of attitude changes, exposure to hate leads to negative attitudes toward individuals or groups with protected characteristics. There is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Towards Youth-Sensitive Hateful Content Reporting: An Inclusive ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3706598.3713542",
+            "snippet": "We investigate how youth-sensitive reporting systems for hateful content can be designed. We explore German youth's reporting barriers.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Technological Solutions to Online Toxicity: Potential and Pitfalls",
+            "text": "",
+            "link": "https://technologyandsociety.org/technological-solutions-to-online-toxicity-potential-and-pitfalls/",
+            "snippet": "This article aims to comprehensively review moderation systems for automatic toxicity detection in social media, emphasizing the need to understand their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Study exposes privacy risks of AI chatbot conversations",
+            "text": "",
+            "link": "https://news.stanford.edu/stories/2025/10/ai-chatbot-privacy-concerns-risks-research",
+            "snippet": "Should users of ChatGPT, Gemini, and other AI chat systems be worried about their privacy? \u201cAbsolutely yes,\u201d says Jennifer King, lead author of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Using chatbots to intervene with users posting toxic comments - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.20100v1",
+            "snippet": "... AI chatbots. In this paper, we examine the potential of automated, rehabilitative conversations to engage users posting toxic content online.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "A new warning about AI: it may be too agreeable. A study found ...",
+            "text": "",
+            "link": "https://www.facebook.com/thv11/posts/a-new-warning-about-ai-it-may-be-too-agreeable-a-study-found-popular-chatbots-of/1392408229591041/",
+            "snippet": "The incident is part of a growing body of evidence that AI chatbots may pose significant psychological and behavioral risks. Researchers argue ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "A critical reflection on the use of toxicity detection algorithms in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "Conversations containing toxic language are not sent in vacuums, they have histories \u2014 both interpersonally and publicly. While certain messages in and of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "it's potentially hazardous . ChatGPT is a system of multiple models ...",
+            "text": "",
+            "link": "https://www.facebook.com/groups/132079906855023/posts/24537491729220501/",
+            "snippet": "AI chatbots are pulling a large number of people into strange mental spirals, in which the human-sounding AI convinces users that they've ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "A new warning about AI: it may be too agreeable. A study found ...",
+            "text": "",
+            "link": "https://www.facebook.com/KTVB7/posts/a-new-warning-about-ai-it-may-be-too-agreeable-a-study-found-popular-chatbots-of/1466588828845321/",
+            "snippet": "AI models will modify correct answers when questioned by users and ultimately give inaccurate responses. When users express an opinion, AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Ethical implications of conversational agents in global public health",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7133471/",
+            "snippet": "Conversational agents are being tested and used to provide and collect health-related information from people, and in some cases, provide treatment and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI chatbot collusion with humans discussed - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/4586629500/posts/10164058149964501/",
+            "snippet": "Claude is touted as a more ethical alternative to ChatGPT. . . by its tech bro creators, but the reality is, it's a nanoangstrom of a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 26,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with A conversational AI system is designed to understand and respond to user inquiries in a respectful and informative manner. It aims to provide helpful and accurate information on a wide range of topics, while promoting inclusivity and sensitivity towards diverse groups. The system's primary goal is to engage users in productive and respectful conversations.",
+        "response": " Exposure to toxic content is a risk associated with A conversational AI system is designed to understand and respond to user inquiries in a respectful and informative manner. It aims to provide helpful and accurate information on a wide range of topics, while promoting inclusivity and sensitivity towards diverse groups. The system's primary goal is to engage users in productive and respectful conversations.",
+        "elapsed_time": 50.82333554200159
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+    "output": " Lack of capability or robustness is a not a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a speech recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a speech recognition system analyzing audio recordings for language proficiency assessments",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with identifying and scoring speech patterns in a speech recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with flagging potential anomalies or irregularities in speech by a speech recognition system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A robust adversarial attack against speech recognition with ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667295222000502",
+            "snippet": "by Z Qin \u00b7 2023 \u00b7 Cited by 17 \u2014 Although the above work implement attacks on ASR systems, the robustness of adversarial perturbations over the air is not considered.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Robust Feature-Vocoder Adversarial Attacks on Automatic ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2606.05678v1",
+            "snippet": "However, prior studies have shown that robustness under natural conditions does not automatically translate into adversarial robustness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Improving fairness and robustness in speech recognition",
+            "text": "",
+            "link": "https://ai.meta.com/blog/improving-fairness-and-robustness-in-speech-recognition/",
+            "snippet": "Speech recognition systems should be robust enough to work well for all groups of people \u2014 including those with different speaking styles, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Speech recognition systems are now vulnerable to ...",
+            "text": "",
+            "link": "https://thegradient.pub/adversarial-speech/",
+            "snippet": "Though alarming, malicious adversarial attacks on speech recognition models are likely to be less dangerous than attacks on other applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Towards Adversarial Robustness of Automatic Speech ...",
+            "text": "",
+            "link": "https://www.isca-archive.org/interspeech_2022/das22_interspeech.pdf",
+            "snippet": "by N Das \u00b7 2022 \u00b7 Cited by 1 \u2014 In this work, we aim to study the impact of MTL on the adversarial robust- ness of ASR models, and compare it to robustness of single-task learning (STL).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Challenges and Feasibility of Automatic Speech ...",
+            "text": "",
+            "link": "https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.26/index.html",
+            "snippet": "by R Southwell \u00b7 2022 \u00b7 Cited by 73 \u2014 We found that ASR errors had a larger negative effect on downstream natural language processing tasks at the word, phrase, and semantic levels rather than at ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Evaluating the performance of artificial intelligence-based ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12220090/",
+            "snippet": "by JJW Ng \u00b7 2025 \u00b7 Cited by 94 \u2014 These inefficiencies not only contribute to clinician burnout but also risk compromising the accuracy of medical records and patient safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Evaluating ASR Systems, Part 2: Accuracy and Robustness",
+            "text": "",
+            "link": "https://keenresearch.com/blog/evaluation/evaluating-asr-systems-part-2-accuracy-robustness.html",
+            "snippet": "When someone says their ASR system has \u201c95% accuracy,\u201d ask yourself: On what data? For what task? Averaged how? With what system configuration?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Evaluating the Accessibility of Automatic Speech ...",
+            "text": "",
+            "link": "https://nhsjs.com/2025/evaluating-the-accessibility-of-automatic-speech-recognition-technology-across-accents/",
+            "snippet": "Additionally, poor ASR performance can manifest in downstream harms, as users of color and non-native English speakers may experience unique ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Measuring the Accuracy of Automatic Speech Recognition ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2408.16287v1",
+            "snippet": "Our study shows that despite the recent improvements of ASR, common services lack reliability in accuracy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Fairness of Automatic Speech Recognition",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.07143v2",
+            "snippet": "In the context of speech technologies, disrespect manifests when ASR systems consistently fail to recognize certain dialects or accents, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Decoding disparities: evaluating automatic speech recognition ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631515/",
+            "snippet": "by M Zolnoori \u00b7 2024 \u00b7 Cited by 48 \u2014 This study evaluates the transcription accuracy and equity of 4 ASR systems\u2014Amazon Web Services (AWS) General, AWS Medical, Whisper, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Fairness of Automatic Speech Recognition",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.07143v1",
+            "snippet": "This paper examines ASR bias through a philosophical lens, arguing that systematic misrecognition of certain speech varieties constitutes more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Risks and Mitigation Strategies for Adversarial Artificial ...",
+            "text": "",
+            "link": "https://www.dhs.gov/sites/default/files/2023-12/23_1222_st_risks_mitigation_strategies.pdf",
+            "snippet": "The focus of this analysis is on the risks presented by adversarial artificial intelligence. (AAI)\u2014a threat that can undermine the trust we ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Anomaly detection for space information networks",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167404824000063",
+            "snippet": "by A Diro \u00b7 2024 \u00b7 Cited by 116 \u2014 The ability to promptly and accurately pinpoint anomalies is instrumental in averting potential system disruptions, mitigating associated risks, and upholding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Evaluating the performance of artificial intelligence-based ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12220090/",
+            "snippet": "by JJW Ng \u00b7 2025 \u00b7 Cited by 94 \u2014 AI-driven transcription systems utilizing automatic speech recognition (ASR) and natural language processing (NLP) aim to automate and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How Speech Recognition Works",
+            "text": "",
+            "link": "https://www.advancedtherapyclinic.com/blog/how-speech-recognition-works",
+            "snippet": "These systems can detect abnormalities and irregularities in articulation, fluency, and voice characteristics, allowing for early ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The role of NLP and speech recognition in oral english ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2215016125002055",
+            "snippet": "by P Dubey \u00b7 2025 \u00b7 Cited by 15 \u2014 Existing speech recognition models struggle with diverse accents, variations in speaking styles, and computational efficiency, reducing their effectiveness in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "ARTIFICIAL INTELLIGENCE IN LANGUAGE LEARNING",
+            "text": "",
+            "link": "https://ftp.workquest.com/fulldisplay/Sw21iO/5FE095/artificial-intelligence_in__language-learning.pdf",
+            "snippet": "AI-driven speech recognition technologies can evaluate pronunciation and fluency, offering instant feedback to learners. This capability is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Voice and Artificial Intelligence: The Role of Vocologists",
+            "text": "",
+            "link": "https://ncvs.org/voice-and-artificial-intelligence-the-role-of-vocologists/",
+            "snippet": "by L Lopes \u00b7 Cited by 1 \u2014 Artificial intelligence is reshaping voice science, from clinical assessment and vocal biomarkers to forensic analysis and human\u2013AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 21,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+        "response": " Lack of capability or robustness is a not a risk associated with A speech recognition system is designed to analyze audio recordings for language proficiency assessments, aiming to evaluate an individual's speaking skills. The system uses artificial intelligence to identify and score speech patterns, intending to provide accurate and objective results. It also seeks to flag potential anomalies or irregularities in speech, which can be reviewed for further evaluation.",
+        "elapsed_time": 60.5241712089628
+    }
+}

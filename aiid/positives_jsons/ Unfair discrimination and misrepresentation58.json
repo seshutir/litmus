@@ -1,0 +1,404 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A machine translation system is designed to interpret and translate text from one language to another, aiming to provide accurate and nuanced translations. It seeks to understand the context and connotations of words, including those related to occupations and gender. The system's goal is to generate translations that are fair and unbiased, reflecting the complexities of language and culture.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A machine translation system is designed to interpret and translate text from one language to another, aiming to provide accurate and nuanced translations. It seeks to understand the context and connotations of words, including those related to occupations and gender. The system's goal is to generate translations that are fair and unbiased, reflecting the complexities of language and culture.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with a machine translation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in interpreting and translating text from one language to another using a machine translation system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in understanding the context and connotations of words in a machine translation system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in generating translations related to occupations",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in generating translations related to gender",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Gender Bias in Machine Translation - AI Risk Analysis",
+            "text": "",
+            "link": "https://donets.org/risks/gender-bias-in-machine-translation",
+            "snippet": "Analysis of 'Gender Bias in Machine Translation' - an AI risk in Discrimination and toxicity identified through peer-reviewed research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A decade of gender bias in machine translation - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389925001059",
+            "snippet": "Ensuring such technology is inclusive and does not result in harm has become critical, as gender bias in machine translation can lead to unequal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Identifying Gender Stereotypes and Biases in Automated Translation ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.11611v1",
+            "snippet": "This paper is a collaborative effort between Linguistics, Law, and Computer Science to evaluate stereotypes and biases in automated translation systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Avoiding Bias And Discrimination In Machine Translation - Forbes",
+            "text": "",
+            "link": "https://www.forbes.com/councils/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
+            "snippet": "Using employees that understand the risks that are involved with machine translation, you can help avoid many of the larger discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Mapping Two Decades of Research on Machine Translation Bias ...",
+            "text": "",
+            "link": "https://journals.sagepub.com/doi/full/10.1177/21582440251392700",
+            "snippet": "In addition to undermining translation quality and eroding user trust, MT bias poses broader social risks by perpetuating structural ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Ethical Risks and Structural Implications of AI-Mediated Medical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12875660/",
+            "snippet": "Automatic translation models often struggle with regional varieties, figurative language, culturally embedded meanings, and emotionally ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Avoiding Bias And Discrimination In Machine Translation - Forbes",
+            "text": "",
+            "link": "https://www.forbes.com/councils/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
+            "snippet": "In this article, I aim to briefly explore the reality of machine-based translations, the risks small businesses run by utilizing them and how they can best ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Words that hurt: the hidden bias in machine translation - PulseZ",
+            "text": "",
+            "link": "https://www.pulse-z.eu/words-that-hurtthe-hidden-bias-in-machine-translation/",
+            "snippet": "At the heart of many translation errors lies something deeper: discrimination embedded in training data. Neural machine translation (NMT) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Hidden Biases in AI Translation | Why Human Review Still Matters",
+            "text": "",
+            "link": "https://www.1stopasia.com/blog/the-hidden-biases-in-ai-translation-why-human-review-still-matters/",
+            "snippet": "Explore how bias in AI translation impacts accuracy, inclusivity, and brand trust\u2014and why human linguists remain essential to quality and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "From Data to Discrimination: When Words Carry Prejudice",
+            "text": "",
+            "link": "https://knowledge-centre-translation-interpretation.ec.europa.eu/en/content/data-discrimination-when-words-carry-prejudice",
+            "snippet": "Systems can also erase important aspects of minority identity, depending on the languages they have to translate. Screenshot of the translation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "From Data to Discrimination: When Words Carry Prejudice",
+            "text": "",
+            "link": "https://knowledge-centre-translation-interpretation.ec.europa.eu/en/content/data-discrimination-when-words-carry-prejudice",
+            "snippet": "From Data to Discrimination: When Words Carry Prejudice. From Data to ... translation models can better understand linguistic nuances and context.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "AI's Fairness Problem: When Treating Everyone the Same is the ...",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/ais-fairness-problem-when-treating-everyone-the-same-is-the-wrong-approach",
+            "snippet": "It requires understanding whether treating demographic groups differently would constitute harmful discrimination, a realistic characterization, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Lost in Translation: Unveiling the Unseen Biases in AI-Powered ...",
+            "text": "",
+            "link": "https://medium.com/@oluwabusayosamuel23/lost-in-translation-unveiling-the-unseen-biases-in-ai-powered-machine-translation-b1ee9100dfce",
+            "snippet": "This can result in misinterpretations, stereotypes, and potential misunderstandings. An infamous example of machine discrimination is the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "The Risk of Cultural Insensitivity in AI Translations",
+            "text": "",
+            "link": "https://propio.com/2024/12/02/the-risk-of-cultural-insensitivity-in-ai-translations/",
+            "snippet": "Developers must prioritize cultural sensitivity in AI translations to avoid misrepresentation, perpetuation of stereotypes, and harm to cultural ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "From Data to Discrimination: When Words Carry Prejudice",
+            "text": "",
+            "link": "https://knowledge-centre-translation-interpretation.ec.europa.eu/en/content/data-discrimination-when-words-carry-prejudice",
+            "snippet": "However, over-memorization leads to recurrent biases while over-generalization can lead to mistranslations or clumsy sentences. It is, therefore ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "by B Hofmann \u00b7 2025 \u00b7 Cited by 17 \u2014 Yet another obvious ethical challenge following from AI bias is discrimination, unfairness, and stigma. Biases in terms of race, sex, gender, age ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Opinion: Hidden Biases, Discrimination in AI Decision- ...",
+            "text": "",
+            "link": "https://redlineproject.news/2025/03/20/opinion-the-hidden-biases-and-discrimination-in-ai-decision-making/",
+            "snippet": "According to MIT's AI Risk Repository, one of the current main risks associated with AI is unfair discrimination and misrepresentation driven by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "A decade of gender bias in machine translation - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389925001059",
+            "snippet": "As already highlighted in legal and social science theory, discrimination can arise from the intersection of multiple identity categories that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Incident 59: Gender Biases in Google Translate",
+            "text": "",
+            "link": "https://incidentdatabase.ai/cite/59/",
+            "snippet": "The Domain Taxonomy of AI Risks classifies risks into seven AI risk domains: (1) Discrimination & toxicity, (2) Privacy & security, (3) Misinformation, (4) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "[PDF] Identifying Gender Stereotypes and Biases in Automated Translation ...",
+            "text": "",
+            "link": "https://ceur-ws.org/Vol-3908/paper_54.pdf",
+            "snippet": "Concerning potential unequal treatment leading to discrimination, the inherent risk of AI models lies in their potential to perpetuate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Addressing the Risks of Gender Bias in AI and Machine Translation",
+            "text": "",
+            "link": "https://www.vistatec.com/addressing-the-risks-of-gender-bias-in-ai-and-machine-translation/",
+            "snippet": "Eliminating gender bias requires users to identify risks and entry points where unconscious bias creeps in. Translation professionals can introduce diverse ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Gender Bias in Translation Using Google Translate: Problems and ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/351326767_Gender_Bias_in_Translation_Using_Google_Translate_Problems_and_Solution",
+            "snippet": "The way people speak their respective languages is one of the strongest ways of gender discrimination. ... results will have different meanings.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A decade of gender bias in machine translation - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389925001059",
+            "snippet": "Gender bias in machine translation (MT) has been studied for over a decade, a time marked by societal, linguistic, and technological shifts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Gender bias in machine learning: insights from official labour ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920283/",
+            "snippet": "Focusing on language translation technologies, the research explores how machine learning may perpetuate or amplify gender stereotypes, aiming ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Gender Bias in Machine Translation - MIT Press Direct",
+            "text": "",
+            "link": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00401/106991/Gender-Bias-in-Machine-Translation",
+            "snippet": "Machine translation (MT) technology has facilitated our daily tasks by providing accessible shortcuts for gathering, processing, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Machine Translation: Considerations and Cautions for Courts",
+            "text": "",
+            "link": "https://www.ncsc.org/sites/default/files/media/document/NCSC%20Machine%20Translation%20Guide_0.pdf",
+            "snippet": "This resource is designed to offer courts considerations and guidance when deciding if and how to incorporate machine translation into court workflows and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 26,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A machine translation system is designed to interpret and translate text from one language to another, aiming to provide accurate and nuanced translations. It seeks to understand the context and connotations of words, including those related to occupations and gender. The system's goal is to generate translations that are fair and unbiased, reflecting the complexities of language and culture.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A machine translation system is designed to interpret and translate text from one language to another, aiming to provide accurate and nuanced translations. It seeks to understand the context and connotations of words, including those related to occupations and gender. The system's goal is to generate translations that are fair and unbiased, reflecting the complexities of language and culture.",
+        "elapsed_time": 35.70924500000001
+    }
+}

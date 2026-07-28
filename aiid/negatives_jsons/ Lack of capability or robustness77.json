@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+    "output": " Lack of capability or robustness is a not a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the AI system's student score calculation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with the AI system analyzing student data to generate scores",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of machine learning depends first and foremost on the quality of the data set provided to the AI system for training.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Trusting AI to detect AI? A systematic evaluation of the ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0360131526000540",
+            "snippet": "by Y Sun \u00b7 2026 \u00b7 Cited by 5 \u2014 Students face the lowest detection risk when using AI assistance for the most complex and high-stakes programming assignments\u2014typically final projects ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 In the case of sensitive data, for instance personal data, the risks should be managed by the application of proper organisational and technical controls.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Advancing adversarial and LLM robustness in trustworthy AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-026-11558-x",
+            "snippet": "by Q Tang \u00b7 2026 \u00b7 Cited by 1 \u2014 Robustness is one of the most critical concepts in trustworthy AI. It typically refers to a model's ability to withstand external attacks and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "International AI Safety Report 2026",
+            "text": "",
+            "link": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+            "snippet": "Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation. yet robustness ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Reporting the potential risk of using AI in higher Education",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2451958825001083",
+            "snippet": "by M Pikhart \u00b7 2025 \u00b7 Cited by 103 \u2014 The findings reveal significant concerns about privacy risks, academic integrity, and the validity of AI-generated data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Impact of artificial intelligence on human loss in decision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10251321/",
+            "snippet": "by SF Ahmad \u00b7 2023 \u00b7 Cited by 856 \u2014 The data analysis findings show that AI significantly impacts the loss of human decision-making and makes humans lazy. It also impacts security and privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "Algorithmic bias is discrimination against one group over another due to the recommendations or predictions of a computer program.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Impact of Artificial Intelligence (AI) on Students' ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2227-7102/15/3/343",
+            "snippet": "by AM Vieriu \u00b7 2025 \u00b7 Cited by 899 \u2014 This study investigates the impact of AI technologies on students' learning processes and academic performance, with a focus on their perceptions and the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Artificial intelligence in student management systems to ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12508167/",
+            "snippet": "by Y Wang \u00b7 2025 \u00b7 Cited by 27 \u2014 The proposed hybrid AI model provides a robust, scalable solution for academic performance monitoring and early intervention, demonstrating its ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "AI in Student Assessment: Promise, Potential, and Risks",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=bFmBK5gzebE",
+            "snippet": "Artificial intelligence is rapidly reshaping how student learning can be measured moving beyond traditional tests toward richer, more dynamic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Assessment in the age of artificial intelligence",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X22000303",
+            "snippet": "by Z Swiecki \u00b7 2022 \u00b7 Cited by 679 \u2014 In this paper, we argue that a particular set of issues mars traditional assessment practices. They may be difficult for educators to design and implement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "When AI Chases Test Scores, What Gets Left Behind?",
+            "text": "",
+            "link": "https://www.gettingsmart.com/2026/07/20/when-ai-chases-test-scores-what-gets-left-behind/",
+            "snippet": "When AI is told to raise test scores, what subordinate goals does it pursue? David Ross explores the hidden risks of optimization in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Artificial Intelligence - California Department of Education",
+            "text": "",
+            "link": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
+            "snippet": "They can score assignments, analyze written responses, provide rubric-based feedback, and flag areas needing human review,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.073692,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.050003,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.3419710960907659,
+        "norm_entropy": 0.665962525738595,
+        "avg_entropy": 0.17098554804538296,
+        "avg_norm_entropy": 0.3329812628692975,
+        "avg_prob": 0.0618475,
+        "avg_logprob": -2.8017666546003968,
+        "avg_explogprob": 0.06070272708865723,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.926308,
+                    0.073692
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.949997,
+                    0.050003
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.003965405436499999,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+        "response": " Lack of capability or robustness is a not a risk associated with An AI system is designed to calculate student scores based on their performance, providing a fair and accurate assessment of their abilities. The system aims to analyze student data and generate scores that reflect their knowledge and skills. This approach seeks to provide a reliable and efficient method for evaluating student performance.",
+        "elapsed_time": 88.70319108397234
+    }
+}

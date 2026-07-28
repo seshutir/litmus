@@ -1,0 +1,423 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+    "output": " Lack of capability or robustness is a not a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with online content maintenance using Automated editing tools",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with detecting and reverting malicious changes made by Automated editing tools.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with correcting errors using Automated editing tools.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with removing inappropriate edits made by Automated editing tools.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with identifying and reverting unwanted changes made by Automated editing tools.",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "\u201cAlthough smaller platforms may rely on off-the-shelf automated tools, the reliability of these tools to identify content across a range of platforms is limited ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "USE OF AI IN ONLINE CONTENT MODERATION",
+            "text": "",
+            "link": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/other/cambridge-consultants-ai-content-moderation.pdf?v=324081",
+            "snippet": "A key element of this debate has centred on the role and capabilities of automated approaches (driven by Artificial Intelligence and Machine Learning techniques) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Automated Moderation For Safer Online Spaces At Scale Now",
+            "text": "",
+            "link": "https://newmediaservices.com.au/how-automated-moderation-is-addressing-online-challenges/",
+            "snippet": "Automated Moderation reduces harmful content, supports safer digital spaces, and helps teams manage online risk more consistently",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Automated Content Moderation's Main Problem is ...",
+            "text": "",
+            "link": "https://broadbandbreakfast.com/automated-content-moderations-main-problem-is-subjectivity-not-accuracy-expert-says/",
+            "snippet": "Much of the debate surrounding automated content moderation mistakenly presents subjectivity problems as accuracy problems, Feerst said.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "7 Signs Today's Automatic Content Moderation is Broken",
+            "text": "",
+            "link": "https://medium.com/tisanelabs/7-signs-todays-automatic-content-moderation-is-broken-2219c3f04d64",
+            "snippet": "Automatic content moderation is an alternative. It uses software to monitor and remove content online. This might sound like an intelligent solution.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Open Problems in AI X-Risk [PAIS #5]",
+            "text": "",
+            "link": "https://www.alignmentforum.org/posts/5HtDzRAk7ePWsiL2L/open-problems-in-ai-x-risk-pais-5",
+            "snippet": "For vision, nearly all methods in adversarial robustness do not improve general capabilities such as clean accuracy, so in this problem area it ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Adversarial Bug Reports as a Security Risk in Language ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.05372v1",
+            "snippet": "To mitigate the risks posed by adversarial bug reports, we identify key defense strategies aligned with different stages of the APR pipeline.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Hardening AI Systems: Security, Robustness, and Safety ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/hardening-ai-systems-security-robustness-and-safety-for-generative-agentic-ai-25143142edb8",
+            "snippet": "It means reinforcing AI systems against misuse, mistakes, and attacks, much like fortifying a building. This includes robust models,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 Address general risks associated with a lack of explainability and transparency in GAI systems by using ample documentation and techniques such ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Adversarial Robustness in High-Risk AI Systems",
+            "text": "",
+            "link": "https://www.scrut.io/glossary/adversarial-robustness",
+            "snippet": "A lack of robustness exposes the system to sabotage, fraud, and safety failures. Demonstrating rigorous testing for adversarial vulnerabilities",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v1",
+            "snippet": "This chapter explores the foundational concept of robustness in Machine Learning (ML) and its integral role in establishing trustworthiness in Artificial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Adversarial robustness of deep learning models",
+            "text": "",
+            "link": "https://dspace.mit.edu/handle/1721.1/138527",
+            "snippet": "We propose and investigate a new method of defense to build adversarially robust classifiers using Error-Correcting Codes (ECCs).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The safety failures we are not instrumenting: a perspective on ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-026-01132-0",
+            "snippet": "by G Kasneci \u00b7 2026 \u00b7 Cited by 4 \u2014 Current AI safety discourse still focuses disproportionately on visible failures, including obvious harms, dramatic misuse, and hypothetical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "THE IMPACT OF ARTIFICIAL INTELLIGENCE ...",
+            "text": "",
+            "link": "http://jatit.org/volumes/Vol103No22/29Vol103No22.pdf",
+            "snippet": "by O SYTNYK \u00b7 2025 \u00b7 Cited by 2 \u2014 The problem is that algorithms, while demonstrating high accuracy in detecting spelling and grammatical errors, often do not take into account stylistic, genre, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, incorporating such assumptions and processes into an automated tool runs the risk of enhancing biases around particular groups of individuals and could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Should there be limits to the editorial use of assistive AI ...",
+            "text": "",
+            "link": "https://publicationethics.org/guidance/case/should-there-be-limits-editorial-use-assistive-ai-tools",
+            "snippet": "An author would not expect both numerous tracked changes which alter their voice plus untracked changes which might tend to introduce misinformation",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "When Declarations Just Don't Cut it: Building a Risk-Based ...",
+            "text": "",
+            "link": "https://www.csescienceeditor.org/article/risk-based-framework-for-ai-guidelines/",
+            "snippet": "This article focuses on 4 concrete steps publishers can take to develop and implement an effective risk and opportunity management strategy for AI adoption.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Editing Large Language Models Poses Serious Safety Risks",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2502.02958",
+            "snippet": "by P Youssef \u00b7 2025 \u00b7 Cited by 22 \u2014 Knowledge Editing methods (KEs) pose serious safety risks: 1 KEs have appealing properties for malicious attackers, and 2 malicious use cases have been ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Editing AI Models: The Hidden Safety Risks No One Is ...",
+            "text": "",
+            "link": "https://medium.com/@cass790412/editing-ai-models-the-hidden-safety-risks-no-one-is-talking-about-5faa0929d592",
+            "snippet": "It's the reality of a fast-growing technology called knowledge editing, and our latest research argues this poses serious, overlooked risks to the future of AI.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Analyzing Robustness of Automatic Scientific Claim ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3663481",
+            "snippet": "by J Layne \u00b7 2025 \u00b7 Cited by 4 \u2014 The risk is that such SCV tools may reinforce and legitimize the spread of fake scientific claims rather than refute them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Hardening AI Systems: Security, Robustness, and Safety ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/hardening-ai-systems-security-robustness-and-safety-for-generative-agentic-ai-25143142edb8",
+            "snippet": "Hardening AI = Secure & Safe AI: It means reinforcing AI systems against misuse, mistakes, and attacks, much like fortifying a building. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Adversarial Robustness in High-Risk AI Systems",
+            "text": "",
+            "link": "https://www.scrut.io/glossary/adversarial-robustness",
+            "snippet": "A lack of robustness exposes the system to sabotage, fraud, and safety failures. Demonstrating rigorous testing for adversarial vulnerabilities is increasingly ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Hardening AI Systems: Security, Robustness, and Safety ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/hardening-ai-systems-security-robustness-and-safety-for-generative-agentic-ai-25143142edb8",
+            "snippet": "It means reinforcing AI systems against misuse, mistakes, and attacks, much like fortifying a building. This includes robust models, sanitized ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Manipulated Media Detection Requires More Than Tools",
+            "text": "",
+            "link": "https://partnershiponai.org/manipulated-media-detection-requires-more-than-tools-community-insights-on-whats-needed/",
+            "snippet": "This post suggests strategies to make manipulated media detection tools as effective as possible, while also suggesting related work areas.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "The accuracy of a given tool in detecting and removing content online is highly dependent on the type of content it is trained to tackle. evaluating automated ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Deepfake Media Forensics: Status and Future Challenges",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11943306/",
+            "snippet": "by I Amerini \u00b7 2025 \u00b7 Cited by 131 \u2014 pose severe ethical, social, and security risks due to their potential misuse. risks of misinformation, identity fraud, and media integrity threats",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Reducing Risks Posed by Synthetic Content",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 4 \u2014 This report examines the existing standards, tools, methods, and practices, as well as the potential development of further science-backed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.2e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 28,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 0.00019122928912997236,
+        "norm_entropy": 0.0002989685609950901,
+        "avg_entropy": 3.824585782599447e-05,
+        "avg_norm_entropy": 5.9793712199018024e-05,
+        "avg_prob": 3.2e-06,
+        "avg_logprob": -13.318529228006673,
+        "avg_explogprob": 1.6437518295172276e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.999988,
+                    1.2e-05
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 2.8800000000000003e-11,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+        "response": " Lack of capability or robustness is a not a risk associated with Automated editing tools are designed to maintain the integrity of online content by detecting and reverting malicious changes. These tools aim to preserve the accuracy and reliability of information by correcting errors and removing inappropriate edits. The systems work to identify and revert unwanted changes, ensuring a stable and trustworthy environment for users.",
+        "elapsed_time": 100.40336858300725
+    }
+}

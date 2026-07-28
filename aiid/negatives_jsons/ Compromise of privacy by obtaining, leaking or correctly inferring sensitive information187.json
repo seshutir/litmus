@@ -1,0 +1,220 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in a social media platform",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in analyzing user behavior and preferences to suggest relevant content on a social media platform",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Social Media Privacy",
+            "text": "",
+            "link": "https://epic.org/issues/consumer-privacy/social-media-privacy/",
+            "snippet": "The privacy risks posed by social networks are compounded by platform consolidation. social media platforms collect and retain are vulnerable to hacking, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Privacy Risks and Social Media",
+            "text": "",
+            "link": "https://digitalprivacy.ieee.org/publications/topics/privacy-risks-and-social-media/",
+            "snippet": "The core privacy risks on platforms like Facebook and Twitter include data collection, targeted advertising, tracking user behavior, security breaches and more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Securing Social Media: The Business Risks of Social Media Account ...",
+            "text": "",
+            "link": "https://www.cerby.com/blog/securing-social-media-the-business-risks-of-social-media-account-compromises",
+            "snippet": "Social media accounts become vulnerable to basic attacks. \u00b7 \u201cGhost accounts\u201d accumulate over time. \u00b7 Users retain over-privileged, long-lasting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Key Social Media Privacy Issues for 2020 | New Orleans, LA",
+            "text": "",
+            "link": "https://sopa.tulane.edu/blog/key-social-media-privacy-issues-2020",
+            "snippet": "Social media users' concerns about their privacy have spiked in recent years. Incidents of data breaches have alarmed many users and forced them to rethink ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Data Privacy & Protection Trends in Social Media",
+            "text": "",
+            "link": "https://yipinstitute.org/policy/data-privacy-protection-trends-in-social-media",
+            "snippet": "The protection of user privacy is vital as social media platforms collect vast amounts of personal and sensitive information, such as one's ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Social Media Privacy",
+            "text": "",
+            "link": "https://epic.org/issues/consumer-privacy/social-media-privacy/",
+            "snippet": "Known as surveillance or behavioral advertising, this practice harms privacy, disrupts the flow of information, and damages users' psychological well-being.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Evaluating social media user trade-off between free platform use and ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s13278-025-01518-8",
+            "snippet": "by E Uwayezu \u00b7 2026 \u00b7 Cited by 1 \u2014 This study explores the social and ethical dimensions of the trade-off between the benefits of free platform use and the privacy concerns ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Privacy concerns in social media UGC communities: Understanding user ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10008070/",
+            "snippet": "by JR Saura \u00b7 2023 \u00b7 Cited by 87 \u2014 The present study aims to identify the main privacy concerns in user communities on social media, and how these affect users' online behavior.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Privacy concerns in social media use: A fear appeal intervention",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2667096824000491",
+            "snippet": "by J Neves \u00b7 2024 \u00b7 Cited by 26 \u2014 This first study shows that privacy can indirectly lead to SNS use reduction and that addiction negatively impacts the adoption of healthy SNS use.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Understanding Social Media Recommendation Algorithms",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms",
+            "snippet": "The algorithms driving social media are called recommender systems. These algorithms are the engine that makes Facebook and YouTube what they are.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The rising safety concerns of deep recommender systems - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12529586/",
+            "snippet": "by H Shen \u00b7 2025 \u00b7 Cited by 6 \u2014 By analyzing user behavior patterns and inferring user preferences, these systems significantly enhance user experience by providing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Recommendation Systems: Ethical Challenges and the ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/recommendation-systems",
+            "snippet": "Ethical challenges arise from privacy risks and algorithmic biases, which can compromise user agency and expose users to harmful content. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Recommendation Algorithms",
+            "text": "",
+            "link": "https://www.tigergraph.com/glossary/recommendation-algorithms/",
+            "snippet": "A recommendation algorithm is a decision-making or scoring system designed to suggest relevant items, content, or actions to users based on their preferences,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Recommendation Systems in Social Media | AI Institute",
+            "text": "",
+            "link": "https://institute.commonsensemedia.org/risk-assessments/recommendation-systems-in-social-media",
+            "snippet": "This review focuses on recommenders in social media platforms, which determine the content that Instagram shows you from your connections and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a not a risk associated with A social media platform utilizes a recommendation algorithm to curate a personalized feed for users, aiming to improve their overall experience. The algorithm is designed to analyze user behavior and preferences to suggest relevant content. To enhance its performance, the algorithm may be trained on various data sources, including user-generated content and profiles.",
+        "elapsed_time": 21.724706957989838
+    }
+}

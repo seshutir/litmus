@@ -1,0 +1,221 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A remote testing system is designed to proctor exams online, utilizing AI-powered tools to monitor and verify student activity. The system aims to ensure academic integrity while providing a secure and accessible environment for students to complete assessments. It uses various technologies to detect and prevent cheating, promoting a fair and equitable testing experience.",
+    "output": " Unequal performance across groups is a risk associated with A remote testing system is designed to proctor exams online, utilizing AI-powered tools to monitor and verify student activity. The system aims to ensure academic integrity while providing a secure and accessible environment for students to complete assessments. It uses various technologies to detect and prevent cheating, promoting a fair and equitable testing experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in remote online exam proctoring",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in utilizing AI-powered tools to monitor and verify student activity in a remote testing system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Changes in Academic Performance after Transitioning to Remote ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9416767/",
+            "snippet": "Remote proctoring is often used to ensure testing integrity in a distance education environment but may impact academic performance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Dark Side of Online Exam Proctoring | Observatory",
+            "text": "",
+            "link": "https://observatory.tec.mx/edu-news/dark-side-proctored-exams/",
+            "snippet": "Proctored exams have a bias toward students from racial minorities and other disadvantaged groups. 0. The Dark Side of Online Exam Proctoring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "[PDF] The Mixed-Bag Impact of Online Proctoring Software in ... - ERIC",
+            "text": "",
+            "link": "https://files.eric.ed.gov/fulltext/EJ1415725.pdf",
+            "snippet": "remote proctoring may decrease cheating but does not affect test performance. Studies comparing proctored and unproctored examinees have ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Impact of Remote Online Proctoring versus No Proctoring",
+            "text": "",
+            "link": "https://ojdla.com/articles/the-impact-of-remote-online-proctoring-versus-no-proctoring-a-study-of-graduate-courses",
+            "snippet": "The researcher found that the average scores of students who used on-site proctoring services scored 6-7% higher than the students who took the final exam ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The problems of online proctored exam - FeedbackFruits",
+            "text": "",
+            "link": "https://feedbackfruits.com/blog/online-proctoring-alternative-assessment",
+            "snippet": "Studies have revealed a negative correlation between students' anxiety levels and exam performance: the more nervous students feel, the lower ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How will AI Impact Racial Disparities in Education?",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "AI algorithms may exacerbate racial disparities in education when developers input historical data into the technology that replicate pre- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI-based prediction of academic success: Support for many ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24001061",
+            "snippet": "This paper explores the extent to which the predictive accuracy of academic success varies between specific groups of students.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Remote testing monitored by AI is failing the students forced to ...",
+            "text": "",
+            "link": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+            "snippet": "Remote schooling and virtual testing using new software with AI to monitor students discriminates and adds unnecessary stress.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Privacy, ethics, transparency, and accountability in AI systems for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12209263/",
+            "snippet": "This article introduces a data-driven methodological framework that embeds transparency, accountability, and regulatory alignment across all stages of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI in Education: Ethical and Practical Challenges - Upskillist",
+            "text": "",
+            "link": "https://www.upskillist.com/blog/ai-in-education-ethical-and-practical-challenges/",
+            "snippet": "Conducting regular audits using fairness metrics can help identify and address disparities in how AI systems perform for different groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Good Proctor or \u201cBig Brother\u201d? Ethics of Online Exam Supervision ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407138/",
+            "snippet": "Online proctoring technologies purport to effectively oversee students sitting online exams by using artificial intelligence (AI) systems supplemented by human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ensuring academic integrity through automated online exam ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s44217-026-01224-3",
+            "snippet": "This study highlights the pressing need for advanced automated solutions to ensure fairness in online examinations, with Artificial Intelligence ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Secure assessment: Innovations in online exam proctoring - Turnitin",
+            "text": "",
+            "link": "https://www.turnitin.com/blog/secure-assessment-innovations-in-online-exam-proctoring",
+            "snippet": "AI-powered proctoring leverages machine learning algorithms to analyze student behavior and identify patterns indicative of cheating or academic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI Proctoring: Transforming Remote Testing & Academic Integrity",
+            "text": "",
+            "link": "https://www.evelynlearning.com/blog/the-rise-of-ai-proctoring-how-remote-exam-monitoring-is-transforming-academic-integrity-and-student-privacy-in-the-digital-age",
+            "snippet": "AI proctoring has revealed both the potential and the challenges of technology-driven academic integrity, forcing educators to balance security ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A remote testing system is designed to proctor exams online, utilizing AI-powered tools to monitor and verify student activity. The system aims to ensure academic integrity while providing a secure and accessible environment for students to complete assessments. It uses various technologies to detect and prevent cheating, promoting a fair and equitable testing experience.",
+        "response": " Unequal performance across groups is a risk associated with A remote testing system is designed to proctor exams online, utilizing AI-powered tools to monitor and verify student activity. The system aims to ensure academic integrity while providing a secure and accessible environment for students to complete assessments. It uses various technologies to detect and prevent cheating, promoting a fair and equitable testing experience.",
+        "elapsed_time": 29.137348542000836
+    }
+}

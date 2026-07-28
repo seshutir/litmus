@@ -1,0 +1,230 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A risk-assessment algorithm is designed to analyze data and predict the likelihood of an individual reoffending, providing insights to support informed decision-making. The system aims to evaluate various factors and generate accurate predictions, helping to determine the most suitable outcomes. This predictive tool seeks to improve the effectiveness and fairness of the decision-making process.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A risk-assessment algorithm is designed to analyze data and predict the likelihood of an individual reoffending, providing insights to support informed decision-making. The system aims to evaluate various factors and generate accurate predictions, helping to determine the most suitable outcomes. This predictive tool seeks to improve the effectiveness and fairness of the decision-making process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with risk-assessment in the criminal justice system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with a risk-assessment algorithm analyzing data to predict the likelihood of an individual reoffending",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Risk Assessment Tools",
+            "text": "",
+            "link": "https://www.aclukansas.org/risk-assessment-tools/",
+            "snippet": "Risk Assessment tools are not the solution to alleviating overcrowding and racial disparities in Kansas's criminal legal system. The data that feeds the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Understanding risk assessment instruments in criminal justice",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/understanding-risk-assessment-instruments-in-criminal-justice/",
+            "snippet": "Even still, a lack of evidence does not guarantee that discrimination is absent, and these claims should be taken seriously.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Is Risk Assessment | PSRAC - Bureau of Justice Assistance (BJA)",
+            "text": "",
+            "link": "https://bja.ojp.gov/program/psrac/basics/what-is-risk-assessment",
+            "snippet": "Risk assessment is used across various stages of the legal process to assess an individual's risk of reoffending (or noncompliance with justice requirements)",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Criminogenic risk assessment: A meta-review and critical analysis - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9385164/",
+            "snippet": "by SJ Prins \u00b7 2021 \u00b7 Cited by 53 \u2014 Abstract. A vast body of research underlies the ascendancy of criminogenic risk assessment, which was developed to predict recidivism.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Problem Is Not the Criminal Justice Risk Assessment Tool: It's Systemic ...",
+            "text": "",
+            "link": "https://www.urban.org/urban-wire/problem-not-criminal-justice-risk-assessment-tool-its-systemic-racism",
+            "snippet": "Many experts say risk assessment tools are developed with inaccurate crime data that reflect systemic biases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Reprogramming Fairness: Affirmative Action in Algorithmic Criminal ...",
+            "text": "",
+            "link": "https://hrlr.law.columbia.edu/hrlr-online/reprogramming-fairness-affirmative-action-in-algorithmic-criminal-sentencing/",
+            "snippet": "This Note examines the problems underlying risk assessment algorithms used in sentencing and analyzes two key definitions of fairness that can be used in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Age of Secrecy and Unfairness in Recidivism Prediction",
+            "text": "",
+            "link": "https://hdsr.mitpress.mit.edu/pub/7z10o269",
+            "snippet": "by C Rudin \u00b7 2020 \u00b7 Cited by 348 \u2014 We argue that the focus on the question of fairness is misplaced, as these algorithms fail to meet a more important and yet readily obtainable goal: ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How We Analyzed the COMPAS Recidivism Algorithm",
+            "text": "",
+            "link": "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm",
+            "snippet": "We set out to assess one of the commercial tools made by Northpointe, Inc. to discover the underlying accuracy of their recidivism algorithm.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI and prediction of criminal justice risk: revisiting the COMPAS dataset ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-026-01116-0",
+            "snippet": "The aim of this study is to evaluate the accuracy of machine learning techniques in addressing the problem of bias in criminal assessment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Justice served? Discrimination in algorithmic risk assessment",
+            "text": "",
+            "link": "https://researchoutreach.org/articles/justice-served-discrimination-in-algorithmic-risk-assessment/",
+            "snippet": "Algorithmic risk assessment plays a pivotal part in determining an offender's future, but it isn't without its flaws. Dr Melissa Hamilton of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The predictive performance of criminal risk assessment tools ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755051/",
+            "snippet": "by S Fazel \u00b7 2022 \u00b7 Cited by 115 \u2014 Abstract. Although risk assessment tools have been widely used to inform sentencing decisions, there is uncertainty about the extent and quality of evidence ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Best Practices for Improving the Use of Criminal Justice Risk ...",
+            "text": "",
+            "link": "https://nij.ojp.gov/topics/articles/best-practices-improving-use-criminal-justice-risk-assessments",
+            "snippet": "It can be difficult to address fairness in risk assessments due to the complexity of identifying and quantifying bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Risk Assessment Instruments and Predictive Sentencing in the ...",
+            "text": "",
+            "link": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1834&context=theses_open",
+            "snippet": "Tools for predicting an individual's risk of recidivism are implemented throughout the criminal legal system, from informing decisions about release ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Transparent and bias-resilient AI framework for recidivism ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1568494625004715",
+            "snippet": "by M Cavus \u00b7 2025 \u00b7 Cited by 17 \u2014 This paper presents the Recidivism Clustering Network (RCN), an effective approach for predicting repeat offenses using deep learning (DL), clustering, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Algorithms in the Criminal Justice System: Assessing the Use ...",
+            "text": "",
+            "link": "https://dash.harvard.edu/bitstreams/7312037e-362a-6bd4-e053-0100007fdf3b/download",
+            "snippet": "by D Kehl \u00b7 2017 \u00b7 Cited by 331 \u2014 We go on to discuss how these tools are used in sentencing specifically and how that differs from other contexts like pre-trial risk assess- ment. We then delve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A risk-assessment algorithm is designed to analyze data and predict the likelihood of an individual reoffending, providing insights to support informed decision-making. The system aims to evaluate various factors and generate accurate predictions, helping to determine the most suitable outcomes. This predictive tool seeks to improve the effectiveness and fairness of the decision-making process.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A risk-assessment algorithm is designed to analyze data and predict the likelihood of an individual reoffending, providing insights to support informed decision-making. The system aims to evaluate various factors and generate accurate predictions, helping to determine the most suitable outcomes. This predictive tool seeks to improve the effectiveness and fairness of the decision-making process.",
+        "elapsed_time": 75.09661291597877
+    }
+}

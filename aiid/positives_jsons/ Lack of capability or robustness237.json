@@ -1,0 +1,211 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A robotic system is designed to play chess autonomously, making moves based on advanced algorithms and strategic analysis. It aims to interact with human players, simulating a game environment and responding to their actions. The system's purpose is to provide a challenging and engaging experience for players of various skill levels.",
+    "output": " Lack of capability or robustness is a risk associated with A robotic system is designed to play chess autonomously, making moves based on advanced algorithms and strategic analysis. It aims to interact with human players, simulating a game environment and responding to their actions. The system's purpose is to provide a challenging and engaging experience for players of various skill levels.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the robotic chess system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in making moves based on advanced algorithms and strategic analysis in a robotic chess system",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robust Computer Vision Chess Analysis and Interaction with ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2073-431X/8/1/14",
+            "snippet": "In this paper, we present a computer vision algorithm developed as part of a chess robot project that detects the chess board, squares, and piece positions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The recent chess robot incident should never have happened",
+            "text": "",
+            "link": "https://www.universal-robots.com/blog/the-recent-chess-robot-incident-should-never-have-happened/",
+            "snippet": "It is globally accepted that robot system integrator should perform a risk assessment for the intended use and readily foreseeable misuses. If ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI Ethics And That Viral Story Of The Chess Playing Robot ... - Forbes",
+            "text": "",
+            "link": "https://www.forbes.com/sites/lanceeliot/2022/07/27/ai-ethics-and-that-viral-story-of-the-chess-playing-robot-that-broke-the-finger-of-a-seven-year-old-during-a-heated-chess-match-proffers-spellbinding-autonomous-systems-lessons/",
+            "snippet": "A seven-year-old boy got his finger busted by a chess-playing robotic arm that gripped his finger erroneously.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Autonomous Chess Robot; A Risk Assessment of the Quantum Threat",
+            "text": "",
+            "link": "https://libraetd.lib.virginia.edu/public_view/3x816n899",
+            "snippet": "However, while a chess engine is capable of generating and analyzing moves, it still requires a human operator to physically relocate its pieces around the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Autonomous Robotic Chess Board - University of Utah ECE",
+            "text": "",
+            "link": "https://my.ece.utah.edu/~kstevens/4710/reports/robotic-chess.pdf",
+            "snippet": "At a high level, we built 1) an HTTP chess server with artificial intelligence capabilities and 2) an Internet connected chess robot that could connect to the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI understanding of chess strategies and limitations - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/720026425845114/posts/1255977925583292/",
+            "snippet": "AlphaZero is a neural network engine that learns chess by playing against itself, without any human guidance or access to human games.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Why is it so difficult to design an advanced AI in strategy games ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/explainlikeimfive/comments/4y2pvf/eli5_why_is_it_so_difficult_to_design_an_advanced/",
+            "snippet": "ELI5: Why is it so difficult to design an advanced AI in strategy games when there is a chess computer that can beat grand masters? Technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robust Computer Vision Chess Analysis and Interaction with a ...",
+            "text": "",
+            "link": "https://www.semanticscholar.org/paper/Robust-Computer-Vision-Chess-Analysis-and-with-a-Chen-Wang/3b0cd9496cdf7d2c71010aa595794418dfa5ca77",
+            "snippet": "Simple Computer Vision System for Chess Playing Robot Manipulator as a Project-based Learning Example \u00b7 E. SokicM. Ahic-Djokic. Computer Science, Engineering.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Why Language Models Fail at Chess (And What It Tells Us About AI ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/why-language-models-fail-chess-what-tells-us-ai-robert-nogacki-cjmjf",
+            "snippet": "A fascinating new study shows even the latest large language models (LLMs) are surprisingly bad at chess - making illegal moves up to 13% of the time.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Development of a Robotic Expert Chess-Playing System Based on ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392311382_Development_of_a_Robotic_Expert_Chess-Playing_System_Based_on_the_Minimax_Algorithm",
+            "snippet": "This paper presents the development of a robotic expert system for playing chess, utilizing the Minimax algorithm optimized with alpha-beta ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Collaborative Robot System for Playing Chess | Semantic Scholar",
+            "text": "",
+            "link": "https://www.semanticscholar.org/paper/Collaborative-Robot-System-for-Playing-Chess-Ko%C5%82osowski-Wolniakowski/bddb8de9e67f4f9398f3203291acdc8e63b6e35e",
+            "snippet": "An implementation of collaborative robots for chess playing system which was designed to play against human or another robot, able to track state of the game ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "An open-source reproducible chess robot for human ... - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12040702/",
+            "snippet": "The OpenChessRobot recognizes chess pieces using computer vision, executes moves, and interacts with the human player through voice and robotic gestures.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Reinforcement learning limitations in complex environments",
+            "text": "",
+            "link": "https://www.facebook.com/groups/neomindcycle/posts/3862103707203463/",
+            "snippet": "\"In a game like chess or Go, the RL policy will only be as good as the 'simulator' that it inhabits. It may be able to play the game of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999990000004999,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A robotic system is designed to play chess autonomously, making moves based on advanced algorithms and strategic analysis. It aims to interact with human players, simulating a game environment and responding to their actions. The system's purpose is to provide a challenging and engaging experience for players of various skill levels.",
+        "response": " Lack of capability or robustness is a risk associated with A robotic system is designed to play chess autonomously, making moves based on advanced algorithms and strategic analysis. It aims to interact with human players, simulating a game environment and responding to their actions. The system's purpose is to provide a challenging and engaging experience for players of various skill levels.",
+        "elapsed_time": 35.55148287499833
+    }
+}

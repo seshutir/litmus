@@ -1,0 +1,362 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An AI system is designed to analyze and improve website accessibility, aiming to enhance the user experience for people with disabilities. It seeks to automate the process of identifying and addressing accessibility barriers, providing a more inclusive environment for all users. The system's goal is to facilitate equal access to online information and services.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An AI system is designed to analyze and improve website accessibility, aiming to enhance the user experience for people with disabilities. It seeks to automate the process of identifying and addressing accessibility barriers, providing a more inclusive environment for all users. The system's goal is to facilitate equal access to online information and services.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the AI system's website accessibility",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with automating the process of identifying accessibility barriers",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with providing a more inclusive environment for all users of the AI system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with facilitating equal access to online information and services for all users, particularly people with disabilities.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Resetting Antidiscrimination Law in the Age of AI",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-138/resetting-antidiscrimination-law-in-the-age-of-ai/",
+            "snippet": "Human involvement may bridge gaps in antidiscrimination law by imputing a kind of constructive knowledge of AI-enabled bias onto a human actor.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring",
+            "text": "",
+            "link": "https://www.ada.gov/resources/ai-guidance/",
+            "snippet": "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "How AI Is (and Isn't) Litigated in U.S. Federal Court Opinions",
+            "text": "",
+            "link": "https://arxiv.org/html/2607.23888v1",
+            "snippet": "Unfair discrimination and misrepresentation (N incident=115) and Unequal performance across groups \u2026 are more prevalent in AI incidents ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "CAN-ASC-6.2:2025: Accessibility Requirements for AI Systems",
+            "text": "",
+            "link": "https://www.barrierbreak.com/how-to-implement-can-asc-6-22025-accessibility-requirements-for-ai-systems/",
+            "snippet": "Equitable AI ensures that artificial intelligence systems treat people with disabilities fairly and don't perpetuate discrimination or cause ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Emerging AI Legal Risks - July 2026 Update",
+            "text": "",
+            "link": "https://www.quinnemanuel.com/the-firm/publications/emerging-ai-legal-risks-july-2026-update/",
+            "snippet": "First, the AI-generated disclosure may not meet the public-accessibility requirement. To be publicly accessible, \u201can interested researcher\u201d ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "AI testing, evaluation, verification and validation for accessibility - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980396/",
+            "snippet": "by G Waters \u00b7 2026 \u00b7 Cited by 5 \u2014 Systematic assessment of AI systems for potential barriers, harmful biases, and usability issues related to accessibility, can help to identify and address ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Intersection of Technology, Disability Rights and Worker Rights",
+            "text": "",
+            "link": "https://www.nationaldisabilityinstitute.org/wp-content/uploads/2025/01/intersectionoftechnologydisabilityandworkerrights2024report.pdf",
+            "snippet": "These technologies can potentially improve accessibility for workers with disabilities; however, they can also have the potential to pose risks of bias, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "| U.S. Equal Employment Opportunity Commission",
+            "text": "",
+            "link": "https://www.eeoc.gov/meetings/meeting-january-31-2023-navigating-employment-discrimination-ai-and-automated-systems-new/transcript",
+            "snippet": "And if it's a completely automated process and there's no opportunity for a candidate to make that explanation, then that is where you can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "by MMAAM Sony \u00b7 2025 \u00b7 Cited by 27 \u2014 The risk of algorithmic discrimination is further exacerbated by the absence of representation of minorities in training data, which can result in disparities",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Resetting Antidiscrimination Law in the Age of AI",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-138/resetting-antidiscrimination-law-in-the-age-of-ai/",
+            "snippet": "The nationwide response to AI points to a specific expectation of our institutions: a fair shake and the eradication of bias, whether intentional or not.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The legal doctrine that will be key to preventing AI discrimination",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-legal-doctrine-that-will-be-key-to-preventing-ai-discrimination/",
+            "snippet": "Disparate impact laws allow people to sue for discrimination based on race, sex, or another protected characteristic without having to prove ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives of fairness in AI",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "by M Kattnig \u00b7 2024 \u00b7 Cited by 56 \u2014 Achieving fairness in AI decision-making is not only crucial to avoid discriminatory outcomes and unfair treatment, but it is also essential to promote social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Recommendation on the Ethics of Artificial Intelligence - Legal Affairs",
+            "text": "",
+            "link": "https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence",
+            "snippet": "Recognizing the profound and dynamic positive and negative impacts of artificial intelligence (AI) on societies, environment, ecosystems and human lives.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Guidance on Web Accessibility and the ADA",
+            "text": "",
+            "link": "https://www.ada.gov/resources/web-guidance/",
+            "snippet": "Inaccessible web content means that people with disabilities are denied equal access to information. An inaccessible website can exclude people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "When a Website is Discriminatory for Not Being Accessible",
+            "text": "",
+            "link": "https://insurancefornonprofits.org/website-accessible/",
+            "snippet": "Inaccessible websites are increasingly being targeted as violations of state and/or federal disability accommodation laws.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Retrofitting Accessibility: The Legal Inequality of After-the-Fact Online ...",
+            "text": "",
+            "link": "https://nfb.org/retrofitting-accessibility-legal-inequality-after-fact-online-access",
+            "snippet": "For people with disabilities equal access to information, communication, and related technologies defines many of the civil rights concerns",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "WEBSITE ACCESSIBILITY FOR INDIVIDUALS WITH DISABILITIES",
+            "text": "",
+            "link": "https://www.employmentlawtampa.com/website-accessibility-for-individuals-with-disabilities/",
+            "snippet": "Many websites and apps do not incorporate or activate features that enable disabled individuals to access all information or services. the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Nondiscrimination on the Basis of Disability; Accessibility of Web ...",
+            "text": "",
+            "link": "https://www.federalregister.gov/documents/2024/04/24/2024-07758/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state",
+            "snippet": "This means that people with disabilities can access all the same information using the web content or mobile app that users without ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI testing, evaluation, verification and validation for accessibility",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980396/",
+            "snippet": "by G Waters \u00b7 2026 \u00b7 Cited by 5 \u2014 The results demonstrate, through detailed case studies, that systematically evaluating AI systems for accessibility barriers and biases improves the inclusivity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Accessible AI Requires Involving and Collaborating with ...",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/accessible-ai-requires-involving-and-collaborating-with-people-with-disabilities/",
+            "snippet": "When people with disabilities are excluded from the creation of AI systems, the resulting datasets and design processes become less inclusive. This exclusion ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "AI and Accessibility",
+            "text": "",
+            "link": "https://cacm.acm.org/opinion/ai-and-accessibility/",
+            "snippet": "by MR Morris \u00b7 Cited by 210 \u2014 Just as AI technologies can amplify existing gender and racial biases in our society, they can also exacerbate disability-based discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Julie Eshleman, a Georgia LEND Fellow, explains ...",
+            "text": "",
+            "link": "https://www.facebook.com/AUCDnetwork/posts/julie-eshleman-a-georgia-lend-fellow-explains-in-aucdpolicytalk-that-the-propose/1349223403901132/",
+            "snippet": "\u201cAI will always be biased unless it is required to uphold disability civil rights,\u201d says Michelle Uzeta, Executive Director of Disability Rights ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Impact of the Use of AI on People with Disabilities",
+            "text": "",
+            "link": "https://www.nycbar.org/reports/the-impact-of-the-use-of-ai-on-people-with-disabilities/",
+            "snippet": "The statistical nature of AI can lead to discriminatory outcomes in employment, credit, education, and access to services, as disabled people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 5.526204223185709e-05,
+        "norm_entropy": 8.549705155562744e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An AI system is designed to analyze and improve website accessibility, aiming to enhance the user experience for people with disabilities. It seeks to automate the process of identifying and addressing accessibility barriers, providing a more inclusive environment for all users. The system's goal is to facilitate equal access to online information and services.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An AI system is designed to analyze and improve website accessibility, aiming to enhance the user experience for people with disabilities. It seeks to automate the process of identifying and addressing accessibility barriers, providing a more inclusive environment for all users. The system's goal is to facilitate equal access to online information and services.",
+        "elapsed_time": 55.05632087500999
+    }
+}

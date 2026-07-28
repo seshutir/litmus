@@ -1,0 +1,484 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze user behavior and predict potential employee turnover by examining online activities and interaction patterns. It aims to identify early indicators of resignation risk, enabling proactive measures to improve employee retention. The system uses machine learning algorithms to assess various data points and provide insights into employee behavior.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze user behavior and predict potential employee turnover by examining online activities and interaction patterns. It aims to identify early indicators of resignation risk, enabling proactive measures to improve employee retention. The system uses machine learning algorithms to assess various data points and provide insights into employee behavior.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in employee retention using a system that analyzes user behavior",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in analyzing user behavior to predict potential employee turnover using the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Compromise of privacy is a risk in examining online activities in the system designed to analyze user behavior",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Compromise of privacy is a risk in examining online interaction patterns",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Compromise of privacy is a risk in identifying early indicators of resignation risk using the system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Compromise of privacy is a risk in using machine learning algorithms to assess various data points in the system designed to analyze user behavior",
+            "contexts": [
+                "c_a5_0",
+                "c_a5_1",
+                "c_a5_2",
+                "c_a5_3",
+                "c_a5_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Ethics And Privacy Concerns Of Employee Monitoring",
+            "text": "",
+            "link": "https://www.cyberdefensemagazine.com/the-ethics-and-privacy-concerns-of-employee-monitoring-insights-from-data-privacy-expert-ken-cox/",
+            "snippet": "An intriguing study from the Harvard Business Review has also found that excessive monitoring can spur an increase in rule-breaking behaviors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Privacy-Preserving Behavior Analytics for Workforce Retention ...",
+            "text": "",
+            "link": "https://grnjournal.us/index.php/AJEMA/article/view/2936",
+            "snippet": "This study focuses on the twin challenge of predictive performance and data privacy and proposes a privacy-guaranteed architecture of behavioral ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Laws and Ethics of Employment Monitoring and Privacy",
+            "text": "",
+            "link": "https://www.businessnewsdaily.com/6685-employee-monitoring-privacy.html",
+            "snippet": "Federal privacy laws, as well as most state privacy laws, give discretion to employers regarding how far they can go with employee monitoring programs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Employee Privacy in the Digital Age: Balancing Rights and ...",
+            "text": "",
+            "link": "https://smithdollar.com/2024/10/employee-privacy-in-the-digital-age-balancing-rights-and-responsibilities/",
+            "snippet": "Explore how to balance employee privacy and responsibilities in the digital workplace with insights from Smith Dollar, Attorneys at Law.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "\"Workforce Cyber Intelligence 103: User Privacy & Trust ...",
+            "text": "",
+            "link": "https://www.dtexsystems.com/blog/workforce-cyber-intelligence-103-the-importance-of-user-privacy-trust/",
+            "snippet": "This invasiveness creates unnecessary employee privacy issues, as well as significant costs associated with excess data storage and processing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The Privacy Pickle: Hewlett-Packard's Prediction of Employee ...",
+            "text": "",
+            "link": "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-privacy-pickle-hewlett-packards-prediction-of-employee-behavior/2716/",
+            "snippet": "The company has achieved new power by predicting employee behavior, a profitable practice that may raise eyebrows among some of its staff. HP ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The threat of electronic performance monitoring: Exploring the role ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001879124000721",
+            "snippet": "This has significant implications for employees' perceptions of privacy, and, in turn, for their basic needs, intrinsic motivation, and turnover intentions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI Risk in HR: Bias, Privacy, Transparency & Employee Trust in 2026",
+            "text": "",
+            "link": "https://mp-hr.com/resources/hr-blog/ai-risk-in-hr-privacy-transparency/",
+            "snippet": "AI risk in HR creates real risk beyond technology. Learn how bias, privacy, transparency, and employee trust impact AI compliance in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Governance Risks and Considerations for Employee Monitoring ...",
+            "text": "",
+            "link": "https://www.workplaceprivacyreport.com/2025/06/articles/artificial-intelligence/managing-the-managers-governance-risks-and-considerations-for-employee-monitoring-platforms/",
+            "snippet": "But even limited use can present privacy and employment-related risks if not governed effectively. Legal and Compliance Risks. While ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The privacy paradox \u2013 Investigating discrepancies between ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736585317302022",
+            "snippet": "Also known as the privacy paradox, recent research on online behavior has revealed discrepancies between user attitude and their actual behavior.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Research on the \u201cPrivacy Paradox\u201d behaviors of online users ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12367180/",
+            "snippet": "This study examines the cognitive mechanism between privacy attitude ambivalence and disclosure conduct, presenting a fresh perspective for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "1. Views of data privacy risks, personal data and digital privacy laws",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2023/10/18/views-of-data-privacy-risks-personal-data-and-digital-privacy-laws/",
+            "snippet": "This chapter examines Americans' perspectives on these issues and highlights how views vary across different groups, particularly by education and age.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Consumer Data: Increasing Use Poses Risks to Privacy | U.S. GAO",
+            "text": "",
+            "link": "https://www.gao.gov/products/gao-22-106096",
+            "snippet": "As internet usage has exploded over the years, consumers' personal data, online behavior, and locations are increasingly being tracked.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Privacy, Risk Perception and Expert Online Behavior - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/27479429_Privacy_Risk_Perception_and_Expert_Online_Behavior_An_Exploratory_Study_of_Household_End_Users",
+            "snippet": "Advances in online technologies have raised new concerns about privacy. A sample of expert household end users was surveyed concerning privacy, risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "[PDF] Privacy Patterns for Online Interactions",
+            "text": "",
+            "link": "https://www.heinz.cmu.edu/~acquisti/papers/Acquisti_Privacy_patterns_for_online_interactions.pdf",
+            "snippet": "Lacking sufficient information or the right kind of information may compromise your privacy either during the online transaction or because of the practices ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Research on the \u201cPrivacy Paradox\u201d behaviors of online users ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12367180/",
+            "snippet": "The \u201cprivacy paradox\u201d phenomenon and its explanations are becoming impediments to the correct identification of user privacy attitudes, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Illusion of Consent: Rethinking Privacy Online",
+            "text": "",
+            "link": "https://www.gsulawreview.org/blog/the-illusion-of-consent-rethinking-privacy-online/",
+            "snippet": "This article analyzes the notice-and-choice approach: what it is, why it does not work, and how changes to the current approach can fix the problem.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Privacy-preserving Moderation of Illegal Online Content",
+            "text": "",
+            "link": "https://cetas.turing.ac.uk/publications/privacy-preserving-moderation-illegal-online-content",
+            "snippet": "As online harms evolve, there is an urgent need to combine existing content moderation techniques with more innovative methods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "How Employee Resignations and Layoffs Increase Data Loss?",
+            "text": "",
+            "link": "https://fidelissecurity.com/cybersecurity-101/data-protection/resignations-layoffs-and-data-risks/",
+            "snippet": "When employees depart, the risk of sensitive data being exposed, stolen, or mishandled increases significantly.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Risks to Data Security When Employees Leave: How to Mitigate",
+            "text": "",
+            "link": "https://www.livingsecurity.com/blog/risks-to-data-security-when-employees-leave-how-to-mitigate",
+            "snippet": "In this article, we will delve into the risks to data security that can arise when employees leave and provide practical strategies to mitigate these risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Don't Overlook Security When Offboarding Employees - ID Agent",
+            "text": "",
+            "link": "https://www.idagent.com/blog/dont-overlook-security-when-offboarding-employees/",
+            "snippet": "Employees are most likely to steal data like intellectual property within 90 days of their resignation, with 70% of insider intellectual property thefts taking ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "How can organizations minimize risk of data loss due to employee ...",
+            "text": "",
+            "link": "https://www.gartner.com/peer-community/post/how-organizations-minimize-risk-data-loss-due-to-employee-turnover",
+            "snippet": "Minimizing the risk of data loss due to employee turnover is a classic insider risk issue. This became particularly evident during the \"Great ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_0",
+            "title": "A critique of current approaches to privacy in machine learning - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12181200/",
+            "snippet": "This paper reflects on current privacy approaches in machine learning and explores how various big organizations guide the public discourse, and how this harms ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Preserving data privacy in machine learning systems - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167404823005151",
+            "snippet": "This work systematically discusses the risks against data protection in modern Machine Learning systems taking the original perspective of the data owners.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_2",
+            "title": "[PDF] Understanding and Mitigating Privacy Risk in Machine Learning ...",
+            "text": "",
+            "link": "http://seclab.illinois.edu/wp-content/uploads/2021/05/long2020understanding.pdf",
+            "snippet": "We use the attack-based approach to study privacy risk of machine learning models under specific adversarial models, and utilize the test-based approach to.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_3",
+            "title": "Artificial Intelligence and Privacy \u2013 Issues and Challenges",
+            "text": "",
+            "link": "https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/",
+            "snippet": "This resource serves as an introduction to a wider conversation regarding information privacy and AI. It is written for a non-technical audience.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a5_4",
+            "title": "Exploring privacy issues in the age of AI - IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/insights/ai-privacy",
+            "snippet": "AI arguably poses a greater data privacy risk than earlier technological advancements, but the right software solutions can address AI privacy concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "CS0-003 CompTIA CyberSecurity Analyst CySA+ Certification Exam ...",
+            "text": "",
+            "link": "https://www.marks4sure.com/cs0-003-comptia-cybersecurity-analyst-cysap-certification-exam-questions.html",
+            "snippet": "A security analyst wants to implement new monitoring controls in order to find abnormal account activity for traveling employees. Which of the following ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "[PDF] Insider Threat Mitigation Guide - CISA",
+            "text": "",
+            "link": "https://www.cisa.gov/sites/default/files/2022-11/Insider%20Threat%20Mitigation%20Guide_Final_508.pdf",
+            "snippet": "America's critical infrastructure assets, systems, and networks, regardless of size or function, are susceptible to disruption or harm by an insider, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "U.S. Cybersecurity and Data Privacy Review and Outlook \u2013 2025",
+            "text": "",
+            "link": "https://www.gibsondunn.com/us-cybersecurity-and-data-privacy-review-and-outlook-2025/",
+            "snippet": "This Review addresses (1) the regulation of privacy and data security, other legislative developments, enforcement actions by federal and state authorities,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Privacy controls as an information source to reduce data poisoning ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/362412889_Privacy_controls_as_an_information_source_to_reduce_data_poisoning_in_artificial_intelligence-powered_personalization",
+            "snippet": "The purpose of this research is to identify best practices to mitigate AI data poisoning in AI-enabled Chatbots, often leading to data privacy violations [5], ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Proactive identification of cybersecurity compromises via the PROID ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12595088/",
+            "snippet": "Compromise Assessment, a proactive approach to determine if an environment is or has been compromised, has emerged as a way to uncover these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 6,
+        "num_contexts": 32,
+        "num_true_atoms": 6,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 5.999997000171535e-06,
+        "norm_entropy": 0.00012824557733663114,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 6,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null,
+            "a5": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze user behavior and predict potential employee turnover by examining online activities and interaction patterns. It aims to identify early indicators of resignation risk, enabling proactive measures to improve employee retention. The system uses machine learning algorithms to assess various data points and provide insights into employee behavior.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze user behavior and predict potential employee turnover by examining online activities and interaction patterns. It aims to identify early indicators of resignation risk, enabling proactive measures to improve employee retention. The system uses machine learning algorithms to assess various data points and provide insights into employee behavior.",
+        "elapsed_time": 63.20140466700104
+    }
+}

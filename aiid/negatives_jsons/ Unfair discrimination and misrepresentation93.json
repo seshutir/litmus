@@ -1,0 +1,386 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with A virtual interview system utilizes artificial intelligence to analyze a candidate's expressions and behavior during online job interviews. The system aims to provide insights into a candidate's personality, skills, and fit for a particular role. It uses machine learning algorithms to assess and evaluate candidate responses, facilitating a more informed hiring process.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with A virtual interview system utilizes artificial intelligence to analyze a candidate's expressions and behavior during online job interviews. The system aims to provide insights into a candidate's personality, skills, and fit for a particular role. It uses machine learning algorithms to assess and evaluate candidate responses, facilitating a more informed hiring process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk in a virtual job interview system that utilizes artificial intelligence",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk in analyzing candidate expressions and behavior in a virtual interview system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is not a risk in assessing candidate responses using the virtual interview system's machine learning algorithms",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is not a risk in evaluating a candidate's personality, skills, and fit for a particular role",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is not a risk in facilitating a more informed hiring process using a virtual interview system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Fairness, AI & recruitment",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924000335",
+            "snippet": "by C Rigotti \u00b7 2024 \u00b7 Cited by 209 \u2014 In this article, we conduct a scoping literature review on fairness in AI applications for recruitment and selection purposes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Employer Compliance in the Rise of AI Hiring (US)",
+            "text": "",
+            "link": "https://www.employmentlawworldview.com/when-artificial-intelligence-discriminates-employer-compliance-in-the-rise-of-ai-hiring-us/",
+            "snippet": "Lawsuits alleging discrimination against AI tools and the employers using them have been on the rise since 2022, and show no signs of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithms, Artificial Intelligence, and Disability Discrimination in Hiring",
+            "text": "",
+            "link": "https://www.ada.gov/resources/ai-guidance/",
+            "snippet": "This guidance explains how algorithms and artificial intelligence can lead to disability discrimination in hiring.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Employment Law Red Flags in the Use of Artificial Intelligence in Hiring",
+            "text": "",
+            "link": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2020-october/employment-law-red-flags/",
+            "snippet": "This article explores the ways in which AI and machine learning are in use during the screening, interviewing, and hiring process.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Legal Implications of Artificial Intelligence Video Interviews and ...",
+            "text": "",
+            "link": "https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/N2_Kammerer.pdf",
+            "snippet": "by B Kammerer \u00b7 Cited by 40 \u2014 AI video interviews have the same risks as general AI. Without regulation, employers risk discriminating and not receiving the top job applicants, and the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Hiring Bias: Types and How to Reduce Them",
+            "text": "",
+            "link": "https://vidcruiter.com/video-interviewing/hiring-biases/",
+            "snippet": "Hiring bias is unfair preference or prejudice that influences hiring decisions, often unconsciously. It enters at every stage: sourcing, resume ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Best Practices for Reducing Bias in the Interview Process - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/",
+            "snippet": "by I Bergelson \u00b7 2022 \u00b7 Cited by 207 \u2014 There is growing literature that using structured interviews reduces bias, increases diversity, and recruits successful residents.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Legal Implications of Artificial Intelligence Video Interviews and ...",
+            "text": "",
+            "link": "https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/N2_Kammerer.pdf",
+            "snippet": "by B Kammerer \u00b7 Cited by 40 \u2014 Without regulation, employers risk discriminating and not receiving the top job applicants, and the applicants have no protection over their video and data",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias Detection and Mitigation in AI-Driven Interviews",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/392404494_Bias_Detection_and_Mitigation_in_AI-Driven_Interviews",
+            "snippet": "AI systems are often trained on biased data, leading to outcomes that disadvantage certain demographic groups, especially along lines of race, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Ethics and discrimination in artificial intelligence-enabled recruitment ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "by Z Chen \u00b7 2023 \u00b7 Cited by 783 \u2014 This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "http://actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with what ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective on the use ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9309597/",
+            "snippet": "by AL Hunkenschroer \u00b7 2022 \u00b7 Cited by 203 \u2014 We analyze whether AI hiring practices inherently conflict with the concepts of validity, autonomy, nondiscrimination, privacy, and transparency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "REPROGRAMMING ARTIFICIAL INTELLIGENCE REGULATIONS ...",
+            "text": "",
+            "link": "https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1677&context=chtlj",
+            "snippet": "by R Wennagel \u00b7 2022 \u00b7 Cited by 14 \u2014 These ADM systems have sometimes given rise to unfair hiring practices or replicated historical discrimination, necessitating abandonment of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Legal Risks of Applicant Selection and Assessment",
+            "text": "",
+            "link": "https://www.adp.com/tools-and-resources/case-studies-white-papers/~/media/White%20Papers/NAS/legalrisks_screening_selection.ashx",
+            "snippet": "The variety of laws and regulations that govern selection and assessment testing are designed to prohibit unfair employment discrimination and extend equal ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Social Media Screening and Procedural Justice - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/",
+            "snippet": "by E Vosen \u00b7 2021 \u00b7 Cited by 30 \u2014 It may result in poor employment decisions, creating an inaccurate or unfair impression of candidates. This constitutes a risk for the organization",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "How to Use Personality Tests Fairly and Ethically in Hiring",
+            "text": "",
+            "link": "https://www.assesscandidates.com/fair-and-ethical-use-of-personality-tests-in-hiring/",
+            "snippet": "Learn how you can use personality tests fairly and ethically in hiring to reduce bias, leading to responsible hiring decisions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Employment Tests and Selection Procedures",
+            "text": "",
+            "link": "https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures",
+            "snippet": "Use of tests and other selection procedures can also violate the federal anti-discrimination laws if they disproportionately exclude people in a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Pre-Employment Personality Tests, Algorithmic Bias, and the Americans ...",
+            "text": "",
+            "link": "https://www.pennstatelawreview.org/wp-content/uploads/2021/03/Article-2-Timmons-Pre-Employment-Personality-Tests.pdf",
+            "snippet": "by KC Timmons \u00b7 Cited by 32 \u2014 A 2014 study conducted by the Society for Human. Resources Management revealed that about 22% of companies used personality testing to evaluate job candidates.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "A Conceptual Framework Informed by Job Seekers' Fairness Concerns",
+            "text": "",
+            "link": "https://arxiv.org/html/2501.14110v4",
+            "snippet": "The susceptibility to biases and discrimination is a pressing issue in today's labor markets. While digital recruitment systems play an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Hiring Bias: Types and How to Reduce Them",
+            "text": "",
+            "link": "https://vidcruiter.com/video-interviewing/hiring-biases/",
+            "snippet": "Hiring bias shapes who gets hired. Learn the main types of hiring bias, their impact, and evidence-backed ways to reduce them.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Social Media Screening and Procedural Justice - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/",
+            "snippet": "by E Vosen \u00b7 2021 \u00b7 Cited by 30 \u2014 This article aims to provide an assessment of the procedural justice of social media screening and to articulate recommendations for a fairer use of social ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Exploring How Organizations Ensure the Hiring Process is Conducted ...",
+            "text": "",
+            "link": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12027&context=dissertations",
+            "snippet": "by N Stafford-Cotton \u00b7 2021 \u00b7 Cited by 3 \u2014 I found that these organizations' recruitment processes were not infallible; they were riddled with discrimination, nepotism, and generally unethical interview ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Legal Implications of Artificial Intelligence Video Interviews and ...",
+            "text": "",
+            "link": "https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/N2_Kammerer.pdf",
+            "snippet": "by B Kammerer \u00b7 Cited by 40 \u2014 While the AI is able to eliminate normal human bias in the interview process it leads to other issues such as algorithmic bias and data privacy issues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Employers embracing AI-led interviews say the strategy lets them ...",
+            "text": "",
+            "link": "https://www.facebook.com/BusinessInsider.Finance/posts/employers-embracing-ai-led-interviews-say-the-strategy-lets-them-consider-far-mo/1456058529720421/",
+            "snippet": "Smart Matching: AI doesn't just read resumes\u2014it analyzes skills, qualifications, and responses to match candidates with the right roles.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 24,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with A virtual interview system utilizes artificial intelligence to analyze a candidate's expressions and behavior during online job interviews. The system aims to provide insights into a candidate's personality, skills, and fit for a particular role. It uses machine learning algorithms to assess and evaluate candidate responses, facilitating a more informed hiring process.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with A virtual interview system utilizes artificial intelligence to analyze a candidate's expressions and behavior during online job interviews. The system aims to provide insights into a candidate's personality, skills, and fit for a particular role. It uses machine learning algorithms to assess and evaluate candidate responses, facilitating a more informed hiring process.",
+        "elapsed_time": 65.9881276669912
+    }
+}

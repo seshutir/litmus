@@ -1,0 +1,362 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+    "output": " Unequal performance across groups is a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a geographic information system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in allocating resources based on location-based data",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in identifying areas of need and prioritizing resource allocation in the geographic information system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in promoting equity and access by considering demographic and socioeconomic factors",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Unequal Opportunities: Examining the Bias in Geographical ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3708359.3712111",
+            "snippet": "Our study examines the biases present in LLMs recommendations of US cities and towns across three domains: relocation, tourism, and starting a business.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What Is AI Bias? Causes, Types, & Real-World Impacts - Palo Alto ...",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias",
+            "snippet": "A single global threshold can create unequal error rates across groups. Threshold policy is an algorithmic choice that shapes bias in practice. Interaction bias.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic bias in public health AI: a silent threat to equity in low ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325396/",
+            "snippet": "Consequently, health AI systems will systematically underdiagnose, misclassify, or outright ignore patterns in the non-conforming population.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Unequal Odds: Addressing and Mitigating Bias in Life Insurance",
+            "text": "",
+            "link": "https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/unequal-odds-mitigating-bias-life-insurance.pdf",
+            "snippet": "Model bias occurs when predictive algorithms yield outcomes that systematically favor or discriminate against certain groups based on flawed machine learning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Risks and Opportunities to Ensure Equity in the Application of Big ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8983486/",
+            "snippet": "Without a deeper understanding of upstream drivers, there is the risk that big data-based policies will further exacerbate inequities. The potential to address ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Consideration of Risk in Resource Allocation - AASHTO TAM Guide",
+            "text": "",
+            "link": "https://www.tamguide.com/subsection/5-1-4-consideration-of-risk-in-resource-allocation/",
+            "snippet": "In regards to resource allocation, uncertainty is inherent in variables such as data on asset conditions and performance, future funding levels and costs, how a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How to Leverage Data for Smarter Resource Allocation - CAP Index",
+            "text": "",
+            "link": "https://capindex.com/smarter-resource-allocation/",
+            "snippet": "Maximize ROI in your security budget by using objective data to prioritize and allocate your security resources effectively.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "https://www.actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "This issue brief explores the topic of discrimination in machine learning algorithms and artificial intelligence. (AI) algorithms, and the underlying data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "A geospatial approach to identifying and mapping areas of relative ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0301479724024319",
+            "snippet": "In this study, a GIS-based and scalable tool was developed, the Relative Environmental Pressure (REP) Tool, to address these challenges. The REP tool combines ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Data Meets Diversity: How Geospatial Tools Promote Social Equity",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/data-meets-diversity-how-geospatial-tools-promote-social-bhoda-fi96c",
+            "snippet": "Geospatial analysis of school locations, student demographics, and academic performance data can identify areas needing intervention. Tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Urban Disparity Analytics Using GIS: A Systematic Review",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/382224376_Urban_Disparity_Analytics_Using_GIS_A_Systematic_Review",
+            "snippet": "A comprehensive review of GIS applications in this field is essential to address the current research status, potential challenges, and future trends.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Root Causes of Health Inequity - Communities in Action - NCBI",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK425845/",
+            "snippet": "Health inequities are systematic differences in the opportunities groups have to achieve optimal health, leading to unfair and avoidable differences in health ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Spatial Inequality Analysis \u2192 Term",
+            "text": "",
+            "link": "https://pollution.sustainability-directory.com/term/spatial-inequality-analysis/",
+            "snippet": "Spatial inequality analysis fundamentally reveals how resources and opportunities are unevenly spread across places. Basic descriptive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "The Root Causes of Health Inequity - Communities in Action - NCBI",
+            "text": "",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK425845/",
+            "snippet": "pdf. Blakely TA, Kennedy BP, Kawachi I. Socioeconomic inequality in voting participation and self-rated health. ... Health risk and inequitable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The Role of Social Determinants of Health in Promoting ... - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9899154/",
+            "snippet": "Measuring the disparity between subgroups requires using different health data based on the relevant dimension of inequality (i.e., demographic, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Understanding advantaged groups' opposition to diversity, equity ...",
+            "text": "",
+            "link": "https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12666",
+            "snippet": "Social inequality exists around the world, along various group dimensions such as race/ethnicity, gender, and socio-economic status.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Promoting Equity in Public Health: Addressing Inequality and Social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12040718/",
+            "snippet": "Economic factors greatly influence health outcomes. These include poverty, income inequality, and resource availability. Poor health outcomes are more prevalent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Navigating Fairness, Bias, and Ethics in Educational AI Applications",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.18745v1",
+            "snippet": "Few pioneers introduced a fairness-aware regularizer that mitigates predictions leading to unequal opportunities, thereby ensuring balanced model performance ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Assessing spatial disparities and urban facility accessibility in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S259019822400112X",
+            "snippet": "The study focuses on spatial disparities and accessibility to urban facilities, with a specific case study conducted in Pathum Thani Province, Thailand.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Application of Geographic Information Systems (GIS) in the Study of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11312136/",
+            "snippet": "This study reviews how Geographic Information Systems (GIS) are used to research these disparities. GIS helps visualize PCa incidence, survival, and mortality ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) Geographic Information Systems (GIS) Accessibility Analysis ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/384633584_Geographic_Information_Systems_GIS_Accessibility_Analysis_of_Neighborhood_Parks_in_McDonough_County_Illinois_A_Spatial_Data_Approach",
+            "snippet": "Rural areas, in particular, demonstrate a scarcity of nearby parks, whereas urban centers show a more equitable distribution. This GIS-based ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Fair and Diverse Allocation of Scarce Resources",
+            "text": "",
+            "link": "https://par.nsf.gov/servlets/purl/10353006",
+            "snippet": "In this paper, we aim to design a fairness-aware allocation strategy that considers the trade-off between geographical diversity and social fairness ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Integrated assessment of environmental infrastructural and social ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-026-35822-w",
+            "snippet": "This study develops an integrated framework combining Geographic Information Systems (GIS), Multi-Criteria Decision Analysis (MCDA), and machine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999494,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0005088719589022582,
+        "norm_entropy": 0.006333920704548081,
+        "avg_entropy": 0.00012721798972556455,
+        "avg_norm_entropy": 0.0015834801761370203,
+        "avg_prob": 0.99987275,
+        "avg_logprob": -0.0001272820156753069,
+        "avg_explogprob": 0.9998727260843367,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.000506,
+                    0.999494
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.999747064009,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+        "response": " Unequal performance across groups is a risk associated with A geographic information system is used to allocate resources, aiming to optimize distribution and accessibility for all communities. The system's goal is to identify areas of need and prioritize resource allocation accordingly, using location-based data to inform decision-making. It seeks to promote equity and access by considering various demographic and socioeconomic factors.",
+        "elapsed_time": 48.688266416998886
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in academic success prediction using a predictive system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in analyzing various factors that contribute to a student's academic success in a predictive system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying potential challenges in a predictive system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in offering personalized recommendations to help students achieve their goals.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias and Fairness in Student Performance Prediction ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403485035_Bias_and_Fairness_in_Student_Performance_Prediction_Systems",
+            "snippet": "Measuring discrimination in algorithmic decision-making. 15. Zhang, B. H., et al. (2018). Mitigating unwanted biases with adversarial learning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Detecting Perceived Unfair Treatment Among US College ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12619020/",
+            "snippet": "Concurrently, emerging research has begun to uncover short-term behavioral correlates of discrimination experiences [39,56,57], including changes in physical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Investigating algorithmic bias in student progress monitoring",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000705",
+            "snippet": "by JA Idowu \u00b7 2024 \u00b7 Cited by 49 \u2014 We analyze the bias contribution of each data source to model discrimination with regards to age, gender, and disability. ... risk \u2013 predicting student dropouts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How will AI Impact Racial Disparities in Education?",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "Likewise, the usage of AI in education cannot ignore its tendency to perpetuate bias and discrimination. AI remains a very complex, nuanced, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Avoiding the Discriminatory Use of Artificial Intelligence",
+            "text": "",
+            "link": "https://www.ed.gov/media/document/avoiding-discriminatory-use-of-artificial-intelligence-112274.pdf",
+            "snippet": "Many of the examples included in this resource highlight conduct of schools and colleges that could also constitute discrimination without the use of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "(PDF) Bias and Fairness in Student Performance Prediction Systems",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/403485035_Bias_and_Fairness_in_Student_Performance_Prediction_Systems",
+            "snippet": "Predictive models may inadvertently reinforce existing inequalities if trained on biased data or designed without fairness considerations. This ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Investigating algorithmic bias in student progress monitoring",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000705",
+            "snippet": "This research investigates bias in AI algorithms used for monitoring student progress, specifically focusing on bias related to age, disability, and gender.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] Exploring Bias Mitigation Techniques for Predictive Analytics in ...",
+            "text": "",
+            "link": "https://indigo.uic.edu/articles/thesis/Exploring_Bias_Mitigation_Techniques_for_Predictive_Analytics_in_College_Student_Success/29048798/1/files/54497096.pdf",
+            "snippet": "Specifically focusing on college student success prediction, studies consistently reveal unfair- ness towards racially minoritized students ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How will AI Impact Racial Disparities in Education?",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "This article examines current issues that stakeholders should consider to realize the potential of AI to advance educational equity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Fairness and Bias Mitigation in Student Success Prediction Models",
+            "text": "",
+            "link": "https://www.researchsquare.com/article/rs-7899983/v1.pdf",
+            "snippet": "This study proposes a fairness-aware predictive framework that integrates bias detection, mitigation, and interpretability into all stages of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Yet another obvious ethical challenge following from AI bias is discrimination, unfairness, and stigma. ... Prediction model risk of bias assessment tool (PROBAST) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "[PDF] Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "https://www.actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination takes place when insurers consider factors that are unrelated to actuarial risk while determining whether to provide insurance to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Racism and AI: \u201cBias from the past leads to bias in the future\u201d | OHCHR",
+            "text": "",
+            "link": "https://www.ohchr.org/en/stories/2024/07/racism-and-ai-bias-past-leads-bias-future",
+            "snippet": "Past arrest data on people, often tainted by systemic racism in the criminal justice systems, can skew the future predictions of the algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What is Bias in AI? Challenges, Prevention, & Examples - Snyk",
+            "text": "",
+            "link": "https://snyk.io/articles/what-is-bias-in-ai-challenges-prevention-and-examples/",
+            "snippet": "Bias in artificial intelligence (AI) occurs when models produce unfair or inaccurate results that reflect existing inequalities in the real world, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "This paper investigates the risks of discrimination in AI recruitment tools and HR analytics, focusing on the risks of algorithmic discrimination affecting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Artificial intelligence in education: Addressing ethical challenges in ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/",
+            "snippet": "The biggest risks of integrating these algorithms in K-12 contexts are: (a) perpetuating existing systemic bias and discrimination, (b) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Thinking About Equity and Bias in AI - Edutopia",
+            "text": "",
+            "link": "https://www.edutopia.org/article/equity-bias-ai-what-educators-should-know/",
+            "snippet": "In an age where AI promises to transform education, bias remains an insidious threat, potentially exacerbating discrimination against already ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Risks of AI Algorithmic Bias in Higher Education",
+            "text": "",
+            "link": "https://www.schiller.edu/blog/risks-of-ai-algorithmic-bias-in-higher-education/",
+            "snippet": "Bias in AI algorithms describes systematic yet often unintentional errors within AI systems that lead to unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "How will AI Impact Racial Disparities in Education?",
+            "text": "",
+            "link": "https://law.stanford.edu/2024/06/29/how-will-ai-impact-racial-disparities-in-education/",
+            "snippet": "... the risk of bias and discrimination resulting from its usage. ... students by analyzing their strengths and weaknesses and providing customized ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Fairness and Bias Mitigation in Personalized AI-Driven Educational ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/400225259_Fairness_and_Bias_Mitigation_in_Personalized_AI-Driven_Educational_Systems",
+            "snippet": "identification of sensitive attributes to prevent discriminatory modeling. Algorithmic Fairness Techniques: Incorporating fairness-aware ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Investigating algorithmic bias in student progress monitoring",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000705",
+            "snippet": "... discrimination) as computer algorithms have been criticized for reinforcing existing biases and perpetuating inequalities (Kazim & Koshiyama, 2021). The A ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "Algorithmic decision-making can obscure responsibility for discriminatory outcomes by presenting them as the product of neutral computation rather than human or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Navigating Fairness, Bias, and Ethics in Educational AI Applications",
+            "text": "",
+            "link": "https://arxiv.org/html/2407.18745v2",
+            "snippet": "... present in educational data, leading to unfair or discriminatory outcomes. ... discrimination within predictive models applied in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Generative AI Ethical Considerations and Discriminatory Biases on ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/378337666_Generative_AI_Ethical_Considerations_and_Discriminatory_Biases_on_Diverse_Students_Within_the_Classroom",
+            "snippet": "e) discuss future research directions. Types of AI Ethical Risks in the Classroom. Bias and Discrimination Biases. Bias and discriminatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Algorithmic Bias Explained - The Greenlining Institute",
+            "text": "",
+            "link": "https://greenlining.org/wp-content/uploads/2021/04/Greenlining-Institute-Algorithmic-Bias-Explained-Report-Feb-2021.pdf",
+            "snippet": "Disparate Treatment: A decision-maker is liable for disparate treatment discrimination when they have a discriminatory intent or motive, or use protected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 25,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A predictive system is designed to analyze various factors that contribute to a student's academic success, aiming to provide insights for supportive interventions. The system's goal is to identify potential challenges and offer personalized recommendations to help students achieve their goals. By examining a range of factors, the system seeks to create a more holistic understanding of student success.",
+        "elapsed_time": 52.83202395800072
+    }
+}

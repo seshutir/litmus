@@ -1,0 +1,210 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An automated system is designed to analyze image content and identify explicit material, aiming to filter out inappropriate content. The system uses machine learning algorithms to categorize images and determine their suitability for different audiences. Its primary goal is to provide a safe and respectful environment for users by accurately detecting and flagging adult content.",
+    "output": " Lack of capability or robustness is a risk associated with An automated system is designed to analyze image content and identify explicit material, aiming to filter out inappropriate content. The system uses machine learning algorithms to categorize images and determine their suitability for different audiences. Its primary goal is to provide a safe and respectful environment for users by accurately detecting and flagging adult content.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the automated image content analysis system is a risk",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the system's machine learning algorithms is a risk in using them to categorize images and determine their suitability for different audiences",
+            "contexts": [
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Bias in artificial intelligence for medical imaging - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880872/",
+            "snippet": "AI in medical imaging is at risk of being compromised by several types of biases, which could adversely affect patient outcomes. \u2022 Understanding that medical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Exploring the risks of automation bias in healthcare artificial ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666449624000410",
+            "snippet": "This study conducts an in-depth review and Bowtie analysis of automation bias in AI-driven Clinical Decision Support Systems (CDSSs) within healthcare settings.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "[PDF] Five Limitations of Automated Multimedia Content Analysis",
+            "text": "",
+            "link": "https://cdt.org/wp-content/uploads/2021/05/CDT-Five-Limits-of-Automated-Multimedia-Content-Analysis.pdf",
+            "snippet": "Automated content analysis tools present some promising use cases when implemented with proper safeguards, but their limitations must also be considered in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "In the case of sensitive data, for instance personal data, the risks should be managed by the application of proper organisational and technical controls.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Monitoring machine learning models: a categorization of challenges ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666764922000303",
+            "snippet": "This study identified six categories of challenges for verification and validation of machine learning applications during production.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v2",
+            "snippet": "This chapter explores the foundational concept of robustness in Machine Learning (ML) and its integral role in establishing trustworthiness in Artificial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf",
+            "snippet": "inherited bias Arises when applications that are built with machine learning are used to generate inputs for other machine learning algorithms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "NSFW Content Detection for Safer Online Spaces | by API4AI | Medium",
+            "text": "",
+            "link": "https://medium.com/@API4AI/the-role-of-ai-in-content-moderation-detecting-nsfw-content-with-image-processing-aaaddd9cb867",
+            "snippet": "AI systems use a combination of image recognition algorithms to detect inappropriate content. These algorithms analyze visual data by breaking ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Advancing Content Moderation: Evaluating Large Language Models ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.17123v1",
+            "snippet": "This system is designed to detect inappropriate content in all types of media, such as text, images, and videos, based on provided prompts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "SHIELD: System for Harmful Explicit-Content Identification and ...",
+            "text": "",
+            "link": "https://ieeexplore.ieee.org/iel8/6287639/11323511/11406083.pdf",
+            "snippet": "ABSTRACT The surge in access to explicit content across various platforms has sparked major concerns, yet existing content filtering systems ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Sensitivity of neural networks to corruption of image classification",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7985580/",
+            "snippet": "This work investigates the sensitivity of the performance of AI-systems to labeling errors. Such investigation is performed by simulating intentional ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "In addition, automated tools are also limited in their ability to derive contextual insights from content. For example, an image recognition tool could identify ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An automated system is designed to analyze image content and identify explicit material, aiming to filter out inappropriate content. The system uses machine learning algorithms to categorize images and determine their suitability for different audiences. Its primary goal is to provide a safe and respectful environment for users by accurately detecting and flagging adult content.",
+        "response": " Lack of capability or robustness is a risk associated with An automated system is designed to analyze image content and identify explicit material, aiming to filter out inappropriate content. The system uses machine learning algorithms to categorize images and determine their suitability for different audiences. Its primary goal is to provide a safe and respectful environment for users by accurately detecting and flagging adult content.",
+        "elapsed_time": 33.86476829200183
+    }
+}

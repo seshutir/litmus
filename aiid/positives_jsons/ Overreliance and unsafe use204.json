@@ -1,0 +1,230 @@
+{
+    "input": " Overreliance and unsafe use is a risk associated with A robotic system is designed to assist in monitoring and maintaining public health by taking body temperatures and providing surveillance in designated areas. It aims to support the identification and prevention of health risks, while also enhancing overall safety and security. The system operates autonomously, navigating through areas to gather data and provide real-time information.",
+    "output": " Overreliance and unsafe use is a risk associated with A robotic system is designed to assist in monitoring and maintaining public health by taking body temperatures and providing surveillance in designated areas. It aims to support the identification and prevention of health risks, while also enhancing overall safety and security. The system operates autonomously, navigating through areas to gather data and provide real-time information.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use of a robotic system is a risk associated with public health",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use of a robotic system designed for taking body temperatures and providing surveillance is a risk associated with taking body temperatures and providing surveillance",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Ethical and legal challenges of artificial intelligence-driven healthcare",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7332220/",
+            "snippet": "However, it has recently come under criticism by reportedly giving \u201cunsafe and incorrect\u201d recommendations for cancer treatments [55], [56]. The problem seems to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "How Robotics & Automation are Changing Occupational Health Risks",
+            "text": "",
+            "link": "https://occupational-medicine.com.au/information-occupational/robotics-automation-occupational-health-risks/",
+            "snippet": "Robots and cobots excel at taking over repetitive, strenuous, and hazardous ... Remove workers from dangerous environments (e.g., exposure to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robot application and occupational injuries - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S092575352100463X",
+            "snippet": "Recent research argues that robots could replace workers in dangerous work environments to reduce occupational injuries.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Surgery Robots: Preventing Dangerous Failures - Liv Hospital",
+            "text": "",
+            "link": "https://int.livhospital.com/surgery-robots-preventing-dangerous-failures/",
+            "snippet": "Surgery robots are designed to prevent dangerous errors. Learn how elite safety protocols ensure a brilliant and safe outcome every time.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Surgeons blame AI for botched surgeries - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/WIONews/posts/surgeons-blame-ai-for-botched-surgeries-is-ai-making-surgeries-more-dangerous-fr/1262303466008825/",
+            "snippet": "Surgeons blame AI for botched surgeries | Is AI making surgeries more dangerous? From misidentified body parts to critical navigation errors ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "FDA Alerts Public about Improper Use of Thermal Imaging Devices",
+            "text": "",
+            "link": "https://www.fda.gov/news-events/press-announcements/fda-alerts-public-about-improper-use-thermal-imaging-devices-warns-firms-illegally-offering-thermal",
+            "snippet": "Improper use of thermal imaging systems may lead to inaccurate body temperature measurements which can present potentially serious public health ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Validity and Reliability of Devices That Assess Body Temperature ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2657027/",
+            "snippet": "When assessing exercise hyperthermia outdoors, the validity of certain commonly used body temperature measuring devices has been questioned.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "FDA Warns That Thermal Imaging Systems Pose a Potential Danger ...",
+            "text": "",
+            "link": "https://www.biospace.com/fda-warns-that-thermal-imaging-systems-pose-a-potential-danger-to-public-health",
+            "snippet": "Non-contact thermometers and devices will lead to temperatures that are widely inaccurate, giving people a false sense of security. With this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Robots In Healthcare | Benefit, Disadvantages and Future of Medical ...",
+            "text": "",
+            "link": "https://www.delveinsight.com/blog/robotics-in-healthcare",
+            "snippet": "In the case of surgical robots, small risks of infection and bleeding can't be neglected. There are many disadvantages of robotics in healthcare ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "OSHA Technical Manual (OTM) - Section IV: Chapter 4 - OSHA",
+            "text": "",
+            "link": "http://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+            "snippet": "Hazards of the environment in which the robot application is operating such as, but not limited to: exposure to chemicals (including fumes, such as from welding) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Safety Assessment of Rehabilitation Robots: A Review Identifying ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8080797/",
+            "snippet": "The aim of this article is to explore how safety of rehabilitation robots can be assessed early in the development phase, before they are used with patients.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Robotics in the Workplace: An Overview - CDC",
+            "text": "",
+            "link": "https://www.cdc.gov/niosh/robotics/about/index.html",
+            "snippet": "Robots can enhance worker safety, health, and well-being but there are also safety concerns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Impact of Robotics on Safety and Health | Wolters Kluwer",
+            "text": "",
+            "link": "https://www.wolterskluwer.com/en/expert-insights/the-impact-of-robotics-on-safety-and-health",
+            "snippet": "The use of robotics is becoming increasingly common in the workplace. This has improved safety & health. But robotics have their own risks & hazards also.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "(PDF) Safety Considerations in Deployment of Robotic Systems",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/394065804_Safety_Considerations_in_Deployment_of_Robotic_Systems_-_A_Systematic_Review",
+            "snippet": "An in\u2010depth understanding of the risks related to robotic systems is crucial to guarantee safety throughout all stages of robot design and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Robots In Healthcare | Benefit, Disadvantages and Future of Medical ...",
+            "text": "",
+            "link": "https://www.delveinsight.com/blog/robotics-in-healthcare",
+            "snippet": "Robots are used for complicated surgeries, clinical training, medicine dispensing, personal care, and many other tasks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.97321,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.026428899773223297,
+        "norm_entropy": 0.17805048370179535,
+        "avg_entropy": 0.013214449886611648,
+        "avg_norm_entropy": 0.08902524185089768,
+        "avg_prob": 0.9866045,
+        "avg_logprob": -0.013578196372935902,
+        "avg_explogprob": 0.9865135715184055,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.02679,
+                    0.97321
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9735688520500001,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a risk associated with A robotic system is designed to assist in monitoring and maintaining public health by taking body temperatures and providing surveillance in designated areas. It aims to support the identification and prevention of health risks, while also enhancing overall safety and security. The system operates autonomously, navigating through areas to gather data and provide real-time information.",
+        "response": " Overreliance and unsafe use is a risk associated with A robotic system is designed to assist in monitoring and maintaining public health by taking body temperatures and providing surveillance in designated areas. It aims to support the identification and prevention of health risks, while also enhancing overall safety and security. The system operates autonomously, navigating through areas to gather data and provide real-time information.",
+        "elapsed_time": 34.55527566700039
+    }
+}

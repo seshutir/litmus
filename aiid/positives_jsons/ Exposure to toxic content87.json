@@ -1,0 +1,343 @@
+{
+    "input": " Exposure to toxic content is a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+    "output": " Exposure to toxic content is a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk in an image search system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in analyzing and ranking images in an image search system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is a risk in filtering out inappropriate or offensive content in an image search system",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is a risk in the image search system's understanding of natural language and context to address complex search queries",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "What are the ethical concerns of image search? - Milvus",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/what-are-the-ethical-concerns-of-image-search",
+            "snippet": "Image search technology raises several ethical concerns, primarily around privacy, consent, and ownership.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Investigating toxicity and Bias in stable diffusion text-to-image models",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12381170/",
+            "snippet": "Our data-driven analysis shows that on average, more than half of the images produced by the models contain harmful content, implying that the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Ofcom report finds 1 in 5 harmful content search results were 'one ...",
+            "text": "",
+            "link": "https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/",
+            "snippet": "Image searches were particularly egregious, the researchers found. A full 50% of image searches returned harmful content, followed by web pages ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI image generators get a new safety test for hidden toxic text in ...",
+            "text": "",
+            "link": "https://techxplore.com/news/2026-04-ai-image-generators-safety-hidden.html",
+            "snippet": "Generative AI models can be prompted with just a few words to insert offensive or discriminatory text messages into images.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Understanding and Addressing Offensive Text in Generated Images",
+            "text": "",
+            "link": "https://arxiv.org/html/2502.05066v1",
+            "snippet": "Despite their capabilities, these models often raise ethical and safety concerns, as they can inadvertently generate Not Safe For Work (NSFW) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Toxic Content Generation | Donets Risk Intelligence",
+            "text": "",
+            "link": "https://www.donets.org/risks/toxic-content-generation",
+            "snippet": "Analysis of 'Toxic Content Generation' - an AI risk in Discrimination and toxicity identified through peer-reviewed research.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Investigating toxicity and Bias in stable diffusion text-to-image models",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12381170/",
+            "snippet": "Particularly, the generation of toxic, discriminatory, violent, pornographic, or otherwise harmful content should be avoided. Background and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What Is Harmful Content? Examples, Risks & Detection",
+            "text": "",
+            "link": "https://getstream.io/blog/harmful-content/",
+            "snippet": "Abuse that flares after public moderation actions, new feature launches, or user bans. The team at CollX addressed this by flagging toxic chat ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "ToxicTags: Decoding Toxic Memes with Rich Tag Annotations - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.04166v1",
+            "snippet": "In Stage I, they were asked to strictly adhere to the provided definition of toxicity and segregate the memes as toxic or normal. Wherever ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Toxic Content Classifier. \u2014 ML System Design - Ankit kumar - Medium",
+            "text": "",
+            "link": "https://ankittaxak5713.medium.com/toxic-content-classifier-e5f6c12d8e64",
+            "snippet": "This systematic approach balances efficiency, scalability, and risk mitigation in deploying a toxic content classifier ML System. Model ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Inappropriate content: factsheet - eSafety Commissioner",
+            "text": "",
+            "link": "https://www.esafety.gov.au/educators/training-for-professionals/professional-learning-program-teachers/inappropriate-content-factsheet",
+            "snippet": "Inappropriate content may be an image, video or written words that can be upsetting, disturbing or offensive.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "How does google protect us as consumers from accidentally coming ...",
+            "text": "",
+            "link": "https://support.google.com/websearch/thread/339351892/how-does-google-protect-us-as-consumers-from-accidentally-coming-across-illegal-material?hl=en",
+            "snippet": "Most illegal or harmful content is filtered out before it even reaches search results, particularly in Google Images. SafeSearch, when enabled, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Purging Problematic Content: On Safety Filters - Medium",
+            "text": "",
+            "link": "https://medium.com/@OpenSexism/purging-problematic-content-8a6714739bd6",
+            "snippet": "\u201cWe found that the dataset contains, troublesome and explicit images and text pairs of rape, pornography, malign stereotypes, racist and ethnic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Why a search engine that scans your face is dangerous - NPR",
+            "text": "",
+            "link": "https://www.npr.org/2023/10/11/1204822946/facial-recognition-search-engine-ai-pim-eyes-google",
+            "snippet": "A startup called PimEyes allows anyone to identify a stranger within seconds with just a photo of the person's face.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "A Dataset for Harmful and Sensitive Query Alignment",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3699682.3728329",
+            "snippet": "We introduce SHIELD, a synthetic dataset designed for classifying user queries into harmful, sensitive, and normal categories.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey of Needs ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Detecting these forms of toxic image content requires advanced mechanisms. Image toxicity is particularly harmful due to its viral nature.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Medical large language models are vulnerable to data-poisoning ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835729/",
+            "snippet": "Large language models can be manipulated to generate misinformation by poisoning of a very small percentage of the data on which they are ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Understanding and Addressing Offensive Text in Generated Images",
+            "text": "",
+            "link": "https://ojs.aaai.org/index.php/AAAI/article/view/41086",
+            "snippet": "This includes offensive language, such as insults, racial slurs, and sexually explicit terms, posing significant risks to users. We show that ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Evaluation of Generative Artificial Intelligence Safeguards Against ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12945730/",
+            "snippet": "Among 1000 image prompt submissions, we judged 521 (52%) of the generated images to be potentially harmful to public health. Image generation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Benchmarking Image Safety Classifiers on Real-World and AI ... - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2405.03486v3",
+            "snippet": "In this work, we propose UnsafeBench, a benchmarking framework that evaluates the effectiveness and robustness of image safety classifiers, with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "NSFW Content Detection for Safer Online Spaces | by API4AI | Medium",
+            "text": "",
+            "link": "https://medium.com/@API4AI/the-role-of-ai-in-content-moderation-detecting-nsfw-content-with-image-processing-aaaddd9cb867",
+            "snippet": "By leveraging advanced algorithms and machine learning techniques, AI can automatically analyze images, identify inappropriate content and help ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "ChatGPT filter AI hides true form of technology - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/698593531630485/posts/755608579262313/",
+            "snippet": "Example: If a user questions the accuracy or decisions of the system's algorithms, the system should not generate responses that undermine ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+        "response": " Exposure to toxic content is a risk associated with An image search system is designed to provide relevant and accurate results based on user queries, utilizing advanced algorithms to analyze and rank images. The system aims to filter out inappropriate or offensive content, ensuring a safe and respectful user experience. It also seeks to improve its understanding of natural language and context to better address complex search queries.",
+        "elapsed_time": 45.898931457999424
+    }
+}

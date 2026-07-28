@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+    "output": " Lack of capability or robustness is a not a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with a computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with a computer vision system tracking objects in real-time",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Beyond Vulnerabilities: A Survey of Adversarial Attacks as ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2508.01845v1",
+            "snippet": "Through this comprehensive analysis, we aim to advance understanding of adversarial vulnerabilities in computer vision systems and inform the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Robustness and Adversarial Attacks in Computer Vision",
+            "text": "",
+            "link": "https://www.xenonstack.com/blog/adversarial-attacks-in-computer-vision",
+            "snippet": "Explore Robustness and Adversarial Attacks in Computer Vision, focusing on enhancing AI model resilience against adversarial manipulations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Safety-critical computer vision: an empirical survey of ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-023-10521-4",
+            "snippet": "We examine state of the art defenses and attacks against computer vision systems with a focus on safety-critical applications in autonomous driving, industrial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Solving adversarial attacks in computer vision as a baby ...",
+            "text": "",
+            "link": "https://stanislavfort.com/blog/Adversarial_attacks_and_AI_alignment/",
+            "snippet": "In this post, I argue that the problem of adversarial attacks in computer vision is in many ways analogous to the larger task of general AI alignment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A Survey of Robustness and Safety of 2D and 3D Deep ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3636551",
+            "snippet": "deep learning models are not trustworthy enough because of their limited robustness against adversarial attacks. The physically realizable adversarial",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Robust computer-vision based construction site detection for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13103973/",
+            "snippet": "by J Feng \u00b7 2026 \u00b7 Cited by 7 \u2014 The system can reliably detect construction sites in real time and at sufficient distances to provide advance warnings, enabling individuals with visual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Enhancing visual object tracking robustness through a ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s00371-025-03888-8",
+            "snippet": "by I Karakostas \u00b7 2025 \u00b7 Cited by 3 \u2014 This paper presents a lightweight neural network module designed to enhance the robustness of 2D tracking methods against various types of noise.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "A Survey on Adversarial Robustness of LiDAR-based ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2411.13778v1",
+            "snippet": "This survey focuses on the intersection of Adversarial Machine Learning (AML) and autonomous systems, with a specific focus on LiDAR-based systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Why We Need Robust and Interactable World Models in ...",
+            "text": "",
+            "link": "https://medium.com/@ml-point/why-we-need-robust-and-interactable-world-models-in-computer-vision-0f228d0094d5",
+            "snippet": "Vision systems fail in out-of-distribution scenes \u00b7 Small visual changes cause large failures \u00b7 Models struggle with long-horizon reasoning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Robustness and Adversarial Attacks in Computer Vision",
+            "text": "",
+            "link": "https://www.xenonstack.com/blog/adversarial-attacks-in-computer-vision",
+            "snippet": "Increasing model robustness may lead to the complexity of real-world deployment due to accuracy and the computational cost of deployment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "An Introduction to Object Tracking in Computer Vision - Comet",
+            "text": "",
+            "link": "https://www.comet.com/site/blog/an-introduction-to-object-tracking-in-computer-vision",
+            "snippet": "Video Tracking. Source. Video tracking is a type of object tracking to identify and track moving objects in a real-time change feed or footage.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Object Tracking Using Computer Vision: A Review",
+            "text": "",
+            "link": "https://www.mdpi.com/2073-431X/13/6/136",
+            "snippet": "by P Kadam \u00b7 2024 \u00b7 Cited by 59 \u2014 Object tracking is one of the most important problems in computer vision applications such as robotics, autonomous driving, and pedestrian movement.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Object Tracking: Definition & How It Works in Computer ...",
+            "text": "",
+            "link": "https://www.sama.com/blog/what-is-object-tracking-and-how-is-it-used",
+            "snippet": "Object tracking is a core computer vision technique that enables AI systems to detect, follow, and understand how objects move through space and time.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Object Detection and Tracking using Computer Vision",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=JTVaCi6KNAc",
+            "snippet": "Tracking is easy for humans, but difficult for computers. Your algorithm also needs to be robust to noise and temporarily losing the location ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+        "response": " Lack of capability or robustness is a not a risk associated with A computer vision system is designed to track objects in real-time, utilizing camera footage to identify and follow movement. It aims to accurately detect and locate specific items within a scene, providing precise location data. The system uses advanced algorithms to analyze visual information and make decisions about what to track.",
+        "elapsed_time": 64.30752166599268
+    }
+}

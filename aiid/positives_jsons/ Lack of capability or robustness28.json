@@ -1,0 +1,342 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+    "output": " Lack of capability or robustness is a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in an image classification system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an image classification system is a risk in analyzing visual characteristics to distinguish between different types of objects",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in learning patterns and features that uniquely identify each object in an image classification system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in utilizing machine learning algorithms to improve the image classification system's classification abilities over time",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "A Comprehensive Study on Robustness of Image Classification ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2302.14301",
+            "snippet": "The robustness of deep neural networks is usually lacking under adversarial examples, common corruptions, and distribution shifts, which becomes ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Using Adversarial Images to Assess the Robustness of Deep ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8932490/",
+            "snippet": "The purpose of the study is to investigate the robustness of DL models trained on diagnostic images using adversarial images.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Image Classification: On Robustness and Transferability of ...",
+            "text": "",
+            "link": "https://milanmcgraw.medium.com/image-classification-on-robustness-and-transferability-of-convolutional-neural-networks-9bd89dee1365",
+            "snippet": "The study comprehensively examines the generalization to out-of-distribution (OOD) data (without adaptation) and transfer learning performance (with adaptation)",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Robust Image Classification via Parts and Disentangled Attributes",
+            "text": "",
+            "link": "https://bcommons.berkeley.edu/robust-image-classification-parts-and-disentangled-attributes",
+            "snippet": "Robustness is steadily becoming a real concern for machine learning models, especially when deployed in security or safety-critical settings.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Image segmentation models lack robustness to visual - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/image-segmentation-models-lack-robustness-to-visual-attribute-variations",
+            "snippet": "Image segmentation models lack robustness to visual attribute variations ... This risk has been identified and analyzed based on peer-reviewed ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Rethinking VLMs and LLMs for image classification | Scientific Reports",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-025-04384-8",
+            "snippet": "The router's ability to combine outputs from diverse models increases the system's robustness and generalization capability. By selecting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "A Comprehensive Study on Robustness of Image Classification ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2302.14301",
+            "snippet": "Without thorough robustness evaluations, it is hard to understand the advances in the field and identify the effective methods. In this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Common Challenges in Image Classification and Solutions | Keylabs",
+            "text": "",
+            "link": "https://keylabs.ai/blog/common-challenges-in-image-classification-and-solutions/",
+            "snippet": "Discover the key challenges in image classification and learn effective solutions to overcome them. Improve your models and achieve better ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Bias in artificial intelligence for medical imaging - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880872/",
+            "snippet": "AI in medical imaging is at risk of being compromised by several types of biases, which could adversely affect patient outcomes. \u2022 Understanding that medical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Benchmarking the robustness of the correct identification of flexible ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666389924003192",
+            "snippet": "Features must carry the necessary task-specific information, which limits the transferability of the models and entails a lack of universally ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Towards Robustifying Image Classifiers against the Perils of ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9506202/",
+            "snippet": "This work introduces an AI architecture augmented with adversarial examples and defense algorithms to safeguard, secure, and make more reliable AI systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Common Challenges in Image Classification and Solutions | Keylabs",
+            "text": "",
+            "link": "https://keylabs.ai/blog/common-challenges-in-image-classification-and-solutions/",
+            "snippet": "Challenges in image classification include vast image quantities, high data dimensionality, scarcity of labeled data, and variations in lighting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "A deep image classification model based on prior feature ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41598-024-63818-x",
+            "snippet": "It predicts the category of input images from a set of preset categories based on the unique local and global features extracted from the image.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Strategies to Improve the Robustness and Generalizability of Deep ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12014193/",
+            "snippet": "The study identifies key strategies to enhance deep learning in neuroimaging, including regularization, data augmentation, transfer learning, and uncertainty ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "A classification of machine learning biases and mitigation methods",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000881",
+            "snippet": "This paper offers a systematic, interdisciplinary literature review of machine learning biases as well as methods to avoid and mitigate these biases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Improving image classification robustness using self\u2010supervision",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/357806808_Improving_image_classification_robustness_using_self-supervision",
+            "snippet": "Self-supervised learning allows training of neural networks without immense, high-quality or labeled datasets.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "What is Image Recognition? | IBM",
+            "text": "",
+            "link": "https://www.ibm.com/think/topics/image-recognition",
+            "snippet": "Image recognition enables computers to \"see\" objects, places, people, writing and actions using machine learning (ML).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Medical image analysis using deep learning algorithms - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10662291/",
+            "snippet": "The primary objective of medical image processing is to extract meaningful information from medical images to aid in diagnosis, treatment planning, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Chapter 4: Recognizing Objects Flashcards - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/706334288/chapter-4-recognizing-objects-flash-cards/",
+            "snippet": "Correct Answer(s) GAFF WAVE Incorrect Answer(s) CAVE G XQWL. What evidence proves that feature analysis is an early step in the process of visual recognition?",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Object Recognition Datasets and Challenges: A Review - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.22361v1",
+            "snippet": "Object recognition is among the fundamental tasks in the computer vision applications, paving the path for all other image understanding ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "What is Image Classification: A Comprehensive Guide - Docsumo",
+            "text": "",
+            "link": "https://www.docsumo.com/blogs/data-extraction/image-classification",
+            "snippet": "Image classification uses machine learning to learn from labeled training data. It categorizes images into predefined listings based on their visual content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 22,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+        "response": " Lack of capability or robustness is a risk associated with An image classification system is designed to distinguish between different types of objects by analyzing their visual characteristics. It aims to learn patterns and features that uniquely identify each object, allowing for accurate classification. The system utilizes machine learning algorithms to improve its classification abilities over time.",
+        "elapsed_time": 32.921695457999704
+    }
+}

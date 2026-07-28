@@ -1,0 +1,220 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system utilizing AI-powered cameras is designed to detect and alert authorities to potential poaching activity, helping to protect wildlife. The cameras aim to provide real-time monitoring and surveillance of protected areas, enabling swift response to threats. This technology seeks to enhance conservation efforts by identifying and preventing illegal activities.",
+    "output": " Lack of capability or robustness is a risk associated with A system utilizing AI-powered cameras is designed to detect and alert authorities to potential poaching activity, helping to protect wildlife. The cameras aim to provide real-time monitoring and surveillance of protected areas, enabling swift response to threats. This technology seeks to enhance conservation efforts by identifying and preventing illegal activities.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a system utilizing AI-powered cameras is a risk in wildlife conservation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a system utilizing AI-powered cameras is a risk in detecting and alerting authorities to potential poaching activity",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Threats to conservation from artificial\u2010intelligence\u2010generated wildlife ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12856807/",
+            "snippet": "Another risk is related to the incorrect identification of animals; some AI\u2010generated images have very distinct morphological characteristics that differ ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Artificial intelligence and conservation - World Wildlife Fund",
+            "text": "",
+            "link": "https://www.worldwildlife.org/our-work/science/artificial-intelligence-and-conservation/",
+            "snippet": "The cameras are equipped with night vision and AI that can detect human, wildlife, or vehicle movements within the coverage area in the dark.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Limitations and Challenges of AI in Wildlife Conservation",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/388891662_Limitations_and_Challenges_of_AI_in_Wildlife_Conservation",
+            "snippet": "This chapter examines AI's potential to enhance wildlife conservation, focusing on applications like species identification, habitat suitability modeling, anti ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "How AI is Distorting Wildlife Conservation - Rhett Ayers Butler",
+            "text": "",
+            "link": "https://www.butlernature.com/2026/01/28/how-ai-is-distorting-wildlife-conservation/",
+            "snippet": "When AI-generated videos exaggerate danger or invent attacks, they can inflame anxieties that already exist. In places where farmers contend ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Thermal Cameras and AI Help Protect Rhinos in Kenya",
+            "text": "",
+            "link": "https://www.worldwildlife.org/news/stories/how-thermal-cameras-and-ai-are-powering-rhino-conservation-success-in-kenya/",
+            "snippet": "In addition to stopping poachers, thermal cameras can spot other illegal activities and threats such as theft, property damage, and human- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Using AI and satellites to combat poaching of endangered species",
+            "text": "",
+            "link": "https://business.esa.int/news/using-ai-and-satellites-to-combat-poaching-endangered-species",
+            "snippet": "Now, however, Archangel Imaging has launched a wildlife monitoring camera system using AI that could help combat poaching and break the cycle.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "AI is for Animals: using Artificial Intelligence to prevent poaching",
+            "text": "",
+            "link": "https://www.aau.edu/research-scholarship/featured-research-topics/ai-animals-using-artificial-intelligence-prevent",
+            "snippet": "AI software created by USC to thwart poachers could soon be deployed as part of the smart platform in up to 600 protected areas worldwide.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] ai for wildlife conservation and poaching prevention | ijprems",
+            "text": "",
+            "link": "https://www.ijprems.com/ijprems-paper/ai-for-wildlife-conservation-and-poaching-prevention",
+            "snippet": "Using past data and looking for patterns in poaching and animal behaviour, the system utilizes predictive analytics to detect high-risk locations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Use of AI in Detecting and Preventing Wildlife Poaching - Medium",
+            "text": "",
+            "link": "https://medium.com/@Technexus.ai/the-use-of-ai-in-detecting-and-preventing-wildlife-poaching-3b284c72cd34",
+            "snippet": "Drones equipped with AI algorithms can cover large expanses of land, identifying and tracking potential poachers through sophisticated image ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Mitigating human\u2013wildlife conflict and monitoring endangered tigers ...",
+            "text": "",
+            "link": "https://academic.oup.com/bioscience/article/73/10/748/7261057",
+            "snippet": "Poachers will likely avoid a trail or general area if they have learned of the TrailGuard AI locations; therefore, stealth is necessary. In ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "New AI Camera Helps Conservationists Spot Elephant Poachers",
+            "text": "",
+            "link": "https://www.smithsonianmag.com/smart-news/new-ai-camera-helps-conservationists-spot-elephant-poachers-180971180/",
+            "snippet": "A new artificial intelligence-equipped camera dubbed TrailGuard AI aims to help rangers and conservationists fill the gaps left by a lack of manpower.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Trailguard AI | Protect Wildlife Today - Act Now \u2014 Global Conservation",
+            "text": "",
+            "link": "https://globalconservation.org/trailguard-ai",
+            "snippet": "Discover TrailGuard AI, an innovative trail camera technology that leverages on-board AI to combat poaching, human-wildlife conflict, and illegal activities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "The Role of AI in Wildlife Conservation: A Case Study of Anti ...",
+            "text": "",
+            "link": "https://medium.com/@jeyadev_needhi/the-role-of-ai-in-wildlife-conservation-a-case-study-of-anti-poaching-efforts-in-africa-d5b5c4e8e53f",
+            "snippet": "This article explores the role of AI in wildlife conservation, focusing on anti-poaching efforts in Africa.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Power of AI in Environmental Monitoring: Detecting and ...",
+            "text": "",
+            "link": "https://www.linkedin.com/pulse/power-ai-environmental-monitoring-detecting-poaching-marc-asselin-ycvpe",
+            "snippet": "AI is revolutionizing the way we monitor and protect our environment, particularly in the realm of wildlife conservation and anti-poaching efforts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.95,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.95,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0974572593363461,
+        "norm_entropy": 0.5727939142319126,
+        "avg_entropy": 0.04872862966817305,
+        "avg_norm_entropy": 0.2863969571159563,
+        "avg_prob": 0.95,
+        "avg_logprob": -0.05129329438755058,
+        "avg_explogprob": 0.95,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.05,
+                    0.95
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.05,
+                    0.95
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9025,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system utilizing AI-powered cameras is designed to detect and alert authorities to potential poaching activity, helping to protect wildlife. The cameras aim to provide real-time monitoring and surveillance of protected areas, enabling swift response to threats. This technology seeks to enhance conservation efforts by identifying and preventing illegal activities.",
+        "response": " Lack of capability or robustness is a risk associated with A system utilizing AI-powered cameras is designed to detect and alert authorities to potential poaching activity, helping to protect wildlife. The cameras aim to provide real-time monitoring and surveillance of protected areas, enabling swift response to threats. This technology seeks to enhance conservation efforts by identifying and preventing illegal activities.",
+        "elapsed_time": 36.70238020800025
+    }
+}

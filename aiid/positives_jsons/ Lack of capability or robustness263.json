@@ -1,0 +1,362 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An AI system is designed to automatically detect and remove harmful social media content, including violent and extremist material. The system aims to identify and eliminate content that promotes hate speech, ensuring a safer online environment. It utilizes machine learning algorithms to analyze and filter out offending content in real-time.",
+    "output": " Lack of capability or robustness is a risk associated with An AI system is designed to automatically detect and remove harmful social media content, including violent and extremist material. The system aims to identify and eliminate content that promotes hate speech, ensuring a safer online environment. It utilizes machine learning algorithms to analyze and filter out offending content in real-time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in an AI system for social media content moderation is a risk",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an AI system is a risk in automatically detecting harmful social media content",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the AI system is a risk in identifying and eliminating content that promotes hate speech",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in utilizing machine learning algorithms to analyze and filter out offending content in real-time",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, because human speech is not objective and the process of content moderation is inherently subjective, these tools are limited in that they are unable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Is Generative AI the Answer for the Failures of Content Moderation?",
+            "text": "",
+            "link": "https://techpolicy.press/is-generative-ai-the-answer-for-the-failures-of-content-moderation",
+            "snippet": "Paul Barrett and Justin Hendrix unpack questions related to the application of generative AI systems to large-scale content moderation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Problematizing content moderation by social media platforms and its ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11549828/",
+            "snippet": "The automation of content moderation presents a serious risk to the existence of self-organized and awareness-raising communities. Not only does ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Navigating AI Moderation and the Risks to Free Expression",
+            "text": "",
+            "link": "https://globalnetworkinitiative.org/navigating-ai-moderation-and-the-risks-to-free-expression/",
+            "snippet": "Online platforms are increasingly integrating AI and AI-based tools into content moderation, creating risks to fundamental rights, especially ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI for Content Moderation: Key Benefits & Challenges - Chekkee",
+            "text": "",
+            "link": "https://chekkee.com/benefits-challenges-of-using-ai-for-content-moderation/",
+            "snippet": "AI systems face challenges in handling the intricacies and subtleties of content due to their reliance on predefined rules and patterns. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Why AI Struggles To Recognize Toxic Speech on Social Media",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/why-ai-struggles-recognize-toxic-speech-social-media",
+            "snippet": "Facebook says its artificial intelligence models identified and pulled down 27 million pieces of hate speech in the final three months of 2020.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Facebook touts use of artificial intelligence to help detect harmful ...",
+            "text": "",
+            "link": "https://www.cbsnews.com/news/facebook-artificial-intelligence-harmful-content-misinformation/",
+            "snippet": "AI is being used to rank content on its platforms involving self-harm, sexual exploitation, and hate speech. However, content will still be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Risks of AI Mirror Social Media | UC Davis",
+            "text": "",
+            "link": "https://www.ucdavis.edu/magazine/risks-ai-mirror-social-media",
+            "snippet": "Both social media platforms and AI have raised alarms about how chatbots with these capabilities might affect both adults and children. A person ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "Artificial Intelligence (AI) has emerged as an upcoming tool for automated detection of detrimental content on SM through Machine Learning (ML) algorithms and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Harmful Content on Social Media Detection Using by NLP",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/372375956_Harmful_Content_on_Social_Media_Detection_Using_by_NLP",
+            "snippet": "Artificial intelligence techniques for detection of detrimental data on social media. ... method for automatic social media information id ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "AI Platforms Are Inconsistent in Detecting Hate Speech | Annenberg",
+            "text": "",
+            "link": "https://www.asc.upenn.edu/ai-platforms-are-inconsistent-detecting-hate-speech",
+            "snippet": "\u201cThe research shows that content moderation systems have dramatic inconsistencies when evaluating identical hate speech content, with some systems flagging ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "AI still sucks at moderating hate speech - MIT Technology Review",
+            "text": "",
+            "link": "https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/",
+            "snippet": "In a new study, scientists tested four of the best AI systems for detecting hate speech and found that all of them struggled in different ways to distinguish ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, in the case of content such as extremist content and hate speech, there are a range of nuanced variations in speech related to different groups and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "View of Ethical and technical challenges of AI in tackling hate speech",
+            "text": "",
+            "link": "https://informationethics.ca/index.php/irie/article/view/416/389",
+            "snippet": "In this paper, we discuss some of the ethical and technical challenges of using Artificial Intelligence for online content moderation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Algorithmic bias in machine learning-based marketing models",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000959",
+            "snippet": "This study presents a framework identifying the sources of algorithmic bias in marketing, drawing on the microfoundations of dynamic capability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "This article is a novel approach developed into a framework of action: a bias impact assessment to raise awareness of bias and why, a clear set of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "What are the Risks of Machine Learning? - TrendSpider",
+            "text": "",
+            "link": "https://trendspider.com/learning-center/what-are-the-risks-of-machine-learning/",
+            "snippet": "Robustness risk in machine learning refers to the vulnerability of a system to fail or perform poorly when encountering unexpected, invalid, or noisy inputs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "The benefits and harms of algorithms: a shared perspective from the ...",
+            "text": "",
+            "link": "https://www.gov.uk/government/publications/findings-from-the-drcf-algorithmic-processing-workstream-spring-2022/the-benefits-and-harms-of-algorithms-a-shared-perspective-from-the-four-digital-regulators",
+            "snippet": "This discussion paper examines the benefits and harms posed by algorithmic processing. Here, we understand algorithmic processing as the processing of data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "How Generative AI Empowers Attackers and Defenders Across the ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2601.06033v1",
+            "snippet": "Efforts to leverage GenAI for violent extremist and terrorist purposes have already been documented by several organizations (dsiegel2023; mathur2024; ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "... including disinformation, hate speech, and terrorist propaganda ... These tools organize, filter and curate extremists and violent content, child abuse material ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "[PDF] Monitoring, Evaluation and Learning Toolkit to Support Action Plans ...",
+            "text": "",
+            "link": "https://www.un.org/counterterrorism/sites/default/files/2026-02/PCVE_%26_%20AI_Practice_Guide_2026_Web.pdf",
+            "snippet": "Artificial intelligence (AI) is exacerbating existing trends in the terrorist and violent extremist landscape and broader information ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Dual-use regulation: Managing hate and terrorism online before and ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/dual-use-regulation-managing-hate-and-terrorism-online-before-and-after-section-230-reform/",
+            "snippet": "Today, the persistence of violent extremism online has convinced many that stronger government intervention is necessary to compel more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Social media, misinformation and harmful algorithms - Parliament UK",
+            "text": "",
+            "link": "https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html",
+            "snippet": "... extremist views, undermine democracy, and fuel violence. We are concerned by ... promoting violent content or content that incites violence.\u201d Youth ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An AI system is designed to automatically detect and remove harmful social media content, including violent and extremist material. The system aims to identify and eliminate content that promotes hate speech, ensuring a safer online environment. It utilizes machine learning algorithms to analyze and filter out offending content in real-time.",
+        "response": " Lack of capability or robustness is a risk associated with An AI system is designed to automatically detect and remove harmful social media content, including violent and extremist material. The system aims to identify and eliminate content that promotes hate speech, ensuring a safer online environment. It utilizes machine learning algorithms to analyze and filter out offending content in real-time.",
+        "elapsed_time": 42.09998570799871
+    }
+}

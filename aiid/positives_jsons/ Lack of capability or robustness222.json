@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to analyze medical data and provide treatment recommendations for cancer patients, aiming to assist healthcare professionals in making informed decisions. The system uses advanced algorithms to process complex medical information and suggest personalized treatment options. Its primary goal is to support accurate and effective cancer care by providing reliable and evidence-based recommendations.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to analyze medical data and provide treatment recommendations for cancer patients, aiming to assist healthcare professionals in making informed decisions. The system uses advanced algorithms to process complex medical information and suggest personalized treatment options. Its primary goal is to support accurate and effective cancer care by providing reliable and evidence-based recommendations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the system designed to analyze medical data and provide treatment recommendations is a risk in cancer care",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in analyzing medical data to provide treatment recommendations for cancer patients",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Artificial intelligence in healthcare and medicine: clinical ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/",
+            "snippet": "A key advantage of AI is its ability to identify hidden patterns in large data sets, enabling predictions about disease progression, treatment ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Barriers to Wider Use of AI in Oncology - Cancer Therapy Advisor",
+            "text": "",
+            "link": "https://www.cancertherapyadvisor.com/features/barriers-ai-oncology/",
+            "snippet": "Barriers to wider use of AI in oncology include inaccuracy, workflow challenges, environmental impacts, and more.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Ethical and regulatory challenges of AI technologies in healthcare",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2405844024023284",
+            "snippet": "This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Artificial Intelligence in Cancer Care: Addressing Challenges and ...",
+            "text": "",
+            "link": "https://www.cancernetwork.com/view/artificial-intelligence-in-cancer-care-addressing-challenges-and-health-equity",
+            "snippet": "Artificial intelligence may mitigate overdiagnosis and unnecessary treatments in cancer care by integrating with precision medicine.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "[PDF] Harnessing data for better cancer care | All.Can",
+            "text": "",
+            "link": "https://www.all-can.org/wp-content/uploads/2021/05/Harnessing-data-for-better-cancer-care_Report-online.pdf",
+            "snippet": "12 Even the best data do not translate into actionable insights in the absence of robust data analytics tools to extract, analyse and interpret ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Medical decision-making in oncology for patients lacking capacity",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7830737/",
+            "snippet": "We will examine how a patient's decisional capacity can be assessed and discuss various situations in which patients with cancer might lack full capacity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Researchers Discover Bias in AI Models That Analyze Pathology ...",
+            "text": "",
+            "link": "https://hms.harvard.edu/news/researchers-discover-bias-ai-models-analyze-pathology-samples",
+            "snippet": "A new study reveals that pathology AI models for cancer diagnosis perform unequally across demographic groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Challenges to Using Big Data in Cancer - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10102837/",
+            "snippet": "Big data in healthcare can enable unprecedented understanding of diseases and their treatment, particularly in oncology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Barriers to Wider Use of AI in Oncology - Cancer Therapy Advisor",
+            "text": "",
+            "link": "https://www.cancertherapyadvisor.com/features/barriers-ai-oncology/",
+            "snippet": "\u201cAI is trained on our experience, which often reflects limitations in observational data\u201d and thus limits the robustness of AI for all patients.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Show and tell: A critical review on robustness and uncertainty for a ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S138650562500187X",
+            "snippet": "This critical review explores two interrelated trends: the rapid increase in studies on machine learning (ML) applications within health informatics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "The use of artificial intelligence for cancer therapeutic decision-making",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12530061/",
+            "snippet": "Artificial intelligence (AI) has the potential to transform cancer therapeutic decision-making by improving diagnostics and personalizing treatments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Artificial Intelligence and Decision-Making in Healthcare - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10916499/",
+            "snippet": "The purpose of this study was to determine the scope of applications of AI tools in the decision-making process in healthcare service delivery networks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Transformative Potential of AI in Healthcare: Definitions ... - MDPI",
+            "text": "",
+            "link": "https://www.mdpi.com/2227-9032/12/2/125",
+            "snippet": "Patient Triage and Resource Allocation. AI-driven triage systems utilize advanced algorithms to assess patient information such as medical history, symptoms ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Who is responsible when AI fails in cancer treatment? | Technology",
+            "text": "",
+            "link": "https://www.devdiscourse.com/article/technology/3874534-who-is-responsible-when-ai-fails-in-cancer-treatment",
+            "snippet": "The study outlines how AI systems can analyze vast amounts of clinical data, including imaging scans, laboratory results, and patient histories, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999980000009999,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to analyze medical data and provide treatment recommendations for cancer patients, aiming to assist healthcare professionals in making informed decisions. The system uses advanced algorithms to process complex medical information and suggest personalized treatment options. Its primary goal is to support accurate and effective cancer care by providing reliable and evidence-based recommendations.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to analyze medical data and provide treatment recommendations for cancer patients, aiming to assist healthcare professionals in making informed decisions. The system uses advanced algorithms to process complex medical information and suggest personalized treatment options. Its primary goal is to support accurate and effective cancer care by providing reliable and evidence-based recommendations.",
+        "elapsed_time": 31.596703709001304
+    }
+}

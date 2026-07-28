@@ -1,0 +1,443 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to analyze market trends and make predictions to inform trading decisions, aiming to optimize investment strategies. It utilizes complex mathematical models to identify patterns and make forecasts about future market movements. The goal of this algorithm is to provide accurate and timely insights to support informed decision-making.",
+    "output": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to analyze market trends and make predictions to inform trading decisions, aiming to optimize investment strategies. It utilizes complex mathematical models to identify patterns and make forecasts about future market movements. The goal of this algorithm is to provide accurate and timely insights to support informed decision-making.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the algorithm's financial market analysis",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with the algorithm designed to analyze market trends to make predictions and inform trading decisions",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with utilizing complex mathematical models to identify patterns in the algorithm.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with making forecasts about future market movements using the algorithm.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lack of capability or robustness is not a risk associated with providing accurate and timely insights to support informed decision-making for the algorithm.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Financial Stability Implications of Artificial Intelligence",
+            "text": "",
+            "link": "https://www.fsb.org/uploads/P14112024.pdf",
+            "snippet": "The widespread use of common AI models and data sources could lead to increased correlations in trading, lending, and pricing.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Artificial intelligence, ethical amplification, and systemic risk in ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s43681-026-01241-w",
+            "snippet": "This paper examines the ethical and systemic implications of artificial intelligence (AI) in financial markets by developing a unified ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The rise of artificial intelligence: benefits and risks for financial ...",
+            "text": "",
+            "link": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/special/html/ecb.fsrart202405_02~58c3ce5246.en.html",
+            "snippet": "AI brings both benefits and risks to the financial system. Practically, the overall impact will depend on how the challenges related to data, model development ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI is not careful: approach to the stock market and preference ...",
+            "text": "",
+            "link": "https://www.emerald.com/ijbm/article/42/7/2117/1233646/AI-is-not-careful-approach-to-the-stock-market-and",
+            "snippet": "AI cannot deliberate carefully contributes to algorithm aversion in financial contexts. consumers tend to avoid algorithm advisors for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "It's not magic: Weighing the risks of AI in financial services",
+            "text": "",
+            "link": "https://epthinktank.eu/wp-content/uploads/2020/02/4162c-magic_10-19_v12_proof.pdf",
+            "snippet": "The risks from a lack of AI transparency Concerns about algorithmic biases are intensified if the internal mechanism of the ML model used to make decisions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Deep learning for algorithmic trading: A systematic review ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590005625000177",
+            "snippet": "by MDSM Bhuiyan \u00b7 2025 \u00b7 Cited by 54 \u2014 In algorithmic trading, various DL models have been developed to predict market trends, optimize trading strategies, and enhance decision-making processes. 4.2.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Robustness Testing for Algo Trading Strategies",
+            "text": "",
+            "link": "https://www.buildalpha.com/robustness-testing-guide/",
+            "snippet": "Failing to check your strategy's robustness can lead to substantial and quick losses when moving your strategy from the development stage to live trading.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "How Algorithmic Trading Undermines Efficiency in Capital ...",
+            "text": "",
+            "link": "https://cdn.vanderbilt.edu/vu-wordpress-0/wp-content/uploads/sites/278/2015/11/19120019/How-Algorithmic-Trading-Undermines-Efficiency-in-Capital-Markets.pdf",
+            "snippet": "by Y Yadav \u00b7 Cited by 201 \u2014 This Article argues that the rise of algorithmic trading undermines efficient capital allocation in securities markets.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI AND ALGORITHMIC TRADING: A STUDY ON ...",
+            "text": "",
+            "link": "https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/2797/2513/17309",
+            "snippet": "By refining their models through continuous learning, AI systems can improve their forecasting capabilities, providing traders with better insights into future ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Predictive crypto trading: Why AI algorithms thrive in volatility",
+            "text": "",
+            "link": "https://chainstack.com/predictive-crypto-trading-why-ai-algorithms-thrive-in-market-volatility/",
+            "snippet": "In risk management, AI's predictive capabilities power robust strategies that protect investments from potential market downturns. By ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Chapter 0 Machine Learning Robustness: A Primer",
+            "text": "",
+            "link": "https://arxiv.org/html/2404.00897v2",
+            "snippet": "In fact, model robustness is a cornerstone of safety because robust AI systems are able to deal with unexpected inputs and perturbations without compromising ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 AI methods are famously known to have limited capacity to provide the reasoning principles behind a decision, mainly due to the fact that the logic is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Advancing adversarial and LLM robustness in trustworthy AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s10462-026-11558-x",
+            "snippet": "by Q Tang \u00b7 2026 \u00b7 Cited by 1 \u2014 Robustness against adversarial attacks refers to the model's ability to maintain its performance in the face of potential adversarial attacks or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Machine Learning: Algorithms, Real-World Applications ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7983091/",
+            "snippet": "by IH Sarker \u00b7 2021 \u00b7 Cited by 8575 \u2014 This study's key contribution is explaining the principles of different machine learning techniques and their applicability in various real-world application ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Critical Role of Pattern Recognition in Machine Learning",
+            "text": "",
+            "link": "https://saiwa.ai/blog/pattern-recognition-in-machine-learning/",
+            "snippet": "Pattern recognition, the automated identification of meaningful patterns in data, is a fundamental capability underlying many machine-learning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Data-driven stock forecasting models based on neural ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1566253524003944",
+            "snippet": "by W Bao \u00b7 2025 \u00b7 Cited by 167 \u2014 This paper comprehensively reviews the literature on data-driven neural networks in the field of stock forecasting from 2015 to 2023.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Artificial Intelligence Models for Predicting Stock Returns ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12191900/",
+            "snippet": "by G Cohen \u00b7 2025 \u00b7 Cited by 15 \u2014 This study examines the effectiveness of combining semantic intelligence drawn from large language models (LLMs) such as ChatGPT-4o with traditional machine- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Using Machine Learning for Stock Market Prediction...",
+            "text": "",
+            "link": "https://site.financialmodelingprep.com/education/financial-analysis/Using-Machine-Learning-for-Stock-Market-Prediction-Possibilities-and-Limitations",
+            "snippet": "Explore the possibilities and limitations of using machine learning in stock market prediction. Discover how algorithms can influence investment strategies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "AI in Trading",
+            "text": "",
+            "link": "https://fmsb.com/wp-content/uploads/2026/02/FMSB-AI-in-Trading_Final_12.02.26_FINAL.pdf",
+            "snippet": "The paper focuses on the tangible risks that arise from current AI model use cases, rather than predicting the risks of future scenarios which may or may not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Applying machine learning algorithms to predict the stock ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-024-02807-x",
+            "snippet": "by T Phuoc \u00b7 2024 \u00b7 Cited by 142 \u2014 The aims of this study are to predict the stock price trend in the stock market in an emerging economy. Using the Long Short Term Memory (LSTM) algorithm.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Bridging innovation, knowledge creation, and sustainable ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2444569X25002057",
+            "snippet": "by K Raina \u00b7 2026 \u00b7 Cited by 62 \u2014 This study explores how AI-driven management practices can effectively bridge innovation, knowledge creation, and sustainable business practices,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "AI for Decision Support: Balancing Accuracy, Transparency ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2078-2489/15/11/725",
+            "snippet": "by A Kovari \u00b7 2024 \u00b7 Cited by 142 \u2014 This study seeks to understand the key success factors that underpin efficiency, transparency, and user trust in automated decision support systems",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Strategic Decision-Making Under AI-Related Uncertainty",
+            "text": "",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/5718162.pdf?abstractid=5718162&mirid=1",
+            "snippet": "Companies that view uncertainty as a strategic dimension of intelligence instead of a liability are the ones that perform best in times of instability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Modernizing Military Decision-Making: Integrating AI into Army ...",
+            "text": "",
+            "link": "https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2025-OLE/Modernizing-Military-Decision-Making/",
+            "snippet": "Efforts to develop more explainable AI algorithms, which provide insights into their decision-making processes, are essential for fostering trust and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Artificial Intelligence and Decision-Making in Healthcare - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10916499/",
+            "snippet": "by M Khosravi \u00b7 2024 \u00b7 Cited by 456 \u2014 The purpose of this study was to determine the scope of applications of AI tools in the decision-making process in healthcare service delivery networks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Multifactor prediction model for stock market analysis based ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11814281/",
+            "snippet": "by K Wang \u00b7 2025 \u00b7 Cited by 20 \u2014 An LSTM algorithm is implemented in the method to optimize the hyper-parameters for the process. The LSTM algorithm constructs the structure of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Deep learning for algorithmic trading: A systematic review ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590005625000177",
+            "snippet": "by MDSM Bhuiyan \u00b7 2025 \u00b7 Cited by 54 \u2014 In algorithmic trading, various DL models have been developed to predict market trends, optimize trading strategies, and enhance decision-making processes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Optimizing stock market prediction and stock trading strategies ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1186/s40854-026-00929-6",
+            "snippet": "This study investigates cross-sectional stock return prediction in the A-share market from 2013 to 2024 with equity and firm-characteristic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI-Driven Trading: Navigating the Complex Landscape of ...",
+            "text": "",
+            "link": "https://www.emerald.com/books/edited-volume/17172/chapter/94163231/AI-Driven-Trading-Navigating-the-Complex-Landscape",
+            "snippet": "The application of ML in algorithmic trading allows systems to learn and adapt from historical data, identify patterns and make predictions based on complex ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The Use of AI and AI Algorithms in Financial Markets",
+            "text": "",
+            "link": "https://sites.lsa.umich.edu/mje/2025/03/09/the-use-of-ai-and-ai-algorithms-in-financial-markets/",
+            "snippet": "AI lacks the ability to foresee events that do not have historical patterns or data, posing challenges to investors and companies during crises.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to analyze market trends and make predictions to inform trading decisions, aiming to optimize investment strategies. It utilizes complex mathematical models to identify patterns and make forecasts about future market movements. The goal of this algorithm is to provide accurate and timely insights to support informed decision-making.",
+        "response": " Lack of capability or robustness is a not a risk associated with An algorithm is designed to analyze market trends and make predictions to inform trading decisions, aiming to optimize investment strategies. It utilizes complex mathematical models to identify patterns and make forecasts about future market movements. The goal of this algorithm is to provide accurate and timely insights to support informed decision-making.",
+        "elapsed_time": 304.008789125015
+    }
+}

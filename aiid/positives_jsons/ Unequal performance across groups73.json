@@ -1,0 +1,328 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+    "output": " Unequal performance across groups is a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing and comparing facial features to identify individuals in a facial recognition system",
+            "contexts": [
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unequal performance across groups is a risk in leveraging advanced algorithms and machine learning techniques for a facial recognition system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unequal performance across groups is a risk in assisting a facial recognition system to identify people",
+            "contexts": [
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unequal performance across groups is a risk in a facial recognition system designed to verify identities to enhance security and law enforcement efforts",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Mitigation Strategies For Bias In Facial Recognition Systems For ...",
+            "text": "",
+            "link": "https://www.digitaldividedata.com/blog/bias-in-facial-recognition-systems-for-computer-vision",
+            "snippet": "In practical terms, this can lead to wrongful arrests, exclusion from services, or unequal access to resources. ... performance varies across ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Racial Bias within Face Recognition: A Survey - ACM Digital Library",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3705295",
+            "snippet": "... unfair treatment of demographic groups. The authors introduce multiple ... unequal performance degradation among subgroups. Consequently, Yucer [209] ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Surveying Racial Bias in Facial Recognition: Balancing Datasets ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/13/12/2317",
+            "snippet": "This paper analyzes facial recognition datasets, categorizing them as racially balanced or unbalanced while limiting racially balanced datasets ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic bias - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/Algorithmic_bias",
+            "snippet": "The term algorithmic bias describes systematic and repeatable errors that create unfair outcomes, such as privileging one arbitrary group of users over others.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What is AI Bias? - Understanding Its Impact, Risks, and Mitigation ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/what-is-ai-bias-risks-mitigation-strategies",
+            "snippet": "AI bias occurs when artificial intelligence systems produce unfair or prejudiced outcomes due to issues with the data, algorithms, or objectives they're ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Facial recognition technology raises concerns over misidentification ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=tnuwaOCCZ6Y",
+            "snippet": "Facial recognition technology raises concerns over misidentification, implicit bias. 500 views \u00b7 2 years ago ...more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Facial recognition bias: AI systems learned to misidentify people",
+            "text": "",
+            "link": "https://myhumanandme3.wordpress.com/2026/03/30/ai-facial-recognition/",
+            "snippet": "The main risks include uneven accuracy, false positives, and overreliance on systems that appear more reliable than they actually are. Support ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Why Racial Bias is Prevalent in Facial Recognition Technology",
+            "text": "",
+            "link": "https://jolt.law.harvard.edu/digest/why-racial-bias-is-prevalent-in-facial-recognition-technology",
+            "snippet": "Many of these algorithms were found to be between 10 and 100 times more likely to misidentify a Black or East Asian face than a white face.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Mitigating Racial Bias in Machine Learning - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12140104/",
+            "snippet": "Algorithms trained on data from majority populations may generate less accurate or reliable results for minorities and other disadvantaged groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Problem of Bias in Facial Recognition - CSIS",
+            "text": "",
+            "link": "https://www.csis.org/blogs/strategic-technologies-blog/problem-bias-facial-recognition",
+            "snippet": "Researchers have found that leading facial recognition algorithms have different accuracy rates for different demographic groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Study outlines what creates racial bias in facial recognition technology",
+            "text": "",
+            "link": "https://techxplore.com/news/2020-12-outlines-racial-bias-facial-recognition.html",
+            "snippet": "The majority of facial recognition algorithms were far more likely to misidentify racial minorities than whites, with Asians, Blacks and Native Americans ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Evaluating Impact of Race in Facial Recognition across Machine ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2073-431X/10/9/113",
+            "snippet": "We evaluate racial bias across five machine learning algorithms and three deep learning algorithms using racially imbalanced and balanced datasets.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "[PDF] Facial Recognition Raises Concerns Over Which Of The Following",
+            "text": "",
+            "link": "https://climber.uml.edu.ni/default.aspx/Resources/M5a751/FacialRecognitionRaisesConcernsOverWhichOfTheFollowing.pdf",
+            "snippet": "This can lead to unfair or discriminatory outcomes in areas like policing, loan applications, or even employment. <i>Case Study: Facial Recognition in Policing< ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Why Aggregate Accuracy is Inadequate for Evaluating Fairness in ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2603.28675",
+            "snippet": "Despite high reported accuracy, growing evidence demonstrates that such systems often exhibit uneven performance across demographic groups, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Mitigation Strategies For Bias In Facial Recognition Systems For ...",
+            "text": "",
+            "link": "https://www.digitaldividedata.com/blog/bias-in-facial-recognition-systems-for-computer-vision",
+            "snippet": "In practical terms, this can lead to wrongful arrests, exclusion from services, or unequal access to resources. The consequences are amplified ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "[PDF] Ethical Considerations Surrounding Facial Recognitions - IJFMR",
+            "text": "",
+            "link": "https://www.ijfmr.com/papers/2025/6/62062.pdf",
+            "snippet": "Existing literature establishes that facial recognition systems frequently exhibit uneven performance across population groups, often favouring lighter ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Mitigating Bias in Facial Recognition Systems: Data, Models, and ...",
+            "text": "",
+            "link": "https://medium.com/@DigitalDivideData/mitigating-bias-in-facial-recognition-systems-data-models-and-ethics-in-computer-vision-34aae681b29a",
+            "snippet": "Bias in AI refers to systematic errors that result in unequal treatment or performance for different population groups. In facial recognition, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Facial recognition technology raises concerns over misidentification ...",
+            "text": "",
+            "link": "https://www.youtube.com/watch?v=tnuwaOCCZ6Y",
+            "snippet": "Facial recognition technology raises concerns over misidentification, implicit bias \u00b7 Comments.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 18,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+        "response": " Unequal performance across groups is a risk associated with A facial recognition system is designed to analyze and compare facial features from images or videos to identify individuals. The system aims to provide accurate matches by leveraging advanced algorithms and machine learning techniques. Its purpose is to assist in identifying people and verifying identities, with the goal of enhancing security and law enforcement efforts.",
+        "elapsed_time": 43.41120979099924
+    }
+}

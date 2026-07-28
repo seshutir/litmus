@@ -1,0 +1,301 @@
+{
+    "input": " Exposure to toxic content is a not a risk associated with A system is designed to identify and flag hate speech online, aiming to protect users from harmful content. The system's primary goal is to detect and report offensive language, ensuring a safe and inclusive environment for all users. It also seeks to recognize and address biases in its detection methods to provide a more equitable experience.",
+    "output": " Exposure to toxic content is a not a risk associated with A system is designed to identify and flag hate speech online, aiming to protect users from harmful content. The system's primary goal is to detect and report offensive language, ensuring a safe and inclusive environment for all users. It also seeks to recognize and address biases in its detection methods to provide a more equitable experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is not a risk associated with online hate speech detection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in detecting and reporting offensive language in the system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is a risk in recognizing and addressing biases in the system's detection methods",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Toxic Content and Hate Speech Detection on Social Media",
+            "text": "",
+            "link": "https://ieeexplore.ieee.org/document/11484189/",
+            "snippet": "by D Kumar \u00b7 2026 \u00b7 Cited by 1 \u2014 Exposure to such harmful online content can negatively influence a younger person's mind in damaging ways and normalize toxic behaviours.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Youth Exposure to Hate in the Online Space: An Exploratory ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7698507/",
+            "snippet": "by N Harriman \u00b7 2020 \u00b7 Cited by 113 \u2014 This study seeks to better understand youth exposure to hateful material in the online space by exploring predictors of such exposure.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "To Spot Toxic Speech Online, Try AI",
+            "text": "",
+            "link": "https://news.mccombs.utexas.edu/research/to-spot-toxic-speech-online-try-ai/",
+            "snippet": "AI screening tools can analyze content on large scales while sparing human screeners the trauma of constant exposure to toxic speech. But AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Why do AI models struggle with online hate speech ...",
+            "text": "",
+            "link": "https://www.facebook.com/aljazeera/posts/why-do-ai-models-struggle-with-online-hate-speech-detection/1478354294338920/",
+            "snippet": "AI tools can help detect hate speech - but they often miss harmful content or take down posts that are not illegal. This creates risks for both ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Research Shows Why Platforms Struggle to Curb Online ...",
+            "text": "",
+            "link": "https://tacklinghate.org/blogs/research-shows-why-platforms-struggle-to-curb-online-toxicity/",
+            "snippet": "Toxicity is contagious. Users exposed to less toxic content wrote less toxic content themselves. There was a 25\u201330% reduction in the toxicity of posts and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "In online context, it is often derogatory, rude, harmful, and disrespectful. Toxic content induces stress, anxiety, suicidal thoughts, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A critical reflection on the use of toxicity detection ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "by M Warner \u00b7 2025 \u00b7 Cited by 25 \u2014 Researchers in the areas of ML and NLP have developed algorithms for detecting different forms of abusive content such as toxic text (e.g., Georgakopoulos et al ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Toxic Comment Detection in Online Discussions",
+            "text": "",
+            "link": "https://hpi.de/oldsite/fileadmin/user_upload/fachgebiete/naumann/publications/2019/risch2019toxic.pdf",
+            "snippet": "by J Risch \u00b7 Cited by 135 \u2014 In the following, we introduce a fine-grained classification scheme for toxic comments and motivate the task of detecting toxic comments in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Detecting Offensive Language in Social Media to Protect ...",
+            "text": "",
+            "link": "https://faculty.ist.psu.edu/xu/papers/Chen_etal_SocialCom_2012.pdf",
+            "snippet": "by Y Chen \u00b7 Cited by 995 \u2014 Framework of LSF-based offensive language detection high risk of continuously exposure to offensive contents. However, user-level detection is a more ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What Is LLM Toxicity? Detection & Mitigation",
+            "text": "",
+            "link": "https://logz.io/glossary/llm-toxicit/",
+            "snippet": "LLM toxicity is when LLMs generate harmful, offensive, or unsafe content. For example, hate speech, harassment, misinformation, or harmful instructions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Assessing risk of bias in toxicological studies in the era of artificial ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12367879/",
+            "snippet": "by T Hartung \u00b7 2025 \u00b7 Cited by 24 \u2014 Risk of bias is a critical factor influencing the reliability and validity of toxicological studies, impacting evidence synthesis and decision-making in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 851 \u2014 Risk management culture and practices can be a powerful technique for identifying biases across the AI lifecycle and from a socio-technical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Mitigating algorithmic bias in AI-powered toxicology: Frameworks for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0378427426001074",
+            "snippet": "by OM Ajisafe \u00b7 2026 \u00b7 Cited by 1 \u2014 Such biases can lead to inaccurate predictions, disproportionate errors in vulnerable subgroups. These biases can compromise the reliability of models used for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Technological Solutions to Online Toxicity: Potential and Pitfalls",
+            "text": "",
+            "link": "https://technologyandsociety.org/technological-solutions-to-online-toxicity-potential-and-pitfalls/",
+            "snippet": "Bias in datasets causes posts from minoritized groups to be over-flagged [false positives (FPs) identifying toxicity when none existed] content ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Given this, some algorithms run the risk of replicating and even amplifying human biases, particularly those affecting protected groups.6 For ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "A critical reflection on the use of toxicity detection algorithms in proactive ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1071581925000254",
+            "snippet": "by M Warner \u00b7 2025 \u00b7 Cited by 25 \u2014 Harmful speech can include hateful, offensive, and abusive language, among others. To our knowledge, there is no standard definition that encapsulates these ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Online content moderation - Current challenges in detecting hate speech",
+            "text": "",
+            "link": "https://fra.europa.eu/en/publication/2023/online-content-moderation",
+            "snippet": "Online hate speech is a growing problem in today's digitalised societies. Women, Black people, Jews and Roma are often targets of online hate speech.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "People who share encounters with racism are silenced online ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420153/",
+            "snippet": "by C Lee \u00b7 2024 \u00b7 Cited by 32 \u2014 We find that posts in which users share personal experiences of racism are disproportionately flagged by both algorithms and humans.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Online Hate and Harassment Safety Guide",
+            "text": "",
+            "link": "https://www.adl.org/online-hate-and-harassment-safety-guide",
+            "snippet": "Our Online Hate and Harassment Reporting Guide is designed to help targets of hate protect themselves and report hateful content on major social media and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Toxic content Meaning & Definition",
+            "text": "",
+            "link": "https://www.zevohealth.com/glossary/toxic-content/",
+            "snippet": "Exposure to toxic content can cause emotional distress, fear, anxiety, and depression in individuals. It often discourages people from expressing themselves",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.6666666666666666,
+        "num_atoms": 3,
+        "num_contexts": 20,
+        "num_true_atoms": 2,
+        "num_false_atoms": 1,
+        "num_uniform_atoms": 0,
+        "entropy": 1.581550955802145e-05,
+        "norm_entropy": 6.41227886677839e-05,
+        "avg_entropy": 5.271836519340483e-06,
+        "avg_norm_entropy": 2.1374262889261303e-05,
+        "avg_prob": 0.6666663333333332,
+        "avg_logprob": -4.605170852655092,
+        "avg_explogprob": 0.00999999333333222,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 1,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 0.6666666666666666,
+        "topic": "",
+        "query": " Exposure to toxic content is a not a risk associated with A system is designed to identify and flag hate speech online, aiming to protect users from harmful content. The system's primary goal is to detect and report offensive language, ensuring a safe and inclusive environment for all users. It also seeks to recognize and address biases in its detection methods to provide a more equitable experience.",
+        "response": " Exposure to toxic content is a not a risk associated with A system is designed to identify and flag hate speech online, aiming to protect users from harmful content. The system's primary goal is to detect and report offensive language, ensuring a safe and inclusive environment for all users. It also seeks to recognize and address biases in its detection methods to provide a more equitable experience.",
+        "elapsed_time": 48.036995416972786
+    }
+}

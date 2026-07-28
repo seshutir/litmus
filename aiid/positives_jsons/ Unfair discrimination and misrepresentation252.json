@@ -1,0 +1,366 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide law enforcement with real-time information to improve response times. The technology intends to help authorities identify areas with high crime rates and allocate resources accordingly. The goal is to enhance public safety by enabling swift and effective responses to potential threats.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide law enforcement with real-time information to improve response times. The technology intends to help authorities identify areas with high crime rates and allocate resources accordingly. The goal is to enhance public safety by enabling swift and effective responses to potential threats.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk in gunshot detection technology",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk in detecting and locating gunshots using acoustic sensors in the system.",
+            "contexts": [
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk in providing law enforcement with real-time information through the gunshot detection system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk in identifying areas with high crime rates using the gunshot detection system",
+            "contexts": [
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk in allocating resources accordingly to enhance public safety using the gunshot detection system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Candidate Answers: Facial Recognition - ACLU of Illinois",
+            "text": "",
+            "link": "https://www.aclu-il.org/candidate-answers-facial-recognition/",
+            "snippet": "The use of facial recognition technologies by law enforcement has been criticized because those systems have been shown to be susceptible to discrimination ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "AI Policing is Dangerous - Fight for the Future",
+            "text": "",
+            "link": "https://www.fightforthefuture.org/actions/ai-policing-is-dangerous/",
+            "snippet": "Numerous studies show that the algorithms that power AI technologies exacerbate racism and discrimination rather than solve the problem of discriminatory ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Chicago stops using controversial ShotSpotter gunshot detection ...",
+            "text": "",
+            "link": "https://epic.org/the-record-chicago-stops-using-controversial-shotspotter-gunshot-detection-system/",
+            "snippet": "The Record: Chicago stops using controversial ShotSpotter gunshot detection system ... discriminatory effect on individuals because of their race, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Wrongful Convictions Exposed Unvalidated Science \u2014 Are We ...",
+            "text": "",
+            "link": "https://innocenceproject.org/news/wrongful-convictions-revealed-the-dangers-of-trusting-unvalidated-science-are-we-about-to-repeat-the-same-mistakes-with-ai/",
+            "snippet": "Emerging technologies like AI-based surveillance systems lack independent verification, empirical testing, and error rate data, leading to wrongful arrests.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Biased Technology: The Automated Discrimination of Facial ...",
+            "text": "",
+            "link": "https://www.aclu-mn.org/news/biased-technology-automated-discrimination-facial-recognition/",
+            "snippet": "Facial recognition automates discrimination. The ACLU-MN is fighting to end law enforcement's use of facial recognition technology in Minnesota.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "U-M policy brief raises concerns about acoustic gunshot ...",
+            "text": "",
+            "link": "https://stpp.fordschool.umich.edu/news/2022/u-m-policy-brief-raises-concerns-about-acoustic-gunshot-detection-systems-used-police",
+            "snippet": "Research at the University of Michigan finds law enforcement technology aimed at detecting gunshot sounds and notifying police in close to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Ethical Challenges in the Fight against Gun Violence",
+            "text": "",
+            "link": "https://mediaengagement.org/research/ethical-challenges-in-the-fight-against-gun-violence/",
+            "snippet": "Ultimately, while acoustic gunshot detection systems like ShotSpotter do \u201cnot significantly affect the number of confirmed shootings\u201d they may \u201c ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection ...",
+            "text": "",
+            "link": "https://www.aclunv.org/news/four-problems-shotspotter-gunshot-detection-system/",
+            "snippet": "The placement of sensors in some neighborhoods but not others means that the police will detect more incidents (real or false) in places where ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "4 Takeaways: AP Investigates Gunshot Detection Technology",
+            "text": "",
+            "link": "https://pulitzercenter.org/stories/4-takeaways-ap-investigates-gunshot-detection-technology",
+            "snippet": "AP identified a number of serious flaws in one of the country's most popular police technologies: ShotSpotter acoustic gunshot detection.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection System | ACLU",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/four-problems-with-the-shotspotter-gunshot-detection-system",
+            "snippet": "ShotSpotter false alarms send police on numerous trips (in Chicago, more than 60 times a day) into communities for no reason and on high alert ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Chicago stops using controversial ShotSpotter gunshot detection ...",
+            "text": "",
+            "link": "https://epic.org/the-record-chicago-stops-using-controversial-shotspotter-gunshot-detection-system/",
+            "snippet": "... using methods which \u201cappear neutral but have a discriminatory effect on individuals because of their race, color, or national origin.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Thinking Through the ShotSpotter Debate | Manhattan Institute",
+            "text": "",
+            "link": "https://manhattan.institute/article/thinking-through-the-shotspotter-debate",
+            "snippet": "Recent years have seen significant activism against \u201cgunshot detection technology,\u201d or GDT\u2014most prominently, the ShotSpotter product.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection ...",
+            "text": "",
+            "link": "https://www.aclu.org/news/privacy-technology/four-problems-with-the-shotspotter-gunshot-detection-system",
+            "snippet": "A new investigation points to yet another problematic outcome of the technology's use and the company's lack of transparency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Using Gunshot Detection Technology in High-Crime Areas",
+            "text": "",
+            "link": "https://nij.ojp.gov/library/publications/using-gunshot-detection-technology-high-crime-areas",
+            "snippet": "No information is available for this page.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "The Record: Chicago stops using controversial ShotSpotter ...",
+            "text": "",
+            "link": "https://epic.org/the-record-chicago-stops-using-controversial-shotspotter-gunshot-detection-system/",
+            "snippet": "\u201cAcoustic gunshot detection tools have disparate impacts on majority-minority neighborhoods, increasing police activity in neighborhoods ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Ethical Challenges in the Fight against Gun Violence",
+            "text": "",
+            "link": "https://mediaengagement.org/research/ethical-challenges-in-the-fight-against-gun-violence/",
+            "snippet": "\u201cCity to consider funding cameras in high crime areas following approval of ShotSpotter Gunshot Detection System.\u201d Pasadena Now. Available ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Critics of ShotSpotter gunfire detection system say it's ineffective ...",
+            "text": "",
+            "link": "https://epic.org/cnn-critics-of-shotspotter-gunfire-detection-system-say-its-ineffective-biased-and-costly/",
+            "snippet": "... discrimination by any program or activity receiving federal financial assistance. \u201cState and local police departments around the country ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Four Problems with the ShotSpotter Gunshot Detection System",
+            "text": "",
+            "link": "https://www.aclunv.org/news/four-problems-shotspotter-gunshot-detection-system/",
+            "snippet": "The report questioned the \u201coperational value\u201d of the technology and found that it increases the incidence of stop and frisk tactics by police ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Cleveland is spending millions on a controversial gunshot detection ...",
+            "text": "",
+            "link": "https://cssh.northeastern.edu/cleveland-is-spending-millions-on-a-controversial-gunshot-detection-system-is-it-making-us-safer/",
+            "snippet": "But after spending $2.8 million on it, emerging evidence suggests the tool is not putting more criminals behind bars or reducing gun violence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "[PDF] The Case Against ShotSpotter and ALPR - City of Detroit",
+            "text": "",
+            "link": "https://detroitmi.gov/sites/detroitmi.localhost/files/events/2024-01/StopShotSpotterCoalitionPresentation.pdf",
+            "snippet": "Louis concluded that the ShotSpotter system produced \"no reductions in serious violent crimes, yet... increase[d] demands on police resources.\" The same ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Police Technology: Acoustic Gunshot Detection Systems",
+            "text": "",
+            "link": "https://icjia.illinois.gov/researchhub/articles/police-technology-acoustic-gunshot-detection-systems",
+            "snippet": "Acoustic gunshot detection systems (AGDs) such as ShotSpotter use sound sensors to locate gunshots in a community, improve response times, determine how many ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Response and Deterrence from Gun Violence within Earshot",
+            "text": "",
+            "link": "https://journals.law.unc.edu/ncjolt/blogs/shotspotter-technology-response-deterrence-gun-violence-within-earshot/",
+            "snippet": "Once the sensors pick up on the sound of gunfire, they quickly triangulate the source, forwarding the occurrence to an Incident Review Center in which human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 22,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide law enforcement with real-time information to improve response times. The technology intends to help authorities identify areas with high crime rates and allocate resources accordingly. The goal is to enhance public safety by enabling swift and effective responses to potential threats.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to detect and locate gunshots using acoustic sensors, aiming to provide law enforcement with real-time information to improve response times. The technology intends to help authorities identify areas with high crime rates and allocate resources accordingly. The goal is to enhance public safety by enabling swift and effective responses to potential threats.",
+        "elapsed_time": 59.35430183299832
+    }
+}

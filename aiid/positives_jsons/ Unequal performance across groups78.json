@@ -1,0 +1,203 @@
+{
+    "input": " Unequal performance across groups is a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+    "output": " Unequal performance across groups is a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is a risk in a medical assessment tool",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in analyzing patient factors to evaluate kidney function",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Racial Bias in Clinical and Population Health Algorithms - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12934203/",
+            "snippet": "by M Coots \u00b7 2024 \u00b7 Cited by 18 \u2014 UNEQUAL DECISION RATES ACROSS GROUPS. Researchers have sought to evaluate the fairness of lung cancer risk models by comparing screening ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A Call for a National Framework for Measuring Health Equity",
+            "text": "",
+            "link": "https://www.commonwealthfund.org/publications/issue-briefs/2025/aug/unequal-measurement-national-framework-measuring-health-equity",
+            "snippet": "Inconsistent measurement tools can draw incomplete or even conflicting accounts of an organization's progress toward health equity and risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Unequal outcomes: Tackling bias in clinical AI models",
+            "text": "",
+            "link": "https://srinstitute.utoronto.ca/news/unequal-outcomes",
+            "snippet": "A new study by SRI Graduate Affiliate Michael Colacci sheds light on the frequency of biased outcomes against different sociodemographic groups.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Predictably unequal: understanding and addressing ...",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41746-020-0304-9",
+            "snippet": "by JK Paulus \u00b7 2020 \u00b7 Cited by 335 \u2014 We discuss how concepts of algorithmic fairness might apply in healthcare, where predictive algorithms are being increasingly used to support decision-making.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Bias Blind Spot: Ensuring AI Equity Across Patient ...",
+            "text": "",
+            "link": "https://censinet.com/perspectives/bias-blind-spot-ensuring-ai-equity-across-patient-populations",
+            "snippet": "Unequal Diagnosis Accuracy. AI tools used in medical diagnostics often fail to perform consistently across different demographic groups. For instance, AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Race and Social Inequities Affecting Kidney Care - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8259473/",
+            "snippet": "Individuals living in neighborhoods with lower socioeconomic status (SES) (as defined by income, wealth, education, and/or occupation) have higher risk of CKD ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Health inequities and the inappropriate use of race in nephrology",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8574929/",
+            "snippet": "Chronic kidney disease is an important clinical condition beset with racial and ethnic disparities that are associated with social inequities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Bias Cut - Brigham Magazine",
+            "text": "",
+            "link": "https://magazine.brighamandwomens.org/features/bias-cut",
+            "snippet": "... kidney function when they are at the greatest risk for kidney disease of any racial group. \u201cEven though racialized eGFR reporting was standard practice in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Abandoning a Race-biased Tool for Kidney Diagnosis",
+            "text": "",
+            "link": "https://medicine.yale.edu/news-article/abandoning-a-race-biased-tool-for-kidney-diagnosis/",
+            "snippet": "Race modifier has harmful implications. \u201cThis equation increases our estimate of Black patients' kidney function by 21% relative to non-Black ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Complexities of Race Adjustment in Health Algorithms",
+            "text": "",
+            "link": "https://hai.stanford.edu/policy/the-complexities-of-race-adjustment-in-health-algorithms",
+            "snippet": "This policy brief explores the complexities of accounting for race in clinical algorithms for evaluating kidney disease and the implications ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Racial Bias in Clinical and Population Health Algorithms - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12934203/",
+            "snippet": "... medical treatment (62-64, 57). B. UNEQUAL DECISION RATES ACROSS GROUPS. Researchers have sought to evaluate the fairness of lung cancer risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "Sample size disparities among patient subgroups within population data sets can also limit the effectiveness of predictive analytics and decision support tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 12,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unequal performance across groups is a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+        "response": " Unequal performance across groups is a risk associated with A medical assessment tool is designed to evaluate kidney function by analyzing various patient factors. The system aims to provide accurate and reliable test results, helping healthcare professionals make informed decisions about patient care. It seeks to improve the diagnosis and treatment of kidney-related conditions by utilizing advanced algorithms and data analysis techniques.",
+        "elapsed_time": 25.14142579200052
+    }
+}

@@ -1,0 +1,443 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+    "output": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with benefit distribution in the system.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with analyzing application data to detect potential fraud in the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with identifying risk factors in the system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with assessing eligibility in the system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Unfair discrimination and misrepresentation is a risk associated with automatically processing applications using the system.",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Unmasking Hidden Bias - Actuary.org",
+            "text": "",
+            "link": "https://actuary.org/article/unmasking-hidden-bias/",
+            "snippet": "Unfair discrimination occurs whenever the characteristic being considered is irrelevant to the provision of insurance coverage. In the examples ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Beware data bias in AI models - WTW",
+            "text": "",
+            "link": "https://www.wtwco.com/en-ch/insights/2023/10/beware-data-bias-in-ai-models",
+            "snippet": "... unfair treatment or discrimination against specific groups of individuals. For instance, a lawsuit was filed against a US-based insurer ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "It is important to highlight that bias means a deviation from the standard and does not necessarily lead to discrimination [38, p. 1]. For example, it can show ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "MIT AI Risk Repository",
+            "text": "",
+            "link": "https://airisk.mit.edu/",
+            "snippet": "Risks related to unfair treatment, harmful content exposure, and unequal AI performance across different groups and individuals. 1.1 Unfair discrimination and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The AI risk repository: A meta-review, database, and taxonomy of ...",
+            "text": "",
+            "link": "https://www.cell.com/patterns/fulltext/S2666-3899(26)00026-7",
+            "snippet": "Domain 1 (Discrimination and toxicity) includes unfair discrimination, exposure to toxic content, and unequal performance across groups. Domain ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Bias and ethics of AI systems applied in auditing - A systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "This study aimed to investigate the sources of bias and risks posed by AI systems applied in auditing and the complex downstream interactions and effects they ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias in AI Fraud Detection And Whistleblower Rights",
+            "text": "",
+            "link": "https://www.dispartilaw.com/bias-in-ai-fraud-detection-and-whistleblower-rights/",
+            "snippet": "When that data reflects past discrimination, the AI perpetuates and sometimes amplifies those biases. We see this play out in several ways:.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "(PDF) Bias and Fairness in AI-Based Fraud Detection - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/391630078_Bias_and_Fairness_in_AI-Based_Fraud_Detection_An_Ethical_Assessment_in_Financial_Applications",
+            "snippet": "This study provides a comprehensive assessment of bias and fairness in AI-driven fraud detection systems, focusing on their application in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Algorithmic bias detection and mitigation: Best practices and policies ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Algorithms must be responsibly created to avoid discrimination and unethical applications.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "A further FRA focus paper published in 2019** reemphasised the risk that AI systems based on incomplete or biased data can lead to inaccurate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "[PDF] Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "https://www.actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination occurs when an insurer considers factors unrelated to actuarial risk when determining who they will insure, at what rate, and with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Algorithmic Bias and Unfair Discrimination in AI - Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/algorithmic-bias-and-unfair-discrimination-in-ai-systems",
+            "snippet": "It encompasses a range of potential harms that may arise from the development, deployment, or misuse of AI systems in real-world contexts. The ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Biases in AI: acknowledging and addressing the inevitable ethical ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405166/",
+            "snippet": "Yet another obvious ethical challenge following from AI bias is discrimination, unfairness, and stigma. Biases in terms of race, sex, gender, age ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "What is AI Bias? - Understanding Its Impact, Risks, and Mitigation ...",
+            "text": "",
+            "link": "https://www.holisticai.com/blog/what-is-ai-bias-risks-mitigation-strategies",
+            "snippet": "AI bias occurs when artificial intelligence systems produce unfair or prejudiced outcomes due to issues with the data, algorithms, or objectives they're ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Discrimination and Bias | ICO",
+            "text": "",
+            "link": "https://ico.org.uk/for-organisations/advice-and-services/audits/data-protection-audit-framework/toolkits/artificial-intelligence/discrimination-and-bias/",
+            "snippet": "The potential for discriminatory outputs and bias within or by using the AI system is tested, documented, and mitigated before the go live decision.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "[PDF] Considerations for Machine Learning, AI Models, and Underlying Data",
+            "text": "",
+            "link": "https://www.actuary.org/sites/default/files/2023-08/risk-brief-discrimination.pdf",
+            "snippet": "Unfair discrimination takes place when insurers consider factors that are unrelated to actuarial risk while determining whether to provide insurance to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "AI bias: exploring discriminatory algorithmic decision-making ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830968/",
+            "snippet": "A case will be created highlighting the discrimination issue in algorithmic decision-making using two case studies which clearly show the presence of well- ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Assessing trustworthy AI: Technical and legal perspectives of ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0267364924001195",
+            "snippet": "This paper investigates current state-of-the-art methods for bias mitigation and contrasts them with the legal requirements.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Resetting Antidiscrimination Law in the Age of AI",
+            "text": "",
+            "link": "https://harvardlawreview.org/print/vol-138/resetting-antidiscrimination-law-in-the-age-of-ai/",
+            "snippet": "The survey focuses on civil regulations of AI in consumer-facing sectors in which antidiscrimination principles are relevant, including ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Bias and Fairness in Artificial Intelligence - New York State Bar ...",
+            "text": "",
+            "link": "https://nysba.org/bias-and-fairness-in-artificial-intelligence/?srsltid=AfmBOooiiOCP0yYo3dmIcjKyS6DAV9TBaav2z4KosU7C9xsJVRMau5tG",
+            "snippet": "This article will examine the issue of bias and fairness in AI from all angles, including how it works and how it can be misused.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "How AI and Automated Systems Use Can Lead to Discrimination in ...",
+            "text": "",
+            "link": "https://perkinscoie.com/insights/update/how-ai-and-automated-systems-use-can-lead-discrimination-hiring",
+            "snippet": "Uncritical reliance on AI can have legal consequences, including potentially building in bias that can lead to claims of employment discrimination.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Navigating the AI Employment Bias Maze: Legal Compliance ...",
+            "text": "",
+            "link": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-april/navigating-ai-employment-bias-maze/",
+            "snippet": "AI systems may produce biased results because of limitations in their training data or errors in their programming, with significant legal risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "Bias in AI-driven HRM systems: Investigating discrimination risks ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125008113",
+            "snippet": "This paper investigates the risks of discrimination in AI recruitment tools and HR analytics, focusing on the risks of algorithmic discrimination affecting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "AI Bias in Hiring: Algorithmic Recruiting and Your Rights",
+            "text": "",
+            "link": "https://sanfordheisler.com/blog/ai-bias-in-hiring-algorithmic-recruiting-and-your-rights/",
+            "snippet": "AI hiring tools are changing the hiring process, but they can also replicate bias and discrimination. Learn how algorithmic recruiting ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Ethics and discrimination in artificial intelligence-enabled ... - Nature",
+            "text": "",
+            "link": "https://www.nature.com/articles/s41599-023-02079-x",
+            "snippet": "This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Bias and ethics of AI systems applied in auditing - A systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2468227624002266",
+            "snippet": "... algorithmic discrimination,\u201d arXiv.org, 2019. Google Scholar. [14]. M. DeCamp ... detection of fraud in credit card transactions in financial legacy systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "[PDF] Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "parents as having committed fraud in their childcare benefit applications ... potential discrimination resulting from the use of AI systems, some ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) AI Fairness in Data Management and Analytics: A Review on ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/373915077_AI_Fairness_in_Data_Management_and_Analytics_A_Review_on_Challenges_Methodologies_and_Applications",
+            "snippet": "thereby providing a system that both quanti\ufb01es prejudice and mitigates discrimination ... AI assists in fraud detection, predicting default risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Algorithm Assurance: Auditing Applications of Artificial Intelligence",
+            "text": "",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-11089-4_7",
+            "snippet": "As a system for\u2014essentially\u2014fraud detection, compliance criteria and fairness criteria as typical issues for this type of fraud detection ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Supervisory Implications of Artificial Intelligence and Machine ...",
+            "text": "",
+            "link": "https://www.torontocentre.org/index.php?option=com_content&view=article&id=379&Itemid=99",
+            "snippet": "Fraud and scams \u2013 the use of digital channels increases the scope for attempted frauds and scams on unsuspecting and vulnerable consumers. Cyber ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 30,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+        "response": " Unfair discrimination and misrepresentation is a risk associated with A system is designed to analyze application data and detect potential fraud, aiming to ensure the integrity of benefit distributions. It utilizes algorithms to identify risk factors and assess eligibility, striving to provide accurate and fair outcomes. The system's goal is to automatically process applications and prevent ineligible recipients from receiving benefits.",
+        "elapsed_time": 53.44431799999984
+    }
+}

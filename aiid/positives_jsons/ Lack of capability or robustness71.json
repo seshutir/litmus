@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+    "output": " Lack of capability or robustness is a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a machine translation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is a risk in using advanced algorithms to interpret and render the meaning of original text into a target language",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The 5 risks of machine translation | TextMaster",
+            "text": "",
+            "link": "https://www.textmaster.com/blog/dangers-machine-translation/",
+            "snippet": "It's a mistake to blindly trust machine translation. Machines can still make grammatical errors, use incorrect phrasing and even add mistranslations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Machine Translation Risks 2025: Security and Compliance Impact",
+            "text": "",
+            "link": "https://www.adverbum.com/post/machine-translation-risks-2025",
+            "snippet": "The primary risks include data leakage, unauthorized storage of translated content, lack of robust encryption, linguistic hallucinations leading ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Machine Translation Robustness - MachineTranslation.io",
+            "text": "",
+            "link": "https://blog.machinetranslation.io/machine-translation-robustness/",
+            "snippet": "The first step to machine translation robustness is defining the issues that your model frequently encounters when translating a certain type of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Overview and challenges of machine translation for contextually ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+            "snippet": "Machine translation systems may lack the necessary domain-specific knowledge to disambiguate polysemous words accurately in such cases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How Secure Is Machine Translation? - Language IO",
+            "text": "",
+            "link": "https://languageio.com/resources/blogs/how-secure-is-machine-translation/",
+            "snippet": "How secure is machine translation? Learn about risks such as data privacy concerns, potential breaches, and vulnerabilities when using ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Overview and challenges of machine translation for contextually ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+            "snippet": "This review explores the difficulties in achieving such accuracy, particularly in capturing contextual information, disambiguating polysemous words, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "On the lack of robust interpretability of neural text classifiers",
+            "text": "",
+            "link": "https://www.amazon.science/publications/on-the-lack-of-robust-interpretability-of-neural-text-classifiers",
+            "snippet": "In this work, we assess the robustness of interpretations of neural text classifiers, specifically, those based on pretrained Transformer encoders, using two ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "The Limits of Language AI - Imminent - Translated's Research Center",
+            "text": "",
+            "link": "https://imminent.translated.com/the-limits-of-language-ai",
+            "snippet": "AI technology: what kind of potential does it have right now, and could it replace humans? Current dynamics of AI in translation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Understanding the Limitations of AI in Language Services",
+            "text": "",
+            "link": "https://languageworld.com/understanding-ai-in-translation-interpreting/",
+            "snippet": "Over-reliance on AI for language services can lead to negative outcomes. Misinterpretations or mistranslations by AI can lead to inaccuracy, which can be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Limitations of AI text generators include accuracy and creativity",
+            "text": "",
+            "link": "https://www.facebook.com/groups/703007927897194/posts/787830222748297/",
+            "snippet": "AI image generators often have a problem with coherence, which means they cannot maintain consistency across different parts of the image. For ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Overview and challenges of machine translation for contextually ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004224021035",
+            "snippet": "By addressing these challenges, machine translation can break language barriers, foster multicultural understanding, and enable global ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Overview and challenges of machine translation for contextually ...",
+            "text": "",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39391737/",
+            "snippet": "Machine translation facilitates cross-linguistic communication by converting text between languages. However, producing contextually ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Risks of Machine Translations in Education - Propio",
+            "text": "",
+            "link": "https://propio.com/2024/12/02/the-risks-of-machine-translations-in-education-and-why-you-should-adopt-a-human-in-the-loop-approach/",
+            "snippet": "The Risks of Machine Translations in Education and Why You Should Adopt a Human-in-the-Loop Approach \u00b7 1. Loss of Nuance and Cultural Sensitivity ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Dangers of using machine translation vs. professional translation",
+            "text": "",
+            "link": "https://traducendo.net/en/dangers-of-using-machine-translation-vs-professional-translation/",
+            "snippet": "In this post, we look at the dangers of using machine translation instead of a professional human translator, and why it's important to invest in high-quality ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Experts Warn of the Risks of Machine Translation",
+            "text": "",
+            "link": "https://thetranslationcompany.com/news/blog/machine-translation/experts-warn-risks-machine-translation/",
+            "snippet": "A recent article by experts highlighted some of the largely unspoken risks associated with the rise of machine translation tools. Read it now.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+        "response": " Lack of capability or robustness is a risk associated with A machine translation system is designed to translate text from one language to another, aiming to facilitate communication across linguistic and cultural barriers. The system uses advanced algorithms to interpret and render the meaning of original text into a target language, striving for accuracy and nuance. Its purpose is to enable users to convey and understand messages in different languages.",
+        "elapsed_time": 18.833550041999843
+    }
+}

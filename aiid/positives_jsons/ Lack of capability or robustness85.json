@@ -1,0 +1,362 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A grading system utilizes algorithms to calculate student exam scores, aiming to provide accurate and reliable results. The system processes student performance data to determine grades, ensuring a fair assessment of their knowledge and skills. It also seeks to streamline the grading process, reducing the likelihood of human error.",
+    "output": " Lack of capability or robustness is a risk associated with A grading system utilizes algorithms to calculate student exam scores, aiming to provide accurate and reliable results. The system processes student performance data to determine grades, ensuring a fair assessment of their knowledge and skills. It also seeks to streamline the grading process, reducing the likelihood of human error.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the grading system that utilizes algorithms",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the A grading system is a risk in calculating student exam scores",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is a risk in processing student performance data to determine grades in the A grading system",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is a risk in streamlining the grading process in A grading system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "What Are the Risks of Algorithmic Bias in Higher Education?",
+            "text": "",
+            "link": "https://www.everylearnereverywhere.org/blog/what-are-the-risks-of-algorithmic-bias-in-higher-education/",
+            "snippet": "If an algorithm routinely places a student in a learning track that doesn't align with their learning needs, then this could ultimately hinder growth.\u201d Despite ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Risks of AI Algorithmic Bias in Higher Education",
+            "text": "",
+            "link": "https://www.schiller.edu/blog/risks-of-ai-algorithmic-bias-in-higher-education/",
+            "snippet": "Bias in AI algorithms describes systematic yet often unintentional errors within AI systems that lead to unfair or discriminatory outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Problem with Grading | Harvard Graduate School of Education",
+            "text": "",
+            "link": "https://www.gse.harvard.edu/ideas/ed-magazine/23/05/problem-grading",
+            "snippet": "\u201cThe traditional grading system is not aligned to learning outcomes,\u201d he says. \u201cTraditional grading is one-and-done in terms of you've learned ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Flawed Algorithms Are Grading Millions of Students' Essays - VICE",
+            "text": "",
+            "link": "https://www.vice.com/en/article/flawed-algorithms-are-grading-millions-of-students-essays/",
+            "snippet": "Automated essay scoring engines are now either the primary or secondary grader on standardized tests in at least 21 states, according to a survey conducted by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Flawed Algorithms Are Grading Millions of Students' Essays: Fooled ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/programming/comments/cxd9fv/flawed_algorithms_are_grading_millions_of/",
+            "snippet": "The algorithm that software uses to produce the grade is is flawed, in part because it has flawed assumptions about the tools it uses. More ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The Problem with Grading | Harvard Graduate School of Education",
+            "text": "",
+            "link": "https://www.gse.harvard.edu/ideas/ed-magazine/23/05/problem-grading",
+            "snippet": "Grades are the way teachers calculate and report student performances. Typically, it's an accumulation of points (0 to 100) with corresponding letters (A ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Deficiencies of Traditional Grading Systems and Recommendations ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10159463/",
+            "snippet": "Grades may not always accurately measure learning, they can have adverse effects on student motivation, and they are not a good form of feedback. Summary. The ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Grading is ineffective, harmful, and unjust \u2014 let's stop doing it",
+            "text": "",
+            "link": "https://medium.com/bits-and-behavior/grading-is-ineffective-harmful-and-unjust-lets-stop-doing-it-52d2ef8ffc47",
+            "snippet": "Grades reflect students' ability to perform in high stress testing contexts, which not all students can do equally because of test anxiety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "The Unwinnable Battle Over Minimum Grades - ASCD",
+            "text": "",
+            "link": "https://www.ascd.org/el/articles/the-unwinnable-battle-over-minimum-grades",
+            "snippet": "The debate over minimum grade policies masks deeper flaws in grading systems that need to be addressed head-on.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Effects Of Grading System On Students: Pros And Cons - UoPeople",
+            "text": "",
+            "link": "https://www.uopeople.edu/blog/effects-of-grading-system-on-students/",
+            "snippet": "There are positive and negative effects of grading systems on students. Grading systems first started to help communicate between schools.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Deficiencies of Traditional Grading Systems and Recommendations ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10159463/",
+            "snippet": "Objective. To review issues surrounding the use of grades in the educational process and provide evidence-based recommendations for how to redesign grading ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Case Against Grades (##) - Alfie Kohn",
+            "text": "",
+            "link": "https://www.alfiekohn.org/article/case-grades/",
+            "snippet": "Grades tend to diminish students' interest in whatever they're learning. A \u201cgrading orientation\u201d and a \u201clearning orientation\u201d have been shown to be inversely ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Reduced grading in assessment: A scoping review - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0742051X23003244",
+            "snippet": "Increasingly, educators are adopting reduced grading practices to enhance the desired or lessen the undesired aspects of assessment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Undergraduate STEM Students' Perceptions of Grading Practices ...",
+            "text": "",
+            "link": "https://www.lifescied.org/doi/10.1187/cbe.24-06-0167",
+            "snippet": "In this study, we explore an easy-to-implement grading practice, in-class quiz retakes, to conceptualize how grades motivate learning and impact well-being for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Deficiencies of Traditional Grading Systems and Recommendations ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10159463/",
+            "snippet": "Sufficient evidence exists to show that traditional grading systems do a relatively poor job of accurately measuring knowledge and clinical skills.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The Problem with Grading | Harvard Graduate School of Education",
+            "text": "",
+            "link": "https://www.gse.harvard.edu/ideas/ed-magazine/23/05/problem-grading",
+            "snippet": "\u201cThe traditional grading system is not aligned to learning outcomes,\u201d he says. \u201cTraditional grading is one-and-done in terms of you've ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Why Teachers Should Grade Less Frequently | Edutopia",
+            "text": "",
+            "link": "https://www.edutopia.org/article/why-teachers-should-grade-less-frequently/",
+            "snippet": "Excessive grading stresses out kids and teachers, stifles innovative teaching, and fails to deliver as a true measurement of learning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Simplicity and complexity in grading | by Robert Talbert - Medium",
+            "text": "",
+            "link": "https://roberttalbert.medium.com/simplicity-and-complexity-in-grading-7e54150fcbee",
+            "snippet": "When a grading system is too simple, it's easy to use but it provides corrupted or unusable information about student work, and causes students ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Deficiencies of Traditional Grading Systems and Recommendations ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/356477940_Deficiencies_of_Traditional_Grading_Systems_and_Recommendations_for_the_Future",
+            "snippet": "Grades may not always accurately measure learning, they can have adverse effects on student motivation, and they are not a good form of feedback.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Fairness perceptions of AI in grading systems - ScienceDirect.com",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666920X25000591",
+            "snippet": "This study investigates students' aversion to AI grading systems compared to human professors, focusing on how dissatisfaction with the current evaluation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Artificial intelligence in student management systems to enhance ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12508167/",
+            "snippet": "The proposed hybrid AI model provides a robust, scalable solution for academic performance monitoring and early intervention, demonstrating its ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Full article: Promises and breakages of automated grading systems",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/20004508.2025.2464996",
+            "snippet": "The present study focuses on individuals with expertise in developing, using, and researching AGSs in higher education, whom we refer to as \u201cAGS experts\u201d.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A Comprehensive Review on Automated Grading Systems in STEM ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/395227123_A_Comprehensive_Review_on_Automated_Grading_Systems_in_STEM_Using_AI_Techniques",
+            "snippet": "This paper presents a comprehensive analysis of artificial intelligence-powered automated grading systems (AI AGSs) in STEM education, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A systematic review on the future of educational assessment: AI ...",
+            "text": "",
+            "link": "https://www.emerald.com/aiie/article/2/2/75/1317167/A-systematic-review-on-the-future-of-educational",
+            "snippet": "Traditional grading systems were once the backbone of educational assessment, providing a systematic way to determine student performance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.987579,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.99996,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.998666,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.999249,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.014467364948102877,
+        "norm_entropy": 0.12062894982156765,
+        "avg_entropy": 0.0036168412370257193,
+        "avg_norm_entropy": 0.03015723745539191,
+        "avg_prob": 0.9963635,
+        "avg_logprob": -0.0036562397296450878,
+        "avg_explogprob": 0.9963504361761195,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.012421,
+                    0.987579
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    4e-05,
+                    0.99996
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.001334,
+                    0.998666
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.000751,
+                    0.999249
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.9927661565995001,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A grading system utilizes algorithms to calculate student exam scores, aiming to provide accurate and reliable results. The system processes student performance data to determine grades, ensuring a fair assessment of their knowledge and skills. It also seeks to streamline the grading process, reducing the likelihood of human error.",
+        "response": " Lack of capability or robustness is a risk associated with A grading system utilizes algorithms to calculate student exam scores, aiming to provide accurate and reliable results. The system processes student performance data to determine grades, ensuring a fair assessment of their knowledge and skills. It also seeks to streamline the grading process, reducing the likelihood of human error.",
+        "elapsed_time": 50.26213170800111
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+    "output": " Lack of capability or robustness is a not a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with the system's benefit case evaluation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing individual cases to determine eligibility for benefits using the system.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with generating notifications and updates for beneficiaries",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Robustness tests for biomedical foundation models should ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12397224/",
+            "snippet": "by RP Xian \u00b7 2025 \u00b7 Cited by 18 \u2014 Robustness failures are an origin of the performance gap between model development and deployment, performance degradation over time, and, more alarmingly, the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "What AI evaluations for preventing catastrophic risks can ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2412.08653v1",
+            "snippet": "Evaluations cannot establish upper bounds on AI system capabilities, because they do not provide strong evidence about the lack of capabilities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf",
+            "snippet": "by N AI \u00b7 2023 \u00b7 Cited by 286 \u2014 Robustness or generalizability is defined as the \u201cability of a system to maintain its level of performance under a variety of circumstances\u201d ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Safety and Robustness: Building Resilient, Reliable AI ...",
+            "text": "",
+            "link": "https://agility-at-scale.com/ai/governance/safety-and-robustness/",
+            "snippet": "Robustness is the ability of an AI model to maintain reliable performance when conditions shift \u2014 whether those shifts come from new data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Artificial intelligence in healthcare and medicine - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/",
+            "snippet": "by YA Fahim \u00b7 2025 \u00b7 Cited by 293 \u2014 AI can analyze complex data sets, AI identifies high-risk individuals who may benefit from preventive care interventions",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Research with Adults Lacking Capacity to Consent",
+            "text": "",
+            "link": "https://www.wcgclinical.com/insights/navigating-ethical-challenges-research-with-adults-lacking-capacity-to-consent/",
+            "snippet": "The IRB is responsible for assessing the risks and benefits specific to individuals who lack capacity to consent when determining whether it is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 GAI system use can involve varying risks of misconfigurations and poor interactions between a system and a human who is interacting with it.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Black box algorithms and the rights of individuals: no easy ...",
+            "text": "",
+            "link": "https://policyreview.info/articles/analysis/black-box-algorithms-and-rights-individuals-no-easy-solution-explainability",
+            "snippet": "by J Gryz \u00b7 2021 \u00b7 Cited by 85 \u2014 The aim of this article is twofold. First, to demonstrate that the interpretability of \u201cblack box\u201d machine learning algorithms is a challenging technical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "The role of artificial intelligence for early warning systems",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004225019509",
+            "snippet": "by T Tiggeloven \u00b7 2025 \u00b7 Cited by 30 \u2014 Artificial intelligence (AI) is gaining momentum in earth sciences as a tool to analyze complex natural hazards and their impacts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Evaluating Trustworthiness in AI: Risks, Metrics, and ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-9292/14/13/2717",
+            "snippet": "by A Nastoska \u00b7 2025 \u00b7 Cited by 108 \u2014 This paper explores frameworks and metrics for evaluating AI trustworthiness, focusing on key principles such as fairness, transparency, privacy, and security.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Robustness & Security Research",
+            "text": "",
+            "link": "https://far.ai/topic/robustness-and-security",
+            "snippet": "Currently, most AI systems are far from robust. They often fail when exposed to new environments and can easily be exploited by adversaries. These weaknesses ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Pentagon Designates Anthropic a Supply Chain Risk",
+            "text": "",
+            "link": "https://www.mayerbrown.com/en/insights/publications/2026/03/pentagon-designates-anthropic-a-supply-chain-risk-what-government-contractors-need-to-know",
+            "snippet": "Defense Secretary Pete Hegseth designated Anthropic a \u201csupply chain risk.\u201d carries implications for the many contractors that purposes\u201d without ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Data and Algorithms at Work: The Case for Worker ...",
+            "text": "",
+            "link": "https://laborcenter.berkeley.edu/data-algorithms-at-work/",
+            "snippet": "Employers are increasingly using data and algorithms in ways that stand to have profound consequences for wages, working conditions, race and gender equity, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Role of AI in Hospitals and Clinics: Transforming ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/",
+            "snippet": "by SM Varnosfaderani \u00b7 2024 \u00b7 Cited by 1183 \u2014 This paper aims to explore the multifaceted role of AI in healthcare settings, focusing on its impact on clinical decision-making, hospital operations, medical ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI as Normal Technology",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/ai-as-normal-technology",
+            "snippet": "Our approach to this question is to analyze highly consequential tasks separately from less consequential tasks and to begin by analyzing the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "High-level summary of the AI Act",
+            "text": "",
+            "link": "https://artificialintelligenceact.eu/high-level-summary/",
+            "snippet": "AI systems listed under Annex III are always considered high-risk. Design their high risk AI system to achieve appropriate levels of accuracy, robustness, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 2e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 3,
+        "num_contexts": 18,
+        "num_true_atoms": 0,
+        "num_false_atoms": 3,
+        "num_uniform_atoms": 1,
+        "entropy": 0.3468038013562188,
+        "norm_entropy": 1.0003624206846544,
+        "avg_entropy": 0.1156012671187396,
+        "avg_norm_entropy": 0.3334541402282181,
+        "avg_prob": 0.1666736666666667,
+        "avg_logprob": -8.442812007644834,
+        "avg_explogprob": 0.0002154434690031884,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.99998,
+                    2e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 3,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 0.08333333346666666,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+        "response": " Lack of capability or robustness is a not a risk associated with A system is designed to automatically evaluate benefit cases, aiming to streamline the process and provide accurate assessments. It uses algorithms to analyze individual cases and determine eligibility for benefits. The system also seeks to generate notifications and updates for beneficiaries regarding their status and any necessary actions.",
+        "elapsed_time": 34.10932516702451
+    }
+}

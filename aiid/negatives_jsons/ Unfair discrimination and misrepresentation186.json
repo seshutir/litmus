@@ -1,0 +1,221 @@
+{
+    "input": " Unfair discrimination and misrepresentation is a not a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+    "output": " Unfair discrimination and misrepresentation is a not a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with the algorithm's benefit fraud detection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unfair discrimination and misrepresentation is not a risk associated with analyzing patterns and anomalies in data to detect fraudulent activity using the algorithm.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Understanding the Impact of Algorithmic Discrimination on ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12024391/",
+            "snippet": "by B Sun \u00b7 2025 \u00b7 Cited by 7 \u2014 This study found that experiencing algorithmic discrimination significantly increases UCB, with anticipatory guilt mediating this relationship.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "How and why algorithms discriminate",
+            "text": "",
+            "link": "https://algorithmwatch.org/en/how-and-why-algorithms-discriminate/",
+            "snippet": "... algorithm to create risk profiles in order to detect child benefit fraud. ... The existing protection against discrimination is therefore not ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Bias in algorithms \u2013 Artificial intelligence and discrimination",
+            "text": "",
+            "link": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2022-bias-in-algorithms_en.pdf",
+            "snippet": "parents as having committed fraud in their childcare benefit applications. ... the prevention of discrimination linked to legally protected grounds may no.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Algorithmic Bias Explained",
+            "text": "",
+            "link": "https://greenlining.org/wp-content/uploads/2021/04/Greenlining-Institute-Algorithmic-Bias-Explained-Report-Feb-2021.pdf",
+            "snippet": "Michigan's Fraud Detection Algorithm Wrongly Accused 40,000 People of Unemployment Fraud ... discrimination. Page 23. Algorithmic Bias Explained. | 23.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "... discrimination from continuing. ... These companies make extensive use of algorithms for everything from spotting fraud to deciding to extend ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Anomaly detection for fraud prevention - Advanced strategies",
+            "text": "",
+            "link": "https://www.fraud.com/post/anomaly-detection",
+            "snippet": "Anomaly detection is a crucial aspect of fraud prevention, involving the identification of unusual patterns or behaviours within datasets.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Financial Fraud: A Review of Anomaly Detection Techniques and Recent ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0957417421017164",
+            "snippet": "by W Hilal \u00b7 2022 \u00b7 Cited by 1036 \u2014 This survey aims to investigate and present a thorough review of the most popular and effective anomaly detection techniques applied to detect financial fraud.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Anomaly Detection Techniques: How to Uncover Risks, Identify Patterns ...",
+            "text": "",
+            "link": "https://www.mindbridge.ai/blog/anomaly-detection-techniques-how-to-uncover-risks-identify-patterns-and-strengthen-data-integrity/",
+            "snippet": "This article will explore anomaly detection techniques from traditional statistical methods to new, AI-powered solutions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Intelligent approach to detecting online fraudulent trading with ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12102310/",
+            "snippet": "by SM Darwish \u00b7 2025 \u00b7 Cited by 21 \u2014 Anomaly detection techniques identify deviations from normal behavior, making them effective for uncovering new fraud patterns with minimal labeled data.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Fraud detection using machine learning: What to know",
+            "text": "",
+            "link": "https://stripe.com/resources/more/how-machine-learning-works-for-payment-fraud-detection-and-prevention",
+            "snippet": "Machine learning can identify patterns and anomalies that indicate fraudulent behavior, making it possible for businesses to detect and prevent fraud in real ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Healthcare insurance fraud detection using data mining - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11046758/",
+            "snippet": "by Z Hamid \u00b7 2024 \u00b7 Cited by 96 \u2014 The algorithm introduces an adaptive learning factor and splitting and elimination mechanism to improve the population's diversity and fine searching ability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Benefits of Machine Learning in Fraud Detection",
+            "text": "",
+            "link": "https://www.teradata.com/insights/ai-and-machine-learning/fraud-detection-machine-learning",
+            "snippet": "Fraud detection machine learning tools help organizations in many industries uncover and mitigate fraudulent transactions quickly, efficiently, and at scale.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Data analysis",
+            "text": "",
+            "link": "https://www.counterfraud.gov.au/fraud-countermeasures/data-analysis",
+            "snippet": "Analyse data to improve processes and controls, increase payment accuracy and find and prevent non-compliance, fraud and corruption.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "The role of big data in detecting and preventing financial ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/383397952_The_role_of_big_data_in_detecting_and_preventing_financial_fraud_in_digital_transactions",
+            "snippet": "This Review explores the multifaceted role of big data in combating financial fraud, highlighting its capabilities in identifying fraudulent patterns.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 3.9e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 3.9e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.000791852015123101,
+        "norm_entropy": 0.001254928994157718,
+        "avg_entropy": 0.0003959260075615505,
+        "avg_norm_entropy": 0.000627464497078859,
+        "avg_prob": 3.9e-05,
+        "avg_logprob": -10.151948911834628,
+        "avg_explogprob": 3.899999999999998e-05,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999961,
+                    3.9e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999961,
+                    3.9e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.521e-09,
+        "topic": "",
+        "query": " Unfair discrimination and misrepresentation is a not a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+        "response": " Unfair discrimination and misrepresentation is a not a risk associated with An algorithm is designed to detect and prevent benefit fraud by analyzing patterns and anomalies in data. It aims to identify potentially fraudulent activity and ensure that benefits are distributed fairly and accurately. The system seeks to improve the efficiency and integrity of the benefits process.",
+        "elapsed_time": 21.897010083019268
+    }
+}

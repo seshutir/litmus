@@ -1,0 +1,203 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+    "output": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in the system is a risk in missile threat detection",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in the system is a risk in detecting and analyzing potential missile threats, providing accurate alerts and warnings to operators, identifying false-positive readings, and distinguishing them from actual threats",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Growing Missile Threat Needs Robust Defenses, Official Says - DVIDS",
+            "text": "",
+            "link": "https://www.dvidshub.net/news/511150/growing-missile-threat-needs-robust-defenses-official-says",
+            "snippet": "The threat is growing, underscoring the need for a robust and flexible defense system, a senior Pentagon official said here yesterday.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Evaluation method and optimization strategies of resilience for air ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2214914723000053",
+            "snippet": "In the face of multi-dimensional air and space threats from land, sea, air, space, network, electromagnetic, and cognitive, how the air & space defense system ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Assessing Missile Defense Technology and Policy Half a Century ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/25751654.2025.2556063",
+            "snippet": "In reality \u2013 while missile defense can be successful against certain types of threats and deter the adversary from attacking, it is never ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Missile Defense Fails to Provide a Reliable Defense Against Short ...",
+            "text": "",
+            "link": "https://armscontrolcenter.org/missile-defense-fails-to-provide-a-reliable-defense-against-short-medium-or-long-range-missiles/",
+            "snippet": "Thereby, these threats to the United States are more likely than a long-range missile attack and should be prioritized in U.S. defense planning.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Hypersonic Threats - Joint Air Power Competence Centre",
+            "text": "",
+            "link": "https://www.japcc.org/articles/hypersonic-threats/",
+            "snippet": "Threats like Hypersonic Glide Vehicles (HGV) or Hypersonic Cruise Missiles (HCM) are not a completely new threat category, since they bear certain similarities ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "How to reduce False Positive Alerts in Threat Detection: Sharpening ...",
+            "text": "",
+            "link": "https://medium.com/@tahirbalarabe2/how-to-reduce-false-positive-alerts-in-threat-detection-sharpening-security-detections-d8382b93915a",
+            "snippet": "A detection system flooded with noise makes real threats harder to spot. The goal isn't perfection \u2014 some false positives are inevitable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "From False Positives to Precise Alerts - BitLyft",
+            "text": "",
+            "link": "https://www.bitlyft.com/resources/from-false-positives-to-precise-alerts-rethinking-your-threat-detection-strategy",
+            "snippet": "Many of these are false positives, forcing analysts to waste time sifting through non-threatening anomalies. Meanwhile, real threats may go ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "False positives in cybersecurity | CyberDefenders Blog",
+            "text": "",
+            "link": "https://cyberdefenders.org/blog/false-positives-in-cybersecurity/",
+            "snippet": "Compliance Risks: Failing to respond to genuine threats due to alert fatigue can lead to data breaches and regulatory violations. Lowered Trust ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Identifying and Mitigating False Positive Alerts - Panther",
+            "text": "",
+            "link": "https://panther.com/blog/identifying-and-mitigating-false-positive-alerts",
+            "snippet": "Avoid acting on outdated risks and threats by updating your detections with new releases to vendor-managed detection content and configurations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "False positives: detection and protection - Stormshield",
+            "text": "",
+            "link": "https://www.stormshield.com/news/the-issue-of-false-positives-in-cybersecurity/",
+            "snippet": "... false positives: for a better detection and cyber protection against cyber threats ... Threat Intelligence (CTI) expertise to anticipate threats.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Space cybersecurity challenges, mitigation techniques, anticipated ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1874548224000659",
+            "snippet": "Such insecurities jeopardize economic growth, exacerbate societal risks, and potentially threaten inter/national security [2]. For example, the February 24, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "United States Customs and Border Protection \u2013 AI Use Cases",
+            "text": "",
+            "link": "https://www.dhs.gov/ai/use-case-inventory/cbp",
+            "snippet": "It enables analysts to quickly identify risks to vulnerabilities within CBP's IT environment by providing insights into known cyber threats targeting those ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 12,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999980000009999,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+        "response": " Lack of capability or robustness is a risk associated with A system is designed to detect and analyze potential missile threats, providing accurate alerts and warnings to operators. It aims to identify false-positive readings and distinguish them from actual threats, ensuring a reliable and trustworthy early warning system. The system's primary goal is to provide critical information, enabling operators to make informed decisions in high-pressure situations.",
+        "elapsed_time": 20.69627516699984
+    }
+}

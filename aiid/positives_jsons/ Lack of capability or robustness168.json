@@ -1,0 +1,220 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with An automated system is designed to recognize and interpret visual data from camera footage, including text and patterns. It aims to accurately identify and extract relevant information, such as license plate numbers, to assist in various applications. The system utilizes computer vision and machine learning algorithms to process and analyze visual data in real-time.",
+    "output": " Lack of capability or robustness is a risk associated with An automated system is designed to recognize and interpret visual data from camera footage, including text and patterns. It aims to accurately identify and extract relevant information, such as license plate numbers, to assist in various applications. The system utilizes computer vision and machine learning algorithms to process and analyze visual data in real-time.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in the computer vision system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in an automated system is a risk in recognizing and interpreting visual data from camera footage",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "A Survey on the Robustness of Computer Vision Models against ...",
+            "text": "",
+            "link": "https://arxiv.org/abs/2305.06024",
+            "snippet": "In this survey, we present a comprehensive overview of methods that improve the robustness of computer vision models against common corruptions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "A comprehensive survey of robust deep learning in computer vision",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S294985542300045X",
+            "snippet": "In computer systems, robustness indicates the ability of a computer system to handle errors during execution and cope with erroneous inputs. In DL, robustness ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Limits of Computer Vision, and of Our Own",
+            "text": "",
+            "link": "https://magazine.hms.harvard.edu/articles/limits-computer-vision-and-our-own",
+            "snippet": "In fields such as radiology, AI models can help compensate for the shortcomings of human vision but have weaknesses of their own.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Why We Need Robust and Interactable World Models in Computer ...",
+            "text": "",
+            "link": "https://medium.com/@ml-point/why-we-need-robust-and-interactable-world-models-in-computer-vision-0f228d0094d5",
+            "snippet": "Vision systems fail in out-of-distribution scenes \u00b7 Small visual changes cause large failures \u00b7 Models struggle with long-horizon reasoning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI Language Model Inability to Interpret Visual | Nikolay Donets",
+            "text": "",
+            "link": "https://donets.org/risks/ai-language-model-inability-to-interpret-visual-elements",
+            "snippet": "Analysis of 'AI Language Model Inability to Interpret Visual Elements' - an AI risk in AI system safety, failures and limitations identified",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Technical Challenges of AI in Video Analysis | Memories.ai Blog",
+            "text": "",
+            "link": "https://memories.ai/blogs/Technical_Challenges_of_AI_in_Video_Analysis",
+            "snippet": "Low-resolution videos contain less detailed visual information, making object detection and feature extraction difficult. AI models trained to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Proactive Anomaly surveillance system for CCTV footage analysis in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0957417424012570",
+            "snippet": "This comprehensive analysis demonstrates the system's robust capability in accurately identifying security incidents within a diverse range of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Data Integrity Attacked from All Sides in Vision System",
+            "text": "",
+            "link": "https://www.automate.org/vision/industry-insights/data-integrity-attacked-from-all-sides-in-vision-system",
+            "snippet": "By combining the image processing elements with the sensor, smart cameras offer another way to improve the determinism of a small vision network.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Automatic Number Plate Recognition:A Detailed Survey of Relevant ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8123416/",
+            "snippet": "This paper presents a detailed survey of current techniques and advancements in Automatic-Number-Plate-Recognition (ANPR) systems, with a comprehensive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "License Plate Recognition - an overview | ScienceDirect Topics",
+            "text": "",
+            "link": "https://www.sciencedirect.com/topics/computer-science/license-plate-recognition",
+            "snippet": "ALPR systems are widely used in various applications such as traffic enforcement, threat detection, traffic control, access control, toll collection, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "(PDF) A Robust Real-Time Automatic License Plate Recognition ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/323444033_A_Robust_Real-Time_Automatic_License_Plate_Recognition_Based_on_the_YOLO_Detector",
+            "snippet": "This paper presents a robust and efficient ALPR system based on the state-of-the-art YOLO object detector.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "A License Plate Recognition System with Robustness against ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2075-1680/12/5/424",
+            "snippet": "This paper presents a general method for character extraction and pattern matching in license plate recognition systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Performance of Automatic License Plate Recognition Systems on ...",
+            "text": "",
+            "link": "https://library.imaging.org/jist/articles/68/6/060401",
+            "snippet": "Automatic License Plate Recognition (ALPR) systems are essential for various applications, including law enforcement, traffic management, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with An automated system is designed to recognize and interpret visual data from camera footage, including text and patterns. It aims to accurately identify and extract relevant information, such as license plate numbers, to assist in various applications. The system utilizes computer vision and machine learning algorithms to process and analyze visual data in real-time.",
+        "response": " Lack of capability or robustness is a risk associated with An automated system is designed to recognize and interpret visual data from camera footage, including text and patterns. It aims to accurately identify and extract relevant information, such as license plate numbers, to assist in various applications. The system utilizes computer vision and machine learning algorithms to process and analyze visual data in real-time.",
+        "elapsed_time": 33.60525066700029
+    }
+}

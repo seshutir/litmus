@@ -1,0 +1,301 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A content analysis system is designed to automatically review and filter online content, aiming to identify and remove inappropriate material. The system's goal is to protect human reviewers from exposure to harmful content and ensure a safer online environment. It uses machine learning algorithms to detect and classify content, helping to improve the overall efficiency of the moderation process.",
+    "output": " Lack of capability or robustness is a risk associated with A content analysis system is designed to automatically review and filter online content, aiming to identify and remove inappropriate material. The system's goal is to protect human reviewers from exposure to harmful content and ensure a safer online environment. It uses machine learning algorithms to detect and classify content, helping to improve the overall efficiency of the moderation process.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness in a content analysis system is a risk in content moderation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in a content analysis system is a risk in automatically reviewing and filtering online content",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness in the content analysis system's machine learning algorithms is a risk in detecting and classifying content",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "In addition, automated tools are also limited in their ability to derive contextual insights from content. For example, an image recognition tool could identify ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Problematizing content moderation by social media platforms and its ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11549828/",
+            "snippet": "The automation of content moderation presents a serious risk to the existence of self-organized and awareness-raising communities. Not only does ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "[PDF] Robust Content Moderation: Theory and Applications",
+            "text": "",
+            "link": "https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/2025-11/ContentModeration.pdf",
+            "snippet": "Section 4 studies robust content moderation when the signal structure may change in response to the moderation policy. Section 5 discusses appli- cations, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Do You See What I See? Capabilities and Limits of Automated ...",
+            "text": "",
+            "link": "https://cdt.org/insights/do-you-see-what-i-see-capabilities-and-limits-of-automated-multimedia-content-analysis/",
+            "snippet": "This paper explains the capabilities and limitations of tools for analyzing online multimedia content and highlights the potential risks of using these tools ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Types of Content Moderation: Benefits, Challenges, and Use Cases",
+            "text": "",
+            "link": "https://imagga.com/blog/types-of-content-moderation-benefits-challenges-and-use-cases/",
+            "snippet": "Risks exposure to harmful content before removal, which can harm reputation and trust. Problematic content may go viral before moderation teams ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "However, incorporating such assumptions and processes into an automated tool runs the risk of enhancing biases around particular groups of individuals and could ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Content-filtering AI systems\u2013limitations, challenges and regulatory ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/abs/10.1080/13600834.2022.2078395",
+            "snippet": "However, content-filtering AI systems are subject to limitations that affect their accuracy and transparency. These limitations open the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "[PDF] The impact of algorithms for online content filtering or moderation",
+            "text": "",
+            "link": "https://www.europarl.europa.eu/RegData/etudes/STUD/2020/657101/IPOL_STU(2020)657101_EN.pdf",
+            "snippet": "The present report addresses a key aspect of automation in moderation, the adoption of automated filters meant to exclude or classify user-generated materials.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "[PDF] Do You See What I See? Capabilities and Limits of Automated ...",
+            "text": "",
+            "link": "https://cdt.org/wp-content/uploads/2021/05/2021-05-18-Do-You-See-What-I-See-Capabilities-Limits-of-Automated-Multimedia-Content-Analysis-Full-Report-2033-FINAL.pdf",
+            "snippet": "This paper explains the capabilities and limitations of tools for analyzing online multimedia content and highlights the potential risks of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Content-filtering AI systems - limitations, challenges and regulatory ...",
+            "text": "",
+            "link": "https://www.ntu.edu.sg/business/research/nbs-knowledge-lab/nbs-research-blog/content-filtering-ai-systems-limitations-challenges-and-regulatory-approaches",
+            "snippet": "The paper sheds light on the challenges of AI-driven content filtering and its impact on human rights, particularly the right to free speech.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "A classification of machine learning biases and mitigation methods",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0148296322000881",
+            "snippet": "This paper offers a systematic, interdisciplinary literature review of machine learning biases as well as methods to avoid and mitigate these biases.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Risks of Machine Learning Systems - ResearchGate",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/360104522_The_Risks_of_Machine_Learning_Systems",
+            "snippet": "This is known as \"data poisoning.\" The application, control over training data, and model's robustness to such attacks are potential risk ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Risks of Machine Learning Systems - MIT AI Risk Repository",
+            "text": "",
+            "link": "https://airisk.mit.edu/blog/the-risks-of-machine-learning-systems",
+            "snippet": "This paper presents the Machine Learning System Risk framework (MLSR). This framework categorises the risks of ML systems into first-order and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Health Misinformation Detection: Approaches, Challenges and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12589804/",
+            "snippet": "A growing body of research demonstrates the efficacy of ML-based approaches in filtering and categorizing misleading content, with applications ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Lack of robustness, a fatality for AI systems? - Numalis",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Detection and moderation of detrimental content on social media ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "What is Content Moderation? Pros, Cons, and Best Practices",
+            "text": "",
+            "link": "https://www.hirehoratio.com/blog/what-is-content-moderation",
+            "snippet": "Content moderators play a crucial role in filtering out harmful, inappropriate, or misleading content, including hate speech, harassment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Limitations of Automated Tools in Content Moderation",
+            "text": "",
+            "link": "https://www.newamerica.org/insights/everything-moderation-analysis-how-internet-platforms-are-using-artificial-intelligence-moderate-user-generated-content/the-limitations-of-automated-tools-in-content-moderation/",
+            "snippet": "The accuracy of a given tool in detecting and removing content online is highly dependent on the type of content it is trained to tackle. Developers have been ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Privacy-preserving Moderation of Illegal Online Content",
+            "text": "",
+            "link": "https://cetas.turing.ac.uk/publications/privacy-preserving-moderation-illegal-online-content",
+            "snippet": "As online harms evolve, there is an urgent need to combine existing content moderation techniques with more innovative methods.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "SHIELD: System for Harmful Explicit-Content Identification and ...",
+            "text": "",
+            "link": "https://ieeexplore.ieee.org/iel8/6287639/11323511/11406083.pdf",
+            "snippet": "Its outputs are meant to help human reviewers detect the potentially harmful or explicit content on a large scale. For its proper use, model ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 3,
+        "num_contexts": 20,
+        "num_true_atoms": 3,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9999985000857673e-06,
+        "norm_entropy": 6.412278866831557e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 3,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A content analysis system is designed to automatically review and filter online content, aiming to identify and remove inappropriate material. The system's goal is to protect human reviewers from exposure to harmful content and ensure a safer online environment. It uses machine learning algorithms to detect and classify content, helping to improve the overall efficiency of the moderation process.",
+        "response": " Lack of capability or robustness is a risk associated with A content analysis system is designed to automatically review and filter online content, aiming to identify and remove inappropriate material. The system's goal is to protect human reviewers from exposure to harmful content and ensure a safer online environment. It uses machine learning algorithms to detect and classify content, helping to improve the overall efficiency of the moderation process.",
+        "elapsed_time": 40.214668249998795
+    }
+}

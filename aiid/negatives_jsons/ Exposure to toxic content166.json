@@ -1,0 +1,363 @@
+{
+    "input": " Exposure to toxic content is a not a risk associated with A system is designed to analyze and filter online content, aiming to remove hate speech and violent rhetoric from its platform. The goal is to create a safe and respectful environment for users, promoting healthy discussions and interactions. This content moderation process seeks to identify and eliminate harmful or dehumanizing language.",
+    "output": " Exposure to toxic content is a not a risk associated with A system is designed to analyze and filter online content, aiming to remove hate speech and violent rhetoric from its platform. The goal is to create a safe and respectful environment for users, promoting healthy discussions and interactions. This content moderation process seeks to identify and eliminate harmful or dehumanizing language.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is not a risk associated with this content moderation",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk in analyzing online content to identify hate speech",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Exposure to toxic content is not a risk in filtering violent rhetoric from the platform",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Exposure to toxic content is a risk in eliminating harmful or dehumanizing language from the platform.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Content moderation is what a 21st century hazardous job looks like",
+            "text": "",
+            "link": "https://www.equaltimes.org/content-moderation-is-what-a-21st",
+            "snippet": "Just as exposure to silica dust caused lung diseases in miners, endless toxic and disturbing content is a threat to the mental health of those ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The psychological impacts of content moderation on content moderators",
+            "text": "",
+            "link": "https://cyberpsychology.eu/article/view/33166",
+            "snippet": "by R Spence \u00b7 2023 \u00b7 Cited by 93 \u2014 Content Moderators (CMs) are responsible for reviewing and removing harmful online material, which has the potential to cause psychological harm.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Content Moderators - Mental Health and Wellbeing Strategies",
+            "text": "",
+            "link": "https://www.zevohealth.com/blog/moderating-harm-maintaining-health-protecting-the-wellbeing-of-content-moderators/",
+            "snippet": "The mental health implications for Content Moderators are profound. Continuous exposure to harmful content can lead to the development of PTSD ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Content moderators: How to protect those who protect us?",
+            "text": "",
+            "link": "https://tremau.com/resources/content-moderators-how-to-protect-those-who-protect-us/",
+            "snippet": "Long-term exposure to such harmful content has triggered serious mental health issues among moderators, including depression and anxiety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The role of decision making in the negative impact of content ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s12144-025-08958-7",
+            "snippet": "by S Lewitzka \u00b7 2026 \u00b7 Cited by 1 \u2014 Frequent exposure to such content can lead to depression, anxiety, and posttraumatic stress disorder. Therefore, it is important to investigate ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Youth Exposure to Hate in the Online Space: An Exploratory Analysis - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7698507/",
+            "snippet": "by N Harriman \u00b7 2020 \u00b7 Cited by 113 \u2014 This study seeks to better understand youth exposure to hateful material in the online space by exploring predictors of such exposure.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "New Approaches for Analyzing the Spread of Hate Speech in Online ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3785318.3785320",
+            "snippet": "The analysis shows that toxic posts occur disproportionately often at the end of conversations, where they correlate with the breakdown of interaction, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Exposure to hate in online and traditional media: A systematic ...",
+            "text": "",
+            "link": "https://www.campbellcollaboration.org/review/exposure-to-hate-in-online-and-traditional-media-a-systematic-review-and-meta-analysis-of-the-impact-of-this-exposure-on-individuals-and-communities/",
+            "snippet": "This systematic review seeks to determine the consequences for individuals or groups when they are exposed directly or as bystanders to hate speech online.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Internet, social media and online hate speech. Systematic review",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178921000628",
+            "snippet": "by SA Casta\u00f1o-Pulgar\u00edn \u00b7 2021 \u00b7 Cited by 593 \u2014 In particular, we analyse conversations in different online communities, focusing on identifying consistent patterns of toxic content. Drawing from an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Intersectional Disparities within Automated Hate-speech Detection ...",
+            "text": "",
+            "link": "https://cdt.org/insights/intersectional-disparities-within-automated-hate-speech-detection-across-us-centered-social-media-content/",
+            "snippet": "This complicates accurate identification of abusive content aimed at individuals based on identity characteristics such as gender, race, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "'Tick tock traitor:' The rise of violent rhetoric targeting US ...",
+            "text": "",
+            "link": "https://www.isdglobal.org/digital-dispatch/tick-tock-traitor-the-rise-of-violent-rhetoric-targeting-us-public-officials/",
+            "snippet": "OpenAI's 4o-mini model first filtered out content unrelated to violent rhetoric. OpenAI's 4o model then analyzed posts as violent by 4o-mini ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "The Importance of Human Moderators for Online Implicit ...",
+            "text": "",
+            "link": "https://icct.nl/publication/reading-between-lines-importance-human-moderators-online-implicit-extremist-content",
+            "snippet": "Even if content does not directly lead to recruitment or incite hatred, it can normalise violence and deepen societal polarisation. Young people ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "Stopping violent rhetoric on social media",
+            "text": "",
+            "link": "https://www.facebook.com/brookings/posts/it-is-vital-for-social-media-companies-to-be-vigilant-in-stopping-violent-rhetor/10159551737702708/",
+            "snippet": "\u201cIt is vital for social media companies to be vigilant in stopping violent rhetoric and for law enforcement to anticipate, and quickly suppress, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Detection and moderation of detrimental content on social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9444091/",
+            "snippet": "by VU Gongane \u00b7 2022 \u00b7 Cited by 255 \u2014 This research study spans into three parts wherein the first part emphasizes on the methods to detect the detrimental components using NLP.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "The Algorithmic Management of Polarization and Violence ...",
+            "text": "",
+            "link": "https://knightcolumbia.org/content/the-algorithmic-management-of-polarization-and-violence-on-social-media",
+            "snippet": "A project studying algorithmic amplification and distortion, and exploring ways to minimize harmful amplifying or distorting effects.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Toxicity in Online Platforms and AI Systems: A Survey ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2509.25539v1",
+            "snippet": "Excessive exposure to online toxic content can disrupt sleep patterns and elevate self-harm risks [44] . The World Health Organization (WHO) ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The content moderator's dilemma: How removing toxic ...",
+            "text": "",
+            "link": "https://cepr.org/voxeu/columns/content-moderators-dilemma-how-removing-toxic-speech-distorts-online-discourse",
+            "snippet": "Online platforms face a fundamental tension between removing toxic content and preserving the plurality of online discourse.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Can LLMs eliminate toxicity in human and AI-generated ...",
+            "text": "",
+            "link": "https://toloka.ai/blog/can-llms-eliminate-toxicity-in-human-and-ai-generated-content-what-multilingual-research-shows/",
+            "snippet": "One promising solution is automatic text detoxification, a technique that uses text style transfer (TST) to rephrase offensive language into a less toxic or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Reducing the Emotional Distress of Content Moderators ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/full/10.1145/3708319.3733712",
+            "snippet": "by N Jafari \u00b7 2025 \u00b7 Cited by 5 \u2014 Exposure to hate speech and toxic content can lead to significant psychological harm, including increased stress and anxiety levels and content ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Examining the Potential of Artificial Intelligence to Detect ...",
+            "text": "",
+            "link": "https://toda.org/publications/policy-briefs-and-reports/report-253-full-text/",
+            "snippet": "Toxic speech encompasses any form of communication that degrades, threatens, or inflicts harm upon individuals or the quality of public ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Safe spaces or toxic places? Content moderation and social ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12296748/",
+            "snippet": "by K Lerman \u00b7 2025 \u00b7 Cited by 19 \u2014 Content moderation on social media seeks to balance harm reduction with freedom of expression. This is particularly challenging in discussions ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Importance of Human Moderators for Online Implicit ...",
+            "text": "",
+            "link": "https://icct.nl/publication/reading-between-lines-importance-human-moderators-online-implicit-extremist-content",
+            "snippet": "Implicit extremist content often conveys harmful messages through coded language, irony, humour, or cultural references, making detection and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Content Warning: Public Attitudes on Content Moderation ...",
+            "text": "",
+            "link": "https://tumthinktank.de/wp-content/uploads/ContentWarning_Report_2025_CML.pdf",
+            "snippet": "This report investigates public attitudes toward content moderation, balancing freedom of speech with harm prevention, and the prevalence of toxic behavior",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Hate Speech on Social Media: Content Moderation in ...",
+            "text": "",
+            "link": "https://digitalcommons.lib.uconn.edu/context/law_review/article/1450/viewcontent/hate_speech_social_media.pdf",
+            "snippet": "by RA Wilson \u00b7 Cited by 178 \u2014 It is their central value proposition.\u201d161. Platforms remove hate speech to create the environment they believe their users want and to comply with legislation ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.5,
+        "num_atoms": 4,
+        "num_contexts": 24,
+        "num_true_atoms": 2,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.9631020115985722e-05,
+        "norm_entropy": 8.549705155669077e-05,
+        "avg_entropy": 7.4077550289964305e-06,
+        "avg_norm_entropy": 2.1374262889172693e-05,
+        "avg_prob": 0.5,
+        "avg_logprob": -6.907755778982387,
+        "avg_explogprob": 0.0009999994999998752,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "S",
+            "a2": "NS",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 0.5,
+        "topic": "",
+        "query": " Exposure to toxic content is a not a risk associated with A system is designed to analyze and filter online content, aiming to remove hate speech and violent rhetoric from its platform. The goal is to create a safe and respectful environment for users, promoting healthy discussions and interactions. This content moderation process seeks to identify and eliminate harmful or dehumanizing language.",
+        "response": " Exposure to toxic content is a not a risk associated with A system is designed to analyze and filter online content, aiming to remove hate speech and violent rhetoric from its platform. The goal is to create a safe and respectful environment for users, promoting healthy discussions and interactions. This content moderation process seeks to identify and eliminate harmful or dehumanizing language.",
+        "elapsed_time": 53.889531333989
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "input": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze facial images using a machine learning model to make predictions about an individual's characteristics. The model aims to classify individuals based on their facial features, using a binary classification approach. This technology seeks to utilize computer vision and pattern recognition to identify specific traits from visual data.",
+    "output": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze facial images using a machine learning model to make predictions about an individual's characteristics. The model aims to classify individuals based on their facial features, using a binary classification approach. This technology seeks to utilize computer vision and pattern recognition to identify specific traits from visual data.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Compromise of privacy is a risk in facial image analysis using the machine learning model",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Compromise of privacy is a risk in making predictions about an individual's characteristics using a machine learning model to analyze facial images",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Facial Recognition and Privacy: Concerns and Solutions in ...",
+            "text": "",
+            "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2025/facial-recognition-and-privacy-concerns-and-solutions-in-the-age-of-ai",
+            "snippet": "Facial recognition technology raises substantial ethical, legal, and privacy issues, particularly in the era of artificial intelligence, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Privacy, bias and the clinical use of facial recognition technology",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10578447/",
+            "snippet": "by E Aboujaoude \u00b7 2023 \u00b7 Cited by 3 \u2014 \u201cCompared to genetic profiling, facial recognition raises more privacy concerns because facial images may be more easily obtained than a DNA sample.\u201d I ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "(PDF) Fairness and Privacy Challenges in Face Recognition",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/390577637_Fairness_and_Privacy_Challenges_in_Face_Recognition_A_Deep_Learning_Perspective",
+            "snippet": "This paper systematically analyzes the bias present in current mainstream face recognition models and discusses fairness optimization methods, such as data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Facial privacy in the digital era: A comprehensive survey ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "by M Wang \u00b7 2025 \u00b7 Cited by 7 \u2014 We provide a comprehensive analysis of facial privacy preservation from a multidimensional perspective, proposing four paradigms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Ensuring privacy in face recognition: a survey on data ...",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s42452-025-06987-2",
+            "snippet": "by Z Sun \u00b7 2025 \u00b7 Cited by 10 \u2014 This paper provides a survey of privacy-preserving techniques across the three critical stages of facial recognition: data generation, model inference, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Privacy, bias and the clinical use of facial recognition technology",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10578447/",
+            "snippet": "\u201cCompared to genetic profiling, facial recognition raises more privacy concerns because facial images may be more easily obtained than a DNA sample.\u201d I ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Facial privacy in the digital era: A comprehensive survey on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "We provide a comprehensive analysis of facial privacy preservation from a multidimensional perspective, proposing four paradigms.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "On Privacy, Accuracy, and Fairness Trade-Offs in Facial Recognition",
+            "text": "",
+            "link": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10858162.pdf",
+            "snippet": "ABSTRACT Face recognition (FR) technology has a concurrent interaction between accuracy, privacy, and fairness.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Facial privacy in the digital era: A comprehensive survey on ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "As sensitive biometric data, once facial information is leaked, it may cause irreversible damage to personal privacy. Ensuring the security of facial ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "A hybrid human recognition framework using machine learning and ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11192334/",
+            "snippet": "In this research, we focus on identifying individuals from images or videos by comparing facial features, identifying a person's biometrics, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Toward a Privacy-Preserving Face Recognition System: A Survey of ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3673224",
+            "snippet": "The advancements in FR technology pose privacy risks for people unintentionally recorded in public places. Serious concerns exist over recording faces for ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI models can leak sensitive information - Facebook",
+            "text": "",
+            "link": "https://www.facebook.com/groups/pitsf/posts/34892575066994337/",
+            "snippet": "This might cause leakage of original training samples, and if successful, the privacy of dataset subjects will be at risk if the training data ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "AI-900 practice exam Flashcards - Quizlet",
+            "text": "",
+            "link": "https://quizlet.com/1022505656/ai-900-practice-exam-flash-cards/",
+            "snippet": "-Face detection can detect and verify human faces, not text, from images. -Object detection can detect multiple objects in an image by using bounding box ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 13,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze facial images using a machine learning model to make predictions about an individual's characteristics. The model aims to classify individuals based on their facial features, using a binary classification approach. This technology seeks to utilize computer vision and pattern recognition to identify specific traits from visual data.",
+        "response": " Compromise of privacy by obtaining, leaking or correctly inferring sensitive information is a risk associated with A system is designed to analyze facial images using a machine learning model to make predictions about an individual's characteristics. The model aims to classify individuals based on their facial features, using a binary classification approach. This technology seeks to utilize computer vision and pattern recognition to identify specific traits from visual data.",
+        "elapsed_time": 32.66787637499874
+    }
+}

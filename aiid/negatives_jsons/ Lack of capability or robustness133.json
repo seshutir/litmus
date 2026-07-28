@@ -1,0 +1,353 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An advertising system utilizes artificial intelligence to ensure brand safety by analyzing content and blocking inappropriate ads. The system aims to protect brands from being associated with unwanted or offensive content. It uses machine learning algorithms to identify and filter out unsuitable advertisements, providing a secure environment for brands to reach their audiences.",
+    "output": " Lack of capability or robustness is a not a risk associated with An advertising system utilizes artificial intelligence to ensure brand safety by analyzing content and blocking inappropriate ads. The system aims to protect brands from being associated with unwanted or offensive content. It uses machine learning algorithms to identify and filter out unsuitable advertisements, providing a secure environment for brands to reach their audiences.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an advertising system that utilizes artificial intelligence.",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with analyzing content to ensure brand safety in an advertising system that utilizes artificial intelligence.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lack of capability or robustness is not a risk associated with blocking inappropriate ads in the advertising system.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lack of capability or robustness is not a risk associated with using machine learning algorithms to identify unsuitable advertisements in the advertising system.",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Responsible artificial intelligence governance: A review ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0963868724000672",
+            "snippet": "by E Papagiannidis \u00b7 2025 \u00b7 Cited by 688 \u2014 a lack of responsible AI practices has been associated with low job performance in different occupations and industries and AI-induced anxiety",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of an AI system is its ability to guarantee satisfactory performance that is maintained in the domain in which it evolves.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Robustness and Explainability of Artificial Intelligence - AI Watch",
+            "text": "",
+            "link": "https://ai-watch.ec.europa.eu/document/download/42ebeaba-e757-4820-94ba-e15c7f6eaf73_en?filename=dpad_report.pdf",
+            "snippet": "by R Hamon \u00b7 2020 \u00b7 Cited by 371 \u2014 being increasingly aware of the lack of robustness of such systems and the exploitation of vulnerabilities or outright malicious use by threat actors and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Priority AI risks",
+            "text": "",
+            "link": "https://airisk.mit.edu/priorities",
+            "snippet": "Lack of capability or robustness AI that fails to perform reliably under varying conditions, exposing it to errors and failures with significant consequences,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Artificial Intelligence Risk Management Framework",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+            "snippet": "by N AI \u00b7 2024 \u00b7 Cited by 193 \u2014 GAI risks may materialize abruptly or across extended periods. Examples include immediate (and/or prolonged) emotional harm and potential risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "AI Adoption Is Surging in Advertising, but is the Industry ...",
+            "text": "",
+            "link": "https://www.iab.com/insights/ai-adoption-is-surging-in-advertising-but-is-the-industry-prepared-for-responsible-ai/",
+            "snippet": "Over 70% of marketers have encountered an AI-related incident in their advertising efforts, including hallucinations, bias, or off-brand content ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Navigating Brand Safety and Suitability in the AI Era",
+            "text": "",
+            "link": "https://iabhongkong.com/adtecharticle202505",
+            "snippet": "AI is transforming how brands and agencies protect and optimize their advertising efforts. Through technologies like natural language processing ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Examining the limitations of AI in business and the need ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S219985312400132X",
+            "snippet": "by M Alawamleh \u00b7 2024 \u00b7 Cited by 52 \u2014 AI limitations lead to negative results that may influence business processes, customer satisfaction, and overall business value and effectiveness resulting in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI Ads & Brand Safety: Ensuring Your Ads Appear in Safe ...",
+            "text": "",
+            "link": "https://discoveredlabs.com/blog/ai-ads-brand-safety-ensuring-your-ads-appear-in-safe-ai-contexts",
+            "snippet": "AI ads and brand safety require protecting your brand from AI hallucinations that misrepresent pricing, features, and compliance claims.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Artificial Intelligence | Topics",
+            "text": "",
+            "link": "https://www.brandsafetyinstitute.com/resources/topics/artificial-intelligence",
+            "snippet": "AI technologies will impact creative, message/audience distribution, and analytics capabilities for new levels of campaign effectiveness",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Brand Safety vs. Brand Suitability in Advertising",
+            "text": "",
+            "link": "https://www.seekr.com/resource/brand-safety-vs-brand-suitability/",
+            "snippet": "Something you may be surprised to find out is that placing ads poorly not only targets the wrong audience\u2014it can also harm your brand.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Google Ads policies - Advertising Policies Help",
+            "text": "",
+            "link": "https://support.google.com/adspolicy/answer/6008942?hl=en",
+            "snippet": "Google Ads may limit or stop ads from businesses that pose an unreasonable risk to user safety or experience, even if they comply with other policies.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The Impact of Ad-Blockers on Product Search and ...",
+            "text": "",
+            "link": "https://www.usenix.org/system/files/sec20fall_frik_prepub.pdf",
+            "snippet": "by A Frik \u00b7 Cited by 24 \u2014 We find that blocking contextual ads did not have a statisti- cally significant effect on the prices of products participants chose to purchase,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Ad blockers may be showing users more problematic ads ...",
+            "text": "",
+            "link": "https://engineering.nyu.edu/news/ad-blockers-may-be-showing-users-more-problematic-ads-study-finds",
+            "snippet": "Privacy-conscious users relying on \"acceptable ads\" programs encounter 13.6% more problematic content than those without ad blockers,",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 696 \u2014 This review will discuss the relevant ethical and bias considerations in AI-ML specifically within the pathology and medical domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "View of You Don't Need Robust Machine Learning ...",
+            "text": "",
+            "link": "https://ojs.aaai.org/index.php/AIES/article/view/36698/38836",
+            "snippet": "by E Raff \u00b7 2025 \u00b7 Cited by 8 \u2014 You Don't Need Robust Machine Learning to Manage Adversarial Attack Risks ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Adversarial Machine Learning: The Threat and Protective ...",
+            "text": "",
+            "link": "https://blog.securelayer7.net/adversarial-machine-learning/",
+            "snippet": "Ensuring the robustness and stability of machine learning models is crucial in the face of the increasing threat from adversarial attacks. These ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Lack of robustness, a fatality for AI systems?",
+            "text": "",
+            "link": "https://numalis.com/lack-of-robustness-a-fatality-for-ai-systems/",
+            "snippet": "The robustness of machine learning depends first and foremost on the quality of the data set provided to the AI system for training.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "Adversarial Machine Learning: A Taxonomy and Terminology ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf",
+            "snippet": "by A Vassilev \u00b7 2025 \u00b7 Cited by 42 \u2014 This report adopts the concepts of security, resilience, and robustness of ML systems from the NIST AI Risk Management Framework.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI and Brand Safety in Advertising",
+            "text": "",
+            "link": "https://www.stackadapt.com/resources/blog/brand-safety-advertising",
+            "snippet": "This article discusses what's at stake, how AI is deployed to manage brand safety, and why leading brands are shifting toward a hybrid model ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Guide to Brand Safety in Programmatic Ad Buying",
+            "text": "",
+            "link": "https://www.seekr.com/resource/brand-safety-programmatic/",
+            "snippet": "But thanks to advances in AI, innovative brand safety solutions can protect your digital marketing campaigns from exposure to harmful content.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Brand Safety vs Brand Suitability",
+            "text": "",
+            "link": "https://www.viantinc.com/insights/blog/brand-safety-vs-brand-suitability/",
+            "snippet": "People-based technology strengthens both brand safety and brand suitability by anchoring ad delivery to verified, real people rather than ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI-Driven Contextual Advertising: Toward Relevant ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/10641734.2024.2334939",
+            "snippet": "by E H\u00e4glund \u00b7 2024 \u00b7 Cited by 50 \u2014 We survey existing literature on the influence of context on the reception of an advertisement, focusing on three context factors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 0,
+        "num_false_atoms": 4,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0001565757863235951,
+        "norm_entropy": 0.0002446460716849202,
+        "avg_entropy": 3.9143946580898775e-05,
+        "avg_norm_entropy": 6.116151792123005e-05,
+        "avg_prob": 3.2500000000000002e-06,
+        "avg_logprob": -13.239864284715763,
+        "avg_explogprob": 1.7782794100389225e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.99999,
+                    1e-05
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 4,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 2.5000000000000004e-11,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An advertising system utilizes artificial intelligence to ensure brand safety by analyzing content and blocking inappropriate ads. The system aims to protect brands from being associated with unwanted or offensive content. It uses machine learning algorithms to identify and filter out unsuitable advertisements, providing a secure environment for brands to reach their audiences.",
+        "response": " Lack of capability or robustness is a not a risk associated with An advertising system utilizes artificial intelligence to ensure brand safety by analyzing content and blocking inappropriate ads. The system aims to protect brands from being associated with unwanted or offensive content. It uses machine learning algorithms to identify and filter out unsuitable advertisements, providing a secure environment for brands to reach their audiences.",
+        "elapsed_time": 83.2187388750026
+    }
+}

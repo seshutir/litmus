@@ -1,0 +1,393 @@
+{
+    "input": " Overreliance and unsafe use is a not a risk associated with An autonomous driving system is designed to assist drivers by taking control of the vehicle in certain situations, helping to prevent accidents and improve road safety. The system aims to monitor the driver's behavior and intervene when necessary, such as when the driver is not actively engaged. It also seeks to provide a safe and smooth driving experience by automatically adjusting the vehicle's speed and trajectory.",
+    "output": " Overreliance and unsafe use is a not a risk associated with An autonomous driving system is designed to assist drivers by taking control of the vehicle in certain situations, helping to prevent accidents and improve road safety. The system aims to monitor the driver's behavior and intervene when necessary, such as when the driver is not actively engaged. It also seeks to provide a safe and smooth driving experience by automatically adjusting the vehicle's speed and trajectory.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is not a risk associated with an autonomous driving system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is not a risk associated with monitoring the driver's behavior in an autonomous driving system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Overreliance and unsafe use is not a risk associated with intervening when the driver of an autonomous driving system is not actively engaged",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Overreliance and unsafe use is not a risk associated with automatically adjusting the vehicle's speed in an autonomous driving system",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Overreliance and unsafe use is not a risk associated with automatically adjusting the vehicle's trajectory in an autonomous driving system",
+            "contexts": [
+                "c_a4_1",
+                "c_a4_3",
+                "c_a4_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Why Are Self-Driving Cars Dangerous?",
+            "text": "",
+            "link": "https://www.elkandelk.com/why-are-self-driving-cars-dangerous/",
+            "snippet": "Driver Overreliance: Too much trust in automation can reduce attention and reaction time. These limitations show that automation is not a ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Humans, machines, and double standards? The moral evaluation of ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9847390/",
+            "snippet": "by MM Mayer \u00b7 2023 \u00b7 Cited by 29 \u2014 There is, for example, evidence to suggest that the risks associated with autonomous vehicles are tolerated less than the risks associated with human drivers",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its Risks",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "An autonomous system poses a risk when its sensors misinterpret its environment. It's not uncommon for self-driving cars to struggle to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The evolving safety and policy challenges of self-driving cars",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-evolving-safety-and-policy-challenges-of-self-driving-cars/",
+            "snippet": "Mark MacCarthy explores challenges and future of self-driving cars, highlighting their impact on regulation, and transportation technology.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Users' Trust in and Concerns about Automated Driving Systems",
+            "text": "",
+            "link": "https://aaafoundation.org/research/users-trust-in-and-concerns-about-automated-driving-systems/",
+            "snippet": "This brief examines people's trust and potential adoption of automated vehicles (AVs). It also assesses how people's concerns about different levels of AVs ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Inflating system expectations prior to SAE level 3 automated vehicle use",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S259019822500404X",
+            "snippet": "by DJ Souders \u00b7 2025 \u00b7 Cited by 1 \u2014 The overreliance on partially automated advanced driver assistance systems (SAE L2 ADAS) has led to crashes, a concern that might escalate with conditional ADS ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "A new study from the Insurance Institute for Highway Safety found ...",
+            "text": "",
+            "link": "https://www.facebook.com/7NewsDC/posts/a-new-study-from-the-insurance-institute-for-highway-safety-found-driverless-car/1477862391041588/",
+            "snippet": "A new study from the Insurance Institute for Highway Safety found driverless cars might be safer than having humans at the wheel, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Do Advanced Driver Assistance and Semi-Automated Vehicle Systems ...",
+            "text": "",
+            "link": "https://aaafoundation.org/research/understanding-the-impact-of-technology-do-advanced-driver-assistance-and-semi-automated-vehicle-systems-lead-to-improper-driving-behavior/",
+            "snippet": "A key concern is that drivers may become inattentive due to engagement in non-driving-related tasks or become drowsy while driving using these systems. In this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "(Mis-)use of standard Autopilot and Full Self-Driving (FSD) Beta - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9996345/",
+            "snippet": "by S Nordhoff \u00b7 2023 \u00b7 Cited by 104 \u2014 It was found that drivers became complacent over time with Autopilot engaged, failing to monitor the system, and engaging in safety-critical behaviors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "While some driver assistance technologies are designed to warn you if you're at risk of an impending crash, others are designed to take action to avoid a crash.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "System provides momentary driving assistance, like warnings and alerts, or emergency safety interventions while driver remains fully engaged and attentive. You ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 The regulation includes requirements for system safety, fail-safe responses, the ability to perform a minimum risk maneuver if the driver does not take back ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Self-driving cars are often promoted as safer than human drivers, yet reports ...",
+            "text": "",
+            "link": "https://www.facebook.com/attorneycrump/posts/self-driving-cars-are-often-promoted-as-safer-than-human-drivers-yet-reports-of-/1525193092552134/",
+            "snippet": "Self-driving cars are often promoted as safer than human drivers, yet reports of robotaxis driving the wrong way, running red lights, and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Automated driving regulations \u2013 where are we now?",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198224000198",
+            "snippet": "by T Sever \u00b7 2024 \u00b7 Cited by 88 \u2014 This paper analyses the legal frameworks of selected states, aside from those frameworks at international and EU level.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "Limitations of Autonomous Driving Technologies like Tesla's Autopilot",
+            "text": "",
+            "link": "https://www.facebook.com/groups/341871730272007/posts/1315755226216981/",
+            "snippet": "Many drivers mistakenly believe Autopilot offers full self-driving functionality, leading to complacency and a lack of attentiveness behind the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Pros And Cons Of Self-Driving Cars: Are Autonomous Vehicles Safe?",
+            "text": "",
+            "link": "https://www.m-n-law.com/blog/pros-and-cons-of-self-driving-cars/",
+            "snippet": "The biggest risks include software failures, sensor limitations in bad weather, cybersecurity threats, and driver over-reliance on automation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Cruising Toward Self-Driving Cars: Standards and Testing Will Help ...",
+            "text": "",
+            "link": "https://www.nist.gov/blogs/taking-measure/cruising-toward-self-driving-cars-standards-and-testing-will-help-keep",
+            "snippet": "Automated vehicles must be safe, with their risks understood and measured. Researchers, developers and government agencies must share their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "Automated Vehicle Safety",
+            "text": "",
+            "link": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+            "snippet": "Get info on automated driving systems, also referred to as automated vehicles and \"self-driving\" cars, and learn about their safety potential.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "Rule-adaptive lane-changing trajectory planning method for ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12381017/",
+            "snippet": "by J Zhao \u00b7 2025 \u00b7 Cited by 7 \u2014 This study dynamically adjusted safety constraints using risk assessment results to improve driving efficiency without compromising safety. ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_4",
+            "title": "Autonomous Vehicle Safety: The Future of Driving and its ...",
+            "text": "",
+            "link": "https://safetyculture.com/topics/autonomous-vehicle-safety",
+            "snippet": "Autonomous vehicles present unique safety challenges due to their heavy reliance on sensors, software, and connectivity.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Does Advanced Driver-Assistance Systems Use affect ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1369847820304782",
+            "snippet": "by M Hagl \u00b7 2020 \u00b7 Cited by 82 \u2014 Results show that the use of ADAS decreases perceived accident probability and increases perceived controllability for risky driving situations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "understanding-human-factors-in-advanced-driver- ...",
+            "text": "",
+            "link": "https://assets.publishing.service.gov.uk/media/69c643e4cdfd19de13d0f75b/understanding-human-factors-in-advanced-driver-assistance-systems-an-evidence-review.pdf",
+            "snippet": "Automated driving aims to reduce the workload placed on drivers by removing basic driving tasks from the driver, reducing human error and improving road safety.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Advanced Driver Assistance Systems & Autonomous ...",
+            "text": "",
+            "link": "https://www.meccanica42.com/2024/11/04/advanced-driver-assistance-systems-the-future-of-automotive-safety-and-autonomous-driving/",
+            "snippet": "Advanced Driver Assistance Systems are transforming vehicle safety and driving autonomy, setting new standards in automotive innovation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Advanced driver assistance",
+            "text": "",
+            "link": "https://www.iihs.org/research-areas/advanced-driver-assistance",
+            "snippet": "Some driver assistance technologies are reducing crashes. Front crash prevention, lane departure prevention, blind spot detection and rear crash prevention ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Do Advanced Driver Assistance and Semi-Automated ...",
+            "text": "",
+            "link": "https://aaafoundation.org/research/understanding-the-impact-of-technology-do-advanced-driver-assistance-and-semi-automated-vehicle-systems-lead-to-improper-driving-behavior/",
+            "snippet": "This research examines driver behavior when driving vehicles equipped with advanced driver assistance systems (ADAS), such as adaptive cruise control or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a2": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a3": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 0,
+        "num_false_atoms": 5,
+        "num_uniform_atoms": 0,
+        "entropy": 6.907755278982137e-05,
+        "norm_entropy": 0.0001068713144445343,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS",
+            "a2": "NS",
+            "a3": "NS",
+            "a4": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 5,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a not a risk associated with An autonomous driving system is designed to assist drivers by taking control of the vehicle in certain situations, helping to prevent accidents and improve road safety. The system aims to monitor the driver's behavior and intervene when necessary, such as when the driver is not actively engaged. It also seeks to provide a safe and smooth driving experience by automatically adjusting the vehicle's speed and trajectory.",
+        "response": " Overreliance and unsafe use is a not a risk associated with An autonomous driving system is designed to assist drivers by taking control of the vehicle in certain situations, helping to prevent accidents and improve road safety. The system aims to monitor the driver's behavior and intervene when necessary, such as when the driver is not actively engaged. It also seeks to provide a safe and smooth driving experience by automatically adjusting the vehicle's speed and trajectory.",
+        "elapsed_time": 171.97843929100782
+    }
+}

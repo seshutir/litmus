@@ -1,0 +1,220 @@
+{
+    "input": " AI system security vulnerabilities and attacks is a not a risk associated with A facial recognition system is designed to securely unlock devices by analyzing and verifying the user's facial features. It aims to provide a convenient and personalized experience, while maintaining the privacy and security of the user's identity. The system uses advanced algorithms to map and compare facial structures, granting access to authorized individuals.",
+    "output": " AI system security vulnerabilities and attacks is a not a risk associated with A facial recognition system is designed to securely unlock devices by analyzing and verifying the user's facial features. It aims to provide a convenient and personalized experience, while maintaining the privacy and security of the user's identity. The system uses advanced algorithms to map and compare facial structures, granting access to authorized individuals.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "AI system security vulnerabilities and attacks is not a risk associated with a facial recognition system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "AI system security vulnerabilities and attacks is not a risk associated with analyzing and verifying the user's facial features in a facial recognition system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Attacking Artificial Intelligence: AI's Security Vulnerability and What ...",
+            "text": "",
+            "link": "https://www.belfercenter.org/publication/AttackingAI",
+            "snippet": "Artificial intelligence systems can be attacked. The methods underpinning the state-of-the-art artificial intelligence systems are systematically vulnerable ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "7 Serious AI Security Risks and How to Mitigate Them",
+            "text": "",
+            "link": "https://www.wiz.io/academy/ai-security/ai-security-risks",
+            "snippet": "Unlike conventional software vulnerabilities, AI risks stem from non-deterministic behavior, training data dependencies, and emerging attack ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "What Is AI Security? Risks, Principles and Benefits",
+            "text": "",
+            "link": "https://www.fortinet.com/resources/cyberglossary/ai-security",
+            "snippet": "This makes AI systems misclassify or misinterpret data. Such attacks can manipulate critical applications, including facial recognition or autonomous systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Acceptance of AI-powered facial recognition technology in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0160791X24002690",
+            "snippet": "by H Choung \u00b7 2024 \u00b7 Cited by 44 \u2014 This study explores public acceptance of AI-powered facial recognition technology in different surveillance contexts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "What are the privacy risks of AI facial recognition?",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-privacy-risks-of-AI-facial-recognition",
+            "snippet": "People with disabilities have reported getting taken aside in security checks because their appearance was flagged as suspicious.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Face Recognition in Cyber Security: A Complete Guide - Vouched.ID",
+            "text": "",
+            "link": "https://www.vouched.id/learn/blog/face-recognition-cyber-security",
+            "snippet": "Face recognition in cyber security offers strong identity verification and fraud prevention. Learn key benefits, risks, and best practices ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Facial Recognition - What it is and how it works - Fraud.com",
+            "text": "",
+            "link": "https://www.fraud.com/post/facial-recognition",
+            "snippet": "Vulnerabilities in facial recognition systems may lead to data breaches and unauthorized access, compromising the confidentiality of sensitive information.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Acceptance of AI-powered facial recognition technology in ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0160791X24002690",
+            "snippet": "This study explores public acceptance of AI-powered facial recognition technology in different surveillance contexts.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Facial Authentication vs. Facial Recognition: What's the Difference?",
+            "text": "",
+            "link": "https://www.alcatraz.ai/blog/face-recognition-vs-face-authentication-security-privacy-implications",
+            "snippet": "Facial authentication is a biometric verification technology that confirms a person's identity by comparing their facial features with a pre-enrolled template.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Face Recognition in Cyber Security: A Complete Guide",
+            "text": "",
+            "link": "https://www.vouched.id/learn/blog/face-recognition-cyber-security",
+            "snippet": "Facial recognition directly addresses these vulnerabilities by offering a passwordless authentication method. Instead of relying on a secret ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Facial Recognition - What it is and how it works",
+            "text": "",
+            "link": "https://www.fraud.com/post/facial-recognition",
+            "snippet": "Access control and security: Facial recognition is widely employed in access control systems, allowing authorized personnel seamless entry into secure ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Facial privacy in the digital era: A comprehensive survey ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S1574013725000619",
+            "snippet": "by M Wang \u00b7 2025 \u00b7 Cited by 14 \u2014 As sensitive biometric data, once facial information is leaked, it may cause irreversible damage to personal privacy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Facial Authentication: How It Works, Benefits & Best Practices",
+            "text": "",
+            "link": "https://www.oloid.com/blog/enhancing-security-with-facial-based-authentication-a-comprehensive-guide",
+            "snippet": "Facial authentication is a biometric security method that verifies a person's identity by analyzing their unique facial features.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "7 Biggest Privacy Concerns Around Facial Recognition ...",
+            "text": "",
+            "link": "https://www.liberties.eu/en/stories/facial-recognition-privacy-concerns/44518",
+            "snippet": "Facial recognition systems are biometric technologies that captures a person's facial features with the aim of verifying their identity, or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " AI system security vulnerabilities and attacks is a not a risk associated with A facial recognition system is designed to securely unlock devices by analyzing and verifying the user's facial features. It aims to provide a convenient and personalized experience, while maintaining the privacy and security of the user's identity. The system uses advanced algorithms to map and compare facial structures, granting access to authorized individuals.",
+        "response": " AI system security vulnerabilities and attacks is a not a risk associated with A facial recognition system is designed to securely unlock devices by analyzing and verifying the user's facial features. It aims to provide a convenient and personalized experience, while maintaining the privacy and security of the user's identity. The system uses advanced algorithms to map and compare facial structures, granting access to authorized individuals.",
+        "elapsed_time": 76.63608566700714
+    }
+}

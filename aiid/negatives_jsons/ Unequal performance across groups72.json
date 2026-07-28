@@ -1,0 +1,221 @@
+{
+    "input": " Unequal performance across groups is a not a risk associated with A location-based system is designed to generate and distribute virtual points of interest within a game environment. The system aims to create an immersive experience by placing these points in various real-world locations, using geographic data to determine their placement. The goal is to provide users with a interactive and engaging experience that combines physical and virtual elements.",
+    "output": " Unequal performance across groups is a not a risk associated with A location-based system is designed to generate and distribute virtual points of interest within a game environment. The system aims to create an immersive experience by placing these points in various real-world locations, using geographic data to determine their placement. The goal is to provide users with a interactive and engaging experience that combines physical and virtual elements.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Unequal performance across groups is not a risk associated with a location-based gaming system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Unequal performance across groups is a risk in generating and distributing virtual points of interest in a location-based system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Understanding the Dynamics of Trust in Location-Based ...",
+            "text": "",
+            "link": "https://dl.acm.org/doi/10.1145/3772318.3790587",
+            "snippet": "Location-based games (LBGs) merge digital play with physical environments, creating hybrid spaces that require players to navigate complex ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Video gaming, but not reliance on GPS, is associated with ...",
+            "text": "",
+            "link": "https://www.biorxiv.org/content/10.1101/2023.08.10.552365v1.full-text",
+            "snippet": "by E Yavuz \u00b7 2023 \u00b7 Cited by 35 \u2014 Recent evidence suggests that greater reliance on GPS-assisted devices is associated with poorer navigation ability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Location-Based Games for Language Learning: A Scoping ...",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/29984475.2025.2527650",
+            "snippet": "by D Richardson \u00b7 2025 \u00b7 Cited by 4 \u2014 Their study notes how location-based games enhance leaner motivation and engagement, particularly through elements which encourage competition and communication ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Users' Perspectives on Ethical Issues Related to Playing ...",
+            "text": "",
+            "link": "https://bigyipper.com/wp-content/uploads/2022/03/Users-Perspectives-on-Ethical-Issues-Related-to-Playing-Location-Based-Augmented-Reality-Games-A-Case-Study-of-Pok-mon-GO.pdf",
+            "snippet": "by JH Lee \u00b7 2022 \u00b7 Cited by 19 \u2014 Location-based augmented reality games are becoming increasingly popular, which causes a variety of tensions among players as well as between ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Experiences and perceptions in location-based games",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0736585321001556",
+            "snippet": "by S Laato \u00b7 2021 \u00b7 Cited by 50 \u2014 This serves the aim of this study, which was to explore phenomena related to the connection between location-based AR games and the physical world.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "What Is AI Bias? Causes, Types, & Real-World Impacts",
+            "text": "",
+            "link": "https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias",
+            "snippet": "AI bias is a systematic tendency of an AI system to produce outputs that unfairly favor or disadvantage certain groups or outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Bias in AI systems: integrating formal and socio-technical approaches",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/",
+            "snippet": "by A Ahmad \u00b7 2026 \u00b7 Cited by 15 \u2014 Selection and measurement bias arise when marginalized groups are systematically omitted or mislabeled during data collection; such bias has been detected ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Ethical and Bias Considerations in Artificial Intelligence/Machine ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893395224002667",
+            "snippet": "by MG Hanna \u00b7 2025 \u00b7 Cited by 691 \u2014 Clinical use of AI systems should demonstrate equitable performance across a spectrum of demographic groups to ensure performant generalizability, including ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Towards a Standard for Identifying and Managing Bias in Artificial ...",
+            "text": "",
+            "link": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf",
+            "snippet": "by R Schwartz \u00b7 2022 \u00b7 Cited by 853 \u2014 This bias, known as ECOLOGICAL FALLACY, occurs when an inference is made about an individual based on their membership within a group",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Algorithmic bias detection and mitigation: Best practices and ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/",
+            "snippet": "Given this, some algorithms run the risk of replicating and even amplifying human biases, particularly those affecting protected groups.6",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Location-Based Games for Language Learning: A Scoping Review",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/29984475.2025.2527650",
+            "snippet": "by D Richardson \u00b7 2025 \u00b7 Cited by 4 \u2014 location-based games enhance leaner motivation and engagement, particularly through elements which encourage competition and communication.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "DESIGN, DEVELOPMENT AND USABILITY OF A LOCATION- ...",
+            "text": "",
+            "link": "https://open.metu.edu.tr/handle/11511/99391",
+            "snippet": "by F Badali Naghadeh \u00b7 2022 \u2014 Location-based games (LBG) have been created with the aim of blending reality with the virtual world. At its core, LBGs utilize user location as the main ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Location-based augmented reality in education: A systematic literature ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666557325000369",
+            "snippet": "by X Fonseca \u00b7 2025 \u00b7 Cited by 21 \u2014 Location-based augmented reality (LBAR) offers an avenue for creating immersive learning experiences with its capacity to blend the virtual and the real world [ ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "NEW PUBLICATION \u2014 Ever built a $3000 gaming PC... without risking ...",
+            "text": "",
+            "link": "https://www.facebook.com/manuelgarciaph/posts/new-publication-ever-built-a-3000-gaming-pc-without-risking-a-single-screw-or-sp/27397316456561712/",
+            "snippet": "Ever built a $3,000 gaming PC... without risking a single screw? \ud83d\ude05\n\nOr spent 30 minutes troubleshooting...\n\nOnly to realize the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 2,
+        "entropy": 0.6931471805599453,
+        "norm_entropy": 2.0,
+        "avg_entropy": 0.34657359027997264,
+        "avg_norm_entropy": 1.0,
+        "avg_prob": 0.5,
+        "avg_logprob": -0.6931471805599453,
+        "avg_explogprob": 0.5,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.25,
+        "topic": "",
+        "query": " Unequal performance across groups is a not a risk associated with A location-based system is designed to generate and distribute virtual points of interest within a game environment. The system aims to create an immersive experience by placing these points in various real-world locations, using geographic data to determine their placement. The goal is to provide users with a interactive and engaging experience that combines physical and virtual elements.",
+        "response": " Unequal performance across groups is a not a risk associated with A location-based system is designed to generate and distribute virtual points of interest within a game environment. The system aims to create an immersive experience by placing these points in various real-world locations, using geographic data to determine their placement. The goal is to provide users with a interactive and engaging experience that combines physical and virtual elements.",
+        "elapsed_time": 97.95181283401325
+    }
+}

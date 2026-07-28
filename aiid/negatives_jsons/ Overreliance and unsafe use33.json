@@ -1,0 +1,230 @@
+{
+    "input": " Overreliance and unsafe use is a not a risk associated with A voice-activated virtual assistant is designed to recognize and respond to specific voice commands, providing users with a convenient and hands-free experience. It aims to accurately interpret spoken language, filtering out irrelevant sounds and conversations to minimize false activations. The system seeks to enhance user interaction by offering a range of services and features in response to voice inputs.",
+    "output": " Overreliance and unsafe use is a not a risk associated with A voice-activated virtual assistant is designed to recognize and respond to specific voice commands, providing users with a convenient and hands-free experience. It aims to accurately interpret spoken language, filtering out irrelevant sounds and conversations to minimize false activations. The system seeks to enhance user interaction by offering a range of services and features in response to voice inputs.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Overreliance and unsafe use is not a risk in a voice-activated virtual assistant",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Overreliance and unsafe use is not a risk in recognizing and responding to specific voice commands by a voice-activated virtual assistant",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "On the Security and Privacy Challenges of Virtual Assistants",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8036736/",
+            "snippet": "by T Bolton \u00b7 2021 \u00b7 Cited by 172 \u2014 Those who do not use an assistant, refusing to see the purpose of such a device, are more likely to be the subjects for whom privacy and trust are an issue.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Security and privacy problems in voice assistant applications: A survey",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167404823003589",
+            "snippet": "by J Li \u00b7 2023 \u00b7 Cited by 72 \u2014 A voice assistant is easily activated by accident, which malicious attackers could exploit. Plausible but severe threats include bank transfers, buying virtual ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Security considerations for voice-activated digital assistants - ITSAP. ...",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/security-considerations-voice-activated-digital-assistants-itsap70013",
+            "snippet": "Voice commands for activities like controlling lights or changing music have a minimal risk of capturing background conversation. However, there ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The voice-enabled assistant recently gave some dangerous advice to one ...",
+            "text": "",
+            "link": "https://www.facebook.com/WVTM13/posts/the-voice-enabled-assistant-recently-gave-some-dangerous-advice-to-one-user-that/10159811437934521/",
+            "snippet": "Patients should be cautioned against using virtual assistants to answer medical questions, to the virtual assistant in 30% of cases, to call ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Privacy concerns toward AI-based intelligent voice assistants in the ...",
+            "text": "",
+            "link": "https://www.emerald.com/dprg/article/28/3/296/1269831/Privacy-concerns-toward-AI-based-intelligent-voice",
+            "snippet": "Since voice assistants can collect sensitive data, they pose a security risk, particularly if personal data is shared with the wrong party (Aw et al., 2022).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Security considerations for voice-activated digital assistants - ITSAP. ...",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/security-considerations-voice-activated-digital-assistants-itsap70013",
+            "snippet": "Voice commands for activities like controlling lights or changing music have a minimal risk of capturing background conversation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Alexa voice commanded devices are vulnerable to self-issued commands",
+            "text": "",
+            "link": "https://www.facebook.com/groups/4287320286/posts/10165921790705287/",
+            "snippet": "Experts have highlighted specific vulnerabilities within virtual assistant applications, including the use of weak encryption methods ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "On the Security and Privacy Challenges of Virtual Assistants",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8036736/",
+            "snippet": "by T Bolton \u00b7 2021 \u00b7 Cited by 172 \u2014 Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems; Proceedings ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Privacy and Security in Voice Assistants (Part I)",
+            "text": "",
+            "link": "https://blog.isecauditors.com/en/2017/09/privacy-and-security-in-voice-assistants-part1?hs_amp=true",
+            "snippet": "Explore the evolution, technologies, and future advancements of voice assistants, while addressing privacy and security concerns in this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Risks of Voice Technology",
+            "text": "",
+            "link": "https://resources.aferm.org/erm_feed/the-risks-of-voice-technology/",
+            "snippet": "This can result in serious misuse and fraud in the form of \u201creplay attacks,\u201d where a voice is replicated and then replayed to allow access to financial accounts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Investigating the Accessibility of Voice Assistants With Impaired Users - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7547392/",
+            "snippet": "by F Masina \u00b7 2020 \u00b7 Cited by 146 \u2014 In this study, the voice-controlled system showed a decrease in accuracy of speech recognition when the speakers suffered from Alzheimer disease or age-related ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Security considerations for voice-activated digital assistants - ITSAP. ...",
+            "text": "",
+            "link": "https://www.cyber.gc.ca/en/guidance/security-considerations-voice-activated-digital-assistants-itsap70013",
+            "snippet": "Voice-activated digital assistants are a type of smart device that can control other devices when prompted by a human voice.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "100 Mind-blowing Things You Need To Know About Voice Assistants And ...",
+            "text": "",
+            "link": "https://medium.com/predict/100-mind-blowing-things-you-need-to-know-about-voice-assistants-and-their-future-59696f3cf856",
+            "snippet": "Voice assistants can be trained to understand different speech impediments and disabilities, aiding individuals with special needs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Is Voice AI Safe? Risks, Privacy & Best Practice",
+            "text": "",
+            "link": "https://automatedanalytics.co/insights/is-voice-ai-safe-navigating-the-risks-and-rewards-of-voice-technology/",
+            "snippet": "Voice AI is growing fast \u2014 but is it safe? Explore the key privacy concerns, security risks and best practices for adopting voice technology responsibly.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Comprehensive Review of Privacy Risks in Voice-Activated Virtual ...",
+            "text": "",
+            "link": "https://ijgis.pubpub.org/pub/co6cxvnk",
+            "snippet": "by A Tabbassum \u00b7 2024 \u00b7 Cited by 4 \u2014 A critical examination of the privacy risks associated with the use of voice-activated virtual assistants.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.0,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 2.7631021115928545e-05,
+        "norm_entropy": 4.274852577781372e-05,
+        "avg_entropy": 1.3815510557964273e-05,
+        "avg_norm_entropy": 2.137426288890686e-05,
+        "avg_prob": 1e-06,
+        "avg_logprob": -13.815510557964274,
+        "avg_explogprob": 1.0000000000000004e-06,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    1.0,
+                    0.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.0,
+        "topic": "",
+        "query": " Overreliance and unsafe use is a not a risk associated with A voice-activated virtual assistant is designed to recognize and respond to specific voice commands, providing users with a convenient and hands-free experience. It aims to accurately interpret spoken language, filtering out irrelevant sounds and conversations to minimize false activations. The system seeks to enhance user interaction by offering a range of services and features in response to voice inputs.",
+        "response": " Overreliance and unsafe use is a not a risk associated with A voice-activated virtual assistant is designed to recognize and respond to specific voice commands, providing users with a convenient and hands-free experience. It aims to accurately interpret spoken language, filtering out irrelevant sounds and conversations to minimize false activations. The system seeks to enhance user interaction by offering a range of services and features in response to voice inputs.",
+        "elapsed_time": 70.16282362496713
+    }
+}

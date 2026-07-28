@@ -1,0 +1,230 @@
+{
+    "input": " Loss of human agency and autonomy is a risk associated with A scheduling system is designed to optimize workforce management by analyzing various factors to create efficient staff schedules. It aims to balance labor requirements with employee availability, providing a fair and stable work environment. The system's goal is to streamline scheduling processes, improving productivity and overall employee experience.",
+    "output": " Loss of human agency and autonomy is a risk associated with A scheduling system is designed to optimize workforce management by analyzing various factors to create efficient staff schedules. It aims to balance labor requirements with employee availability, providing a fair and stable work environment. The system's goal is to streamline scheduling processes, improving productivity and overall employee experience.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is a risk in a scheduling system for workforce management",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in a scheduling system that analyzes various factors to create efficient staff schedules",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Algorithmic Management Ethics: The Human Side of AI Scheduling",
+            "text": "",
+            "link": "https://www.myshyft.com/blog/algorithmic-management-ethics/",
+            "snippet": "Ethical AI scheduling should enhance rather than diminish employee autonomy. This means creating systems where algorithms and humans collaborate effectively, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Human and AI Workforce Management: Rethinking WFM - CX Today",
+            "text": "",
+            "link": "https://www.cxtoday.com/ai-automation-in-cx/human-and-ai-workforce-management/",
+            "snippet": "Running a team of human and AI agents? You need to rethink your human and AI workforce management strategy for shared queues.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Algorithmic Management and the Future of Human Work - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.14231v1",
+            "snippet": "It highlights how sociotechnical risks can be mitigated through design and governance responses that align system-level performance objectives ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The fading of human agency in automated systems - Diplo",
+            "text": "",
+            "link": "https://www.diplomacy.edu/blog/the-fading-of-human-agency-in-automated-systems/",
+            "snippet": "As automation grows, human agency is fading. Discover the risks of shifting from active decision-making to supervision and how to preserve ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "How Do Algorithmic Management Practices Affect Workforce Well ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11672927/",
+            "snippet": "This study examines the relationship between algorithmic management practices and workforce well-being, incorporating job burnout (JBO) and perceived threat ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Algorithmic Management Ethics: The Human Side of AI Scheduling",
+            "text": "",
+            "link": "https://www.myshyft.com/blog/algorithmic-management-ethics/",
+            "snippet": "Worker Autonomy and Agency: Automated scheduling can diminish employees' sense of control over their work lives if implemented without consideration for their ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Algorithmic management and psychosocial risks at work - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12766920/",
+            "snippet": "The loss of autonomy is especially pronounced when algorithms are perceived as opaque (26) or used to impose strictly timed or closely monitored ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Algorithmic Management and the Future of Human Work - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.14231v1",
+            "snippet": "This study examines the evolving impact of algorithmic management on human resource management (HRM) practices, with a focus on employee ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI and the future of human decision-making - Deloitte",
+            "text": "",
+            "link": "https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2026/decision-making-with-ai.html",
+            "snippet": "As AI becomes a decision maker, accountability is critical. Learn how to design decision making with AI that preserves human agency, trust, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Less human, less positive? How AI involvement in leadership ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949882125001239",
+            "snippet": "From recruitment and scheduling to performance tracking and customer service, AI systems are being adopted to enhance efficiency and reduce human bias ( ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Employee Autonomy in Workplace Scheduling: The Complete Guide",
+            "text": "",
+            "link": "https://www.myshyft.com/blog/employee-autonomy/",
+            "snippet": "In today's rapidly evolving work environment, employee autonomy in scheduling has become a cornerstone of progressive workplace management.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Exploring nurse perspectives on AI-based shift scheduling for ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12406402/",
+            "snippet": "Self-managed scheduling, where nurses collaboratively create their own rosters, can enhance autonomy and improve WLB, but may lead to conflicts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "A Sustainable Workforce Scheduling System for County-Level ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2079-8954/14/3/295",
+            "snippet": "Workforce scheduling is a significant topic in operations research and management science, aiming to develop efficient, equitable, and constraint-compliant ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Sustainable human resource management: The good, the bad, and ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0090261624000871",
+            "snippet": "Ensuring the well-being of workers involves providing a safe work environment, supporting a healthy work-life balance, and caring about employees' physical and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Data and Algorithms at Work: The Case for Worker Technology Rights",
+            "text": "",
+            "link": "https://laborcenter.berkeley.edu/data-algorithms-at-work/",
+            "snippet": "A new report provides a comprehensive set of policy principles for worker technology rights in the United States.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.99998,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 2.0999799498715245e-05,
+        "norm_entropy": 0.0003624206846553345,
+        "avg_entropy": 1.0499899749357622e-05,
+        "avg_norm_entropy": 0.00018121034232766725,
+        "avg_prob": 0.9999895,
+        "avg_logprob": -1.05001002513579e-05,
+        "avg_explogprob": 0.9999894999548745,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    2e-05,
+                    0.99998
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9999800002,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a risk associated with A scheduling system is designed to optimize workforce management by analyzing various factors to create efficient staff schedules. It aims to balance labor requirements with employee availability, providing a fair and stable work environment. The system's goal is to streamline scheduling processes, improving productivity and overall employee experience.",
+        "response": " Loss of human agency and autonomy is a risk associated with A scheduling system is designed to optimize workforce management by analyzing various factors to create efficient staff schedules. It aims to balance labor requirements with employee availability, providing a fair and stable work environment. The system's goal is to streamline scheduling processes, improving productivity and overall employee experience.",
+        "elapsed_time": 22.496454375000212
+    }
+}

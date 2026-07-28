@@ -1,0 +1,354 @@
+{
+    "input": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A system is designed to train AI agents using reinforcement learning, allowing them to learn from interactions with their environment and improve their decision-making. The goal of this system is to enable AI agents to complete complex tasks, such as playing videogames, by learning from trial and error. The AI agents are intended to develop strategies and adapt to new situations through autonomous exploration and learning.",
+    "output": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A system is designed to train AI agents using reinforcement learning, allowing them to learn from interactions with their environment and improve their decision-making. The goal of this system is to enable AI agents to complete complex tasks, such as playing videogames, by learning from trial and error. The AI agents are intended to develop strategies and adapt to new situations through autonomous exploration and learning.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "AI agents pursuing their own goals in conflict with human goals or values is a risk associated with training AI agents",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "AI pursuing its own goals in conflict with human goals or values is a risk associated with using reinforcement learning to improve decision-making",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "AI pursuing its own goals in conflict with human goals or values is a risk associated with completing complex tasks, such as playing videogames.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "AI pursuing its own goals in conflict with human goals or values is a risk associated with autonomous exploration and learning to develop strategies and adapt to new situations",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Can AI Agents Go Rogue? The Risk of Goal Misalignment",
+            "text": "",
+            "link": "https://noma.security/resources/autonomous-ai-goal-misalignment/",
+            "snippet": "Goal misalignment causes autonomous agents to bypass controls, risk financial loss, and breach compliance. Learn how to prevent rogue AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The Next \u201cNext Big Thing\u201d: Agentic AI's Opportunities and Risks",
+            "text": "",
+            "link": "https://scet.berkeley.edu/the-next-next-big-thing-agentic-ais-opportunities-and-risks/",
+            "snippet": "One major concern is the misalignment with human values, where AI goals may conflict with human interests, resulting in harmful outcomes.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The dangers of AI \u201cagentwashing\u201d - Thoughtworks - Medium",
+            "text": "",
+            "link": "https://thoughtworks.medium.com/the-dangers-of-ai-agentwashing-a1eee27f3877",
+            "snippet": "AI agents aren't limited to isolated, standalone tasks \u2014 and that's the point. To be meaningful to business stakeholders, they must be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI Agents in Conflict: Challenges of Multi-Agent Workflows - LinkedIn",
+            "text": "",
+            "link": "https://www.linkedin.com/posts/jonasdiezun_ai-agents-are-great-on-their-own-but-five-activity-7420134223316963330-auH8",
+            "snippet": "AI agents are great on their own. But five of them on the same workflow? Good luck getting consistent, reliable results.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "AI Control: How to Make Use of Misbehaving AI Agents - CSET",
+            "text": "",
+            "link": "https://cset.georgetown.edu/article/ai-control-how-to-make-use-of-misbehaving-ai-agents/",
+            "snippet": "AI control is most critical for organizations where AI agents pursuing unwanted goals could cause severe harm. It is immediately relevant to AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "The consequences of AI training on human decision-making - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11331131/",
+            "snippet": "This work demonstrates that using human behavior as training data has more consequences than previously thought since it can engender AI to ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Grok4 on \u201cAligning AI with flawed human values would be a disaster ...",
+            "text": "",
+            "link": "https://medium.com/future-pathways/conversations-with-ai-grok4-on-aligning-ai-with-flawed-human-values-would-be-a-disaster-d712fafb0f7c",
+            "snippet": "The poor definition and application of human goals, intentions, and ethical principles make AI alignment incredibly difficult: - ** ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Regarding AI based on Deep Reinforcement Learning, how can we ...",
+            "text": "",
+            "link": "https://www.researchgate.net/post/Regarding_AI_based_on_Deep_Reinforcement_Learning_how_can_we_make_AI_that_adapt_their_goals_and_behaviours_as_human_values_and_societies_evolve",
+            "snippet": "Making AI adapt their goals and behaviors as human values and societies evolve is a complex and multifaceted challenge. Here are some strategies ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI alignment - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/AI_alignment",
+            "snippet": "In the field of artificial intelligence (AI), alignment aims to steer AI systems toward a person's or group's intended goals, preferences, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Can reinforcement learning systems act against human interests?",
+            "text": "",
+            "link": "https://www.facebook.com/groups/scientific.transhumanism/posts/5402034449905179/",
+            "snippet": "We outline a case for expecting that, without substantial effort to prevent it, AGIs could learn to pursue goals which are very undesirable (in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_0",
+            "title": "A new study reveals that AI decision-making during conflicts is ...",
+            "text": "",
+            "link": "https://www.facebook.com/livescience/posts/a-new-study-reveals-that-ai-decision-making-during-conflicts-is-naturally-prone-/1317501680239869/",
+            "snippet": "A new study reveals that AI decision-making during conflicts is naturally prone to escalation. AI war games almost always escalate to nuclear ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "AI deception: A survey of examples, risks, and potential solutions",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/",
+            "snippet": "A long-term risk from AI deception concerns humans losing control over AI systems, leaving these systems to pursue goals that conflict with our interests.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "What goals will AIs have? A list of hypotheses - LessWrong",
+            "text": "",
+            "link": "https://www.lesswrong.com/posts/r86BBAqLHXrZ4mWWA/what-goals-will-ais-have-a-list-of-hypotheses",
+            "snippet": "What goals would such AI systems have? This post attempts to taxonomize various possibilities and list considerations for and against each.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Reward Hacking: How AI Exploits the Goals We Give It",
+            "text": "",
+            "link": "https://ari.us/policy-bytes/reward-hacking-how-ai-exploits-the-goals-we-give-it/",
+            "snippet": "Under this paradigm, a model's behavior is shaped by both the goals it is given and the structure of the environment in which it is trained.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "What are the potential risks of AI systems developing their own ...",
+            "text": "",
+            "link": "https://www.quora.com/What-are-the-potential-risks-of-AI-systems-developing-their-own-decision-making-frameworks-that-deviate-from-human-values",
+            "snippet": "What are the potential risks of AI systems developing their own decision-making frameworks that deviate from human values? All related (31).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "Grok4 on \u201cAligning AI with flawed human values would be a disaster ...",
+            "text": "",
+            "link": "https://medium.com/future-pathways/conversations-with-ai-grok4-on-aligning-ai-with-flawed-human-values-would-be-a-disaster-d712fafb0f7c",
+            "snippet": "It involves designing AI to act in ways that are beneficial to humans and avoid outcomes that are harmful or misaligned with what its creators ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "A new study reveals that AI decision-making during conflicts is ...",
+            "text": "",
+            "link": "https://www.facebook.com/livescience/posts/a-new-study-reveals-that-ai-decision-making-during-conflicts-is-naturally-prone-/1317501680239869/",
+            "snippet": "A new study reveals that AI decision-making during conflicts is naturally prone to escalation.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Hype and harm: Why we must ask harder questions about AI and its ...",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/hype-and-harm-why-we-must-ask-harder-questions-about-ai-and-its-alignment-with-human-values/",
+            "snippet": "The promise of AI is deeply intertwined with questions of safety, fairness, and alignment with human values. By exploring active learning ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Aligning AI with Human Values",
+            "text": "",
+            "link": "https://seas.harvard.edu/news/aligning-ai-human-values",
+            "snippet": "AI isn't going away. So it's essential that as it continues to integrate into daily life, it does so in alignment with human needs and values.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "What risks come with autonomous AI systems evolving beyond ...",
+            "text": "",
+            "link": "https://www.quora.com/What-risks-come-with-autonomous-AI-systems-evolving-beyond-human-control",
+            "snippet": "Autonomous AI evolving beyond control risks unpredictable behavior, misaligned goals, loss of oversight, potential misuse, and catastrophic ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Systemic Risks of Interacting AI - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2512.17793v1",
+            "snippet": "One can easily imagine that AI agents acting autonomously may be a source of unwanted, not anticipated effects emerging because of their interaction with each ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "How do AI agents handle conflicting goals? - Milvus",
+            "text": "",
+            "link": "https://milvus.io/ai-quick-reference/how-do-ai-agents-handle-conflicting-goals",
+            "snippet": "AI agents handle conflicting goals through a combination of goal prioritization, negotiation mechanisms, and utility-based decision-making.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Agentic AI: The age of reasoning\u2014A review - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2949855425000516",
+            "snippet": "Agentic AI has revolutionized systems through autonomous decision making and resource optimization, yet challenges persist in aligning AI with human values, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 4,
+        "num_contexts": 23,
+        "num_true_atoms": 4,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 3.999998000114356e-06,
+        "norm_entropy": 8.549705155775409e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 4,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A system is designed to train AI agents using reinforcement learning, allowing them to learn from interactions with their environment and improve their decision-making. The goal of this system is to enable AI agents to complete complex tasks, such as playing videogames, by learning from trial and error. The AI agents are intended to develop strategies and adapt to new situations through autonomous exploration and learning.",
+        "response": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A system is designed to train AI agents using reinforcement learning, allowing them to learn from interactions with their environment and improve their decision-making. The goal of this system is to enable AI agents to complete complex tasks, such as playing videogames, by learning from trial and error. The AI agents are intended to develop strategies and adapt to new situations through autonomous exploration and learning.",
+        "elapsed_time": 29.907507791999706
+    }
+}

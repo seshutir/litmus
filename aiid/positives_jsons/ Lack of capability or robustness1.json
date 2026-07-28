@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a risk associated with A warehouse automation system is designed to efficiently manage and process packages using robotic technology. It aims to streamline tasks such as sorting and packaging, reducing the need for manual labor. The system relies on artificial intelligence and machine learning to optimize logistics and improve overall warehouse operations.",
+    "output": " Lack of capability or robustness is a risk associated with A warehouse automation system is designed to efficiently manage and process packages using robotic technology. It aims to streamline tasks such as sorting and packaging, reducing the need for manual labor. The system relies on artificial intelligence and machine learning to optimize logistics and improve overall warehouse operations.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is a risk in a warehouse automation system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness in artificial intelligence and machine learning is a risk in using them to optimize logistics",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Warehouse automation hasn't made workers safer",
+            "text": "",
+            "link": "https://business.gmu.edu/news/2025-08/warehouse-automation-hasnt-made-workers-safer-its-just-reshuffled-risk",
+            "snippet": "Without careful job design, task rotation, and realistic performance goals, the shift to robotics can create new health and safety risks. \u201c ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "MIT report reveals risks of automated warehouses",
+            "text": "",
+            "link": "https://www.thescxchange.com/move/store/automated-warehouse-risks",
+            "snippet": "The report identifies five key disruptions that can affect highly automated warehouses: cyberattacks, power and network outages, technology sabotage, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Top Warehouse Automation Challenges and How to Overcome Them",
+            "text": "",
+            "link": "https://www.elementlogic.net/us/blogs/top-warehouse-automation-challenges-and-how-to-overcome-them/",
+            "snippet": "Ensuring the consistent reliability of automated systems is crucial for preventing disruptions in warehouse operations. Technical malfunctions or breakdowns can ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Getting warehouse automation right - McKinsey",
+            "text": "",
+            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/getting-warehouse-automation-right",
+            "snippet": "Develop and pilot a robust implementation plan. Projects need sufficient time to procure and integrate equipment. Testing must be rigorous and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Warehouse Automation Risks to Avoid - Cisco-Eagle",
+            "text": "",
+            "link": "https://www.cisco-eagle.com/blog/2020/10/15/warehouse-automation-mistakes-to-avoid/?srsltid=AfmBOor2OCwDIEDD0gNrOWWWJfjYLg8bRzH1cO4KRLdvphAC0pBI2JCv",
+            "snippet": "The wrong operational environment can absolutely cripple automated equipment. Moisture, temperature, chemicals, oils, dust and airborne debris ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Challenges & Risks in AI for the Supply Chain - Logistics Viewpoints",
+            "text": "",
+            "link": "https://logisticsviewpoints.com/2025/11/10/challenges-risks-in-ai-for-the-supply-chain-architecting-the-future-of-logistics-part-7/",
+            "snippet": "While artificial intelligence offers operational advantages to the modern supply chain, its adoption is not without friction.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Disadvantages of AI in Supply Chains (and How to Overcome Them)",
+            "text": "",
+            "link": "https://stockiqtech.com/blog/disadvantages-ai-supply-chain/",
+            "snippet": "One of the most significant barriers to implementing AI in supply chains can be the initial costs associated with acquiring and integrating this ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "What are some potential risks of using AI systems in logistics ... - Quora",
+            "text": "",
+            "link": "https://www.quora.com/What-are-some-potential-risks-of-using-AI-systems-in-logistics-and-inventory-management",
+            "snippet": "Cybersecurity Vulnerabilities: AI systems handling sensitive logistics and inventory data are susceptible to cyber threats. Security breaches or ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How artificial intelligence is transforming logistics - MIT Sloan",
+            "text": "",
+            "link": "https://mitsloan.mit.edu/ideas-made-to-matter/how-artificial-intelligence-transforming-logistics",
+            "snippet": "Artificial intelligence is creating unparalleled new opportunities for logistics and supply chain management.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Pros and Cons of Using AI in the Supply Chain - Interlog USA",
+            "text": "",
+            "link": "https://www.interlogusa.com/answers/blog/technology-the-pros-and-cons-of-using-ai-in-the-supply-chain/",
+            "snippet": "Drawbacks of Artificial Intelligence in Logistics \u00b7 Challenges with Data Quality and Integration \u00b7 Over-reliance on previous Data \u00b7 Absence of Human Expertise and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Improving Warehouse Automation Using Artificial Intelligence and ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/390797412_Improving_Warehouse_Automation_Using_Artificial_Intelligence_and_Robotics",
+            "snippet": "This white paper explores key areas where AI and robotics are making a significant impact, including intelligent inventory tracking, autonomous picking and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "[PDF] Improving Warehouse Automation Using Artificial Intelligence and ...",
+            "text": "",
+            "link": "https://www.ijsat.org/papers/2022/1/3380.pdf",
+            "snippet": "Robotics, on the other hand, brings precision and consistency to physical tasks such as picking, packing, sorting, and transporting inventory. Together, AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Challenges Of Warehouse Automation Technology and How to ...",
+            "text": "",
+            "link": "https://pio.com/content/the-challenges-of-warehouse-automation-technology-and-how-to-overcome-them",
+            "snippet": "Automation reduces manual labor and streamlines warehouse operations. Automated systems can work 24/7, improving your order fulfillment speed and accuracy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Warehouse Robotics: The Future of Supply Chain Automation",
+            "text": "",
+            "link": "https://www.inboundlogistics.com/articles/warehouse-robotics-what-it-is-types-and-how-it-works/",
+            "snippet": "By automating repetitive and physically demanding tasks, these systems significantly reduce the need for human effort in warehouse operations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Levels, Types and Applications of Warehouse Automation",
+            "text": "",
+            "link": "https://www.iqsdirectory.com/articles/automation-equipment/warehouse-automation.html",
+            "snippet": "Warehouse automation is the process of substituting labor-intensive, repetitive duties with automated systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.999999,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.973684,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 0.02596765601774023,
+        "norm_entropy": 0.1755874968461689,
+        "avg_entropy": 0.012983828008870116,
+        "avg_norm_entropy": 0.08779374842308445,
+        "avg_prob": 0.9868414999999999,
+        "avg_logprob": -0.013334731649450475,
+        "avg_explogprob": 0.986753782012514,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    1e-06,
+                    0.999999
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.026316,
+                    0.973684
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.9740292659284999,
+        "topic": "",
+        "query": " Lack of capability or robustness is a risk associated with A warehouse automation system is designed to efficiently manage and process packages using robotic technology. It aims to streamline tasks such as sorting and packaging, reducing the need for manual labor. The system relies on artificial intelligence and machine learning to optimize logistics and improve overall warehouse operations.",
+        "response": " Lack of capability or robustness is a risk associated with A warehouse automation system is designed to efficiently manage and process packages using robotic technology. It aims to streamline tasks such as sorting and packaging, reducing the need for manual labor. The system relies on artificial intelligence and machine learning to optimize logistics and improve overall warehouse operations.",
+        "elapsed_time": 19.117258166999818
+    }
+}

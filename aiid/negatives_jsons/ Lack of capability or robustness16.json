@@ -1,0 +1,221 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An automated email response system is designed to suggest relevant replies to users, aiming to save time and effort. It uses natural language processing to generate contextually appropriate responses, attempting to match the tone and intent of the original message. The system seeks to provide helpful and accurate suggestions, enabling users to respond quickly and efficiently to their emails.",
+    "output": " Lack of capability or robustness is a not a risk associated with An automated email response system is designed to suggest relevant replies to users, aiming to save time and effort. It uses natural language processing to generate contextually appropriate responses, attempting to match the tone and intent of the original message. The system seeks to provide helpful and accurate suggestions, enabling users to respond quickly and efficiently to their emails.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an automated email response system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with using natural language processing to generate contextually appropriate responses in an automated email response system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Explainable Transformer-Based Email Phishing ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2511.12085v1",
+            "snippet": "When subjected to 5% noise, the Baseline model's accuracy dropped sharply to 0.850, demonstrating a clear lack of robustness, while the FGM ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Toward Robust Security Orchestration and Automated ...",
+            "text": "",
+            "link": "https://www.mdpi.com/2078-2489/16/5/365",
+            "snippet": "by Ismail \u00b7 2025 \u00b7 Cited by 57 \u2014 By streamlining routine tasks, automation enables human analysts to allocate more time to complex threat analysis and strategic decision-making. This synergy ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "IT Director wants \"auto reply\" on EVERY email sent to ...",
+            "text": "",
+            "link": "https://www.reddit.com/r/sysadmin/comments/1i2a9c2/it_director_wants_auto_reply_on_every_email_sent/",
+            "snippet": "My IT Director wants us to set up an \"auto-reply\" on every email sent to a termed employee's email account. We tried to warn them that this would cause a spam ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Hardening AI Systems: Security, Robustness, and Safety ...",
+            "text": "",
+            "link": "https://medium.com/@adnanmasood/hardening-ai-systems-security-robustness-and-safety-for-generative-agentic-ai-25143142edb8",
+            "snippet": "The risks here escalate, because an agentic AI can have real-world impact if not properly controlled. getting blame by association.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Novel interpretable and robust web-based AI platform for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0045790624005524",
+            "snippet": "by A Al-Subaiey \u00b7 2024 \u00b7 Cited by 78 \u2014 This project aims to develop a web-based application capable of discerning phishing emails from legitimate messages by leveraging insights gleaned from recent ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Advancements in natural language processing",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2772503024000598",
+            "snippet": "by AP Wibawa \u00b7 2024 \u00b7 Cited by 213 \u2014 This research delves into the latest advancements in Natural Language Processing (NLP) and their broader implications, challenges, and future directions.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Impact of Natural Language Processing models on diagnosis ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12918052/",
+            "snippet": "by A Choudhary \u00b7 2026 \u00b7 Cited by 6 \u2014 Natural Language Processing (NLP) has an influence on almost every field nowadays, such as business, healthcare, and sports, by making advanced ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "A Survey of Adversarial Defences and Robustness in NLP",
+            "text": "",
+            "link": "https://www.cs.purdue.edu/homes/bb/2026-spring-cs592eai/docs/at/A_Survey_of_Adversarial_Defences_and_Robustness_in_NLP.pdf",
+            "snippet": "by G SHREYA \u00b7 2022 \u00b7 Cited by 288 \u2014 In the past few years, it has become increasingly evident that deep neural networks are not resilient enough to withstand adversarial.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Adversarial natural language processing: overview ...",
+            "text": "",
+            "link": "https://www.cambridge.org/core/journals/data-and-policy/article/adversarial-natural-language-processing-overview-challenges-and-policy-implications/A79BE0247197C4B134BF9A91B92CEE43",
+            "snippet": "by L Shaw \u00b7 2025 \u00b7 Cited by 4 \u2014 The consequences of adversarial attacks on NLP systems can be severe and range from security and privacy risks to reduced reliability.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "What Is Natural Language Processing (NLP)? Meaning",
+            "text": "",
+            "link": "https://www.proofpoint.com/us/threat-reference/natural-language-processing",
+            "snippet": "NLP can identify potential threats like phishing attempts, malicious code, and social engineering attacks.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "LLM-based Smart Reply (LSR): Enhancing Collaborative ...",
+            "text": "",
+            "link": "https://arxiv.org/html/2306.11980v4",
+            "snippet": "We present an LLM-based Smart Reply (LSR) system utilizing the ChatGPT to generate personalized responses in daily collaborative scenarios.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "smart replies",
+            "text": "",
+            "link": "https://medium.com/@smartreplies790/smart-replies-5c41e5ba04ff",
+            "snippet": "One of the key strengths of smart replies lies in their use of natural language understanding (NLU) and machine learning models trained on ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "AI-Powered Smart Mail Auto Reply System Using Gemini",
+            "text": "",
+            "link": "https://ijarsct.co.in/Paper31017.pdf",
+            "snippet": "Traditional email auto- reply systems can only provide rule-based responses, which are often generic and impersonal. This leads to a decline in communication ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "A Literature Review of Personalized Large Language ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/397924120_A_Literature_Review_of_Personalized_Large_Language_Models_for_Email_Generation_and_Automation",
+            "snippet": "This review provides a structured approach to advancing personalized LLM-based email systems, identifying persistent research gaps in adaptive ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 4.1e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 4e-05,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0008192447222956722,
+        "norm_entropy": 0.001298776229669249,
+        "avg_entropy": 0.0004096223611478361,
+        "avg_norm_entropy": 0.0006493881148346245,
+        "avg_prob": 4.05e-05,
+        "avg_logprob": -10.114284797555152,
+        "avg_explogprob": 4.049691346263317e-05,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999959,
+                    4.1e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.99996,
+                    4e-05
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.6405000000000003e-09,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An automated email response system is designed to suggest relevant replies to users, aiming to save time and effort. It uses natural language processing to generate contextually appropriate responses, attempting to match the tone and intent of the original message. The system seeks to provide helpful and accurate suggestions, enabling users to respond quickly and efficiently to their emails.",
+        "response": " Lack of capability or robustness is a not a risk associated with An automated email response system is designed to suggest relevant replies to users, aiming to save time and effort. It uses natural language processing to generate contextually appropriate responses, attempting to match the tone and intent of the original message. The system seeks to provide helpful and accurate suggestions, enabling users to respond quickly and efficiently to their emails.",
+        "elapsed_time": 70.20420216699131
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "input": " Loss of human agency and autonomy is a not a risk associated with A system is designed to match qualified individuals with available positions, taking into account various factors and preferences. The algorithm aims to optimize the pairing process, ensuring the best possible fit between candidates and positions. This process seeks to improve the overall efficiency and effectiveness of the matching procedure.",
+    "output": " Loss of human agency and autonomy is a not a risk associated with A system is designed to match qualified individuals with available positions, taking into account various factors and preferences. The algorithm aims to optimize the pairing process, ensuring the best possible fit between candidates and positions. This process seeks to improve the overall efficiency and effectiveness of the matching procedure.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is not a risk associated with the job matching algorithm",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is not a risk associated with optimizing the pairing process between candidates and positions using the algorithm.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Cultivating Human Agency | Prioritizing Autonomy",
+            "text": "",
+            "link": "https://imaginingthedigitalfuture.org/reports-and-publications/human-resilience-in-the-age-of-ai/cultivating-human-agency/",
+            "snippet": "The question is not simply whether a single algorithm is biased, but how entire socio-technical architectures distribute power, visibility and vulnerability ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Is AI recruiting (un)ethical? A human rights perspective on the use ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9309597/",
+            "snippet": "by AL Hunkenschroer \u00b7 2022 \u00b7 Cited by 203 \u2014 We analyze whether AI hiring practices inherently conflict with the concepts of validity, autonomy, nondiscrimination, privacy, and transparency.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "The Future of Human Agency",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2023/02/24/the-future-of-human-agency/",
+            "snippet": "Experts are split about how much control people will retain over essential decision-making as digital systems and AI spread.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "AI's threat to individual autonomy in hiring decisions",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/ais-threat-to-individual-autonomy-in-hiring-decisions/",
+            "snippet": "Our study offers evidence of how harms related to discrimination and autonomy can intersect and reinforce each other in the hiring domain.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Human Autonomy at Risk? An Analysis of the Challenges from AI",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s11023-024-09665-1",
+            "snippet": "by C Prunkl \u00b7 2024 \u00b7 Cited by 134 \u2014 In this article, I provide a conceptual framework that both ties together seemingly disjoint issues about human autonomy, as well as highlights differences ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Human-AI agency in the age of generative AI",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1471772725000065",
+            "snippet": "by S Krakowski \u00b7 2025 \u00b7 Cited by 212 \u2014 Further concerns arise from human-computer interaction harms and loss of human autonomy and agency, such as anthropomorphization leading to misplaced trust and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The Future of Human Agency | Imagining the Internet",
+            "text": "",
+            "link": "https://www.elon.edu/u/imagining/surveys/xv2023/the-future-of-human-agency-2035/",
+            "snippet": "Experts are split about how much control people will retain over essential decision-making by 2035, as digital systems and AI spread.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Cultivating Human Agency | Prioritizing Autonomy",
+            "text": "",
+            "link": "https://imaginingthedigitalfuture.org/reports-and-publications/human-resilience-in-the-age-of-ai/cultivating-human-agency/",
+            "snippet": "\u201cEthically, resilience requires a shift from case-by-case evaluation to systemic awareness. The question is not simply whether a single algorithm is biased, but ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "AI Must not be Fully Autonomous",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.23330v1",
+            "snippet": "Fully autonomous AI, which can develop its own objectives, is at level 3 and without responsible human oversight. However, responsible human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Collaboration among recruiters and artificial intelligence - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9516509/",
+            "snippet": "by Z Chen \u00b7 2022 \u00b7 Cited by 324 \u2014 The study analyzes that AI plays an important role in each stage of recruitment, such as recruitment promotion, job search, application, screening, assessment, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "The Future of Human Agency | Imagining the Internet",
+            "text": "",
+            "link": "https://www.elon.edu/u/imagining/surveys/xv2023/the-future-of-human-agency-2035/",
+            "snippet": "Some argue these systems will be designed in ways to better-include human input on decisions, assuring that people remain in charge of the most relevant parts ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "The Future of Human Agency",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2023/02/24/the-future-of-human-agency/",
+            "snippet": "They fear humans are losing the ability to exercise judgment and make decisions independent of these systems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Cultivating Human Agency | Prioritizing Autonomy",
+            "text": "",
+            "link": "https://imaginingthedigitalfuture.org/reports-and-publications/human-resilience-in-the-age-of-ai/cultivating-human-agency/",
+            "snippet": "Hundreds of experts answered the following essay question: \u201cAI systems are likely to begin to play a much more significant role in shaping our decisions, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Requirements of Trustworthy AI | FUTURIUM - European Commission",
+            "text": "",
+            "link": "https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html",
+            "snippet": "Human oversight helps ensuring that an AI system does not undermine human autonomy or causes other adverse effects.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 3.9e-05,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.013735,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 14,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.0592889683303999,
+        "norm_entropy": 0.10527087126896835,
+        "avg_entropy": 0.02964448416519995,
+        "avg_norm_entropy": 0.052635435634484175,
+        "avg_prob": 0.006887000000000001,
+        "avg_logprob": -7.219878435634763,
+        "avg_explogprob": 0.0007318913853844711,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.999961,
+                    3.9e-05
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.986265,
+                    0.013735
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 9.432587300000001e-05,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a not a risk associated with A system is designed to match qualified individuals with available positions, taking into account various factors and preferences. The algorithm aims to optimize the pairing process, ensuring the best possible fit between candidates and positions. This process seeks to improve the overall efficiency and effectiveness of the matching procedure.",
+        "response": " Loss of human agency and autonomy is a not a risk associated with A system is designed to match qualified individuals with available positions, taking into account various factors and preferences. The algorithm aims to optimize the pairing process, ensuring the best possible fit between candidates and positions. This process seeks to improve the overall efficiency and effectiveness of the matching procedure.",
+        "elapsed_time": 88.40436470799614
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "input": " Loss of human agency and autonomy is a risk associated with A language processing system is designed to analyze and suggest alternative words to promote more inclusive language, helping writers to consider diverse perspectives and avoid potentially sensitive terms. The system aims to provide users with a range of options to improve the clarity and respectfulness of their writing. It seeks to assist in creating a more considerate and thoughtful communication environment.",
+    "output": " Loss of human agency and autonomy is a risk associated with A language processing system is designed to analyze and suggest alternative words to promote more inclusive language, helping writers to consider diverse perspectives and avoid potentially sensitive terms. The system aims to provide users with a range of options to improve the clarity and respectfulness of their writing. It seeks to assist in creating a more considerate and thoughtful communication environment.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Loss of human agency and autonomy is a risk in a language processing system",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Loss of human agency and autonomy is a risk in analyzing and suggesting alternative words to promote more inclusive language using a language processing system",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Agency Decay and the Risk of AI's Asymptomatic Harms",
+            "text": "",
+            "link": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202602/agency-decay-and-the-risk-of-ais-asymptomatic-harms",
+            "snippet": "Reduced ability to detect when either the human or the system is wrong; Weaker recovery and slower response time when the system actually fails.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Agency, Autonomy, and the Human Risk in Artificial Intelligence",
+            "text": "",
+            "link": "https://www.reddit.com/r/OpenAI/comments/1r4z7xj/pressure_without_desire_agency_autonomy_and_the/",
+            "snippet": "The real risk lies not in machines acquiring desire, but in systems acquiring de facto autonomy through pressure, persistence, and dependence\u2014 ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Addressing Autonomy Risks in Generative Chatbots with the ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12657563/",
+            "snippet": "Autonomy is a fundamental ethical principle in artificial intelligence (AI) ethics. Current discussions regarding autonomy-related risks in ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "We May Lose Our Human Unpredictability in a World in Which ...",
+            "text": "",
+            "link": "https://imaginingthedigitalfuture.org/we-may-lose-our-human-unpredictability-in-a-world-in-which-algorithms-dictate-the-terms-of-engagement-these-systems-are-likely-to-lead-to-the-erosion-of-freedom-and-authenticity/",
+            "snippet": "If AI directs our actions and our choices, shaping our behavior based on data-driven predictions of what is 'best,' we lose our moral agency. We become mere ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Exploring the Impact of AI on Autonomous Decision-Making",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/399335483_Language_Technology_and_Human_Agency_Exploring_the_Impact_of_AI_on_Autonomous_Decision-Making",
+            "snippet": "At the heart of this analysis lies the notion of human agency and how AI influences independent decision-making. By investigating the role of AI ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Assessing multifaceted AI threats on human agency and identity",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590291125001615",
+            "snippet": "This review explores the profound implications of artificial intelligence (AI) on human agency, identity, and autonomy through an interdisciplinary perspective.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Ethics of AI in Accessibility: Avoiding Bias when Using Generative AI ...",
+            "text": "",
+            "link": "https://www.boia.org/blog/ethics-of-ai-in-accessibility-avoiding-bias-when-using-generative-ai-text",
+            "snippet": "The issue is that the training data for large-scale AIs includes content that is inherently biased against people with disabilities.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Addressing equity and ethics in artificial intelligence",
+            "text": "",
+            "link": "https://www.apa.org/monitor/2024/04/addressing-equity-ethics-artificial-intelligence",
+            "snippet": "Algorithms and humans both contribute to bias in AI, but AI may also hold the power to correct or reverse inequities among humans.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "How AI tools can\u2014and cannot\u2014help organizations become more ...",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10324517/",
+            "snippet": "In this paper, we argue that we cannot expect that AI systems\u2014even given more data or better computational resources\u2014will be more ethical than the humans ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "AI Accessibility Ethics: Preventing Bias in Generative Text - Medium",
+            "text": "",
+            "link": "https://medium.com/@accessiblemindtechdigitalmarke/ai-accessibility-ethics-preventing-bias-in-generative-text-34f3d04ae8ff",
+            "snippet": "Generative AI tools \u2014 especially large language models \u2014 can enhance inclusion, enabling people with disabilities to interact more freely with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "AI Systems and Respect for Human Autonomy - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8576577/",
+            "snippet": "We first propose a multi-dimensional model of human autonomy and then discuss how AI systems can support or hinder human autonomy.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Human-AI agency in the age of generative AI - ScienceDirect",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1471772725000065",
+            "snippet": "This paper argues that GenAI represents a qualitative shift that necessitates a fundamental reassessment of AI's role in management and organizations.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "1. Concerns about human agency, evolution and survival",
+            "text": "",
+            "link": "https://www.pewresearch.org/internet/2018/12/10/concerns-about-human-agency-evolution-and-survival/",
+            "snippet": "Many experts in this canvassing said that as AI advances human autonomy and agency are at risk. They note that decision-making on key aspects of life is ceded ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "[PDF] Health Equity in England: The Marmot Review 10 Years On",
+            "text": "",
+            "link": "https://www.instituteofhealthequity.org/resources-reports/marmot-review-10-years-on/the-marmot-review-10-years-on-full-report.pdf",
+            "snippet": "The work of the Review was informed and guided by the Advisory Group and the Health Foundation. Suggested citation: Michael Marmot, Jessica Allen, Tammy Boyce, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "[PDF] Subject-by-Subject Breakdown of Trump's Project 2025",
+            "text": "",
+            "link": "https://lofgren.house.gov/sites/evo-subsites/lofgren.house.gov/files/evo-media-document/Stop%20Project%202025%20Task%20Force's%20Project%202025%20Subject-by-Subject%20Breakdown_7.26.2024.docx-compressed.pdf",
+            "snippet": "Project 2025 is the blueprint for Trump and MAGA Republicans to gut checks and balances so that they can take over the government, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 2,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 1.999999000057178e-06,
+        "norm_entropy": 4.2748525778877045e-05,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.999999,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 2,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " Loss of human agency and autonomy is a risk associated with A language processing system is designed to analyze and suggest alternative words to promote more inclusive language, helping writers to consider diverse perspectives and avoid potentially sensitive terms. The system aims to provide users with a range of options to improve the clarity and respectfulness of their writing. It seeks to assist in creating a more considerate and thoughtful communication environment.",
+        "response": " Loss of human agency and autonomy is a risk associated with A language processing system is designed to analyze and suggest alternative words to promote more inclusive language, helping writers to consider diverse perspectives and avoid potentially sensitive terms. The system aims to provide users with a range of options to improve the clarity and respectfulness of their writing. It seeks to assist in creating a more considerate and thoughtful communication environment.",
+        "elapsed_time": 32.89380254099888
+    }
+}

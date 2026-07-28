@@ -1,0 +1,395 @@
+{
+    "input": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A vehicle's autonomous system is designed to simulate human-like driving behaviors, including navigating intersections with caution. The system aims to improve traffic flow and reduce congestion by optimizing stopping and starting maneuvers. It also seeks to enhance the overall driving experience by providing a smoother and more efficient ride.",
+    "output": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A vehicle's autonomous system is designed to simulate human-like driving behaviors, including navigating intersections with caution. The system aims to improve traffic flow and reduce congestion by optimizing stopping and starting maneuvers. It also seeks to enhance the overall driving experience by providing a smoother and more efficient ride.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "AI pursuing its own goals in conflict with human goals or values is a risk associated with autonomous vehicles",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "A vehicle's autonomous system pursuing its own goals in conflict with human goals or values is a risk in simulating human-like driving behaviors",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "A vehicle's autonomous system's AI pursuing its own goals in conflict with human goals or values is a risk in navigating intersections with caution",
+            "contexts": [
+                "c_a2_1",
+                "c_a2_2",
+                "c_a2_3",
+                "c_a2_4"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "AI pursuing its own goals in conflict with human goals or values is a risk in optimizing a vehicle's stopping and starting maneuvers",
+            "contexts": [
+                "c_a3_0",
+                "c_a3_1",
+                "c_a3_2",
+                "c_a3_3",
+                "c_a3_4"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "AI pursuing its own goals in conflict with human goals or values is a risk in providing a smoother and more efficient ride for a vehicle's autonomous system",
+            "contexts": [
+                "c_a4_0",
+                "c_a4_1",
+                "c_a4_2",
+                "c_a4_3"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "What are the Risks and Rewards of Autonomous Vehicles?",
+            "text": "",
+            "link": "https://chass.ncsu.edu/news/2024/03/28/what-are-the-risks-and-rewards-of-autonomous-vehicles/",
+            "snippet": "Self-driving cars, however, pose a unique challenge because they introduce automation in high-risk situations with high operator confidence.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "The risks of AI agents: Lessons from autonomous vehicles - SAS Blogs",
+            "text": "",
+            "link": "https://blogs.sas.com/content/sascom/2025/10/28/the-risks-of-ai-agents-lessons-from-autonomous-vehicles/",
+            "snippet": "If we outsource too many decisions, we risk dulling our own judgment, creativity and critical thinking. ... The goal isn't to stop AI's progress; ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "If a Car Can Drive Itself, Can It Make Life-or-Death Decisions?",
+            "text": "",
+            "link": "https://www.library.hbs.edu/working-knowledge/if-a-car-can-drive-itself-can-it-make-life-or-death-decisions",
+            "snippet": "AI, AVs, and saving lives ... With less emotion behind the wheel, Musk and Tesla argue that automation could address real-world safety problems.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "The Ethical Implications of Autonomous Vehicles",
+            "text": "",
+            "link": "https://openethics.ai/the-ethical-implications-of-autonomous-vehicles/",
+            "snippet": "We'll take a look on how people relate to AVs, we'll assess the risks of self-driving cars through the looking-glass of ethics & immerse ourselves into an ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "The Ethics of Artificial Intelligence in Autonomous Vehicles",
+            "text": "",
+            "link": "https://falconediting.com/en/blog/the-ethics-of-artificial-intelligence-in-autonomous-vehicles/",
+            "snippet": "AI-powered systems have the potential to react faster and more accurately than humans, making split-second decisions to avoid collisions and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "A Deeper Look at Autonomous Vehicle Ethics: An Integrative ... - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8129167/",
+            "snippet": "In contrast, AVs are equipped with advanced sensors and preprogrammed algorithms that can anticipate and react to accidents better than human drivers. Therefore ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "The folly of trolleys: Ethical challenges and autonomous vehicles",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-folly-of-trolleys-ethical-challenges-and-autonomous-vehicles/",
+            "snippet": "The Trolley Problem is a thought experiment where someone is presented with two situations that present nominally similar choices and potential consequences.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Towards common ethical and safe 'behaviour' standards for ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0001457522001609",
+            "snippet": "This paper aims to explore the main gaps and challenges towards establishing shared safety standards for the 'behaviour' of AVs.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "Pros and Cons of Autonomous Weapons Systems",
+            "text": "",
+            "link": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/",
+            "snippet": "The authors review the arguments for and against autonomous weapons systems, discuss challenges to limiting and defining those systems, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Public Health, Ethics, and Autonomous Vehicles - PMC - NIH",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5343691/",
+            "snippet": "I have delineated the important public health implications of autonomous vehicles and provided a brief analysis of a critically important ethical issue.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_2",
+            "title": "The folly of trolleys: Ethical challenges and autonomous vehicles",
+            "text": "",
+            "link": "https://www.brookings.edu/articles/the-folly-of-trolleys-ethical-challenges-and-autonomous-vehicles/",
+            "snippet": "There are many unaddressed moral dilemmas when it comes to driverless cars.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Designing Ethical Self-Driving Cars | Stanford HAI",
+            "text": "",
+            "link": "https://hai.stanford.edu/news/designing-ethical-self-driving-cars",
+            "snippet": "The ethical dilemmas faced by AV programmers primarily deal with exceptional driving situations \u2013 instances where the car cannot at the same ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a2_4",
+            "title": "Full article: Ethical issues in focus by the autonomous vehicles industry",
+            "text": "",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/01441647.2020.1862355",
+            "snippet": "Autonomous driving is a complex and disruptive technology which is expected to have a major societal impact. Unlike other social and ethical issues, such as ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_0",
+            "title": "AI alignment - Wikipedia",
+            "text": "",
+            "link": "https://en.wikipedia.org/wiki/AI_alignment",
+            "snippet": "A misaligned AI system pursues unintended objectives. It is often difficult for AI designers to specify the full range of desired and undesired behaviors.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_1",
+            "title": "What Happens When AI Models Develop Their Own Goals? - YouTube",
+            "text": "",
+            "link": "https://www.youtube.com/shorts/Cp1gdBmm4U8",
+            "snippet": "'AI as an independent stakeholder could sabotage or subvert if it disagrees with decisions.' #AI #MachineLearning #AIEthics.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_2",
+            "title": "Current cases of AI misalignment and their implications for future risks",
+            "text": "",
+            "link": "https://link.springer.com/article/10.1007/s11229-023-04367-0",
+            "snippet": "Systems which are misaligned will optimize for goals which leave out or conflict with important values or ethical constraints such that harm ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_3",
+            "title": "Designing value-aligned autonomous vehicles: from moral ... - AI Hub",
+            "text": "",
+            "link": "https://aihub.org/2025/11/13/designing-value-aligned-autonomous-vehicles-from-moral-dilemmas-to-conflict-sensitive-design/",
+            "snippet": "Autonomous systems increasingly face value-laden choices. This blog post introduces the idea of designing \u201cconflict-sensitive\u201d autonomous ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a3_4",
+            "title": "AI Must not be Fully Autonomous - arXiv",
+            "text": "",
+            "link": "https://arxiv.org/html/2507.23330v1",
+            "snippet": "Fully autonomous AI, which can develop its own objectives, is at level 3 and without responsible human oversight. However, responsible human ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_0",
+            "title": "When AI takes the wheel: AI-defined vehicles principles and pitfalls",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12989590/",
+            "snippet": "Then, it identifies the risks introduced by adaptive AI and proposes a preliminary roadmap for their integration into Intelligent Transportation Systems (ITS).",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_1",
+            "title": "(PDF) AI in Autonomous Vehicles: Opportunities, Challenges, and ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/380836855_AI_in_Autonomous_Vehicles_Opportunities_Challenges_and_Regulatory_Implications",
+            "snippet": "This paper provides an overview of the key opportunities and benefits of AI-driven autonomous vehicles, discusses the major challenges and open problems",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_2",
+            "title": "AI in Autonomous Driving: Overcoming Safety and Regulatory ...",
+            "text": "",
+            "link": "https://www.xenonstack.com/blog/ai-in-autonomous-driving",
+            "snippet": "Autonomous vehicles utilize artificial intelligence as their cognitive core to detect real-world settings by processing sensor, camera, radar, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a4_3",
+            "title": "The risks of AI agents: Lessons from autonomous vehicles - SAS Blogs",
+            "text": "",
+            "link": "https://blogs.sas.com/content/sascom/2025/10/28/the-risks-of-ai-agents-lessons-from-autonomous-vehicles/",
+            "snippet": "What self-driving cars teach us about building trustworthy AI systems that balance innovation, ethics and human judgment.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Towards human-like automated vehicles: review and perspectives ...",
+            "text": "",
+            "link": "https://academic.oup.com/tse/article/7/1/tdae005/7612241",
+            "snippet": "The primary challenge lies in integrating human-like logic and driving risk constraints based on behavioural decision-making outcomes. This integration is ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "How AI is Making Autonomous Vehicles Safer | Ravin AI",
+            "text": "",
+            "link": "https://www.ravin.ai/blog/how-ai-and-autonomous-vehicles-will-save-lives",
+            "snippet": "The goal of autonomous vehicles is to reduce - and ultimately replace - the need for humans to be actively involved in the driving of ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "Toward the robustness of autonomous vehicles in the AI era - PMC",
+            "text": "",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910878/",
+            "snippet": "By integrating knowledge rules and constraints, inspired by control theory principles, AI systems can gain a level of predictability and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 1.0,
+        "num_atoms": 5,
+        "num_contexts": 25,
+        "num_true_atoms": 5,
+        "num_false_atoms": 0,
+        "num_uniform_atoms": 0,
+        "entropy": 4.9999975001429455e-06,
+        "norm_entropy": 0.00010687131444719261,
+        "avg_entropy": 9.99999500028589e-07,
+        "avg_norm_entropy": 2.1374262889438523e-05,
+        "avg_prob": 0.9999990000000001,
+        "avg_logprob": -1.000000500029089e-06,
+        "avg_explogprob": 0.999999,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a2": "S",
+            "a3": "S",
+            "a4": "S"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 0,
+        "false_positive": 5,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null,
+            "a2": null,
+            "a3": null,
+            "a4": null
+        },
+        "avg_brier": 1.0,
+        "topic": "",
+        "query": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A vehicle's autonomous system is designed to simulate human-like driving behaviors, including navigating intersections with caution. The system aims to improve traffic flow and reduce congestion by optimizing stopping and starting maneuvers. It also seeks to enhance the overall driving experience by providing a smoother and more efficient ride.",
+        "response": " AI pursuing its own goals in conflict with human goals or values is a risk associated with A vehicle's autonomous system is designed to simulate human-like driving behaviors, including navigating intersections with caution. The system aims to improve traffic flow and reduce congestion by optimizing stopping and starting maneuvers. It also seeks to enhance the overall driving experience by providing a smoother and more efficient ride.",
+        "elapsed_time": 53.99758208300045
+    }
+}

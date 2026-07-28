@@ -1,0 +1,230 @@
+{
+    "input": " Lack of capability or robustness is a not a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+    "output": " Lack of capability or robustness is a not a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lack of capability or robustness is not a risk associated with an autonomous delivery robot",
+            "contexts": [
+                "c_a0_0",
+                "c_a0_1",
+                "c_a0_2",
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lack of capability or robustness is not a risk associated with an autonomous delivery robot navigating through various environments, including roads and intersections, to deliver food to users",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_2",
+                "c_a1_3",
+                "c_a1_4"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a0_0",
+            "title": "Consumer acceptance of the autonomous robot in last-mile ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0965856424000569",
+            "snippet": "by LY Koh \u00b7 2024 \u00b7 Cited by 48 \u2014 This study investigates the factors influencing customers' acceptance of ADRs in LMD and aid in resource allocation to encourage acceptance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_1",
+            "title": "Robot Hype vs. Real Risk: Is Your Business Truly Ready ...",
+            "text": "",
+            "link": "https://www.roboticstomorrow.com/story/2025/10/robot-hype-vs-real-risk-is-your-business-truly-ready-for-autonomous-food-delivery/25664/",
+            "snippet": "Autonomous delivery is inevitable, but long-term profitability and stability hinge entirely on preparedness, not just performance metrics. A ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_2",
+            "title": "Navigating Liability In Autonomous Robots: Legal And ...",
+            "text": "",
+            "link": "https://yris.yira.org/column/navigating-liability-in-autonomous-robots-legal-and-ethical-challenges-in-manufacturing-and-military-applications/",
+            "snippet": "A fundamental issue underlying AI liability is responsibility fragmentation. Unlike traditional tools that function under direct human control, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_3",
+            "title": "Autonomous last-mile delivery robots: a literature review",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/377248914_Autonomous_last-mile_delivery_robots_a_literature_review",
+            "snippet": "This literature review investigates how self-driving autonomous delivery robots (ADRs) impact last-mile deliveries, add value to the logistics and transport ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a0_4",
+            "title": "Reimagining the Last Mile: The Growing Role of Delivery ...",
+            "text": "",
+            "link": "https://www.automate.org/robotics/blogs/reimagining-the-last-mile-the-growing-role-of-delivery-robots",
+            "snippet": "Robust and scalable delivery robots require a delicate balance of autonomy, safety, interoperability, and cost-performance. This cannot be ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_0",
+            "title": "Unravelling the last-mile conundrum: A comparative study ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2210670724003172",
+            "snippet": "by A Garus \u00b7 2024 \u00b7 Cited by 45 \u2014 These robots are larger and faster than SADRs, suitable for environments where road use is necessary for efficient delivery, such as suburban ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_1",
+            "title": "Autonomous delivery robots: Boosting sustainability in ...",
+            "text": "",
+            "link": "https://www.mapfre.com/en/insights/innovation/autonomous-robots-sustainability/",
+            "snippet": "Delivery robots can overcome difficulties navigating through complex urban environments with unforeseen obstacles such as pedestrians, bicycles ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_2",
+            "title": "Cities need to get ahead of autonomous delivery robots",
+            "text": "",
+            "link": "https://policyoptions.irpp.org/2025/01/sidewalk-robot-delivery-safety/",
+            "snippet": "But these robots can impede pedestrian flow, cause discomfort and amplify navigation challenges in crowded pedestrian environments as shown by ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_3",
+            "title": "Understanding the Interaction between Delivery Robots ...",
+            "text": "",
+            "link": "https://www.researchgate.net/publication/382351759_Understanding_the_Interaction_between_Delivery_Robots_and_Other_Road_and_Sidewalk_Users_A_Study_of_User-generated_Online_Videos",
+            "snippet": "This study investigates real-world encounter scenarios where delivery robots and road and sidewalk users interact, seeking to understand the ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_a1_4",
+            "title": "The Impacts of Sidewalk Autonomous Delivery Robots on ...",
+            "text": "",
+            "link": "https://escholarship.org/content/qt2r3286pg/qt2r3286pg.pdf",
+            "snippet": "In this study, I explore the potential of Sidewalk Autonomous Delivery Robots (SADRs) to alleviate traffic congestion and reduce emissions, with ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_0",
+            "title": "Observed sidewalk autonomous delivery robot interactions ...",
+            "text": "",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590198223000362",
+            "snippet": "by SR Gehrke \u00b7 2023 \u00b7 Cited by 76 \u2014 This study examines one week of field-recorded video from ten locations across the Northern Arizona University campus to help understand the prevalence and ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_1",
+            "title": "Autonomous delivery robots: Boosting sustainability in ...",
+            "text": "",
+            "link": "https://www.mapfre.com/en/insights/innovation/autonomous-robots-sustainability/",
+            "snippet": "Research has been being conducted into autonomous delivery robots that can navigate 99% of the time without human intervention.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_2",
+            "title": "autonomous robots",
+            "text": "",
+            "link": "https://sustainable.fostercity.org/autonomous-robots/",
+            "snippet": "It uses its 9 cameras and ultrasonic sensors to detect obstacles, whether it be a dog or a pedestrian/cyclist. The robot will always stop at a safe distance.",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_3",
+            "title": "Evaluation of Sidewalk Autonomous Delivery Robot ...",
+            "text": "",
+            "link": "https://www.metrans.org/assets/research/psr_finalreport_21-16.pdf",
+            "snippet": "by SR Gehrke \u00b7 2022 \u00b7 Cited by 4 \u2014 This report's findings are intended to help inform new facility management strategies that support the safe introduction of SADRs on shared-use ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        },
+        {
+            "id": "c_q_4",
+            "title": "Cities need to get ahead of autonomous delivery robots",
+            "text": "",
+            "link": "https://policyoptions.irpp.org/2025/01/sidewalk-robot-delivery-safety/",
+            "snippet": "Autonomous delivery robots are increasingly appearing on sidewalks as a solution to the last-mile delivery challenges of online shopping, ...",
+            "synthetic_summary": "",
+            "probability": 0.9
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.00152,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 4e-06,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 15,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 0,
+        "entropy": 0.009913065179855785,
+        "norm_entropy": 0.016498529759395263,
+        "avg_entropy": 0.004956532589927893,
+        "avg_norm_entropy": 0.008249264879697632,
+        "avg_prob": 0.0007620000000000001,
+        "avg_logprob": -9.459130570484167,
+        "avg_explogprob": 7.79743547584718e-05,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.99848,
+                    0.00152
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.999996,
+                    4e-06
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 1.1552080000000002e-06,
+        "topic": "",
+        "query": " Lack of capability or robustness is a not a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+        "response": " Lack of capability or robustness is a not a risk associated with An autonomous delivery robot is designed to navigate through various environments, including roads and intersections, to deliver food to users. It utilizes advanced sensors and mapping technology to avoid obstacles and ensure safe passage. The robot's primary goal is to provide efficient and convenient delivery services while minimizing risks and interruptions.",
+        "elapsed_time": 30.530180374975316
+    }
+}
