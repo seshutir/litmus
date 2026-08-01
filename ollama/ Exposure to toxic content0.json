@@ -1,0 +1,116 @@
+{
+    "input": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+    "output": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+    "topic": "",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Exposure to toxic content is a risk associated with video recommendation systems.",
+            "contexts": [
+                "a0_ctx_0",
+                "a0_ctx_1",
+                "a0_ctx_2"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Exposure to toxic content is a risk associated with analyzing the content of suggested videos.",
+            "contexts": []
+        }
+    ],
+    "contexts": [
+        {
+            "id": "a0_ctx_0",
+            "title": "PDF Evidence",
+            "text": "to appear alongside such harmful content, there is no financial interest in promoting these videos.111 The company also stated that after a user consumes a video, the recommendation system does not account for whether the content of the video was less or more extreme, and it therefore would not seek to necessarily recommend similar videos. Rather, recommendations in such instances rely on the context and user behavior associated with the consumption of the initial video.112 YouTube also stated that after reviewing internal testing data, they found that on average, users who watch one extreme video are subsequently recommended more moderate content113 suggesting that the rabbit hole effect toward more radical content is not inevitable.114 However, because the company provides little transparency around the factors that its recommendation system actually does consider,",
+            "link": "",
+            "snippet": "to appear alongside such harmful content, there is no financial interest in promoting these videos.111 The company also stated that after a user consumes a video, the recommendation system does not ac",
+            "synthetic_summary": "Exposure to toxic content is a risk associated with video recommendation systems as they may recommend similar or related videos without considering the context and user behavior after consuming harmful content.",
+            "probability": 0.0
+        },
+        {
+            "id": "a0_ctx_1",
+            "title": "PDF Evidence",
+            "text": "on the service, and influencing how they see the world, the company has provided relatively little transparency around how this system works.14 According to YouTube, user recommendations and search results are influenced by factors such as the videos a user has liked, the playlists a user has created,15 and a user\u2019s watch history and activity on YouTube, Google, and Chrome. Some researchers have suggested that the system also considers data points such as a user\u2019s account preferences16 and the keywords they search for.17 The company has not, however, offered comprehensive disclosures outlining the key factors its recommendation system considers.18 This lack of transparency is concerning, as the company\u2019s recommendation system has been found to suggest controversial and harmful videos, including those that promote extremist propaganda, conspiracy theories, and",
+            "link": "",
+            "snippet": "on the service, and influencing how they see the world, the company has provided relatively little transparency around how this system works.14 According to YouTube, user recommendations and search re",
+            "synthetic_summary": "Exposure to toxic content is a risk associated with video recommendation systems on YouTube due to the influence of user activity, account preferences, and search keywords. The lack of transparency in how these recommendations are generated raises concerns about potential exposure to harmful or extremist content.",
+            "probability": 0.0
+        },
+        {
+            "id": "a0_ctx_2",
+            "title": "PDF Evidence",
+            "text": "a separate video app, curated by humans and algorithms, that features age-tailored content.120 However, children\u2019s videos are some of the most watched categories of content on YouTube\u2019s main platform as well. As a result, producing and reproducing popular children\u2019s content has emerged as a lucrative business on the service, as it enables creators to reap the benefits of advertising dollars.121 According to a Pew Research Center Study,122 children\u2019s videos constituted the majority of the 10-most recommended posts on YouTube,123 and 80 percent of parents said they occasionally let their children watch content on YouTube.124 In 2017, the company was hit with the \u201cElsaGate scandal,\u201d in which its recommendation system recommended seemingly child-friendly content featuring characters such as Elsa from Disney\u2019s Frozen, but that actually contained inappropriate themes related to topics like violence, sex, drugs, and alcohol.125 In addition, researchers, journalists, and YouTube creators have",
+            "link": "",
+            "snippet": "a separate video app, curated by humans and algorithms, that features age-tailored content.120 However, children\u2019s videos are some of the most watched categories of content on YouTube\u2019s main platform ",
+            "synthetic_summary": "Exposure to toxic content is a risk associated with video recommendation systems on platforms like YouTube, where popular children's content can sometimes be recommended alongside inappropriate themes.",
+            "probability": 0.0
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a1": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            }
+        ],
+        "factuality_score": 0.0,
+        "recall_k": 0.0,
+        "f1_k": 0.0,
+        "num_atoms": 2,
+        "num_contexts": 3,
+        "num_true_atoms": 0,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 2,
+        "entropy": 0.6931471805599453,
+        "norm_entropy": 2.0,
+        "avg_entropy": 0.34657359027997264,
+        "avg_norm_entropy": 1.0,
+        "avg_prob": 0.5,
+        "avg_logprob": -0.6931471805599453,
+        "avg_explogprob": 0.5,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "NS",
+            "a1": "NS"
+        },
+        "gold_factuality_score": 0.0,
+        "gold_true_atoms": 0,
+        "true_positive": 0,
+        "true_negative": 2,
+        "false_positive": 0,
+        "false_negative": 0,
+        "references": {
+            "a0": null,
+            "a1": null
+        },
+        "avg_brier": 0.25,
+        "topic": "",
+        "query": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+        "response": " Exposure to toxic content is a risk associated with A system designed to analyze video content is intended to recommend new videos to users, providing a curated experience. It aims to filter the content of suggested videos, ensuring only suitable options are presented. The system also seeks to help users discover new and relevant content based on their interests.",
+        "elapsed_time": 122.43498483300209
+    }
+}

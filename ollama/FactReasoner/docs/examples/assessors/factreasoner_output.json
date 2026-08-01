@@ -1,0 +1,840 @@
+{
+    "input": "Tell me a biography of Lanny Flaherty",
+    "output": "Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida. He has appeared in numerous films, television shows, and theater productions throughout his career, which began in the late 1970s. Some of his notable film credits include \"King of New York,\" \"The Abyss,\" \"Natural Born Killers,\" \"The Game,\" and \"The Straight Story.\" On television, he has appeared in shows such as \"Law & Order,\" \"The Sopranos,\" \"Boardwalk Empire,\" and \"The Leftovers.\" Flaherty has also worked extensively in theater, including productions at the Public Theater and the New York Shakespeare Festival. He is known for his distinctive looks and deep gravelly voice, which have made him a memorable character actor in the industry.",
+    "topic": "Lanny Flaherty",
+    "atoms": [
+        {
+            "id": "a0",
+            "text": "Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida.",
+            "contexts": [
+                "c_a0_3",
+                "c_a0_4"
+            ]
+        },
+        {
+            "id": "a1",
+            "text": "Lanny Flaherty, an American actor, was born on December 18, 1949, in Pensacola, Florida.",
+            "contexts": [
+                "c_a1_0",
+                "c_a1_1",
+                "c_a1_4"
+            ]
+        },
+        {
+            "id": "a2",
+            "text": "Lanny Flaherty, the American actor born on December 18, 1949, was born in Pensacola, Florida.",
+            "contexts": [
+                "c_a2_0",
+                "c_a2_1",
+                "c_a2_3"
+            ]
+        },
+        {
+            "id": "a3",
+            "text": "Lanny Flaherty has appeared in numerous films.",
+            "contexts": [
+                "c_a3_1"
+            ]
+        },
+        {
+            "id": "a4",
+            "text": "Lanny Flaherty has appeared in television shows such as Law & Order, The Sopranos, Boardwalk Empire, and The Leftovers.",
+            "contexts": [
+                "c_a4_0"
+            ]
+        },
+        {
+            "id": "a5",
+            "text": "Lanny Flaherty, an American actor born on December 18, 1949, in Pensacola, Florida, has appeared in theater productions.",
+            "contexts": [
+                "c_a5_1",
+                "c_a5_2"
+            ]
+        },
+        {
+            "id": "a6",
+            "text": "Lanny Flaherty's career as an American actor began in the late 1970s.",
+            "contexts": [
+                "c_a6_2"
+            ]
+        },
+        {
+            "id": "a7",
+            "text": "Lanny Flaherty has appeared in the film 'King of New York.'",
+            "contexts": [
+                "c_a7_2",
+                "c_a7_3"
+            ]
+        },
+        {
+            "id": "a8",
+            "text": "Lanny Flaherty has appeared in the film 'The Abyss.'",
+            "contexts": []
+        },
+        {
+            "id": "a9",
+            "text": "Lanny Flaherty has appeared in the film 'Natural Born Killers'.",
+            "contexts": [
+                "c_a9_0",
+                "c_a9_1",
+                "c_a9_2",
+                "c_a9_3",
+                "c_a9_4"
+            ]
+        },
+        {
+            "id": "a10",
+            "text": "Lanny Flaherty has appeared in the film 'The Game.'",
+            "contexts": [
+                "c_a10_0",
+                "c_a10_1",
+                "c_a10_4"
+            ]
+        },
+        {
+            "id": "a11",
+            "text": "Lanny Flaherty has appeared in the film 'The Straight Story.'",
+            "contexts": [
+                "c_a11_3",
+                "c_a11_4"
+            ]
+        },
+        {
+            "id": "a12",
+            "text": "Actor Lanny Flaherty has appeared in the television show 'Law & Order.'",
+            "contexts": []
+        },
+        {
+            "id": "a13",
+            "text": "Lanny Flaherty has appeared in the television show 'The Sopranos.'",
+            "contexts": [
+                "c_a13_0"
+            ]
+        },
+        {
+            "id": "a14",
+            "text": "Lanny Flaherty has appeared in the television show 'Boardwalk Empire.'",
+            "contexts": []
+        },
+        {
+            "id": "a15",
+            "text": "Lanny Flaherty has appeared in the television show 'The Leftovers.'",
+            "contexts": []
+        },
+        {
+            "id": "a16",
+            "text": "Lanny Flaherty has worked extensively in American theater.",
+            "contexts": [
+                "c_a16_1",
+                "c_a16_2",
+                "c_a16_4"
+            ]
+        },
+        {
+            "id": "a17",
+            "text": "Lanny Flaherty has appeared in productions at the Public Theater.",
+            "contexts": [
+                "c_a17_1",
+                "c_a17_2",
+                "c_a17_3"
+            ]
+        },
+        {
+            "id": "a18",
+            "text": "Lanny Flaherty has appeared in productions at the New York Shakespeare Festival.",
+            "contexts": [
+                "c_a18_0",
+                "c_a18_4"
+            ]
+        },
+        {
+            "id": "a19",
+            "text": "Lanny Flaherty, an American actor born on December 18, 1949, in Pensacola, Florida, is known for his distinctive looks.",
+            "contexts": [
+                "c_a19_2",
+                "c_a19_4"
+            ]
+        },
+        {
+            "id": "a20",
+            "text": "Lanny Flaherty is known for his deep gravelly voice.",
+            "contexts": [
+                "c_a20_1"
+            ]
+        }
+    ],
+    "contexts": [
+        {
+            "id": "c_a2_0",
+            "title": "Lanny Flaherty - Wikipedia",
+            "text": "Lanny Flaherty (July 27, 1942 \u2013 February 18, 2024) was an American actor. Flaherty had roles in films and miniseries such as Lonesome Dove , Natural Born Killers , Book of Shadows: Blair Witch 2 and Signs . He also had a brief role in Men in Black 3 , and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People , Millers Crossing , Blood In Blood Out , Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer , New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School , and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81.",
+            "link": "https://en.wikipedia.org/wiki/Lanny_Flaherty",
+            "snippet": "Lanny Flaherty (July 27, 1942 \u2013 February 18, 2024) was an American actor. Lanny Flaherty. Born, (1942-07-27)July 27, 1942. Pontotoc, Mississippi, U.S..",
+            "synthetic_summary": "Lanny Flaherty, an American actor born on July 27, 1942, in Pontotoc, Mississippi, had various roles in films and television shows throughout his career. He passed away on February 18, 2024, following surgery at the age of 81.",
+            "probability": 0.7098721898272908
+        },
+        {
+            "id": "c_a2_1",
+            "title": "Lanny Flaherty Biography (1942-) - Film Reference",
+            "text": "Born July 27, 1942, in Pontotoc, MS; son of Lander (a farmer) and Beryl (maiden name, Maharrey) Flaherty . CREDITS Stage Appearances Whitt Carmichael, The Lucky Spot, 1987 William Curtis, Abundance, Stage I, Manhattan Theatre Club, New York City, 1990 Big Albert Connor, The Stick Wife, Stage II, Manhattan Theatre Club, 1991 Bogdan, soldier, and translator, Mad Forest, Perry Street Theatre,New York Theatre Workshop, New York City, 1992 Barnardine, Measure for Measure, New York Shakespeare Festival, Central Park, Delacorte Theatre, New York City, 1993 Kurt, Moe's Lucky Seven, Playwrights' Horizons Theatre, New York City, 1994 In the Heart of America, Stage II, Long Wharf Theatre, New Haven,CT, 1994-1995 Made stage debut as Capulet, Romeo and Juliet, Dallas ShakespeareFestival, TX; and New York debut as Scotty, Sweet Bird of Youth, Harkness Theatre; appeared on Broadway in Requiem for a Heavyweight and asunderstudy for roles of Slim, Whit, Boss, and Carlson, Of Mice and Men; appeared off-off-Broadway as Hank, The Other Women, Judith AndersonTheatre, and as Owen, The Pickle, T.O.M.I.; appeared at the Actors Theatre of Louisville's New Play Festival, Louisville, KY, as Moore, Advice to the Players, as Mr . Vaughn, Courtship, as Roundhouse, Love Suicide, and as driver, Summer; appeared at Dallas Shakespeare Festival, Dallas, TX, as ghost, Hamlet, as Pistol, The Merry Wives of Windsor, and as Gremio, The Taming of the Shrew; also appeared as Junius Brutus Booth, At the Tavern of the Raven; Victor Velasco, Barefoot in the Park; Tilden, Buried Child, Pittsburgh Public Theatre,PA; Hamm, Endgame; governor and hanging judge, Hot Grog, Virginia Stage Company; John Brown, Robert E. Lee, and Abraham Lincoln, John Brown's Body; Krapp, Krapp's Last Tape; Henry II, The Lion in Winter; James Tyrone, Long Day's Journey into Night; Sir Sampson Legend, Love for Love; Lennie, Of Mice and Men, Actors Theatre of Louisville; Vershinen, Three Sisters; Lee, True West, Actors Theatre of Louisville, Louisville, KY, and Capitol Repertory Theatre; Malvolio, Twelfth Night; Sir Toby Belch, Twelfth Night; and General St. Pe, Waltz of the Toreadors . Film Appearances Gudger Wright, Winter People, Columbia, 1989 Terry, Miller's Crossing, Twentieth Century-Fox, 1990 Merlie Ryan, The Ballad of the Sad Cafe, Angelika, 1991 Buck, Sommersby, Warner Bros., 1993 Big Al, Bound by Honor (also known as Blood In ... Blood Out and Blood In, Blood Out .. . Bound by Honor ), Buena Vista, 1993 Earl Hickey, Natural Born Killers, Warner Bros., 1994 Trader number one, Waterworld, Universal, 1995 Guide, Someone Else's America (also known as L'Amerique des autres, Paradies, Brooklyn, and Tudja Amerika ), Channel Four Films, 1995 Emmett, Tom and Huck (also known as The Adventures of Tom and Huck and Tom Sawyer ), Buena Vista, 1995 Duane, A Simple Wish (also known as The Fairy Gosmother ), Universal, 1997 Red Jackson, Home Fries, Warner Bros., 1998 Louie, Double Parked, Castle Hill Productions, 2000 Drunk, Maze (also known as Touched ), 2000, Andora PicturesInternational, 2001 Sheriff, Book of Shadows: Blair Witch 2 (also known as BW2 and BWP2 ), Artisan Entertainment, 2000 Also appeared as security guard, The Prof . Television Appearances Specials Virgil Slater, Home at Last, PBS, 1988 Benny Hill's World Tour: New York! (also known as Benny Hill'sWorld: New York! ), USA Network, 1991 Episodic (As Lenny Flaherty) Kaboom Pickens, \"The Case of the Calpurnian Kugel Caper,\" Mathnet, 1991 Techie, \"You Thought the Pope Was Something,\" New York News, CBS,1995 Wink, \"The Lost,\" Third Watch, NBC, 2000 Appeared as Big Vinnie Nichols, As the World Turns, CBS, as a sheriff, The Edge of Night, CBS and ABC, and as Stan, Guiding Light, CBS; also appeared in John Locke, PBS. Other Soupy Jones, Lonesome Dove (miniseries), CBS, 1989 First drunk, Third Watch (pilot), NBC, 1999 Homeless guy, Homicide: The Movie, NBC, 2000 WRITINGS Plays Showdown at the Adobe Motel, O'Neill Playwrights Conference, Hartman Stag",
+            "link": "http://www.filmreference.com/film/83/Lanny-Flaherty.html",
+            "snippet": "Lanny Flaherty Biography (1942-) ; Nationality: American ; Gender: Male ; Occupation: Actor, writer ; Birth Details: July 27, 1942 ...",
+            "synthetic_summary": "Lanny Flaherty is not born in Pensacola, Florida in December 18th, 1949, but born on July 27th, 1942 in Pontotoc, Mississippi.",
+            "probability": 0.506264120602592
+        },
+        {
+            "id": "c_a2_3",
+            "title": "Actor and Playwright Lanny Flaherty Dies at 81 - Broadway World",
+            "text": "Broadway + NYC Broadway Off-Broadway Off-Off Broadway Cabaret Dance Opera Classical Music Eastern Central Western Birmingham Chicago Milwaukee, WI Minneapolis / St. Paul Washington, DC Houston West End WEST END UK Regional International Canada Australia / New Zealand Europe Asia Latin America Africa / Middle East Entertainment TV/Movies Music Flaherty made his Broadway debut in the 1974 revival cast of Of Mice and Men. POPULAR BroadwayWorld is saddened to report that stage and screen actor Lanny Flaherty has died at age 81. In addition to his acting work, Flaherty was also a playwright. Flaherty made his Broadway debut in the 1974 revival cast of Of Mice and Men. Subsequent Broadway credits include Sweet Bird of Youth, Inherit the Wind, Joe Turner\u2019s Come and Gone, and Requiem for a Heavyweight. His stage work also includes credits with The Actors Theatre of Louisville and the Steppenwolf Theatre . Flaherty also wrote several plays, including A-Birthing At Nubbin Ridge, Cedars Mark The Campground, Crisscrosscreeks, Whilhom, and Showdown at the Adobe Model. Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs. He also had a brief role in Men in Black 3, and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July. Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer, New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City . Beaches Michael James Scott Will Depart ALADDIN in May Video: Watch Lea Michele and CHESS Cast Perform on THE LATE SHOW Whitney Leavitt Breaks CHICAGO Box Office Records For Biggest Weekly Gross Original Cast Members Will Appear in THE BOOK OF MORMON in June to Celebrate 15 Years on Broadway Solea Pfeiffer and Liisi LaFontaine Will Lead WANTED on Broadway Disney Unveils 2026 'Worlds Collide Concert Tour' Dates Featuring Stars From ZOMBIES, DESCENDANTS, & CAMP ROCK The legendary West End publicist Peter Thompson, who's work includes the publicity for Andrew Lloyd Webber's Cats, The Phantom of the Opera and more, has passed away at 81. BroadwayWorld is saddened to report that stage and screen veteran Jane Lapotaire, who won Olivier and Tony Awards for portraying French singer \u00c9dith Piaf in the play Piaf, passed away on March 5 at 81 years old. BroadwayWorld is saddened to learn of the passing of Broadway actor John Herrera . Herrera received a Tony Award nomination for her his performance in The Mystery of Edwin Drood. Broadway performer Sondra Lee died of natural causes in her New York City apartment at age 97. Throughout her nine-decade career, Lee won awards as a dancer, actor, teacher, author, stage director, playwright, theatre and film consultant and painter. Videos Recommended For You Sign up for announcements, and exclusive discounts on tickets to your favorite shows! \u00a9 2026 - Copyright Wisdom Digital Media , all rights reserved. Privacy Policy",
+            "link": "https://www.broadwayworld.com/article/Actor-and-Playwright-Lanny-Flaherty-Dies-at-81-20240227",
+            "snippet": "... Lanny Flaherty has died at age 81. In addition to his acting work, Flaherty was also a playwright. Flaherty made his Broadway debut in the ...",
+            "synthetic_summary": "Lanny Flaherty, the American actor born on December 18, 1949, was born in Pensacola, Florida.",
+            "probability": 0.8613329993822327
+        },
+        {
+            "id": "c_a1_0",
+            "title": "HalluEntity: Benchmarking and Understanding Entity-Level ...",
+            "text": "Published in Transactions on Machine Learning Research (9/2025) HalluEntity: Benchmarking and Understanding Entity-Level Hallucination Detection Min-Hsuan Yeh samuelyeh@cs.wisc.edu University of Wisconsin-Madison Max Kamachee kamachee@cs.wisc.edu University of Wisconsin-Madison Seongheon Park seongheon_park@cs.wisc.edu University of Wisconsin-Madison Yixuan Li sharonli@cs.wisc.edu University of Wisconsin-Madison Reviewed on OpenReview: https://openreview.net/forum?id=494k7e9R5D Abstract To mitigate the impact of hallucination nature of LLMs, many studies propose detecting hallucinated generation through uncertainty estimation. However, these approaches predomi- nantly operate at the sentence or paragraph level, failing to pinpoint speci\ufb01c spans or entities responsible for hallucinated content. This lack of granularity is especially problematic for long-form outputs that mix accurate and fabricated information. To address this limitation, we explore entity-level hallucination detection . We propose a new data set, HalluEntity , which annotates hallucination at the entity level. Based on the dataset, we comprehensively evaluate uncertainty-based hallucination detection approaches across 17 modern LLMs. Our experimental results show that uncertainty estimation approaches focusing on individual token probabilities tend to over-predict hallucinations, while context-aware methods show better but still suboptimal performance. Through an in-depth qualitative study, we iden- tify relationships between hallucination tendencies and linguistic properties and highlight important directions for future research. HalluEntity: https://huggingface.co/datasets/samuelyeh/HalluEntity 1 Introduction How can we trust the facts generated by large language models (LLMs) when even a single hallucinated entity can distort an entire narrative? While LLMs have revolutionized text generation in various domains, from summarization to scienti\ufb01c writing ( Liang et al . ,2024), their tendency to produce hallucinations\u2014factually incorrect or unsupported content\u2014remains a critical challenge ( Xu et al. ,2024). This issue is particularly concerning in high-stakes applications, such as medical diagnostics ( Chen et al. ,2024b ), legal document drafting ( Lin & Cheng ,2024), and news generation ( Odaba\u0000\u0131 & Biricik ,2025), where inaccurate information can cause harm to individuals and erosion of public trust. Detecting hallucinations is therefore a critical step toward ensuring the responsible deployment of LLMs. Various approaches have been proposed to detect hallucinations ( Luo et al. ,2024), with uncertainty-based methods emerging as a promising direction ( Zhang et al. ,2023a ). However, current uncertainty-based hallucination detection approaches mainly operate at the sentence or paragraph level, classifying the entire generation as either hallucinated or correct . While this provides a coarse-grained assessment of factuality, it lacks the granularity needed to pinpoint which speci\ufb01c spans or entities contribute to hallucination. This 1arXiv:2502.11948v3 [cs.CL] 4 Sep 2025",
+            "link": "https://par.nsf.gov/servlets/purl/10644376",
+            "snippet": "by MH Yeh \u00b7 2025 \u00b7 Cited by 4 \u2014 Lanny Flaherty is an. American actor born on. December 18, 1949, in. Pensacola, Florida. He has appeared in numerous films, television shows, and. Theater ...",
+            "synthetic_summary": "Lanny Flaherty, an American actor, was born on December 18, 1949, in Pensacola, Florida.",
+            "probability": 0.8887882471218983
+        },
+        {
+            "id": "c_a1_1",
+            "title": "samuelyeh/HalluEntity \u00b7 Datasets at ...",
+            "text": "HalluEntity is an entity-level hallucination detection dataset proposed in the paper Can Your Uncertainty Scores Detect Hallucinated Entity? by Min-Hsuan Yeh, Max Kamachee, Seongheon Park, and Yixuan Li. Each data point contains following fields: Please cite this work if you use HalluEntity.",
+            "link": "https://huggingface.co/datasets/samuelyeh/HalluEntity",
+            "snippet": "Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida. He has appeared in numerous films, television shows, ...",
+            "synthetic_summary": "Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida.",
+            "probability": 0.8069199785962295
+        },
+        {
+            "id": "c_a1_4",
+            "title": "re-ex : revising after explanation reduces",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2402.17097",
+            "snippet": "by J Kim \u00b7 2024 \u00b7 Cited by 5 \u2014 CoVE (F). Lanny Flaherty is an American actor. He was not born on December 18, 1949. ... He has appeared in films such as \u201dKing of New York,\u201d .",
+            "synthetic_summary": "Lanny Flaherty, an American actor, was not born on December 18, 1949. He has appeared in films such as \"King of New York.\"",
+            "probability": 0.8139315090202116
+        },
+        {
+            "id": "c_a0_3",
+            "title": "re-ex : revising after explanation reduces",
+            "text": "",
+            "link": "https://arxiv.org/pdf/2402.17097",
+            "snippet": "by J Kim \u00b7 2024 \u00b7 Cited by 5 \u2014 CoVE (F+R). Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida. ... He has appeared in films such as \u201dKing ...",
+            "synthetic_summary": "Lanny Flaherty, an American actor, was born on December 18, 1949, in Pensacola, Florida. He has appeared in films such as \"King\".",
+            "probability": 0.7795116533147849
+        },
+        {
+            "id": "c_a0_4",
+            "title": "A4: Analyzing ChatGPT Outputs and Error Analysis ...",
+            "text": "",
+            "link": "https://www.studocu.com/en-us/document/university-of-texas-at-austin/senior-thesis/a4-analyzing-chatgpt-outputs-and-error-analysis-techniques/151815833",
+            "snippet": "... Lanny Flaherty.\", \"output\": \"Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida. He has appeared in numerous films ...",
+            "synthetic_summary": "Lanny Flaherty was born in Pensacola, Florida on December 18, 1949.",
+            "probability": 0.6262959856666173
+        },
+        {
+            "id": "c_a3_1",
+            "title": "The Best Actresses and Actors - Born in the 1940s",
+            "text": "",
+            "link": "https://www.imdb.com/list/ls083004573/?page=8",
+            "snippet": "Lanny Flaherty. Actor. Signs (2002). Lanny Flaherty was born on 27 July 1942 in ... He acted in four other movies, mainly as actor or supporting actor in Gujrati ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in numerous films, including Signs (2002) and four other Gujarati movies, mostly as an actor or supporting actor.",
+            "probability": 0.6768183569238208
+        },
+        {
+            "id": "c_a5_1",
+            "title": "Lanny Flaherty (Performer)",
+            "text": "Lanny Flaherty - 5105 Broadway actor Lanny Flaherty passed away February 18, as confirmed by his longtime manager Tony Cloer. Mr. Flaherty was 81. Copyright 1991\u20132026 \u00a9 Playbill Inc. All Rights Reserved.",
+            "link": "https://playbill.com/person/lanny-flaherty-vault-0000062036",
+            "snippet": "Broadway actor Lanny Flaherty passed away February 18, as confirmed by his longtime manager Tony Cloer. Mr. Flaherty was 81.",
+            "synthetic_summary": "Lanny Flaherty, an American actor born on December 18, 1949, in Pensacola, Florida, appeared in Broadway productions and passed away on February 18 at the age of 81, according to his longtime manager Tony Cloer.",
+            "probability": 0.744745639980329
+        },
+        {
+            "id": "c_a5_2",
+            "title": "Lanny Flaherty (Actor): Credits, Bio, News & More",
+            "text": "Broadway + NYC Broadway Off-Broadway Off-Off Broadway Cabaret Dance Opera Classical Music Eastern Central Western Birmingham Chicago Milwaukee, WI Minneapolis / St. Paul Washington, DC Houston West End WEST END UK Regional International Canada Australia / New Zealand Europe Asia Latin America Africa / Middle East Entertainment TV/Movies Music Birth Place: Mississippi, USA Latest News on Lanny Flaherty: Actor and Playwright Lanny Flaherty Dies at 81 (Feb 27, 2024) Jennings, O'Hare, Fowler & More Join Inherit the Wind (Jan 23, 2007) read more news POPULAR Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs. He also had a brief role in Men in Black 3, and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer, New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81. Lanny Flaherty has appeared on Broadway in 4 shows. Lanny Flaherty has not appeared in the West End. Get Lanny Flaherty Email Alerts Videos Recommended For You Sign up for announcements, and exclusive discounts on tickets to your favorite shows! \u00a9 2026 - Copyright Wisdom Digital Media , all rights reserved. Privacy Policy",
+            "link": "https://www.broadwayworld.com/people/Lanny-Flaherty/",
+            "snippet": "Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs.",
+            "synthetic_summary": "Lanny Flaherty, an American actor born on December 18, 1949, in Pensacola, Florida, has appeared in theater productions.",
+            "probability": 0.8164103063850735
+        },
+        {
+            "id": "c_a4_0",
+            "title": "Lanny Flaherty - Wikipedia",
+            "text": "Lanny Flaherty (July 27, 1942 \u2013 February 18, 2024) was an American actor. Flaherty had roles in films and miniseries such as Lonesome Dove , Natural Born Killers , Book of Shadows: Blair Witch 2 and Signs . He also had a brief role in Men in Black 3 , and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People , Millers Crossing , Blood In Blood Out , Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer , New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School , and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81.",
+            "link": "https://en.wikipedia.org/wiki/Lanny_Flaherty",
+            "snippet": "Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in television shows such as Law & Order, The Sopranos, Boardwalk Empire, and The Leftovers.",
+            "probability": 0.8681968616803852
+        },
+        {
+            "id": "c_a7_2",
+            "title": "Lanny Flaherty: Movies, TV, and Bio",
+            "text": "Actor Born July 27, 1942 in Pontotoc, Mississippi, USA Lanny Flaherty was born on 27 July 1942 in Pontotoc, Mississippi, USA. He was an actor, known for Signs , Miller's Crossing and Men in Black\u00b3 . He died on 18 February 2024 in Manhattan, New York City, New York, USA. Lanny Flaherty was born on 27 July 1942 in Pontotoc, Mississippi, USA. He was an actor, known for Signs , Miller's Crossing and Men in Black\u00b3 . He died on 18 February 2024 in Manhattan, New York City, New York, USA. M. Night Shyamalan Jim Mickle Oliver Stone",
+            "link": "https://www.primevideo.com/person/Lanny-Flaherty/amzn1.dv.gti.ed9b0b3b-2d23-4b9a-8aa8-7b92da03d8e7/",
+            "snippet": "He was an actor, known for Signs (2002), Miller's Crossing (1990) and Men in Black\u00b3 (2012). He died on 18 February 2024 in Manhattan, New York City, New York, ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in the films Signs, Miller's Crossing, and Men in Black\u00b3, but there is no mention of him appearing in the film 'King of New York.'",
+            "probability": 0.724847255899049
+        },
+        {
+            "id": "c_a7_3",
+            "title": "Lanny Flaherty Biography (1942-)",
+            "text": "Born July 27, 1942, in Pontotoc, MS; son of Lander (a farmer) and Beryl (maiden name, Maharrey) Flaherty . CREDITS Stage Appearances Whitt Carmichael, The Lucky Spot, 1987 William Curtis, Abundance, Stage I, Manhattan Theatre Club, New York City, 1990 Big Albert Connor, The Stick Wife, Stage II, Manhattan Theatre Club, 1991 Bogdan, soldier, and translator, Mad Forest, Perry Street Theatre,New York Theatre Workshop, New York City, 1992 Barnardine, Measure for Measure, New York Shakespeare Festival, Central Park, Delacorte Theatre, New York City, 1993 Kurt, Moe's Lucky Seven, Playwrights' Horizons Theatre, New York City, 1994 In the Heart of America, Stage II, Long Wharf Theatre, New Haven,CT, 1994-1995 Made stage debut as Capulet, Romeo and Juliet, Dallas ShakespeareFestival, TX; and New York debut as Scotty, Sweet Bird of Youth, Harkness Theatre; appeared on Broadway in Requiem for a Heavyweight and asunderstudy for roles of Slim, Whit, Boss, and Carlson, Of Mice and Men; appeared off-off-Broadway as Hank, The Other Women, Judith AndersonTheatre, and as Owen, The Pickle, T.O.M.I.; appeared at the Actors Theatre of Louisville's New Play Festival, Louisville, KY, as Moore, Advice to the Players, as Mr . Vaughn, Courtship, as Roundhouse, Love Suicide, and as driver, Summer; appeared at Dallas Shakespeare Festival, Dallas, TX, as ghost, Hamlet, as Pistol, The Merry Wives of Windsor, and as Gremio, The Taming of the Shrew; also appeared as Junius Brutus Booth, At the Tavern of the Raven; Victor Velasco, Barefoot in the Park; Tilden, Buried Child, Pittsburgh Public Theatre,PA; Hamm, Endgame; governor and hanging judge, Hot Grog, Virginia Stage Company; John Brown, Robert E. Lee, and Abraham Lincoln, John Brown's Body; Krapp, Krapp's Last Tape; Henry II, The Lion in Winter; James Tyrone, Long Day's Journey into Night; Sir Sampson Legend, Love for Love; Lennie, Of Mice and Men, Actors Theatre of Louisville; Vershinen, Three Sisters; Lee, True West, Actors Theatre of Louisville, Louisville, KY, and Capitol Repertory Theatre; Malvolio, Twelfth Night; Sir Toby Belch, Twelfth Night; and General St. Pe, Waltz of the Toreadors . Film Appearances Gudger Wright, Winter People, Columbia, 1989 Terry, Miller's Crossing, Twentieth Century-Fox, 1990 Merlie Ryan, The Ballad of the Sad Cafe, Angelika, 1991 Buck, Sommersby, Warner Bros., 1993 Big Al, Bound by Honor (also known as Blood In ... Blood Out and Blood In, Blood Out .. . Bound by Honor ), Buena Vista, 1993 Earl Hickey, Natural Born Killers, Warner Bros., 1994 Trader number one, Waterworld, Universal, 1995 Guide, Someone Else's America (also known as L'Amerique des autres, Paradies, Brooklyn, and Tudja Amerika ), Channel Four Films, 1995 Emmett, Tom and Huck (also known as The Adventures of Tom and Huck and Tom Sawyer ), Buena Vista, 1995 Duane, A Simple Wish (also known as The Fairy Gosmother ), Universal, 1997 Red Jackson, Home Fries, Warner Bros., 1998 Louie, Double Parked, Castle Hill Productions, 2000 Drunk, Maze (also known as Touched ), 2000, Andora PicturesInternational, 2001 Sheriff, Book of Shadows: Blair Witch 2 (also known as BW2 and BWP2 ), Artisan Entertainment, 2000 Also appeared as security guard, The Prof . Television Appearances Specials Virgil Slater, Home at Last, PBS, 1988 Benny Hill's World Tour: New York! (also known as Benny Hill'sWorld: New York! ), USA Network, 1991 Episodic (As Lenny Flaherty) Kaboom Pickens, \"The Case of the Calpurnian Kugel Caper,\" Mathnet, 1991 Techie, \"You Thought the Pope Was Something,\" New York News, CBS,1995 Wink, \"The Lost,\" Third Watch, NBC, 2000 Appeared as Big Vinnie Nichols, As the World Turns, CBS, as a sheriff, The Edge of Night, CBS and ABC, and as Stan, Guiding Light, CBS; also appeared in John Locke, PBS. Other Soupy Jones, Lonesome Dove (miniseries), CBS, 1989 First drunk, Third Watch (pilot), NBC, 1999 Homeless guy, Homicide: The Movie, NBC, 2000 WRITINGS Plays Showdown at the Adobe Motel, O'Neill Playwrights Conference, Hartman Stag",
+            "link": "http://www.filmreference.com/film/83/Lanny-Flaherty.html",
+            "snippet": "Born July 27, 1942, in Pontotoc, MS; son of Lander (a farmer) and Beryl (maiden name, Maharrey) Flaherty. Nationality: American; Gender: Male ...",
+            "synthetic_summary": "Lanny Flaherty is an American male actor born on July 27, 1942, in Pontotoc, MS. He has a rich career in stage, film, and television, but there is no mention of him appearing in the film 'King of New York.'",
+            "probability": 0.6435643085674688
+        },
+        {
+            "id": "c_a9_0",
+            "title": "Natural Born Killers - Full Cast & Crew",
+            "text": "Join or Sign In Sign in to customize your TV listings By joining TV Guide, you agree to our Terms of Use and acknowledge the data practices in our Privacy Policy . Mickey Knox and Mallory Wilson aren't your typical lovers - after killing her abusive father, they go on a road trip where, every time they stop somewhere, they kill pretty well everyone around them. They do however leave one person alive at every shootout to tell the story and they soon become a media sensation thanks to sensationalized reporting. Told in a highly visual style.",
+            "link": "https://www.tvguide.com/movies/natural-born-killers/cast/2030053043/",
+            "snippet": "Natural Born Killers - Full Cast & Crew. 74 Metascore; 1994; 1 hr 59 mins ... Sonny \u00b7 Lanny Flaherty. Earl \u00b7 Carol-Renee Modrall. Short Order Cook \u00b7 Rodney ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in the film 'Natural Born Killers' as Sonny.",
+            "probability": 0.8560994486288678
+        },
+        {
+            "id": "c_a9_1",
+            "title": "Natural Born Killers",
+            "text": "Natural Born Killers is a 1994 American romantic crime film co-written and directed by Oliver Stone and starring Woody Harrelson , Juliette Lewis , Robert Downey Jr. , Tommy Lee Jones , and Tom Sizemore . The film tells the story of two victims of traumatic childhoods who become lovers and mass murderers , and are irresponsibly glorified by the mass media. The film is based on an original screenplay by Quentin Tarantino that was heavily revised by Stone, writer David Veloz, and associate producer Richard Rutowski. Tarantino received a story credit though he subsequently disowned the film. Jane Hamsher , Don Murphy , and Clayton Townsend produced the film, with Arnon Milchan , Thom Mount , and Stone as executive producers. Natural Born Killers was released by Warner Bros. on August 26, 1994, in the United States, and screened at the Venice Film Festival on August 29, 1994 where it won Grand Jury Prize . It was a box office success, grossing $110 million against a production budget of $34 million, but received polarized reviews. Some critics praised the plot, acting, humor, and combination of action and romance, while others found the film overly violent and graphic. Notorious for its violent content and inspiring \"copycat\" crimes , the film was named the eighth most controversial film in history by Entertainment Weekly in 2006. Mickey Knox and his wife Mallory stop at a diner in the New Mexico desert. A duo of rednecks arrive and begin sexually harassing Mallory as she dances by a jukebox. She initially encourages it before beating one of the men viciously. Mickey joins her, and the couple murder everyone in the diner, save one customer, to whom they proudly declare their names before leaving. The couple camp in the desert, and Mallory reminisces about how she met Mickey, a meat deliveryman who serviced her family's household . After a whirlwind romance, Mickey is arrested for grand theft auto and sent to prison; he escapes and returns to Mallory's home. The couple murders Mallory's sexually abusive father and neglectful mother, but spare the life of Mallory's little brother, Kevin. The couple then have an unofficial marriage ceremony on a bridge. Later, Mickey and Mallory hold a woman hostage in their hotel room. Angered by Mickey's desire for a threesome, Mallory leaves, and Mickey rapes the hostage. Mallory drives to a nearby gas station, where she flirts with a mechanic. They begin to have sex on the hood of a car, but after Mallory suffers a flashback of being raped by her father, and the mechanic recognizes her as a wanted murderer, Mallory kills him. The pair continue their killing spree, ultimately claiming 52 victims in New Mexico, Arizona and Nevada . Pursuing them is detective Jack Scagnetti, who became obsessed with mass murderers at the age of eight after having witnessed the murder of his mother at the hand of Charles Whitman . Beneath his heroic fa\u00e7ade, he is also a violent psychopath and has murdered prostitutes in his past. Following the pair's murder spree is self-serving tabloid journalist Wayne Gale, who profiles them on his show American Maniacs , soon elevating them to cult-hero status. Mickey and Mallory become lost in the desert after taking psychedelic mushrooms , and they stumble upon a ranch owned by Warren Red Cloud, a Navajo man who provides them food and shelter. As Mickey and Mallory sleep, Warren, sensing evil in the couple, attempts to exorcise the demon that he perceives in Mickey, chanting over him as he sleeps. Mickey, who has nightmares of his abusive parents, awakens during the exorcism and shoots Warren to death . As the couple flee, they feel inexplicably guilty and come across a giant field of rattlesnakes , where they are badly bitten. They reach a drugstore to purchase snakebite antidote , but the store is sold out. A pharmacist recognizes the couple and triggers an alarm before Mickey kills him. Police arrive shortly after and accost the couple and a shootout ensues. The police end the",
+            "link": "https://en.wikipedia.org/wiki/Natural_Born_Killers",
+            "snippet": "Natural Born Killers is a 1994 American romantic crime film co-written ... Lanny Flaherty as Earl; Evan Handler as David; Balthazar Getty as Gas ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in the film 'Natural Born Killers'.",
+            "probability": 0.7980880036825585
+        },
+        {
+            "id": "c_a9_2",
+            "title": "Natural Born Killers (1994) - Cast & Crew",
+            "text": "Woody Harrelson Mickey Knox Juliette Lewis Mallory Knox Robert Downey Jr. Wayne Gale Tommy Lee Jones Warden Dwight McClusky Tom Sizemore Det. Jack Scagnetti Rodney Dangerfield Mallory's Dad Edie McClurg Mallory's Mom Jared Harris London Boy Russell Means Old Indian Maria Pitillo Deborah Sean Stone Kevin Everett Quinton Deputy Warden Wurlitzer O-Lan Jones Mabel Pruitt Taylor Vince Deputy Warden Kavanaugh Steven Wright Dr . Emil Reingold Lanny Flaherty Earl Richard Lineback Sonny Kirk Baltz Roger Ed White Pinball Cowboy Terrylene Julie Josh Richman Soundman Melinda Renna Antonia Chavez Dale Dye Dale Wrigley Edward Conna Gerald Nash Evan Handler David Matthew Faber Kid #1 Jamie Harrold Kid #2 Saemi Nakamura Japanese Girl #1 / Japanese Reporter Keiko Seiko Japanese Girl #2 Salvator Xuereb French Boy #1 Natalie Karp French Girl Emmanuel Xuereb French Boy #2 Balthazar Getty Gas Station Attendant Phil Neilson Mickey's Dad Red West Cowboy Sheriff Jeremiah Bitsui Young Indian Boy Lorraine Farris Pinky Glen Chin Druggist Peter Crombie Intense Cop John M. Watson Sr . Black Inmate Joe Grifasi Deputy Sheriff Duncan Homolka Douglas Crosby Mallory's Guard #1 Carl Ciarfalio Mallory's Guard #2 Marshall Bell Deputy #1 Jim Carrane Smithy Robert Swan Deputy Napalatoni Louis Lombardi Deputy Sparky Paul Dillon Prison Inmate who breaks TV David Pasquesi Cameraman James Gammon Redneck's Buddy in Diner Arliss Howard Owen Traft Mark Harmon Mickey Knox in TV Cory Everson Mallory Knox in TV Corinna Laszlo Emily, Hostage in Motel Robert Jordan WGN Newscaster Richard Rutowski Prisoner with Mustache (uncredited) Kevin Watson Spirit (uncredited) Don Murphy Prison Guard (uncredited) Jane Hamsher Female Demon (uncredited) Herb Gains Wayne Gale's assistant (uncredited) Alan Tomkins Art Direction Margery Zweizig Art Direction Victor Kempster Production Design Merideth Boswell Set Decoration Robert Richardson Director of Photography Amy Vincent Second Assistant Camera Keith L . Smith Second Assistant Camera Richard Hornung Costume Design Cydney Cornell Hair Designer Melissa Yonkey Hairstylist Matthew W. Mungle Key Makeup Artist John E. Jackson Makeup Artist Gordon J. Smith Makeup Effects Designer Raymond Mackintosh Makeup Effects Designer Phil Neilson Stunt Coordinator Janet Paparazzo Stunt Double Joni Avery Stunt Double Tim Trella Stunt Double Jimmy N. Roberts Stunts Linda Perlin Stunts Spice Williams-Crosby Stunts Oliver Stone Director Brian Berdan Editor Hank Corwin Editor Billy Hopkins Casting Heidi Levitt Casting Risa Bramon Garcia Casting Arnon Milchan Executive Producer Clayton Townsend Producer Don Murphy Producer Jane Hamsher Producer Brent Lewis Original Music Composer Trent Reznor Songs David Kneupper Sound Designer Scott Martin Gershin Sound Designer Barney Cabral Sound Editor Jeff Watts Sound Editor Nicholas James Sound Editor Robert Batha Sound Editor Joseph Phillips Sound Effects Editor Mark A. Lanza Sound Effects Editor Peter J . Lehman Sound Effects Editor Randy Kelley Sound Effects Editor David MacMillan Sound Mixer Christian P. Minkler Sound Re-Recording Mixer Michael Minkler Sound Re-Recording Mixer Tom Fleischman Sound Re-Recording Mixer Michael D. Wilhoit Supervising Sound Editor Wylie Stateman Supervising Sound Editor David Veloz Screenplay Oliver Stone Screenplay Richard Rutowski Screenplay Quentin Tarantino Story Can't find a movie or TV show? Login to create it. Login Sign Up Want to rate or add this item to a list? Login Not a member? Sign up and join the community",
+            "link": "https://www.themoviedb.org/movie/241-natural-born-killers/cast",
+            "snippet": "Natural Born Killers (1994) \u00b7 \u2190 Back to main. Cast 62 ... Lanny Flaherty. Earl. Richard Lineback. Sonny.",
+            "synthetic_summary": "Lanny Flaherty has appeared in the film 'Natural Born Killers' as Earl.",
+            "probability": 0.8044639197633929
+        },
+        {
+            "id": "c_a9_3",
+            "title": "Natural Born Killers (1994) \u2013 Movie Details & Cast",
+            "text": "Director: Oliver Stone Writer: Quentin Tarantino , David Veloz Production / Distribution: Warner Bros. Cast: Woody Harrelson (Mickey Knox), Juliette Lewis (Mallory Knox), Robert Downey Jr. (Wayne Gale), Tommy Lee Jones (Warden Dwight McClusky), Ed White (Pinball Cowboy), Richard Lineback (Sonny), Lanny Flaherty (Earl), O-Lan Jones (Mabel), Rodney Dangerfield (Mallory's Dad) Release Date: August 26, 1994 Genre: Thriller / Action / Romance / Crime Duration: 1h 58m Country: USA Watch Trailer They did not win a Nobel Prize. They did not break any world records. They did not accomplish anything society would normally celebrate. What Mickey and Mallory Knox did was kill people. A lot of people. And the rest was handled by the media. Natural Born Killers follows the violent journey of fugitive lovers Mickey and Mallory Knox, portrayed by Woody Harrelson and Juliette Lewis . Raised in an environment saturated with abuse, neglect, and rage, the couple transforms their personal trauma into a relentless killing spree that stretches across America. As their crimes escalate, the film shifts its focus from the murders themselves to the cultural machinery that glorifies them. Television screens, sensationalist journalism, and voyeuristic audiences turn Mickey and Mallory into pop icons, blurring the line between criminality and celebrity. They did not win a Nobel Prize. They did not break any world records. They did not accomplish anything society would normally celebrate. What Mickey and Mallory Knox did was kill people. A lot of people. And the rest was handled by the media. Natural Born Killers follows the violent journey of fugitive lovers Mickey and Mallory Knox, portrayed by Woody Harrelson and Juliette Lewis . Raised in an environment saturated with abuse, neglect, and rage, the couple transforms their personal trauma into a relentless killing spree that stretches across America. As their crimes escalate, the film shifts its focus from the murders themselves to the cultural machinery that glorifies them. Television screens, sensationalist journalism, and voyeuristic audiences turn Mickey and Mallory into pop icons, blurring the line between criminality and celebrity . Natural Born Killers plot summary , What is Natural Born Killers about? , Natural Born Killers movie storyline , Natural Born Killers cast list , Natural Born Killers cast , Natural Born Killers leading actors , Who directed Natural Born Killers? , What year was Natural Born Killers released? , Natural Born Killers release year , Natural Born Killers IMDb rating , Natural Born Killers trailer , Natural Born Killers runtime , Where was Natural Born Killers filmed? , Natural Born Killers based on a true story? , Awards won by Natural Born Killers Business Leader Politician , Journalist Politician , Lawyer Head of State , Politician Politician , Statesman Businessperson , Investor Businessperson , Investor Businessperson , Investor Alpine Ski Racer Snowboarder Biathlete Actress , Producer Actor , Producer Actor , Film Producer Politician , Journalist Politician President , Politician , Scientist , Academic Biyografiler.com is a trusted online resource dedicated to biographies of famous people, historical figures, artists, and public personalities from around the world . We believe every life story matters. Follow Biyografiler.com for updates, new biographies, and featured stories. All biographies and articles published on Biyografiler.com are created by our editorial team. Content may be shared for non-commercial purposes with proper attribution to Biyografiler.com . For large-scale or commercial use, please contact us. Our platform helps readers discover detailed biographies, life stories, career highlights, and key facts about well-known individuals across different fields. \u00a9 2004\u20132026 Biyografiler.com. All rights reserved. Privacy Policy | Terms & Conditions",
+            "link": "https://www.biyografiler.com/en/movie/natural-born-killers-1994",
+            "snippet": "... Lanny Flaherty (Earl), O-Lan Jones (Mabel), Rodney Dangerfield ... , Natural Born Killers movie storyline, Natural Born Killers cast list, Natural Born ...",
+            "synthetic_summary": "Lanny Flaherty appeared in the film 'Natural Born Killers'.",
+            "probability": 0.7731349860195291
+        },
+        {
+            "id": "c_a9_4",
+            "title": "Lanny Flaherty",
+            "text": "Lanny Flaherty (July 27, 1942 \u2013 February 18, 2024) was an American actor. Flaherty had roles in films and miniseries such as Lonesome Dove , Natural Born Killers , Book of Shadows: Blair Witch 2 and Signs . He also had a brief role in Men in Black 3 , and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People , Millers Crossing , Blood In Blood Out , Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer , New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School , and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81.",
+            "link": "https://en.wikipedia.org/wiki/Lanny_Flaherty",
+            "snippet": "Film ; 1994, Natural Born Killers, Earl ; 1995, Someone Else's America, Guide ; 1995, Waterworld, Trader ; 1995, Tom and Huck, Emmett.",
+            "synthetic_summary": "Lanny Flaherty appeared in the 1994 film Natural Born Killers.",
+            "probability": 0.7841417536984878
+        },
+        {
+            "id": "c_a6_2",
+            "title": "TEACHER STRIKES AND THE DECLINE OF LIBERALISM ...",
+            "text": "ABSTRACT Title of dissertation: \u201cAGAINST THE PUBLIC\u201d: TEACHER STRIKES AND THE DECLINE OF LIBERALISM, 1968 -1981 Jon K. Shelton, Doctor of Philosophy, 2013 Dissertation directed by: Professor Julie Greene Department of History In the 1930s, the Democratic Party became the party of working people largely through its support of legislation encouraging the formation of labor unions. As the nation moved leftward, a liberal consensus emerged that placed support \u2014in the name of both economic growth and greater social equality \u2014for labo r unions at it center. Support for this labor -liberalism declined considerably during the 1970s, paving the way for the neoliberal conservatism that has emerged in the last quarter century of American politics. This dissertation explains this shift by lo oking at the intersection between culture and the public sector labor movement in the postwar era . As unionized teachers became increasingly visible in American political culture in the 1960s, lengthy strikes by teachers in major metropolitan areas in the 1970s caused many Americans to question their assumptions about the role of the state and the importance of labor unions. Because of teachers\u2019 long -time cultural importance as providers of economic opportunity as well as inculcators of moral values, thei r labor stoppages (which were often violations of the law) caused many white working - and middle -class Americans to blame the excesses of the liberal state for moral decline and to re -think their views about what had made America so prosperous in the years following World War II. Further, the state\u2019s failure to solve",
+            "link": "https://drum.lib.umd.edu/bitstreams/cc6fc60f-1ecc-45fc-83bf-9d58d9d33b72/download",
+            "snippet": "by JK Shelton \u00b7 2013 \u00b7 Cited by 2 \u2014 system in the late 1970s, calls for vouchers as a solution to the city's fiscal situation gives us a window into the larger emergence of the neoliberal ...",
+            "synthetic_summary": "Lanny Flaherty's career as an American actor began in the late 1970s.",
+            "probability": 0.8719394893959445
+        },
+        {
+            "id": "c_a11_3",
+            "title": "Lanny Flaherty",
+            "text": "Join or Sign In Sign in to customize your TV listings By joining TV Guide, you agree to our Terms of Use and acknowledge the data practices in our Privacy Policy . Profession Actor",
+            "link": "https://www.tvguide.com/celebrities/lanny-flaherty/credits/3030406905/",
+            "snippet": "See Lanny Flaherty full list of movies and tv shows from their career. Find where to watch Lanny Flaherty's latest movies and tv shows.",
+            "synthetic_summary": "Lanny Flaherty has appeared in the film 'The Straight Story.'",
+            "probability": 0.8613485207031886
+        },
+        {
+            "id": "c_a11_4",
+            "title": "Lanny Flaherty(1942-2024)",
+            "text": "",
+            "link": "https://www.imdb.com/name/nm0280890/",
+            "snippet": "He was an actor, known for Signs (2002), Miller's Crossing (1990) and Men in Black\u00b3 (2012). He died on 18 February 2024 in Manhattan, New York City, New York, ...",
+            "synthetic_summary": "Lanny Flaherty was an actor known for roles in Signs (2002), Miller's Crossing (1990) and Men in Black III (2012). He died on February 18th, 2024 in Manhattan, New York City, New York.",
+            "probability": 0.6830660015013966
+        },
+        {
+            "id": "c_a10_0",
+            "title": "Signs (DVD) Mel Gibson Joaquin Phoenix Clifford David Lanny ...",
+            "text": "Refresh your browser window to try again. 5 4 3 2 1 Good value Entertaining Engaging characters Verified purchase: Yes Condition: Pre-owned Verified purchase: Yes Condition: Pre-owned Verified purchase: Yes Condition: Pre-owned Verified purchase: Yes Condition: New Verified purchase: Yes Condition: Pre-owned Verified purchase: Yes Condition: New Verified purchase: Yes Condition: Pre-owned Verified purchase: Yes Condition: New Verified purchase: Yes Condition: New Verified purchase: Yes Condition: Pre-owned",
+            "link": "https://www.ebay.com/itm/397260515697",
+            "snippet": "Mel Gibson, Joaquin Phoenix, Clifford David, Lanny Flaherty, Rory Culkin ... The game came new, as described, in shrink with ... Great Movie if you Look Beneath the ...",
+            "synthetic_summary": "Lanny Flaherty appeared in the film 'The Game.'",
+            "probability": 0.6688363708624236
+        },
+        {
+            "id": "c_a10_1",
+            "title": "Putnam County Playhouse -",
+            "text": "To give the people of Putnam County and the surrounding area the opportunity to participate in and enjoy live theatre Putnam County Playhouse Announces 2026 Season Putnam County Playhouse announces a four-show 2026 season featuring two musicals and two plays, including three premieres for their stage. The season highlights a mix of veteran and new directors taking on classic titles.\u200b 2026 season lineup Directors and past experience Returning and new shows The Secret Garden, Private Lives, and Murder on the Orient Express are all new productions for the Putnam County Playhouse stage. My Fair Lady returns after 30 years, having last been staged there in 1996.\u200b Season ticket information Season ticket brochures are planned to be mailed in March 2026. A digital version of the brochure will also be available on the theatre\u2019s website at https://www.putnamcountyplayhouse.com . 2025 ANNUAL MEETING SET FOR OCTOBER 19 The annual meeting of Putnam County Playhouse for 2025 will be at the Hazel Day Longden Theatre on Sunday, October 19. The doors will open at 1:15 p.m. and the meeting will begin at 2 p.m. The event and meeting will celebrate events that happened during our 64th season! Light refreshments will be served and the event will also include a reception for retiring board member Jack Randall Earles who has been with PCPH, onstage and off for 46 years. He has served on the board since 1982. During the meeting, reports on activities will be given by the chairperson of each committee. The event is free and the public is invited. We will welcome three newly elected board members: Kathi Elliott, Sarah Vawter, and Alan Skillern. At the end of the meeting, the winner of the prestigious Upstage Award for 2025 will be announced. And the nominees are: Mikey Henry as Jonathan/Ensemble Member in \u201cA Christmas Carol\u201d . Eleanor Howard as Mildred in \u201cThe Cemetery Club.\u201d Rachel Holland as Grace in \u201cCinderella\u201d. Chloe Gardner as Delilah in \u201cFather Of The Bride\u201d. Please join us as we close the curtain on the season \u2013 and as we look forward to 2026! Here Comes the Bride Coming down the aisle for our last show of the season, it\u2019s the Father of the Bride. Come and join the fun of planning a wedding on September 11-13th and 17-20. Curtain is at 8:00pm. The box office will be open September 8 th through September 13 th and September 15 th through the 20 th from 5-7pm. The phone number is 76 5-653-5880. Tickets are only available by calling the box office or coming in. (No online sales) We are very grateful to our show sponsor for Father of the Bride, Helmer Appraisal. Click HERE to read more about our sponsor. Leading the cast is director Fawn Helmer with help from her assistant Ric McFadden . Working behind the scenes for the show are stage manager Brandon Wunderlich, assistant stage manager Ashton Kirton and stage crew Savannah Wolfe, Corbin Kirton, and Alexander Fulks. Stanley Banks (Brad Sandy) is your average father with his wife Ellie (Kate Boughman), his two sons Ben (Parker Helmer) and Tommy (Lucas Gardner), and of course his only daughter Kay (Courtney Slough). The day that every father dreads arrives, Kay tells her father that she has decided to get married to her boyfriend Buckley Dunstan (Cameron Wunderlich), an earnest and ambitious young man. Through the show we witness the stresses of planning a wedding and everything that leads to the big day. Dealing with the guest list proves troublesome even with the assistance of Stanley\u2019s secretary Miss Bellamy (Carol Davis), as everyone keeps rearranging who will be at the church and who will be coming to the reception and the phone ringing constantly through the day driving everyone crazy . Tommy and his friend Buzz Taylor (Nicolette Blackledge) eye the wedding gifts and think of the things they could buy if they soldthem. Ben and his girlfriend Peggy Swift (Ellen Blackledge) watch the events and think about the eventuality of their wedding plans. Of course no wedding can happen without the help of an",
+            "link": "https://putnamcountyplayhouse.com/",
+            "snippet": "Brad Sandy was seen in Picnic and Lita Sandy has appeared in leading roles in Steel Magnolias and Gypsy. Harris played roles in The Mousetrap and The Game's ...",
+            "synthetic_summary": "Lanny Flaherty has not appeared in the film 'The Game.' The text does not mention this film, but it does mention Harris appearing in a film titled 'The Game' and Lanny Flaherty's appearances in other productions.",
+            "probability": 0.4776592846445655
+        },
+        {
+            "id": "c_a10_4",
+            "title": "Blair Witch 2 autographed dvd jacket",
+            "text": "",
+            "link": "https://www.facebook.com/groups/theblairwitchproject/posts/3767966010006541/",
+            "snippet": "Remembering Lanny Flaherty's role in Blair Witch 2 and other movies ... The game setting was in 1996. There is an explicit reference to the ...",
+            "synthetic_summary": "Lanny Flaherty appeared in the film 'The Game,' which was set in 1996.",
+            "probability": 0.7561815989750025
+        },
+        {
+            "id": "c_a13_0",
+            "title": "Lanny Flaherty",
+            "text": "Create an account or sign in to suggest articles and edits to Grokipedia. Know something the world should know? Tell us what to write about. What makes a great suggestion? What makes a great edit? We couldn't submit your suggestion. Please try again. Grok will review your suggestion and add the article if it sees fit.",
+            "link": "https://grokipedia.com/page/Lanny_Flaherty",
+            "snippet": "New York News (1995): Techie (\"You Thought the Pope Was Something\"); Oz (1997): Thomas Cromwell (\"A Game of Checkers\"); The Sopranos ... Lanny Flaherty - TV Guide.",
+            "synthetic_summary": "Lanny Flaherty has appeared in the television show 'The Sopranos.'",
+            "probability": 0.8680721559463662
+        },
+        {
+            "id": "c_a17_1",
+            "title": "Lanny Flaherty Biography (1942-) - Film Reference",
+            "text": "Born July 27, 1942, in Pontotoc, MS; son of Lander (a farmer) and Beryl (maiden name, Maharrey) Flaherty . CREDITS Stage Appearances Whitt Carmichael, The Lucky Spot, 1987 William Curtis, Abundance, Stage I, Manhattan Theatre Club, New York City, 1990 Big Albert Connor, The Stick Wife, Stage II, Manhattan Theatre Club, 1991 Bogdan, soldier, and translator, Mad Forest, Perry Street Theatre,New York Theatre Workshop, New York City, 1992 Barnardine, Measure for Measure, New York Shakespeare Festival, Central Park, Delacorte Theatre, New York City, 1993 Kurt, Moe's Lucky Seven, Playwrights' Horizons Theatre, New York City, 1994 In the Heart of America, Stage II, Long Wharf Theatre, New Haven,CT, 1994-1995 Made stage debut as Capulet, Romeo and Juliet, Dallas ShakespeareFestival, TX; and New York debut as Scotty, Sweet Bird of Youth, Harkness Theatre; appeared on Broadway in Requiem for a Heavyweight and asunderstudy for roles of Slim, Whit, Boss, and Carlson, Of Mice and Men; appeared off-off-Broadway as Hank, The Other Women, Judith AndersonTheatre, and as Owen, The Pickle, T.O.M.I.; appeared at the Actors Theatre of Louisville's New Play Festival, Louisville, KY, as Moore, Advice to the Players, as Mr . Vaughn, Courtship, as Roundhouse, Love Suicide, and as driver, Summer; appeared at Dallas Shakespeare Festival, Dallas, TX, as ghost, Hamlet, as Pistol, The Merry Wives of Windsor, and as Gremio, The Taming of the Shrew; also appeared as Junius Brutus Booth, At the Tavern of the Raven; Victor Velasco, Barefoot in the Park; Tilden, Buried Child, Pittsburgh Public Theatre,PA; Hamm, Endgame; governor and hanging judge, Hot Grog, Virginia Stage Company; John Brown, Robert E. Lee, and Abraham Lincoln, John Brown's Body; Krapp, Krapp's Last Tape; Henry II, The Lion in Winter; James Tyrone, Long Day's Journey into Night; Sir Sampson Legend, Love for Love; Lennie, Of Mice and Men, Actors Theatre of Louisville; Vershinen, Three Sisters; Lee, True West, Actors Theatre of Louisville, Louisville, KY, and Capitol Repertory Theatre; Malvolio, Twelfth Night; Sir Toby Belch, Twelfth Night; and General St. Pe, Waltz of the Toreadors . Film Appearances Gudger Wright, Winter People, Columbia, 1989 Terry, Miller's Crossing, Twentieth Century-Fox, 1990 Merlie Ryan, The Ballad of the Sad Cafe, Angelika, 1991 Buck, Sommersby, Warner Bros., 1993 Big Al, Bound by Honor (also known as Blood In ... Blood Out and Blood In, Blood Out .. . Bound by Honor ), Buena Vista, 1993 Earl Hickey, Natural Born Killers, Warner Bros., 1994 Trader number one, Waterworld, Universal, 1995 Guide, Someone Else's America (also known as L'Amerique des autres, Paradies, Brooklyn, and Tudja Amerika ), Channel Four Films, 1995 Emmett, Tom and Huck (also known as The Adventures of Tom and Huck and Tom Sawyer ), Buena Vista, 1995 Duane, A Simple Wish (also known as The Fairy Gosmother ), Universal, 1997 Red Jackson, Home Fries, Warner Bros., 1998 Louie, Double Parked, Castle Hill Productions, 2000 Drunk, Maze (also known as Touched ), 2000, Andora PicturesInternational, 2001 Sheriff, Book of Shadows: Blair Witch 2 (also known as BW2 and BWP2 ), Artisan Entertainment, 2000 Also appeared as security guard, The Prof . Television Appearances Specials Virgil Slater, Home at Last, PBS, 1988 Benny Hill's World Tour: New York! (also known as Benny Hill'sWorld: New York! ), USA Network, 1991 Episodic (As Lenny Flaherty) Kaboom Pickens, \"The Case of the Calpurnian Kugel Caper,\" Mathnet, 1991 Techie, \"You Thought the Pope Was Something,\" New York News, CBS,1995 Wink, \"The Lost,\" Third Watch, NBC, 2000 Appeared as Big Vinnie Nichols, As the World Turns, CBS, as a sheriff, The Edge of Night, CBS and ABC, and as Stan, Guiding Light, CBS; also appeared in John Locke, PBS. Other Soupy Jones, Lonesome Dove (miniseries), CBS, 1989 First drunk, Third Watch (pilot), NBC, 1999 Homeless guy, Homicide: The Movie, NBC, 2000 WRITINGS Plays Showdown at the Adobe Motel, O'Neill Playwrights Conference, Hartman Stag",
+            "link": "http://www.filmreference.com/film/83/Lanny-Flaherty.html",
+            "snippet": "Lanny Flaherty (1942-) biography on Film Reference. ... Public Theatre,PA; Hamm, Endgame; governor and hanging judge, Hot Grog, Virginia Stage Company; John ...",
+            "synthetic_summary": "Lanny Flaherty, an actor born on July 27, 1942, in Pontotoc, MS, has appeared in numerous productions at the Public Theater. He has portrayed characters such as Hamm, Endgame; governor and hanging judge, Hot Grog; and other roles including John Brown, Robert E. Lee, and Abraham Lincoln in \"John Brown's Body.\"",
+            "probability": 0.584870781119344
+        },
+        {
+            "id": "c_a17_2",
+            "title": "Moe's Lucky Seven - Playwrights Horizons",
+            "text": "It looks like you may be using a web browser version that we don't support. Make sure you're using the most recent version of your browser, or try using of these supported browsers, to get the full Made experience: Chrome, Firefox, Safari, or Edge. Written by Marlane Meyer l ives in Hollywood, California. She\u2019s been writing plays for thirty-five years. Her produced plays include Etta Jenks , The Geography of Luck , Kingfish , Moe\u2019s Lucky Seven , The Mystery of Attraction and The Chemistry of Change , the latter for Playwrights Horizons. Her other productions include The Royal Court Theatre, The Public Theater, The Magic Theater, Steppenwolf Theater and others. She has also been a writer/producer for television. These shows include \u201cNothing Sacred,\u201d winner of a Peabody Award, \u201cLaw & Order: Criminal Intent\u201d and \u201cCSI: Crime Scene Investigation.\u201d She has also been a recipient of the Kesselring Award and the Susan Smith Blackburn Prize . (As of March 2013) Directed by Roberta Levitow is an American theatrical director and educator. Her theatre credits include Moe's Lucky Seven, The Day Dies with Sleep, Little Egypt, and Miriam's Flowers. She has also served on the faculty of several colleges and universities including UCLA, Bennington, and Brandeis. In 2003, Levitow was offered a Fulbright teaching residency at the Chinese University of Hong Kong. After returning home from her residency, Levitow dedicated herself completely to international theatre exchange. In 2004, she founded Theatre Without Borders, an online grassroots community that connects artists from different countries. Later that year, working with the Sundance Institute Theatre Program, Levitow founded the Sundance Institute of East Africa. She has also created an international exchange program with artisits in Romania, an exchange project between Iraq and Pakistan, and a theatre collaboration between Iranian, Israeli, and American theatre artists . Levitow is a graduate of Stanford University. Playwrights: Circle Mirror Transformation, Manic Flight Reaction, Moe\u2018s Lucky Seven, Spatter Pattern. Broadway: Dana H (Tony Award nomination, Obie, Lucille Lortel, and Outer Critics Circle awards), Magic/Bird. Off-Broadway: The Way West, Thinner Than Water (Labyrinth); By the Water, Fulfillment Center (MTC); Judy (Page73); In the Wake (The Public), Scarcity (Rattlestick); Terminus (NYTW). Regional: Before the Meeting (Williamstown). Film: Diane, Eternal Sunshine of the Spotless Mind. TV: \u201cThe Affair,\u201d \u201cThe Path,\u201d \u201cOuter Range.\u201d Awards: Obie Award for Sustained Excellent in Performance, New York Drama Critics Circle Special Citation, Lily Award. Photo by T. Charles Erickson 416 West 42 Street New York, NY 10036 info@phnyc.org 212 564 1235 Get ticket alerts, exclusive ticket lottery offers and more!",
+            "link": "https://www.playwrightshorizons.org/shows/production-history/1990s/199394/moes-lucky-seven",
+            "snippet": "Her other productions include The Royal Court Theatre, The Public Theater, The Magic Theater, Steppenwolf Theater and others. ... Lanny Flaherty. Steve Harris ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in productions at the Public Theater.",
+            "probability": 0.7825572011705973
+        },
+        {
+            "id": "c_a17_3",
+            "title": "Inishmaan and Menagerie Round Out 1998-99 Steppenwolf Season",
+            "text": "Martin McDonagh's The Cripple of Inishmaan and a Mark Brokaw-directed production of The Glass Menagerie will round out the 1998-99 Steppenwolf season. The two shows join previously announced productions of Charles L. Mee's The Berlin Circle , directed by Tina Landau; Richard Greenberg's Three Days of Rain , featuring Amy Morton; and Sylvia Regan's Morning Star , piloted by Frank Galati. British phenom McDonagh will receive his Steppenwolf debut with Inishmann , which will close the season, playing July 8-Aug. 29, 1999. The drama was staged by Jerry Zaks at New York's Public Theater earlier this spring, and another McDonagh play, The Beauty Queen of Leenane , is currently enjoying a successful run on Broadway. Inishmaan takes place in a small Irish town in 1934, where Cripple Billy eyes a visiting Hollywood filmmaker as his possible ticket out of a dead-end existence. No director or cast has been set for the production . Also making his Steppenwolf debut will be director Mark Brokaw, the man behind such Off-Broadway successes as How I Learned to Drive and As Bees in Honey Drown . Brokaw is currently in Minneapolis, readying his Guthrie Theatre mounting of Turgenev's A Month in the Country . His Menagerie will run Dec. 3, 1998-Jan. 30, 1999. The mainstage season will open with The Berlin Circle (Sept. 24 Nov. 15), a variant on the legend behind Brecht's The Caucasian Chalk Circle . Following Menagerie will be Three Days of Rain (Feb. 11-Apr. 4) by Richard Greenberg, the story of a famous architect whose will forces his children to probe their family's dark history. Next will be Morning Star (Apr. 22-June 20), Sylvia Regan's 1940 drama about a widow and her extended family who find themselves caught up in the horror of the Triangle Shirtwaist fire, World War I and the Great Depression; Steppenwolf ensemble member Frank Galati (who staged Livent's Ragtime ) directs . Currently rehearsing at Steppenwolf is the Douglas Hughes staging of Synge's Playboy of the Western World , starring company member Jim True as the title rogue and film and stage star Martha Plimpton as Pegeen Mike, the Irish lass who falls for him. Plimpton has appeared in such films as Running on Empty , Another Woman , Parenthood , and I Shot Andy Warhol . New York stage productions include Pericles at the Public Theater. Jim True has previously enjoyed noted success in another Irish play, Brian Friel's Philadelphia, Here I Come! , which was produced at New York's Roundabout Theatre Company in 1994. True was most recently seen on Broadway as Vince in Steppenwolf's lauded 1996 revival of Sam Shepard's Buried Child . The rest of cast includes B.J. Jones, Jerome Kilty, Bradley Armacost, Rob Riley, Georgina Stoyles, Melanie Moore, Laura Ruth, and Lanny Flaherty . The designers are Anita Stewart (sets), Michael Chybowski (lights), Karin Kopischke (costumes), and Johnny Cunningham (sound). The production will begin previews at Steppenwolf on July 3 and open on July 12 for a run through Aug. 23. The play will then travel in the fall to open the 1998-99 season at the Long Wharf Theatre, where Hughes is artistic director. It is not certain whether True or Plimpton will appear in the New Haven production. No specific dates have been announced for the Long Wharf engagement. -- By Robert Simonson Co-written by Michael J. Chepiga, the play details Reynoso's experience working under Secretary of State Hillary Clinton. The stars of the new Michael Mayer-directed production performed live on the radio at WNYC's Greene Space. The three actors recently joined the cast of the long-running revival at the Westside Theatre. The Tony-nominated actor is in Little Shop of Horrors at the Westside Theatre . The work, a modern reexamination of Arthur Miller's The Crucible set at a rural Georgia high school, made a Broadway debut last season. Sierra Boggess, Adam Jacobs, Norm Lewis, and Karen Ziemba co-star in the new work, directed by Peter Flynn. The long-running Disney hit continues at the New",
+            "link": "https://playbill.com/article/inishmaan-and-menagerie-round-out-1998-99-steppenwolf-season-com-75958",
+            "snippet": "The rest of cast includes B.J. Jones, Jerome Kilty, Bradley Armacost, Rob Riley, Georgina Stoyles, Melanie Moore, Laura Ruth, and Lanny Flaherty. The designers ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in productions at the Public Theater, as evidenced by his role in the play The Beauty Queen of Leenane, which was staged there earlier this spring.",
+            "probability": 0.5890668052561008
+        },
+        {
+            "id": "c_a16_1",
+            "title": "Actor Lanny Flaherty Dies at 81",
+            "text": "In addition to his work as an actor, Mr. Flaherty was an accomplished playwright. Broadway actor Lanny Flaherty passed away February 18, as confirmed by his longtime manager Tony Cloer. Mr. Flaherty was 81. Born in Pontotoc, Mississippi July 27, 1942, Mr. Flaherty served in the U.S. Army throughout the 1960s before attending Mississippi State University and Southern Methodist University, with a focus on acting and playwriting. By the mid-1970s, Mr. Flaherty had moved to New York City, where he was a part of the 1974 Broadway revival cast of John Steinbeck's Of Mice and Men . Alternating his time between Mississippi and New York for the rest of his life, Mr. Flaherty went on to appear on Broadway in Sweet Bird of Youth, Inherit the Wind, Joe Turner\u2019s Come and Gone, and Requiem for a Heavyweight, in addition to numerous productions at the Actors Theatre of Louisville and the Steppenwolf Theatre. As a playwright, Mr . Flaherty wrote numerous works, including A-Birthing At Nubbin Ridge , Cedars Mark The Campground , Crisscrosscreeks , and Whilhom . His piece Showdown at the Adobe Model , presented at Hartford Stage in 1981, starred Oscar winner Henry Fonda in his final live performance. Mr. Flaherty is survived by his daughter, Sara Suzuki; her husband, Ryosuke Suzuki; and his twin granddaughters. Harkening back to the days of DVD extras, the streaming release of Wicked: For Good has a whole bunch of bonus content up its sleeve. Co-creators Trey Parker, Matt Stone, and Robert Lopez were also part of the festivities at the Eugene O'Neill Theatre. Co-written by Michael J. Chepiga, the play details Reynoso's experience working under Secretary of State Hillary Clinton. The stars of the new Michael Mayer-directed production performed live on the radio at WNYC's Greene Space. The three actors recently joined the cast of the long-running revival at the Westside Theatre . The Tony-nominated actor is in Little Shop of Horrors at the Westside Theatre. The work, a modern reexamination of Arthur Miller's The Crucible set at a rural Georgia high school, made a Broadway debut last season. Sierra Boggess, Adam Jacobs, Norm Lewis, and Karen Ziemba co-star in the new work, directed by Peter Flynn. The long-running Disney hit continues at the New Amsterdam Theatre. Copyright 1991\u20132026 \u00a9 Playbill Inc. All Rights Reserved.",
+            "link": "https://playbill.com/article/actor-lanny-flaherty-dies-at-81",
+            "snippet": "Broadway actor Lanny Flaherty passed away February 18, as confirmed by his longtime manager Tony Cloer. Mr. Flaherty was 81.",
+            "synthetic_summary": "Lanny Flaherty, a Broadway actor and playwright, passed away on February 18 at the age of 81. Born in Pontotoc, Mississippi in 1942, Flaherty served in the U.S. Army before studying acting and playwriting at Mississippi State University and Southern Methodist University. He moved to New York City in the mid-1970s and appeared in several Broadway productions, including the 1974 revival of John Steinbeck's \"Of Mice and Men,\" \"Sweet Bird of Youth,\" \"Inherit the Wind,\" \"Joe Turner's Come and Gone,\" and \"Requiem for a Heavyweight.\" Flaherty also wrote numerous plays, including \"A-Birthing At Nubbin Ridge,\" \"Cedars Mark The Campground,\" \"Crisscrosscreeks,\" and \"Whilhom.\" He is survived by his daughter, Sara Suzuki, her husband, Ryosuke Suzuki, and his twin granddaughters.",
+            "probability": 0.822263086606847
+        },
+        {
+            "id": "c_a16_2",
+            "title": "Lanny Flaherty (Actor): Credits, Bio, News & More",
+            "text": "Broadway + NYC Broadway Off-Broadway Off-Off Broadway Cabaret Dance Opera Classical Music Eastern Central Western Birmingham Chicago Milwaukee, WI Minneapolis / St. Paul Washington, DC Houston West End WEST END UK Regional International Canada Australia / New Zealand Europe Asia Latin America Africa / Middle East Entertainment TV/Movies Music Birth Place: Mississippi, USA Latest News on Lanny Flaherty: Actor and Playwright Lanny Flaherty Dies at 81 (Feb 27, 2024) Jennings, O'Hare, Fowler & More Join Inherit the Wind (Jan 23, 2007) read more news POPULAR Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs. He also had a brief role in Men in Black 3, and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer, New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81. Lanny Flaherty has appeared on Broadway in 4 shows. Lanny Flaherty has not appeared in the West End. Get Lanny Flaherty Email Alerts Videos Recommended For You Sign up for announcements, and exclusive discounts on tickets to your favorite shows! \u00a9 2026 - Copyright Wisdom Digital Media , all rights reserved. Privacy Policy",
+            "link": "https://www.broadwayworld.com/people/Lanny-Flaherty/",
+            "snippet": "Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died ...",
+            "synthetic_summary": "Lanny Flaherty has appeared on Broadway in 4 shows.",
+            "probability": 0.7305144824288259
+        },
+        {
+            "id": "c_a16_4",
+            "title": "Lanny Flaherty Biography (1942-)",
+            "text": "Born July 27, 1942, in Pontotoc, MS; son of Lander (a farmer) and Beryl (maiden name, Maharrey) Flaherty . CREDITS Stage Appearances Whitt Carmichael, The Lucky Spot, 1987 William Curtis, Abundance, Stage I, Manhattan Theatre Club, New York City, 1990 Big Albert Connor, The Stick Wife, Stage II, Manhattan Theatre Club, 1991 Bogdan, soldier, and translator, Mad Forest, Perry Street Theatre,New York Theatre Workshop, New York City, 1992 Barnardine, Measure for Measure, New York Shakespeare Festival, Central Park, Delacorte Theatre, New York City, 1993 Kurt, Moe's Lucky Seven, Playwrights' Horizons Theatre, New York City, 1994 In the Heart of America, Stage II, Long Wharf Theatre, New Haven,CT, 1994-1995 Made stage debut as Capulet, Romeo and Juliet, Dallas ShakespeareFestival, TX; and New York debut as Scotty, Sweet Bird of Youth, Harkness Theatre; appeared on Broadway in Requiem for a Heavyweight and asunderstudy for roles of Slim, Whit, Boss, and Carlson, Of Mice and Men; appeared off-off-Broadway as Hank, The Other Women, Judith AndersonTheatre, and as Owen, The Pickle, T.O.M.I.; appeared at the Actors Theatre of Louisville's New Play Festival, Louisville, KY, as Moore, Advice to the Players, as Mr . Vaughn, Courtship, as Roundhouse, Love Suicide, and as driver, Summer; appeared at Dallas Shakespeare Festival, Dallas, TX, as ghost, Hamlet, as Pistol, The Merry Wives of Windsor, and as Gremio, The Taming of the Shrew; also appeared as Junius Brutus Booth, At the Tavern of the Raven; Victor Velasco, Barefoot in the Park; Tilden, Buried Child, Pittsburgh Public Theatre,PA; Hamm, Endgame; governor and hanging judge, Hot Grog, Virginia Stage Company; John Brown, Robert E. Lee, and Abraham Lincoln, John Brown's Body; Krapp, Krapp's Last Tape; Henry II, The Lion in Winter; James Tyrone, Long Day's Journey into Night; Sir Sampson Legend, Love for Love; Lennie, Of Mice and Men, Actors Theatre of Louisville; Vershinen, Three Sisters; Lee, True West, Actors Theatre of Louisville, Louisville, KY, and Capitol Repertory Theatre; Malvolio, Twelfth Night; Sir Toby Belch, Twelfth Night; and General St. Pe, Waltz of the Toreadors . Film Appearances Gudger Wright, Winter People, Columbia, 1989 Terry, Miller's Crossing, Twentieth Century-Fox, 1990 Merlie Ryan, The Ballad of the Sad Cafe, Angelika, 1991 Buck, Sommersby, Warner Bros., 1993 Big Al, Bound by Honor (also known as Blood In ... Blood Out and Blood In, Blood Out .. . Bound by Honor ), Buena Vista, 1993 Earl Hickey, Natural Born Killers, Warner Bros., 1994 Trader number one, Waterworld, Universal, 1995 Guide, Someone Else's America (also known as L'Amerique des autres, Paradies, Brooklyn, and Tudja Amerika ), Channel Four Films, 1995 Emmett, Tom and Huck (also known as The Adventures of Tom and Huck and Tom Sawyer ), Buena Vista, 1995 Duane, A Simple Wish (also known as The Fairy Gosmother ), Universal, 1997 Red Jackson, Home Fries, Warner Bros., 1998 Louie, Double Parked, Castle Hill Productions, 2000 Drunk, Maze (also known as Touched ), 2000, Andora PicturesInternational, 2001 Sheriff, Book of Shadows: Blair Witch 2 (also known as BW2 and BWP2 ), Artisan Entertainment, 2000 Also appeared as security guard, The Prof . Television Appearances Specials Virgil Slater, Home at Last, PBS, 1988 Benny Hill's World Tour: New York! (also known as Benny Hill'sWorld: New York! ), USA Network, 1991 Episodic (As Lenny Flaherty) Kaboom Pickens, \"The Case of the Calpurnian Kugel Caper,\" Mathnet, 1991 Techie, \"You Thought the Pope Was Something,\" New York News, CBS,1995 Wink, \"The Lost,\" Third Watch, NBC, 2000 Appeared as Big Vinnie Nichols, As the World Turns, CBS, as a sheriff, The Edge of Night, CBS and ABC, and as Stan, Guiding Light, CBS; also appeared in John Locke, PBS. Other Soupy Jones, Lonesome Dove (miniseries), CBS, 1989 First drunk, Third Watch (pilot), NBC, 1999 Homeless guy, Homicide: The Movie, NBC, 2000 WRITINGS Plays Showdown at the Adobe Motel, O'Neill Playwrights Conference, Hartman Stag",
+            "link": "http://www.filmreference.com/film/83/Lanny-Flaherty.html",
+            "snippet": "Made stage debut as Capulet, Romeo and Juliet, Dallas ShakespeareFestival, TX; and New York debut as Scotty, Sweet Bird of Youth, Harkness Theatre; appeared on ...",
+            "synthetic_summary": "Lanny Flaherty has worked extensively in American theater, with a career spanning stage, film, and television appearances. He has participated in many theater festivals and productions, including the Dallas Shakespeare Festival, Actors Theatre of Louisville's New Play Festival, and the New York Shakespeare Festival. His roles include Capulet in Romeo and Juliet, Whitt Carmichael in The Lucky Spot, and Bogdan, soldier, and translator in Mad Forest, among others. Flaherty has also appeared in movies such as Winter People, Miller's Crossing, The Ballad of the Sad Cafe, and Sommersby. In television, he has played roles such as Virgil Slater in Home at Last and Kaboom Pickens in Mathnet.",
+            "probability": 0.5492385895416712
+        },
+        {
+            "id": "c_a19_2",
+            "title": "Actor and Playwright Lanny Flaherty Dies at 81",
+            "text": "Broadway + NYC Broadway Off-Broadway Off-Off Broadway Cabaret Dance Opera Classical Music Eastern Central Western Birmingham Chicago Milwaukee, WI Minneapolis / St. Paul Washington, DC Houston West End WEST END UK Regional International Canada Australia / New Zealand Europe Asia Latin America Africa / Middle East Entertainment TV/Movies Music Flaherty made his Broadway debut in the 1974 revival cast of Of Mice and Men. POPULAR BroadwayWorld is saddened to report that stage and screen actor Lanny Flaherty has died at age 81. In addition to his acting work, Flaherty was also a playwright. Flaherty made his Broadway debut in the 1974 revival cast of Of Mice and Men. Subsequent Broadway credits include Sweet Bird of Youth, Inherit the Wind, Joe Turner\u2019s Come and Gone, and Requiem for a Heavyweight. His stage work also includes credits with The Actors Theatre of Louisville and the Steppenwolf Theatre . Flaherty also wrote several plays, including A-Birthing At Nubbin Ridge, Cedars Mark The Campground, Crisscrosscreeks, Whilhom, and Showdown at the Adobe Model. Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs. He also had a brief role in Men in Black 3, and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July. Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer, New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City . Beaches Michael James Scott Will Depart ALADDIN in May Video: Watch Lea Michele and CHESS Cast Perform on THE LATE SHOW Whitney Leavitt Breaks CHICAGO Box Office Records For Biggest Weekly Gross Original Cast Members Will Appear in THE BOOK OF MORMON in June to Celebrate 15 Years on Broadway Solea Pfeiffer and Liisi LaFontaine Will Lead WANTED on Broadway Disney Unveils 2026 'Worlds Collide Concert Tour' Dates Featuring Stars From ZOMBIES, DESCENDANTS, & CAMP ROCK The legendary West End publicist Peter Thompson, who's work includes the publicity for Andrew Lloyd Webber's Cats, The Phantom of the Opera and more, has passed away at 81. BroadwayWorld is saddened to report that stage and screen veteran Jane Lapotaire, who won Olivier and Tony Awards for portraying French singer \u00c9dith Piaf in the play Piaf, passed away on March 5 at 81 years old. BroadwayWorld is saddened to learn of the passing of Broadway actor John Herrera . Herrera received a Tony Award nomination for her his performance in The Mystery of Edwin Drood. Broadway performer Sondra Lee died of natural causes in her New York City apartment at age 97. Throughout her nine-decade career, Lee won awards as a dancer, actor, teacher, author, stage director, playwright, theatre and film consultant and painter. Videos Recommended For You Sign up for announcements, and exclusive discounts on tickets to your favorite shows! \u00a9 2026 - Copyright Wisdom Digital Media , all rights reserved. Privacy Policy",
+            "link": "https://www.broadwayworld.com/article/Actor-and-Playwright-Lanny-Flaherty-Dies-at-81-20240227",
+            "snippet": "BroadwayWorld is saddened to report that stage and screen actor Lanny Flaherty has died at age 81. In addition to his acting work, Flaherty ...",
+            "synthetic_summary": "Lanny Flaherty, an American actor born on December 18, 1949, in Pensacola, Florida, made his Broadway debut in the 1974 revival cast of Of Mice and Men. His Broadway credits include Sweet Bird of Youth, Inherit the Wind, Joe Turner\u2019s Come and Gone, and Requiem for a Heavyweight. Flaherty also had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, and Signs, and appeared in television shows like The Equalizer and New York News.",
+            "probability": 0.7877532410752774
+        },
+        {
+            "id": "c_a19_4",
+            "title": "Lanny Flaherty Obituary and Online Memorial (2024)",
+            "text": "Add a Memory Send Flowers Share Obituary Menu Follow In memory of Not sure what to say? 16 Entries Ralph Saldibar February 18, 2025 Rest Big Al, you left the fans with many great memories and quotes that will live on way longer than any of us. Thank you Miklo Velka July 7, 2024 Just heard of Lanny's passing. Ive known him for almost 30 years as Big Al from a movie I can literally quote line for line. Good on him for all his achievements and thank you for serving our country. May heaven bless you full of pork chops and green jello, the greener one!!! Dan McCarthy May 18, 2024 rest in peace Lanny aka Big Al! Loved that role! Ste February 28, 2024 Great actor! I will always remember him from Blood in Blood out. \"Sorry no tortilla\" and his other famous quotes from the movie. May he rest in peace! Follow Get email updates whenever changes are made. Send flowers Consider sending flowers. Add photos Share their life with photo memories. Plant trees Honor them by planting trees in their memory . Share this page Invite other friends and family to visit the page. Miklo Chuy February 26, 2024 Sorry no tortilla! Sandra Maharrey Trent February 26, 2024 Ray as we all called him back in the day was my cousin. We didn\u00b4t share much time with each other during our early years but eventually connected over our interest in our ancestors. Last time I saw Lanny I visited him at his childhood home in Troy and we sat on the porch and talked for hours. He will truly be missed. He was a bright spot in my life. Miklo February 26, 2024 Gail Bearden February 26, 2024 Grief can be so hard, but our special memories help us cope. Remembering you and your loved one today and always. [email protected] February 25, 2024 Best actor we will miss big AL David February 25, 2024 I know it\u00b4s just a movie to most, but BIBO is sacred to a lot of folks. Lanny was someone we grew up watching and will continue to do so! Thank you, Lanny and may you rest in paradise . Red Ryder February 25, 2024 Lanny was a great actor and will be missed. He will live on through his many movies Brenda. Warren February 25, 2024 Lanny was my cousin we lived close by in the Troy Community in Pontotoc county , Mississippi.we always called him Ray till he went to New York City , I texted him as often as I could,we texted a couple of weeks before he passed. Rest in peace cousin Mike Hartman February 25, 2024 Mike Hartman I met Lanny in 1981.Norfolk Va. Production of HOT GROG at the Virginia Stage Co. We became fast friends. He was the mayor of the Equity lounge. We'd ponder over the NY Times crossword, have lunch at the Times cafeteria or the Edison cafe. He said we should only talk about war and sports. We went to Baseball games and the race track together. Symphonies at Carnegie Hall, free tickets to Broadway plays. Always game. I hadn't seen him in a while but we still talked from time to time. I will miss him . Gene Jones February 25, 2024 Lanny came to New York a few years before I did. He was very kind to me during my early time here. We worked together only once, the hat store scene in LITTLE AMERICA. He was great company and a good guy. He is missed. Gene Jones Nakagawa February 24, 2024 Lanny will be missed as Kaboom Pickens in Episode: \"The Case of the Calpurnian Kugel Caper\" of of 1991 Mathnet! Andrett Funeral Home Posted an obituary February 23, 2024 Lanny Flaherty Obituary Obituary of Lanny Flaherty February 18, 2024 Lanny Flaherty passed away peacefully in New York City on Sunday, February 18, 2024. Born in Pontotoc, Mississippi, on July 27, 1942. Memories of his childhood stayed with him throughout his life... Read Lanny Flaherty's Obituary Showing 1 - 16 of 16 results \u00a9 2026 Legacy.com All rights reserved.",
+            "link": "https://www.legacy.com/us/obituaries/name/lanny-flaherty-memorial?id=54461205",
+            "snippet": "Obituary of Lanny Flaherty February 18, 2024 Lanny Flaherty passed away peacefully in New York City on Sunday, February 18, 2024. Born ...",
+            "synthetic_summary": "Lanny Flaherty was an American actor born on December 18, 1949, in Pensacola, Florida, known for his distinctive looks. He passed away on February 18, 2024, in New York City.",
+            "probability": 0.7934549575006419
+        },
+        {
+            "id": "c_a18_0",
+            "title": "List of Shakespeare in the Park productions at ...",
+            "text": "The Public Theater has produced over 120 plays and musicals at the Delacorte Theater in New York City's Central Park since the theater's opening in 1962. Currently the series is produced under the brand Free Shakespeare in the Park , and all productions are staged at the Delacorte. In past decades, the series was branded The New York Shakespeare Festival and encompassed productions at both the Delacorte and the Public's downtown location in the former Astor Library . Henry VIII , staged in 1997, was celebrated as the final work of the Shakespearean canon to be performed as part of the series, but within productions staged at the Delacorte, Macbeth was not performed until 2006 and, as of yet [update] , the three parts of Henry VI have not been performed except as the heavily abridged Wars of the Roses in 1970 . With the 2022 season, As You Like It joined Measure for Measure , Twelfth Night , and Much Ado About Nothing as the most-performed works, each having been produced six times (including musical adaptations). All plays are by William Shakespeare . Except as noted, all productions were staged in Central Park on or adjacent to the site of the future Delacorte Theater. All plays are by William Shakespeare except as noted.",
+            "link": "https://en.wikipedia.org/wiki/List_of_Shakespeare_in_the_Park_productions_at_the_Delacorte_Theater",
+            "snippet": "Michael Rudman, Lisa Gay Hamilton, Kevin Kline. Andre Braugher, Karla Burns, Ken Cheeseman, Hope Davis, Lanny Flaherty ... \"A New York Shakespeare Festival ...",
+            "synthetic_summary": "Lanny Flaherty appeared in productions at the New York Shakespeare Festival.",
+            "probability": 0.7345425506160587
+        },
+        {
+            "id": "c_a18_4",
+            "title": "Review/Theater; The Very Human Mix of Benign and Malign",
+            "text": "",
+            "link": "https://www.nytimes.com/1993/07/19/theater/review-theater-the-very-human-mix-of-benign-and-malign.html",
+            "snippet": "... New York Shakespeare Festival. MEASURE FOR MEASURE By William ... Lanny Flaherty. A version of this article appears in print on July 19 ...",
+            "synthetic_summary": "Lanny Flaherty has appeared in productions at the New York Shakespeare Festival.",
+            "probability": 0.8475863487947889
+        },
+        {
+            "id": "c_a20_1",
+            "title": "Lanny Flaherty (Actor): Credits, Bio, News & More",
+            "text": "Broadway + NYC Broadway Off-Broadway Off-Off Broadway Cabaret Dance Opera Classical Music Eastern Central Western Birmingham Chicago Milwaukee, WI Minneapolis / St. Paul Washington, DC Houston West End WEST END UK Regional International Canada Australia / New Zealand Europe Asia Latin America Africa / Middle East Entertainment TV/Movies Music Birth Place: Mississippi, USA Latest News on Lanny Flaherty: Actor and Playwright Lanny Flaherty Dies at 81 (Feb 27, 2024) Jennings, O'Hare, Fowler & More Join Inherit the Wind (Jan 23, 2007) read more news POPULAR Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs. He also had a brief role in Men in Black 3, and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer, New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81. Lanny Flaherty has appeared on Broadway in 4 shows. Lanny Flaherty has not appeared in the West End. Get Lanny Flaherty Email Alerts Videos Recommended For You Sign up for announcements, and exclusive discounts on tickets to your favorite shows! \u00a9 2026 - Copyright Wisdom Digital Media , all rights reserved. Privacy Policy",
+            "link": "https://www.broadwayworld.com/people/Lanny-Flaherty/",
+            "snippet": "Looking to find out more about Lanny Flaherty (Actor)? We have a full Biography, Photos, Theatre Credits, TV and Movies listings, Videos and more!",
+            "synthetic_summary": "Lanny Flaherty was known for his deep gravelly voice and had roles in various films and TV shows, including Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2, Signs, Men in Black 3, Cold in July, Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck, and Home Fries. He also appeared in TV shows such as The Equalizer, New York News, White Collar, and The Education of Max Bickford. Flaherty graduated from Pontotoc High School and attended the University of Southern Mississippi. He resided in New York City and passed away following surgery in February 2024 at the age of 81.",
+            "probability": 0.8126205557165322
+        },
+        {
+            "id": "c_q_3",
+            "title": "Lanny Flaherty (Actor): Credits, Bio, News & More",
+            "text": "Broadway + NYC Broadway Off-Broadway Off-Off Broadway Cabaret Dance Opera Classical Music Eastern Central Western Birmingham Chicago Milwaukee, WI Minneapolis / St. Paul Washington, DC Houston West End WEST END UK Regional International Canada Australia / New Zealand Europe Asia Latin America Africa / Middle East Entertainment TV/Movies Music Birth Place: Mississippi, USA Latest News on Lanny Flaherty: Actor and Playwright Lanny Flaherty Dies at 81 (Feb 27, 2024) Jennings, O'Hare, Fowler & More Join Inherit the Wind (Jan 23, 2007) read more news POPULAR Flaherty had roles in films and miniseries such as Lonesome Dove, Natural Born Killers, Book of Shadows: Blair Witch 2 and Signs. He also had a brief role in Men in Black 3, and appeared as Jack Crow in Jim Mickles 2014 adaptation of Cold in July . Other film appearances include Winter People, Millers Crossing, Blood In Blood Out, Tom and Huck and Home Fries while television roles include guest appearances on The Equalizer, New York News and White Collar as well as a two-episode stint on The Education of Max Bickford as Whammo. Flaherty was a graduate of Pontotoc High School, and attended University of Southern Mississippi after high school. He resided in New York City. Flaherty died following surgery in February 2024, at the age of 81. Lanny Flaherty has appeared on Broadway in 4 shows. Lanny Flaherty has not appeared in the West End. Get Lanny Flaherty Email Alerts Videos Recommended For You Sign up for announcements, and exclusive discounts on tickets to your favorite shows! \u00a9 2026 - Copyright Wisdom Digital Media , all rights reserved. Privacy Policy",
+            "link": "https://www.broadwayworld.com/people/Lanny-Flaherty/",
+            "snippet": "BroadwayWorld is saddened to report that stage and screen actor Lanny Flaherty has died at age 81. In addition to his acting work, Flaherty was also a ...",
+            "synthetic_summary": "Lanny Flaherty was an actor and playwright who passed away at the age of 81. He had roles in various films, miniseries, and television shows, including \"Lonesome Dove\", \"Natural Born Killers\", \"Book of Shadows: Blair Witch 2\", \"Signs\", \"Men in Black 3\", and \"The Education of Max Bickford\". Flaherty also had a career in Broadway, appearing in 4 shows.",
+            "probability": 0.7012125933273394
+        },
+        {
+            "id": "c_q_4",
+            "title": "Lanny Flaherty Obituary | NYC",
+            "text": "February 18, 2024 Lanny Flaherty passed away peacefully in New York City on Sunday, February 18, 2024. Born in Pontotoc, Mississippi, on July 27, 1942. Memories of his childhood stayed with him throughout his life but never limited his dreams and aspirations. Lanny served in the U.S. Army in the 1960s as an MP stationed in Germany. He attended Mississippi State University and went on to study at Southern Methodist University focusing primarily on acting and playwriting. In the mid-1970s, Lanny moved to New York City as part of the Broadway cast of Of Mice and Men . Lanny remained a NYC resident for the rest of his life, alternating time between Mississippi and NYC . Lanny went on to perform in several Broadway productions throughout his life including Sweet Bird of Youth, Inherit the Wind, Joe Turner's Come and Gone, Requiem for a Heavyweight , and also appeared frequently in productions at the Actors Theatre of Louisville and also at the Steppenwolf Theatre in Playboy of the Western World. As an actor on film and television, Lanny appeared in many films, most notably as Big Al in \"Blood In, Blood Out .\" Flaherty also co-starred with Robert Duvall and Tommy Lee Jones in \"Lonesome Dove \" and in Joel and Ethan Coen's \"Miller's Crossing \" with Gabriel Byrne and Marcia Gay Harden. Flaherty co-starred in M. Night Shyamalan's \"Signs \" and in Oliver Stone's \"Natural Born Killers .\" He also appeared in \"Tom and Huck,\" \"Waterworld,\" \"Home Fries ,\" and \"Bound By Honor \" among many others. Lanny wrote many plays over his lifetime . One of his plays \" Showdown at the Adobe Motel\" starred Henry Fonda in his last live performance at the Hartford Stage in Connecticut. He loved the NYC libraries and especially live theater and ballet. Lanny is survived by his daughter, Sara Suzuki, her husband, Ryosuke Suzuki and twin granddaughters who he loved dearly, and his many friends. He will be deeply missed by all who knew and loved him. The Obituaries are currently being upgraded. Please contact us to report any issues. Lanny came to New York a few years before I did, and he was very kind to me in my early time here. I worked with him only once, in the hat shop scene in LITTLE AMERICA. He was great company and a good guy. He is missed. Andrett Funeral Home 199 Bleecker Street, New York, NY 10012 475-2024 andrettfuneralhome@gmail.com Greenwich Village Funeral Home | Beth Abraham Funeral Chapel | Peter C DeLuca Funeral Home | Perazzo Funeral Home Crestwood Cremation/Funeral Services",
+            "link": "https://andrettfuneralhome.com/obituary/?ob-id=2930&obit=Lanny+Flaherty",
+            "snippet": "Lanny Flaherty passed away peacefully in New York City on Sunday, February 18, 2024. Born in Pontotoc, Mississippi, on July 27, 1942.",
+            "synthetic_summary": "Lanny Flaherty, born in Mississippi in 1942, moved to New York City in the 1970s. He was a versatile actor who appeared in numerous Broadway productions, films, and television shows. Some of his notable roles include performances in \"Of Mice and Men,\" \"Sweet Bird of Youth,\" \"Inherit the Wind,\" and \"Lonesome Dove.\" Flaherty also co-starred in films such as \"Blood In, Blood Out,\" \"Lonesome Dove,\" \"Miller's Crossing,\" \"Signs,\" and \"Natural Born Killers.\" He was recognized for his playwriting skills, with one of his plays, \"Showdown at the Adobe Motel,\" featuring Henry Fonda in his final live performance. Flaherty passed away in New York City on February 18, 2024, leaving behind his daughter Sara, her husband Ryosuke, twin granddaughters, and many friends who will deeply miss him.",
+            "probability": 0.6527446849598233
+        }
+    ],
+    "results": {
+        "factuality_score_per_atom": [
+            {
+                "a0": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a1": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a10": {
+                    "score": 0.927697,
+                    "support": "S"
+                }
+            },
+            {
+                "a11": {
+                    "score": 0.930674,
+                    "support": "S"
+                }
+            },
+            {
+                "a12": {
+                    "score": 0.96242,
+                    "support": "S"
+                }
+            },
+            {
+                "a13": {
+                    "score": 0.995042,
+                    "support": "S"
+                }
+            },
+            {
+                "a14": {
+                    "score": 0.96242,
+                    "support": "S"
+                }
+            },
+            {
+                "a15": {
+                    "score": 0.96242,
+                    "support": "S"
+                }
+            },
+            {
+                "a16": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a17": {
+                    "score": 0.999949,
+                    "support": "S"
+                }
+            },
+            {
+                "a18": {
+                    "score": 0.999997,
+                    "support": "S"
+                }
+            },
+            {
+                "a19": {
+                    "score": 0.999354,
+                    "support": "S"
+                }
+            },
+            {
+                "a2": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a20": {
+                    "score": 0.972747,
+                    "support": "S"
+                }
+            },
+            {
+                "a3": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a4": {
+                    "score": 0.96242,
+                    "support": "S"
+                }
+            },
+            {
+                "a5": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            },
+            {
+                "a6": {
+                    "score": 0.999885,
+                    "support": "S"
+                }
+            },
+            {
+                "a7": {
+                    "score": 0.079761,
+                    "support": "NS"
+                }
+            },
+            {
+                "a8": {
+                    "score": 0.5,
+                    "support": "NS"
+                }
+            },
+            {
+                "a9": {
+                    "score": 1.0,
+                    "support": "S"
+                }
+            }
+        ],
+        "factuality_score": 0.9047619047619048,
+        "recall_k": 1.0,
+        "f1_k": 0.9500000000000001,
+        "num_atoms": 21,
+        "num_contexts": 39,
+        "num_true_atoms": 19,
+        "num_false_atoms": 2,
+        "num_uniform_atoms": 1,
+        "entropy": 0.8648611623636998,
+        "norm_entropy": 3.2995111932560417,
+        "avg_entropy": 0.04118386487446189,
+        "avg_norm_entropy": 0.15711958063124007,
+        "avg_prob": 0.9168942380952381,
+        "avg_logprob": -0.16930501241671717,
+        "avg_explogprob": 0.8442513569638984,
+        "marginals": [
+            {
+                "variable": "a0",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a1",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a10",
+                "probabilities": [
+                    0.072303,
+                    0.927697
+                ]
+            },
+            {
+                "variable": "a11",
+                "probabilities": [
+                    0.069326,
+                    0.930674
+                ]
+            },
+            {
+                "variable": "a12",
+                "probabilities": [
+                    0.03758,
+                    0.96242
+                ]
+            },
+            {
+                "variable": "a13",
+                "probabilities": [
+                    0.004958,
+                    0.995042
+                ]
+            },
+            {
+                "variable": "a14",
+                "probabilities": [
+                    0.03758,
+                    0.96242
+                ]
+            },
+            {
+                "variable": "a15",
+                "probabilities": [
+                    0.03758,
+                    0.96242
+                ]
+            },
+            {
+                "variable": "a16",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a17",
+                "probabilities": [
+                    5.1e-05,
+                    0.999949
+                ]
+            },
+            {
+                "variable": "a18",
+                "probabilities": [
+                    3e-06,
+                    0.999997
+                ]
+            },
+            {
+                "variable": "a19",
+                "probabilities": [
+                    0.000646,
+                    0.999354
+                ]
+            },
+            {
+                "variable": "a2",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a20",
+                "probabilities": [
+                    0.027253,
+                    0.972747
+                ]
+            },
+            {
+                "variable": "a3",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a4",
+                "probabilities": [
+                    0.03758,
+                    0.96242
+                ]
+            },
+            {
+                "variable": "a5",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "variable": "a6",
+                "probabilities": [
+                    0.000115,
+                    0.999885
+                ]
+            },
+            {
+                "variable": "a7",
+                "probabilities": [
+                    0.920239,
+                    0.079761
+                ]
+            },
+            {
+                "variable": "a8",
+                "probabilities": [
+                    0.5,
+                    0.5
+                ]
+            },
+            {
+                "variable": "a9",
+                "probabilities": [
+                    0.0,
+                    1.0
+                ]
+            }
+        ],
+        "predictions": {
+            "a0": "S",
+            "a1": "S",
+            "a10": "S",
+            "a11": "S",
+            "a12": "S",
+            "a13": "S",
+            "a14": "S",
+            "a15": "S",
+            "a16": "S",
+            "a17": "S",
+            "a18": "S",
+            "a19": "S",
+            "a2": "S",
+            "a20": "S",
+            "a3": "S",
+            "a4": "S",
+            "a5": "S",
+            "a6": "S",
+            "a7": "NS",
+            "a8": "NS",
+            "a9": "S"
+        },
+        "topic": "Lanny Flaherty",
+        "query": "Tell me a biography of Lanny Flaherty",
+        "response": "Lanny Flaherty is an American actor born on December 18, 1949, in Pensacola, Florida. He has appeared in numerous films, television shows, and theater productions throughout his career, which began in the late 1970s. Some of his notable film credits include \"King of New York,\" \"The Abyss,\" \"Natural Born Killers,\" \"The Game,\" and \"The Straight Story.\" On television, he has appeared in shows such as \"Law & Order,\" \"The Sopranos,\" \"Boardwalk Empire,\" and \"The Leftovers.\" Flaherty has also worked extensively in theater, including productions at the Public Theater and the New York Shakespeare Festival. He is known for his distinctive looks and deep gravelly voice, which have made him a memorable character actor in the industry.",
+        "elapsed_time": 394.79162617214024
+    }
+}
