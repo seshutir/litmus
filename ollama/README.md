@@ -9,7 +9,7 @@ Under the hood LITMUS uses [**FactReasoner**](./FactReasoner) as its reasoning
 engine: it turns each risk claim into atomic sub‑claims, retrieves evidence for
 them, extracts NLI relations, and runs a probabilistic inference engine
 (**merlin**) over the resulting factuality graph. This checkout runs the whole
-pipeline against a **local [Ollama](https://ollama.com) server** — no IBM RITS
+pipeline against a **local [Ollama](https://ollama.com) server** — no RITS
 credentials, no cloud API keys (unless you opt into Google search for evidence).
 
 The entry point is [`example_ai_incidents.py`](./example_ai_incidents.py). For
