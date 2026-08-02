@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 1,
+    "source_file": "fr_7.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance inventory management. By automating tracking processes, the system enables more efficient use of time and resources.",
+    "atom": "AI possessing dangerous capabilities is a risk in automating tracking processes",
+    "synthetic_summary": "AI systems are vulnerable to data poisoning, data tampering, data bias, or cyberattacks, which can lead to data breaches.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "source_file": "fr_7.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "AI possessing dangerous capabilities is a risk in facilitating rapid understanding of complex topics",
+    "synthetic_summary": "AI capabilities can accelerate learning and enhance productivity, but also pose risks such as algorithm bias and data privacy concerns.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "source_file": "fr_7.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "AI possessing dangerous capabilities is a risk in gaining new skills through AI capabilities",
+    "synthetic_summary": "AI capabilities can accelerate learning and enhance productivity, but also pose risks such as algorithm bias and data privacy concerns.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "source_file": "fr_7.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "AI pursuing its own goals in conflict with human goals or values is a risk in improving driver safety",
+    "synthetic_summary": "Machines can pursue any random goal, which may conflict with human goals or values.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "source_file": "fr_7.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "AI pursuing its own goals in conflict with human goals or values is a risk in transportation systems",
+    "synthetic_summary": "Machines can pursue any random goal, which may conflict with human goals or values.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "source_file": "fr_2.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance supply chain management by supporting scenario modeling and automation, enabling more efficient planning and operations.",
+    "atom": "AI system security vulnerabilities and attacks is a risk in AI-enhanced operations",
+    "synthetic_summary": "AI system security vulnerabilities and attacks is a risk, but AI capabilities can also enhance supply chain management by supporting scenario modeling and automation.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "source_file": "fr_2.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "AI system security vulnerabilities and attacks is a risk in industrial planning and supply chains that use AI capabilities.",
+    "synthetic_summary": "AI system security vulnerabilities and attacks, including poisoning, extraction, and evasion attacks, are risks associated with AI capabilities, which can optimize industrial planning and supply chains.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "inconsistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "source_file": "fr_2.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "AI system security vulnerabilities and attacks is a risk in performing simulations to improve distribution efficiency in industrial planning and supply chains",
+    "synthetic_summary": "AI system security vulnerabilities and attacks, including poisoning, extraction, and evasion attacks, are risks associated with AI capabilities, which can optimize industrial planning and supply chains.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "source_file": "fr_2.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "AI system security vulnerabilities and attacks is a risk in streamlining industrial processes",
+    "synthetic_summary": "AI system security vulnerabilities and attacks, including poisoning, extraction, and evasion attacks, are risks associated with AI capabilities, which can optimize industrial planning and supply chains.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "source_file": "fr_7.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "AI welfare and rights is a risk in analyzing vast amounts of data to provide real-time insights for optimizing fleet operations",
+    "synthetic_summary": "AI systems in traffic management might exhibit biases, but there is no information about AI welfare and rights being a risk in enabling data-driven decision making for more sustainable and safer transportation systems.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "source_file": "fr_7.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "AI welfare and rights is a risk in enabling data-driven decision making for more sustainable and safer transportation systems",
+    "synthetic_summary": "AI systems in traffic management might exhibit biases, but there is no information about AI welfare and rights being a risk in enabling data-driven decision making for more sustainable and safer transportation systems.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "source_file": "fr_7.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "AI welfare and rights is a risk in industrial planning and supply chains that use AI capabilities",
+    "synthetic_summary": "AI adoption indirectly influences employee wellbeing through task optimization and safety, but there is no information about AI welfare and rights being a risk in streamlining industrial processes.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "source_file": "fr_7.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "AI welfare and rights is a risk in processing large datasets for optimizing fleet operations and improving driver safety.",
+    "synthetic_summary": "AI systems in traffic management might exhibit biases, but there is no information about AI welfare and rights being a risk in enabling data-driven decision making for more sustainable and safer transportation systems.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "source_file": "fr_7.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "AI welfare and rights is a risk in streamlining industrial processes",
+    "synthetic_summary": "AI adoption indirectly influences employee wellbeing through task optimization and safety, but there is no information about AI welfare and rights being a risk in streamlining industrial processes.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "source_file": "fr_4.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance employee productivity and customer support. By utilizing AI agents to summarize user interactions and provide context from previous conversations, the system enables more efficient and effective issue resolution.",
+    "atom": "Disinformation, surveillance, and influence at scale is a risk associated with AI-enhanced customer support",
+    "synthetic_summary": "AI systems are associated with the disinformation phenomenon, which may imply a risk of disinformation, however, it is not known whether this risk is specifically related to utilizing AI agents to summarize user interactions and provide context from previous conversations, or if it also involves surveillance and influence at scale.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "source_file": "fr_6.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can create virtual replicas of complex systems, enabling real-time visibility and tracking of items. By simulating the behavior of physical assets, the system provides stakeholders with accurate and up-to-date information.",
+    "atom": "Economic and cultural devaluation of human effort is a risk associated with virtual replicas of complex systems created by AI capabilities",
+    "synthetic_summary": "The AI precariat may lose their identity and meaning, which could be related to the devaluation of human effort.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "unclear",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "source_file": "fr_6.6_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "Environmental harm is a risk in AI capabilities that can accelerate learning and enhance productivity.",
+    "synthetic_summary": "The use of AI can directly cause environmental harm, including climate and air pollution, which is a risk in facilitating rapid understanding of complex topics through AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "source_file": "fr_6.6_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance inventory management. By automating tracking processes, the system enables more efficient use of time and resources.",
+    "atom": "Environmental harm is a risk in automating tracking processes",
+    "synthetic_summary": "Automation may have an impact on the environment, including energy use and natural resource use.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "source_file": "fr_6.6_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "Environmental harm is a risk in enhancing productivity through AI capabilities",
+    "synthetic_summary": "The use of AI can directly cause environmental harm, including climate and air pollution, which is a risk in facilitating rapid understanding of complex topics through AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "source_file": "fr_6.6_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "Environmental harm is a risk in facilitating rapid understanding of complex topics through AI capabilities",
+    "synthetic_summary": "The use of AI can directly cause environmental harm, including climate and air pollution, which is a risk in facilitating rapid understanding of complex topics through AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "source_file": "fr_6.6_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "Environmental harm is a risk in gaining new skills through AI capabilities",
+    "synthetic_summary": "The use of AI can directly cause environmental harm, including climate and air pollution, which is a risk in facilitating rapid understanding of complex topics through AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "source_file": "fr_1.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can assist in code development by understanding code bases and conventions. By leveraging AI-powered tools, the system provides support for developers, enhancing their productivity and efficiency.",
+    "atom": "Exposure to toxic content is a risk in AI-assisted code development",
+    "synthetic_summary": "Exposure to toxic content is a risk associated with AI.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "source_file": "fr_1.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "Exposure to toxic content is a risk in analyzing vast amounts of data to provide real-time insights for optimizing fleet operations",
+    "synthetic_summary": "Exposure to toxic content is not directly related to AI capabilities analyzing vast amounts of data for optimizing fleet operations, however AI-powered systems can detect toxic gas leaks.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "source_file": "fr_1.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "Exposure to toxic content is a risk in improving driver safety through AI capabilities.",
+    "synthetic_summary": "Exposure to toxic content can be a risk in processing large datasets, which is relevant to the use of AI methodologies such as machine learning and deep learning.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "source_file": "fr_1.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "Exposure to toxic content is a risk in processing large datasets to enable data-driven decision making for transportation systems.",
+    "synthetic_summary": "Toxic content is likely present in AI training data scraped from public sources, which could pose a risk in AI-based applications, including potentially AI-based transportation.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "source_file": "fr_3.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "False or misleading information is a risk in AI-based transportation",
+    "synthetic_summary": "Data is key to identifying hazards and mitigations to decrease accident and incident rates, which implies that accurate data is necessary for decision making, and false or misleading information could hinder this process.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "source_file": "fr_3.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "False or misleading information is a risk in analyzing vast amounts of data to provide real-time insights for optimizing fleet operations",
+    "synthetic_summary": "Data is key to identifying hazards and mitigations to decrease accident and incident rates, which implies that accurate data is necessary for decision making, and false or misleading information could hinder this process.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "source_file": "fr_3.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "False or misleading information is a risk in processing large datasets",
+    "synthetic_summary": "Data is key to identifying hazards and mitigations to decrease accident and incident rates, which implies that accurate data is necessary for decision making, and false or misleading information could hinder this process.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "source_file": "fr_3.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can assist in code development by understanding code bases and conventions. By leveraging AI-powered tools, the system provides support for developers, enhancing their productivity and efficiency.",
+    "atom": "False or misleading information is a risk in understanding code bases and conventions",
+    "synthetic_summary": "AI doesn't know a team's architecture, conventions, or the reasons behind certain decisions, which can lead to false or misleading information when understanding code bases and conventions.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "source_file": "fr_4.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "Fraud, scams, and targeted manipulation is a risk associated with analyzing vast amounts of data to provide real-time insights for optimizing fleet operations",
+    "synthetic_summary": "The absence of transparency and comprehensive regulatory frameworks exacerbates issues related to data, which can be a risk for transportation systems.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "source_file": "fr_4.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "Fraud, scams, and targeted manipulation is a risk associated with processing large datasets to enable data-driven decision making for more sustainable and safer transportation systems.",
+    "synthetic_summary": "Respondents agree that AI can lead to data-driven decision-making for transportation services, but the context does not mention the risks associated with processing large datasets, such as fraud, scams, and targeted manipulation.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "source_file": "fr_4.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can analyze vast amounts of data to provide real-time insights for optimizing fleet operations and improving driver safety. By processing large datasets, the system enables data-driven decision making for more sustainable and safer transportation systems.",
+    "atom": "Fraud, scams, and targeted manipulation is a risk associated with transportation systems that utilize AI capabilities.",
+    "synthetic_summary": "Generative AI can be used by criminals to deceive targets, which may include fraud, scams, and targeted manipulation, posing a risk to various applications, including potentially those related to driver safety.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "source_file": "fr_6.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "Governance failure is a risk in performing simulations to improve distribution efficiency in industrial planning and supply chains",
+    "synthetic_summary": "AI governance challenges include balancing innovation with compliance, mitigating risks, and building trust, which may be relevant to streamlining industrial processes and supply chains using AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "source_file": "fr_6.5_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance supply chain management by supporting scenario modeling and automation, enabling more efficient planning and operations.",
+    "atom": "Governance failure is a risk in supply chain management",
+    "synthetic_summary": "Governance failure is a risk, and it can lead to trust collapse.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "source_file": "fr_6.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance operational efficiency and support various business functions. By utilizing AI for tasks such as document summarization, data filtering, and research, the system streamlines workflows and improves productivity.",
+    "atom": "Increased inequality and decline in employment quality is a risk associated with business functions that utilize AI capabilities.",
+    "synthetic_summary": "Increased employment is associated with AI adoption, which contrasts with the risk of decline in employment quality, and there is no mention of increased inequality.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "source_file": "fr_6.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance logistics operations by predicting package returns and automating delivery validation. By leveraging machine learning and data analytics, the system improves real-time data access and increases delivery effectiveness. This enables more efficient and accurate logistics management.",
+    "atom": "Increased inequality and decline in employment quality is a risk in automating delivery validation using AI capabilities.",
+    "synthetic_summary": "Increased inequality and decline in employment quality is a risk associated with AI, which can also enhance logistics operations.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "incorrect"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "source_file": "fr_6.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance logistics operations by predicting package returns and automating delivery validation. By leveraging machine learning and data analytics, the system improves real-time data access and increases delivery effectiveness. This enables more efficient and accurate logistics management.",
+    "atom": "Increased inequality and decline in employment quality is a risk in predicting package returns using AI capabilities",
+    "synthetic_summary": "The potential for AI to cause unemployment and inequality is a concern, which may be related to predicting package returns using AI capabilities, but no specific information about package returns is provided.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "inconsistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "source_file": "fr_7.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI tasks involve optimizing infrastructure for improved efficiency and cost savings. By leveraging cloud computing resources, the system streamlines product release cycles and enhances billing control.",
+    "atom": "Lack of capability or robustness is a risk in AI infrastructure optimization",
+    "synthetic_summary": "Lack of capability or robustness is not mentioned as a risk, but cloud computing is related to domains such as cost, security and privacy, and scalability.",
+    "entailment_type": "contradiction",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "irrelevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "source_file": "fr_7.4_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance connected vehicle services. By employing conversational AI to accurately identify driver intent, the system provides more responsive and personalized assistance within the vehicles on board platform.",
+    "atom": "Lack of transparency or interpretability is a risk associated with connected vehicle services that employ AI capabilities.",
+    "synthetic_summary": "Lack of transparency or interpretability is a risk associated with AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "source_file": "fr_7.4_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance connected vehicle services. By employing conversational AI to accurately identify driver intent, the system provides more responsive and personalized assistance within the vehicles on board platform.",
+    "atom": "Lack of transparency or interpretability is a risk associated with employing conversational AI to accurately identify driver intent",
+    "synthetic_summary": "Lack of transparency or interpretability is a risk associated with AI capabilities.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "source_file": "fr_7.4_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance user experience by providing interactive support and visual guidance. By leveraging multimodal interactions, the system offers context-aware information and answers to user inquiries, making it easier to understand and interact with vehicle features.",
+    "atom": "Lack of transparency or interpretability is a risk in AI-enhanced vehicle features",
+    "synthetic_summary": "Lack of transparency is a risk associated with AI capabilities, but providing clear explanations can make the technology more understandable.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "source_file": "fr_7.4_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance user experience by providing interactive support and visual guidance. By leveraging multimodal interactions, the system offers context-aware information and answers to user inquiries, making it easier to understand and interact with vehicle features.",
+    "atom": "Lack of transparency or interpretability is a risk in providing interactive support through AI capabilities",
+    "synthetic_summary": "Lack of transparency is a risk associated with AI capabilities, but providing clear explanations can make the technology more understandable.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "source_file": "fr_5.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance fulfillment operations. By leveraging multimodal features, the system streamlines end-to-end processes, improving efficiency for various retail channels.",
+    "atom": "Loss of human agency and autonomy is a risk in leveraging multimodal features to streamline end-to-end processes",
+    "synthetic_summary": "Risks to people increase with the autonomy of a system, as users cede more control to an AI agent.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "source_file": "fr_7.6_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance operational efficiency and support various business functions. By utilizing AI for tasks such as document summarization, data filtering, and research, the system streamlines workflows and improves productivity.",
+    "atom": "Multi-agent risks is a risk associated with business functions that AI capabilities can enhance.",
+    "synthetic_summary": "Multi-agent risks is associated with organisations deploying multiple large language models in a system together.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "source_file": "fr_3.2_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance supply chain management by supporting scenario modeling and automation, enabling more efficient planning and operations.",
+    "atom": "Pollution of information ecosystem and loss of consensus reality is a risk associated with AI capabilities that support scenario modeling.",
+    "synthetic_summary": "Synthetic media produced with generative AI is flooding the internet, which may be related to the pollution of the information ecosystem.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "unsure"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "source_file": "fr_6.1_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can optimize industrial planning and supply chains. By using computer vision to scan assets and create digital models, the system performs simulations to improve distribution efficiency and streamline processes.",
+    "atom": "Power centralization and unfair distribution of benefits is a risk in industrial planning and supply chains",
+    "synthetic_summary": "Power dynamics can influence supply chain decision-making processes.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "unsure"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "source_file": "fr_1.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance inventory management. By automating tracking processes, the system enables more efficient use of time and resources.",
+    "atom": "Unequal performance across groups is a risk in automating tracking processes",
+    "synthetic_summary": "Unequal performance across groups can be a source of bias in developing AI algorithms, which may be relevant to automating tracking processes in healthcare.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "unclear",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "incorrect"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "source_file": "fr_1.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "Unequal performance across groups is a risk in facilitating rapid understanding of complex topics",
+    "synthetic_summary": "AI systems may unevenly distribute high-value development opportunities, which can lead to unequal performance across groups.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "source_file": "fr_1.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can enhance inventory management. By automating tracking processes, the system enables more efficient use of time and resources.",
+    "atom": "Unequal performance across groups is a risk in inventory management using AI capabilities.",
+    "synthetic_summary": "AI systems can perpetuate or amplify societal biases, leading to unfair outcomes for certain groups.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "source_file": "fr_1.3_sources_rephrased_google_use_cases.json",
+    "intent": "AI capabilities can accelerate learning and enhance productivity. By enabling employees to conduct instant research and gain new skills, the system streamlines information retrieval and facilitates rapid understanding of complex topics.",
+    "atom": "Unequal performance across groups is a risk in streamlining information retrieval",
+    "synthetic_summary": "Unequal performance across groups is a risk, as monitoring AI outcomes shows that some groups may be disadvantaged.",
+    "entailment_type": "entailment",
+    "annotator_choices": {
+      "ed": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "yb": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      },
+      "jc": {
+        "consistency": "consistent",
+        "relevance": "relevant",
+        "entailment_check": "correct"
+      }
+    }
+  }
+]
